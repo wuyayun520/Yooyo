@@ -6,6 +6,7 @@ import 'dart:convert';
 import 'dart:math';
 import '../models/user_model.dart';
 import 'video_player_screen.dart';
+import 'subscriptions_page.dart';
 
 class DiscoverTabScreen extends StatefulWidget {
   const DiscoverTabScreen({super.key});
@@ -14,7 +15,7 @@ class DiscoverTabScreen extends StatefulWidget {
   State<DiscoverTabScreen> createState() => _DiscoverTabScreenState();
 }
 
-class _DiscoverTabScreenState extends State<DiscoverTabScreen> {
+class _DiscoverTabScreenState extends State<DiscoverTabScreen> with WidgetsBindingObserver {
   List<PostItem> _posts = [];
   List<String> _reportedPosts = []; // 存储已举报的帖子ID
   Map<String, int> _likeCounts = {}; // 存储点赞数量
@@ -22,6 +23,10 @@ class _DiscoverTabScreenState extends State<DiscoverTabScreen> {
   Map<String, List<Comment>> _postComments = {}; // 存储帖子评论
   List<String> _reportedComments = []; // 存储已举报的评论ID
   bool _isLoading = true;
+  bool _isVip = false;
+  DateTime? _vipExpiry;
+  ScrollController _scrollController = ScrollController();
+  bool _hasShownVipDialog = false; // 防止重复显示VIP弹窗
 
   // 预设评论模板
   final List<String> _commentTemplates = [
@@ -57,10 +62,50 @@ class _DiscoverTabScreenState extends State<DiscoverTabScreen> {
   @override
   void initState() {
     super.initState();
+    WidgetsBinding.instance.addObserver(this);
     _loadPosts();
     _loadLikeData();
     _loadCommentData();
     _loadReportedComments();
+    _loadVipStatus();
+  }
+
+  @override
+  void dispose() {
+    WidgetsBinding.instance.removeObserver(this);
+    _scrollController.dispose();
+    super.dispose();
+  }
+
+  @override
+  void didChangeAppLifecycleState(AppLifecycleState state) {
+    if (state == AppLifecycleState.resumed) {
+      // 当应用恢复时刷新VIP状态
+      _loadVipStatus();
+    }
+  }
+
+  Future<void> _loadVipStatus() async {
+    final prefs = await SharedPreferences.getInstance();
+    final isVip = prefs.getBool('isVip') ?? false;
+    final expiryStr = prefs.getString('vipExpiry');
+    final vipExpiry = expiryStr != null ? DateTime.tryParse(expiryStr) : null;
+    
+    // 检查VIP是否过期
+    bool validVip = isVip;
+    if (vipExpiry != null && DateTime.now().isAfter(vipExpiry)) {
+      validVip = false;
+      // 清除过期的VIP状态
+      await prefs.setBool('isVip', false);
+      await prefs.remove('vipExpiry');
+    }
+    
+    print('Discover VIP Status: $validVip'); // 调试信息
+    
+    setState(() {
+      _isVip = validVip;
+      _vipExpiry = vipExpiry;
+    });
   }
 
   // 加载评论数据
@@ -568,6 +613,88 @@ class _DiscoverTabScreenState extends State<DiscoverTabScreen> {
                       ),
                     ),
                   ),
+                  // VIP状态显示
+                  Positioned(
+                    top: MediaQuery.of(context).padding.top + 16,
+                    right: 16,
+                    child: GestureDetector(
+                      onTap: () async {
+                        // 点击VIP状态可以跳转到订阅页面
+                        await Navigator.push(
+                          context,
+                          MaterialPageRoute(
+                            builder: (context) => const SubscriptionsPage(),
+                          ),
+                        );
+                        // 从订阅页面返回后刷新VIP状态
+                        await _loadVipStatus();
+                      },
+                      onLongPress: () async {
+                        // 长按切换VIP状态（仅用于测试）
+                        final prefs = await SharedPreferences.getInstance();
+                        final newVipStatus = !_isVip;
+                        await prefs.setBool('isVip', newVipStatus);
+                        if (newVipStatus) {
+                          // 设置30天后过期
+                          final expiry = DateTime.now().add(const Duration(days: 30));
+                          await prefs.setString('vipExpiry', expiry.toIso8601String());
+                        }
+                        await _loadVipStatus();
+                        ScaffoldMessenger.of(context).showSnackBar(
+                          SnackBar(
+                            content: Text('VIP Status: ${newVipStatus ? "Enabled" : "Disabled"}'),
+                            backgroundColor: const Color(0xFF2A2D35),
+                          ),
+                        );
+                      },
+                      child: Container(
+                        padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
+                        decoration: BoxDecoration(
+                          color: _isVip 
+                            ? const Color(0xFFFFD700).withOpacity(0.9)
+                            : Colors.black.withOpacity(0.6),
+                          borderRadius: BorderRadius.circular(20),
+                          border: Border.all(
+                            color: _isVip 
+                              ? const Color(0xFFFFD700)
+                              : Colors.grey.withOpacity(0.5),
+                          ),
+                          boxShadow: [
+                            BoxShadow(
+                              color: _isVip 
+                                ? const Color(0xFFFFD700).withOpacity(0.3)
+                                : Colors.black.withOpacity(0.2),
+                              blurRadius: 8,
+                              offset: const Offset(0, 2),
+                            ),
+                          ],
+                        ),
+                        child: Row(
+                          mainAxisSize: MainAxisSize.min,
+                          children: [
+                            Icon(
+                              Icons.workspace_premium,
+                              color: _isVip ? Colors.white : Colors.grey[400],
+                              size: 18,
+                            ),
+                            const SizedBox(width: 6),
+                            Text(
+                              _isVip 
+                                ? (_vipExpiry != null 
+                                    ? '${_vipExpiry!.difference(DateTime.now()).inDays}d'
+                                    : 'VIP')
+                                : 'Get VIP',
+                              style: TextStyle(
+                                color: _isVip ? Colors.white : Colors.grey[400],
+                                fontSize: 14,
+                                fontWeight: FontWeight.bold,
+                              ),
+                            ),
+                          ],
+                        ),
+                      ),
+                    ),
+                  ),
                 ],
               ),
             ),
@@ -606,16 +733,31 @@ class _DiscoverTabScreenState extends State<DiscoverTabScreen> {
                           ],
                         ),
                       )
-                    : RefreshIndicator(
-                        color: const Color(0xFFE922DF),
-                        onRefresh: _loadPosts,
-                        child: ListView.builder(
-                          padding: const EdgeInsets.symmetric(vertical: 8),
-                          itemCount: filteredPosts.length,
-                          itemBuilder: (context, index) {
-                            final postItem = filteredPosts[index];
-                            return _buildPostCard(postItem);
-                          },
+                    : Listener(
+                        onPointerMove: (PointerMoveEvent event) {
+                          // 检测到滑动手势，如果不是VIP用户则显示弹窗
+                          if (!_isVip && event.delta.dy.abs() > 2 && !_hasShownVipDialog) {
+                            _hasShownVipDialog = true;
+                            _showVipRequiredDialog();
+                            // 3秒后重置标志，允许再次显示
+                            Future.delayed(const Duration(seconds: 3), () {
+                              _hasShownVipDialog = false;
+                            });
+                          }
+                        },
+                        child: RefreshIndicator(
+                          color: const Color(0xFFE922DF),
+                          onRefresh: _loadPosts,
+                          child: ListView.builder(
+                            controller: _scrollController,
+                            physics: _isVip ? null : const NeverScrollableScrollPhysics(),
+                            padding: const EdgeInsets.symmetric(vertical: 8),
+                            itemCount: filteredPosts.length,
+                            itemBuilder: (context, index) {
+                              final postItem = filteredPosts[index];
+                              return _buildPostCard(postItem);
+                            },
+                          ),
                         ),
                       ),
           ),
@@ -845,6 +987,156 @@ class _DiscoverTabScreenState extends State<DiscoverTabScreen> {
           ),
         ),
       ],
+    );
+  }
+
+  void _showVipRequiredDialog() {
+    showDialog(
+      context: context,
+      builder: (BuildContext context) {
+        return AlertDialog(
+          backgroundColor: const Color(0xFF2A2D35),
+          shape: RoundedRectangleBorder(
+            borderRadius: BorderRadius.circular(16),
+          ),
+          title: Row(
+            children: [
+              Container(
+                width: 40,
+                height: 40,
+                decoration: BoxDecoration(
+                  gradient: const LinearGradient(
+                    colors: [Color(0xFFFFD700), Color(0xFFFFA500)],
+                  ),
+                  borderRadius: BorderRadius.circular(20),
+                ),
+                child: const Icon(
+                  Icons.workspace_premium,
+                  color: Colors.white,
+                  size: 20,
+                ),
+              ),
+              const SizedBox(width: 12),
+              const Text(
+                'VIP Required',
+                style: TextStyle(
+                  color: Colors.white,
+                  fontSize: 18,
+                  fontWeight: FontWeight.bold,
+                ),
+              ),
+            ],
+          ),
+          content: Column(
+            mainAxisSize: MainAxisSize.min,
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              const Text(
+                'Unlock unlimited access to all content with VIP membership.',
+                style: TextStyle(
+                  color: Colors.white70,
+                  fontSize: 16,
+                ),
+              ),
+              const SizedBox(height: 16),
+              Container(
+                padding: const EdgeInsets.all(12),
+                decoration: BoxDecoration(
+                  color: const Color(0xFFFFD700).withOpacity(0.1),
+                  borderRadius: BorderRadius.circular(8),
+                  border: Border.all(
+                    color: const Color(0xFFFFD700).withOpacity(0.3),
+                  ),
+                ),
+                child: const Column(
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: [
+                    Row(
+                      children: [
+                        Icon(
+                          Icons.check_circle,
+                          color: Color(0xFFFFD700),
+                          size: 16,
+                        ),
+                        SizedBox(width: 8),
+                        Text(
+                          'View works infinitely',
+                          style: TextStyle(
+                            color: Color(0xFFFFD700),
+                            fontSize: 14,
+                            fontWeight: FontWeight.w600,
+                          ),
+                        ),
+                      ],
+                    ),
+                    SizedBox(height: 8),
+                    Row(
+                      children: [
+                        Icon(
+                          Icons.check_circle,
+                          color: Color(0xFFFFD700),
+                          size: 16,
+                        ),
+                        SizedBox(width: 8),
+                        Text(
+                          'Eliminate in-app advertising',
+                          style: TextStyle(
+                            color: Color(0xFFFFD700),
+                            fontSize: 14,
+                            fontWeight: FontWeight.w600,
+                          ),
+                        ),
+                      ],
+                    ),
+                  ],
+                ),
+              ),
+            ],
+          ),
+          actions: [
+            TextButton(
+              onPressed: () => Navigator.of(context).pop(),
+              child: Text(
+                'Cancel',
+                style: TextStyle(
+                  color: Colors.grey[400],
+                  fontSize: 16,
+                ),
+              ),
+            ),
+            Container(
+              decoration: BoxDecoration(
+                gradient: const LinearGradient(
+                  colors: [Color(0xFFFFD700), Color(0xFFFFA500)],
+                ),
+                borderRadius: BorderRadius.circular(8),
+              ),
+              child: TextButton(
+                onPressed: () async {
+                  Navigator.of(context).pop();
+                  // 跳转到订阅页面并等待返回
+                  await Navigator.push(
+                    context,
+                    MaterialPageRoute(
+                      builder: (context) => const SubscriptionsPage(),
+                    ),
+                  );
+                  // 从订阅页面返回后刷新VIP状态
+                  await _loadVipStatus();
+                },
+                child: const Text(
+                  'Get VIP',
+                  style: TextStyle(
+                    color: Colors.white,
+                    fontSize: 16,
+                    fontWeight: FontWeight.bold,
+                  ),
+                ),
+              ),
+            ),
+          ],
+        );
+      },
     );
   }
 }

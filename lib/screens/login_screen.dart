@@ -196,7 +196,7 @@ class _LoginScreenState extends State<LoginScreen> with TickerProviderStateMixin
                                     child: const Text(
                                       'yooyo',
                                       style: TextStyle(
-                                        fontSize: 120,
+                                        fontSize: 110,
                                         fontWeight: FontWeight.w900,
                                         color: Colors.white,
                                         letterSpacing: -4,
