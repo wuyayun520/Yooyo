@@ -1,0 +1,244 @@
+{
+    "allData": [
+        {
+            "userId": "101",
+            "name": "Emma",
+            "icon": "assets/images/people/1/pho_1.jpg",
+            "Backgroud": "assets/images/people/1/pho_2.jpg",
+            "chatBackgroud": "assets/images/people/1/pho_3.jpg",
+            "introduction": "🎵 Music festival enthusiast from NYC! Love indie rock and electronic beats. Looking for festival buddies to explore new sounds together!",
+            "signature": "Life is a playlist, make it a good one 🎧",
+            "post": [
+                {
+                    "postId": "1001",
+                    "message": "Just got my tickets for Summer Music Festival! Who else is going? Let's meet up and discover some amazing bands together! 🎸🎪",
+                    "videoUrl": "assets/images/people/1/video.mp4"
+                }
+            ]
+        },
+        {
+            "userId": "102",
+            "name": "Alex",
+            "icon": "assets/images/people/2/pho_1.jpg",
+            "Backgroud": "assets/images/people/2/pho_2.jpg",
+            "chatBackgroud": "assets/images/people/2/pho_3.jpg",
+            "introduction": "🎪 Festival photographer and music lover! Capturing the best moments and vibes. Always down for spontaneous adventures at festivals!",
+            "signature": "Collecting memories, one beat at a time 📸🎵",
+            "post": [
+                {
+                    "postId": "2001",
+                    "message": "The energy at yesterday's rave was insane! Met so many amazing people on the dance floor. This is why I love festival culture! 💃🕺",
+                    "videoUrl": "assets/images/people/2/video.mp4"
+                }
+            ]
+        },
+        {
+            "userId": "103",
+            "name": "Maya",
+            "icon": "assets/images/people/3/pho_1.jpg",
+            "Backgroud": "assets/images/people/3/pho_2.jpg",
+            "chatBackgroud": "assets/images/people/3/pho_3.jpg",
+            "introduction": "🌈 Free spirit with a passion for live music! From jazz to EDM, I love it all. Looking for festival companions who share the same energy!",
+            "signature": "Good vibes only 🌟✌️",
+            "post": [
+                {
+                    "postId": "3001",
+                    "message": "Found my new favorite band at the indie stage! There's nothing like discovering hidden gems with fellow music enthusiasts 🎤✨",
+                    "videoUrl": "assets/images/people/3/video.mp4"
+                }
+            ]
+        },
+        {
+            "userId": "104",
+            "name": "Jake",
+            "icon": "assets/images/people/4/pho_1.jpg",
+            "Backgroud": "assets/images/people/4/pho_2.jpg",
+            "chatBackgroud": "assets/images/people/4/pho_3.jpg",
+            "introduction": "🥁 Drummer and festival regular! Been to over 50 festivals worldwide. Happy to show newbies the ropes and share the best spots!",
+            "signature": "Live loud, love music 🥁🔥",
+            "post": [
+                {
+                    "postId": "4001",
+                    "message": "Pro tip: Always bring earplugs and stay hydrated! Just helped some festival newbies have the best time ever 🤝💧",
+                    "videoUrl": "assets/images/people/4/video.mp4"
+                }
+            ]
+        },
+        {
+            "userId": "105",
+            "name": "Sophia",
+            "icon": "assets/images/people/5/pho_1.jpg",
+            "Backgroud": "assets/images/people/5/pho_2.jpg",
+            "chatBackgroud": "assets/images/people/5/pho_3.jpg",
+            "introduction": "🎼 Classical musician by day, festival goer by night! Love the contrast between symphony halls and outdoor stages. Music is universal!",
+            "signature": "Harmony in diversity 🎻💫",
+            "post": [
+                {
+                    "postId": "5001",
+                    "message": "The string quartet at the acoustic tent was phenomenal! Love how festivals showcase every genre imaginable 🎻🎪",
+                    "videoUrl": "assets/images/people/5/video.mp4"
+                }
+            ]
+        },
+        {
+            "userId": "106",
+            "name": "Liam",
+            "icon": "assets/images/people/6/pho_1.jpg",
+            "Backgroud": "assets/images/people/6/pho_2.jpg",
+            "chatBackgroud": "assets/images/people/6/pho_3.jpg",
+            "introduction": "🎸 Indie rock fanatic and festival blogger! Always hunting for the next breakthrough artist. Let's explore together and share discoveries!",
+            "signature": "Music is my compass 🧭🎵",
+            "post": [
+                {
+                    "postId": "6001",
+                    "message": "Just interviewed an amazing up-and-coming band backstage! Festival connections are the best connections 🎤📝",
+                    "videoUrl": "assets/images/people/6/video.mp4"
+                }
+            ]
+        },
+        {
+            "userId": "107",
+            "name": "Zoe",
+            "icon": "assets/images/people/7/pho_1.jpg",
+            "Backgroud": "assets/images/people/7/pho_2.jpg",
+            "chatBackgroud": "assets/images/people/7/pho_3.jpg",
+            "introduction": "🌸 Art student and electronic music lover! Fascinated by the visual art at festivals. Looking for creative souls to share the experience!",
+            "signature": "Where art meets music ✨🎨",
+            "post": [
+                {
+                    "postId": "7001",
+                    "message": "The light show during the EDM set was pure art! Festival visuals keep getting more incredible each year 💡🎆",
+                    "videoUrl": "assets/images/people/7/video.mp4"
+                }
+            ]
+        },
+        {
+            "userId": "108",
+            "name": "Ryan",
+            "icon": "assets/images/people/8/pho_1.jpg",
+            "Backgroud": "assets/images/people/8/pho_2.jpg",
+            "chatBackgroud": "assets/images/people/8/pho_3.jpg",
+            "introduction": "🏕️ Festival camping expert and reggae enthusiast! Love the community spirit. Always happy to share camping tips and good vibes!",
+            "signature": "One love, one music 🌿❤️",
+            "post": [
+                {
+                    "postId": "8001",
+                    "message": "Set up camp early and made friends with all my neighbors! Festival camping creates the best communities 🏕️👥",
+                    "videoUrl": "assets/images/people/8/video.mp4"
+                }
+            ]
+        },
+        {
+            "userId": "109",
+            "name": "Luna",
+            "icon": "assets/images/people/9/pho_1.jpg",
+            "Backgroud": "assets/images/people/9/pho_2.jpg",
+            "chatBackgroud": "assets/images/people/9/pho_3.jpg",
+            "introduction": "🌙 Night owl and techno devotee! Love dancing until sunrise and connecting with fellow night creatures at festivals!",
+            "signature": "Dance until dawn 🌅💃",
+            "post": [
+                {
+                    "postId": "9001",
+                    "message": "4AM and the beat is still dropping! These are the moments that make festivals magical ⚡🌟",
+                    "videoUrl": "assets/images/people/9/video.mp4"
+                }
+            ]
+        },
+        {
+            "userId": "110",
+            "name": "Carlos",
+            "icon": "assets/images/people/10/pho_1.jpg",
+            "Backgroud": "assets/images/people/10/pho_2.jpg",
+            "chatBackgroud": "assets/images/people/10/pho_3.jpg",
+            "introduction": "🎺 Latin music producer and world music explorer! Love discovering traditional sounds at international festivals. Music knows no borders!",
+            "signature": "Ritmo en el corazón 🎺💃",
+            "post": [
+                {
+                    "postId": "10001",
+                    "message": "The Latin fusion band had everyone dancing! Music truly is a universal language that brings us together 🎺💫",
+                    "videoUrl": "assets/images/people/10/video.mp4"
+                }
+            ]
+        },
+        {
+            "userId": "111",
+            "name": "Aria",
+            "icon": "assets/images/people/11/pho_1.jpg",
+            "Backgroud": "assets/images/people/11/pho_2.jpg",
+            "chatBackgroud": "assets/images/people/11/pho_3.jpg",
+            "introduction": "🎤 Aspiring singer-songwriter and folk music lover! Festivals inspire my creativity. Looking for musical collaborators and kindred spirits!",
+            "signature": "Songs are stories waiting to be shared 📖🎵",
+            "post": [
+                {
+                    "postId": "11001",
+                    "message": "Had an impromptu jam session with fellow musicians I met today! Festival connections lead to magical collaborations 🎸🤝",
+                    "videoUrl": "assets/images/people/11/video.mp4"
+                }
+            ]
+        },
+        {
+            "userId": "112",
+            "name": "Oliver",
+            "icon": "assets/images/people/12/pho_1.jpg",
+            "Backgroud": "assets/images/people/12/pho_2.jpg",
+            "chatBackgroud": "assets/images/people/12/pho_3.jpg",
+            "introduction": "🎹 Jazz pianist and festival veteran! Love the spontaneous music that happens in between sets. Always ready for an impromptu performance!",
+            "signature": "Jazz is life, life is jazz 🎹✨",
+            "post": [
+                {
+                    "postId": "12001",
+                    "message": "Started playing piano at the food court and a crowd gathered! The magic of festivals is that music happens everywhere 🎹👥",
+                    "videoUrl": "assets/images/people/12/video.mp4"
+                }
+            ]
+        },
+        {
+            "userId": "113",
+            "name": "Ivy",
+            "icon": "assets/images/people/13/pho_1.jpg",
+            "Backgroud": "assets/images/people/13/pho_2.jpg",
+            "chatBackgroud": "assets/images/people/13/pho_3.jpg",
+            "introduction": "🌺 Yoga instructor and world music enthusiast! Love the spiritual side of festivals. Seeking mindful music lovers for conscious connections!",
+            "signature": "Music heals the soul 🧘‍♀️💚",
+            "post": [
+                {
+                    "postId": "13001",
+                    "message": "Led a sunrise yoga session to live acoustic music - pure bliss! Festivals nourish both body and soul 🧘‍♀️🌅",
+                    "videoUrl": "assets/images/people/13/video.mp4"
+                }
+            ]
+        },
+        {
+            "userId": "114",
+            "name": "Noah",
+            "icon": "assets/images/people/14/pho_1.jpg",
+            "Backgroud": "assets/images/people/14/pho_2.jpg",
+            "chatBackgroud": "assets/images/people/14/pho_3.jpg",
+            "introduction": "🎧 DJ and electronic music producer! Love studying crowd energy and beats. Always looking for fellow music creators to vibe with!",
+            "signature": "Drop the bass, raise the vibe 🎧⚡",
+            "post": [
+                {
+                    "postId": "14001",
+                    "message": "Analyzing the crowd response to different drops - festival energy is the best teacher for a DJ! 📊🎵",
+                    "videoUrl": "assets/images/people/14/video.mp4"
+                }
+            ]
+        },
+        {
+            "userId": "115",
+            "name": "Sage",
+            "icon": "assets/images/people/15/pho_1.jpg",
+            "Backgroud": "assets/images/people/15/pho_2.jpg",
+            "chatBackgroud": "assets/images/people/15/pho_3.jpg",
+            "introduction": "🌿 Environmental activist and acoustic music lover! Passionate about sustainable festivals. Looking for eco-conscious music friends!",
+            "signature": "Protect the planet, preserve the music 🌍🎶",
+            "post": [
+                {
+                    "postId": "15001",
+                    "message": "Organized a beach cleanup after the festival! Music and nature go hand in hand - let's keep our venues beautiful 🏖️♻️",
+                    "videoUrl": "assets/images/people/15/video.mp4"
+                }
+            ]
+        }
+    ]
+}
