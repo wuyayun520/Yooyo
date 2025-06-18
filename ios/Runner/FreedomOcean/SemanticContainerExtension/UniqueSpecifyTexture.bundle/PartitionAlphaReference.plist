@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnDirection</key>
+	<string>masteractionbehavior</string>
+	<key>hyperbolicPermutation</key>
+	<string>canPopSegue</string>
+	<key>overlaynavigator</key>
+	<string>movementduringflyweight</string>
+	<key>prismaticFlex</key>
+	<string>displayBuilder</string>
+	<key>responsetag</key>
+	<string>channelHead</string>
+	<key>significantGate</key>
+	<string>iconParameter</string>
+	<key>techniqueSkewX</key>
+	<string>mountedCoordinator</string>
+</dict>
+</plist>

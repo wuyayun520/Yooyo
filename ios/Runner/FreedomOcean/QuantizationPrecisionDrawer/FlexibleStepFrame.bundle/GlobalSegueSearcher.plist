@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controlleranalogy</key>
+	<string>receivervalidation</string>
+	<key>difficultAppBar</key>
+	<string>euclideanTaxonomy</string>
+	<key>ignoredMap</key>
+	<string>factorystate</string>
+	<key>substantialChecklist</key>
+	<string>shouldLayoutRichText</string>
+	<key>visibleMaster</key>
+	<string>endCharacter</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedQueue</key>
+	<string>canFinishAlert</string>
+	<key>densemultiplication</key>
+	<string>advancedNode</string>
+	<key>immediateDetector</key>
+	<string>shouldTransformDelegate</string>
+	<key>intuitiveDescent</key>
+	<string>declarativeProcessor</string>
+	<key>retainedScreen</key>
+	<string>interpolateLayout</string>
+	<key>robustGrayscale</key>
+	<string>shearInterface</string>
+	<key>skirtBehavior</key>
+	<string>freeQueue</string>
+	<key>sophisticatedDistinction</key>
+	<string>ephemeralReliability</string>
+</dict>
+</plist>

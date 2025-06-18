@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fixedCheckbox</key>
+	<string>radiusKind</string>
+	<key>graphicorigin</key>
+	<string>finishMargin</string>
+	<key>independentCaption</key>
+	<string>techniquePosition</string>
+	<key>rapidListener</key>
+	<string>ascentRight</string>
+	<key>resiliencecenter</key>
+	<string>protocolStage</string>
+	<key>streamlinechallenge</key>
+	<string>cupertinoScaffold</string>
+	<key>transitionlayerdepth</key>
+	<string>sessioninsidevariable</string>
+</dict>
+</plist>

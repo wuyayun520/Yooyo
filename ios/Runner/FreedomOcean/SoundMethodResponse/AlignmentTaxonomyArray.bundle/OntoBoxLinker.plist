@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertInterval</key>
+	<string>dropdownbuttonLocation</string>
+	<key>deferredAxis</key>
+	<string>profileSubscription</string>
+	<key>largeGem</key>
+	<string>shouldUnbindSwitch</string>
+	<key>parallelBox</key>
+	<string>iterativeheapappearance</string>
+	<key>parallelflex</key>
+	<string>quantizationHandler</string>
+	<key>permissivebutton</key>
+	<string>setstateStateless</string>
+	<key>protectedrecursion</key>
+	<string>smallReducer</string>
+	<key>shouldNotifySignature</key>
+	<string>statelessRecursion</string>
+	<key>switchspacing</key>
+	<string>dropoutDuration</string>
+</dict>
+</plist>

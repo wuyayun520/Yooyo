@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveWorkflow</key>
+	<string>processConsumer</string>
+	<key>defaultGem</key>
+	<string>positionedValue</string>
+	<key>flexibleReliability</key>
+	<string>streamCupertino</string>
+	<key>normalChannel</key>
+	<string>animateproject</string>
+	<key>pivotalSchema</key>
+	<string>dropdownbuttonBorder</string>
+	<key>prevPainter</key>
+	<string>customizedSample</string>
+	<key>specifyCycle</key>
+	<string>imperativeSize</string>
+</dict>
+</plist>

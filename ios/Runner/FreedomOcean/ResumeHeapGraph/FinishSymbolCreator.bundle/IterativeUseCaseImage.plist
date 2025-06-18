@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disparateMaterial</key>
+	<string>showExtension</string>
+	<key>dynamicResilience</key>
+	<string>canDismissCursor</string>
+	<key>entitylayerflags</key>
+	<string>adaptivetransitionstatus</string>
+	<key>lostTaxonomy</key>
+	<string>swiftStructure</string>
+	<key>reusableItem</key>
+	<string>decodeAllocator</string>
+	<key>shouldInflateGram</key>
+	<string>firstScope</string>
+	<key>synchronousEmitter</key>
+	<string>routematerializer</string>
+</dict>
+</plist>

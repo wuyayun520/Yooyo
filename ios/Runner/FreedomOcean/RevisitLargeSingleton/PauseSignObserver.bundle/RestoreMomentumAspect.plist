@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ephemeralRectangle</key>
+	<string>readAwait</string>
+	<key>keeplayer</key>
+	<string>mediaquerymanager</string>
+	<key>mediumMetadata</key>
+	<string>intermediateBinary</string>
+	<key>observermenu</key>
+	<string>canBuildBitrate</string>
+	<key>reactiveProtocol</key>
+	<string>arithmeticBuilder</string>
+	<key>shouldInflatePrecision</key>
+	<string>pointEdge</string>
+	<key>stackviabuffer</key>
+	<string>secondInteractor</string>
+</dict>
+</plist>

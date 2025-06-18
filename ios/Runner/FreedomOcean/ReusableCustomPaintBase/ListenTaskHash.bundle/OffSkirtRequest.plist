@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerQuaternion</key>
+	<string>allocatorSingleton</string>
+	<key>inheritedClipper</key>
+	<string>graphicreducer</string>
+	<key>metadataHead</key>
+	<string>vectortype</string>
+	<key>progressbarvisible</key>
+	<string>listenOperation</string>
+	<key>seguecompleter</key>
+	<string>initializeEntity</string>
+	<key>shouldAttachMultiplication</key>
+	<string>nativeZone</string>
+	<key>shouldPushResource</key>
+	<string>finderSkewY</string>
+</dict>
+</plist>

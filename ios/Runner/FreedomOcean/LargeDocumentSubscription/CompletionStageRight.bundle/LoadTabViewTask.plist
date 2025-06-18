@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>isolateright</key>
+	<string>responsestyle</string>
+	<key>semanticStoryboard</key>
+	<string>canBuildAppBar</string>
+	<key>shouldattachaccessory</key>
+	<string>storelikechain</string>
+	<key>symmetricHero</key>
+	<string>retainSize</string>
+	<key>traingrayscale</key>
+	<string>infrastructureOpacity</string>
+	<key>trajectoryCenter</key>
+	<string>zoneTask</string>
+	<key>unaryInset</key>
+	<string>canRestartCosine</string>
+	<key>wrapperHue</key>
+	<string>persistentChannel</string>
+</dict>
+</plist>

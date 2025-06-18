@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorScale</key>
+	<string>pivotalcurve</string>
+	<key>gestureBound</key>
+	<string>shouldBindScreen</string>
+	<key>menuinstyle</key>
+	<string>tweenBuffer</string>
+	<key>nextShape</key>
+	<string>displayChannel</string>
+	<key>prismaticSemantics</key>
+	<string>eraseVector</string>
+	<key>responderDirection</key>
+	<string>unbindCertificate</string>
+	<key>shouldobservetextfield</key>
+	<string>gesturedetectorSingleton</string>
+</dict>
+</plist>

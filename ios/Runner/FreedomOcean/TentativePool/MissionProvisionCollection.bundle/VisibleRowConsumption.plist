@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetEdge</key>
+	<string>sequentialEquivalent</string>
+	<key>autoGrayscale</key>
+	<string>desktopExponent</string>
+	<key>imageinteractor</key>
+	<string>popAppBar</string>
+	<key>pageviewoffset</key>
+	<string>significantAudio</string>
+	<key>particleVisibility</key>
+	<string>promiseSize</string>
+	<key>resourceofcomposite</key>
+	<string>unbindImage</string>
+	<key>sequentialBinder</key>
+	<string>deferredInteger</string>
+	<key>shouldMountedCupertino</key>
+	<string>curveMediator</string>
+	<key>unactivatedPet</key>
+	<string>shouldDeserializeCoordinator</string>
+	<key>visibleInteraction</key>
+	<string>repositorybesidelayer</string>
+</dict>
+</plist>

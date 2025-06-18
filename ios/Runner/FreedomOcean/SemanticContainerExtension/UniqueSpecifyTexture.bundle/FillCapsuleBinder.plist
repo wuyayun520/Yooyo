@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveBrush</key>
+	<string>fragmentbandwidth</string>
+	<key>finishslider</key>
+	<string>navigationVisible</string>
+	<key>granularThreshold</key>
+	<string>methodInteraction</string>
+	<key>respectiveTransformer</key>
+	<string>flexibleVector</string>
+	<key>responsivesignatureforce</key>
+	<string>searcherDirection</string>
+	<key>touchindex</key>
+	<string>precisionPosition</string>
+	<key>unactivatedbutton</key>
+	<string>shouldprocessscreen</string>
+</dict>
+</plist>

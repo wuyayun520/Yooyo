@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentEvolution</key>
+	<string>canRebuildCard</string>
+	<key>descriptorinsidestage</key>
+	<string>invisibleElement</string>
+	<key>heroFlags</key>
+	<string>listenChallenge</string>
+	<key>independentDecoration</key>
+	<string>canPopPet</string>
+	<key>shouldReplaceSegment</key>
+	<string>mainReliability</string>
+</dict>
+</plist>

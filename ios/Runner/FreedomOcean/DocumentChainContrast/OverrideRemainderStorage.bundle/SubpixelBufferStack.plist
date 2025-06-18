@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledPlate</key>
+	<string>featuredelivery</string>
+	<key>operationcontrast</key>
+	<string>arithmeticmerger</string>
+	<key>shaderinterval</key>
+	<string>axisStrategy</string>
+	<key>subscriberPadding</key>
+	<string>disconnectGrid</string>
+	<key>switchparamstyle</key>
+	<string>scopeState</string>
+	<key>tensorTrigger</key>
+	<string>entropyValue</string>
+</dict>
+</plist>

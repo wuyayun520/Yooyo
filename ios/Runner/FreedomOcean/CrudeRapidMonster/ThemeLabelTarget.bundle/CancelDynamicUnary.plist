@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedScope</key>
+	<string>objectCenter</string>
+	<key>customizedinteraction</key>
+	<string>difficultScreen</string>
+	<key>dropdownbuttonBehavior</key>
+	<string>canResumeObserver</string>
+	<key>mobileIsolate</key>
+	<string>shouldCacheAlert</string>
+	<key>navigatefuture</key>
+	<string>adaptiveSpot</string>
+	<key>primaryAppBar</key>
+	<string>deferredPager</string>
+	<key>shouldPaintSample</key>
+	<string>iconDecorator</string>
+	<key>shouldTrainPromise</key>
+	<string>refreshLayer</string>
+	<key>storyboardTheme</key>
+	<string>canObserveCustomPaint</string>
+</dict>
+</plist>

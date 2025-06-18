@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessiblebuilder</key>
+	<string>canPaintButton</string>
+	<key>composableImpact</key>
+	<string>serializeSprite</string>
+	<key>immediateTransition</key>
+	<string>shouldUnmountScale</string>
+	<key>paddingversuslevel</key>
+	<string>transformMediaQuery</string>
+	<key>pausedescription</key>
+	<string>permutationPressure</string>
+	<key>responseduringfacade</key>
+	<string>notifierDensity</string>
+</dict>
+</plist>

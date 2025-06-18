@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inheritedEvent</key>
+	<string>nextMonster</string>
+	<key>reduceroutsideshape</key>
+	<string>filterOrientation</string>
+	<key>remainderSpacing</key>
+	<string>buttonlevelbound</string>
+	<key>shouldLayoutProject</key>
+	<string>shouldValidateBinary</string>
+	<key>skipsink</key>
+	<string>decodeProtocol</string>
+	<key>transformerBound</key>
+	<string>rectifyAwait</string>
+</dict>
+</plist>

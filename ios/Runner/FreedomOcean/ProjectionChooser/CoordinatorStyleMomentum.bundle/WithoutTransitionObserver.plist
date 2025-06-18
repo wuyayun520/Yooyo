@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>easyHistogram</key>
+	<string>nativeVector</string>
+	<key>onappbartap</key>
+	<string>standaloneWrapper</string>
+	<key>texturestyle</key>
+	<string>webArithmetic</string>
+	<key>uniqueGridView</key>
+	<string>symmetricNotification</string>
+</dict>
+</plist>

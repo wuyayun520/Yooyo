@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarFeedback</key>
+	<string>intensityformat</string>
+	<key>aspectconsumer</key>
+	<string>shouldPauseMedia</string>
+	<key>concretetext</key>
+	<string>descriptorAdapter</string>
+	<key>scaffoldSkewY</key>
+	<string>retainchannel</string>
+	<key>shouldFormatNotifier</key>
+	<string>shearDescription</string>
+	<key>shouldendsensor</key>
+	<string>navigatorFramework</string>
+	<key>synchronousInfo</key>
+	<string>fragmentparaminterval</string>
+</dict>
+</plist>

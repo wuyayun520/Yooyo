@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>acceleratesegue</key>
+	<string>sequentialMovement</string>
+	<key>adaptiveMechanism</key>
+	<string>shouldRebuildBuilder</string>
+	<key>constructconvolution</key>
+	<string>canPopBuilder</string>
+	<key>entropyStyle</key>
+	<string>setupsine</string>
+	<key>intermediateBinder</key>
+	<string>brushSkewX</string>
+	<key>obtaingraph</key>
+	<string>visibleThroughput</string>
+	<key>rapidProgressBar</key>
+	<string>previewvariablecenter</string>
+	<key>selectedNib</key>
+	<string>basicVertex</string>
+	<key>shouldProcessModal</key>
+	<string>subscribeconvolution</string>
+	<key>utilOrientation</key>
+	<string>persistGesture</string>
+</dict>
+</plist>

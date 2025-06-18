@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectioncombiner</key>
+	<string>variantPressure</string>
+	<key>deserializechannels</key>
+	<string>quitDecoration</string>
+	<key>rapidResponder</key>
+	<string>loadPrecision</string>
+	<key>shouldDisposePlayback</key>
+	<string>unscheduleAwait</string>
+	<key>titletension</key>
+	<string>actionFlyweight</string>
+</dict>
+</plist>

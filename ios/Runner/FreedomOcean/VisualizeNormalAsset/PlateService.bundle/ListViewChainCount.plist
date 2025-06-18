@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorstatus</key>
+	<string>copyChannel</string>
+	<key>disconnectcallback</key>
+	<string>asynchronousInfo</string>
+	<key>integrityOrigin</key>
+	<string>greatQueue</string>
+	<key>layouttop</key>
+	<string>attachPresenter</string>
+	<key>missedFormat</key>
+	<string>textureProcess</string>
+	<key>nativeConsumer</key>
+	<string>accessibleController</string>
+	<key>presentmobile</key>
+	<string>hyperbolicAspect</string>
+	<key>priorityOrientation</key>
+	<string>gridviewScale</string>
+	<key>shouldattachinteger</key>
+	<string>skipanimation</string>
+</dict>
+</plist>

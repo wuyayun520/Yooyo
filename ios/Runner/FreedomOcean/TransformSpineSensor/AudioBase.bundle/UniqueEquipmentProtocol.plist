@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decodemedia</key>
+	<string>shouldSkipGridView</string>
+	<key>petpolygon</key>
+	<string>shouldUnmountWidget</string>
+	<key>prevSignature</key>
+	<string>shouldPrepareLoss</string>
+	<key>previewRight</key>
+	<string>requestDecoration</string>
+	<key>reactiveCertificate</key>
+	<string>associateCoordinator</string>
+	<key>reactiveHash</key>
+	<string>moveException</string>
+	<key>shouldAttachDimension</key>
+	<string>sanitizeContainer</string>
+	<key>taxonomyOffset</key>
+	<string>resizableAnchor</string>
+</dict>
+</plist>

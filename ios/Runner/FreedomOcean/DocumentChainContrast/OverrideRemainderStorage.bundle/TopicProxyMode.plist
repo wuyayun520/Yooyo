@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buildercontrast</key>
+	<string>projectPattern</string>
+	<key>crucialmesh</key>
+	<string>hyperbolicListener</string>
+	<key>deactivateborder</key>
+	<string>criticalRoute</string>
+	<key>desktopFuture</key>
+	<string>permanentScroll</string>
+	<key>desktopbufferpressure</key>
+	<string>asynchronousTicker</string>
+	<key>smartChart</key>
+	<string>disabledTimeline</string>
+	<key>sortedCollection</key>
+	<string>shouldFormatBinary</string>
+</dict>
+</plist>

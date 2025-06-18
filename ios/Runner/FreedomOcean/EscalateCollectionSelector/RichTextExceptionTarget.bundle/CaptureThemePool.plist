@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>polygonCenter</key>
+	<string>shouldPopDelegate</string>
+	<key>quitternary</key>
+	<string>shouldEndCycle</string>
+	<key>shouldParseMember</key>
+	<string>variantSystem</string>
+	<key>shouldSerializeAlert</key>
+	<string>crudeOption</string>
+	<key>shouldvalidatescroll</key>
+	<string>scrollableTweak</string>
+	<key>stampcontrast</key>
+	<string>appendexception</string>
+	<key>substantialSkin</key>
+	<string>transitionSwitch</string>
+</dict>
+</plist>

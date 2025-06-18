@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>confidentialityMode</key>
+	<string>requestobserverflags</string>
+	<key>dedicatedsizedistance</key>
+	<string>rendermodel</string>
+	<key>euclideanChart</key>
+	<string>clipperOrigin</string>
+	<key>momentumedge</key>
+	<string>borderLevel</string>
+	<key>otherScope</key>
+	<string>persistentFragments</string>
+	<key>positionedanimation</key>
+	<string>bulletFrequency</string>
+	<key>provisionRight</key>
+	<string>independentDuration</string>
+	<key>shouldSerializeSegment</key>
+	<string>shouldProcessHero</string>
+</dict>
+</plist>

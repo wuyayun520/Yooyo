@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableTransition</key>
+	<string>animateBorder</string>
+	<key>fixedExpanded</key>
+	<string>advancedSprite</string>
+	<key>positionresponse</key>
+	<string>constraintsize</string>
+	<key>prevTentative</key>
+	<string>inheritedPreview</string>
+	<key>resultLocation</key>
+	<string>inflateSkirt</string>
+	<key>signallocator</key>
+	<string>modalWork</string>
+	<key>webnib</key>
+	<string>immediateMusic</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseError</key>
+	<string>validateActivity</string>
+	<key>localIntensity</key>
+	<string>subscribeRichText</string>
+	<key>lostalert</key>
+	<string>canTransitionTextField</string>
+	<key>relationalImage</key>
+	<string>resumeCosine</string>
+	<key>sessionsinceprototype</key>
+	<string>usedInterface</string>
+	<key>shouldDisposeCache</key>
+	<string>handleCoordinator</string>
+</dict>
+</plist>

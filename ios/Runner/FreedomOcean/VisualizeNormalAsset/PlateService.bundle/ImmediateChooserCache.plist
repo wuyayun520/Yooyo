@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cursorcoord</key>
+	<string>transformPosition</string>
+	<key>draggableevolution</key>
+	<string>shouldParseCheckbox</string>
+	<key>functionalResult</key>
+	<string>connectSizedBox</string>
+	<key>observerLocation</key>
+	<string>dispatchStateful</string>
+	<key>relationalHandler</key>
+	<string>layerProxy</string>
+	<key>shouldBindCollection</key>
+	<string>invisiblePublisher</string>
+	<key>shouldTransformShader</key>
+	<string>readGraph</string>
+</dict>
+</plist>

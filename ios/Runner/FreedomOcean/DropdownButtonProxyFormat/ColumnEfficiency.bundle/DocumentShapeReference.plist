@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarsize</key>
+	<string>canStreamConstraint</string>
+	<key>lastAlignment</key>
+	<string>canPauseShader</string>
+	<key>lazyMomentum</key>
+	<string>statefulVisibility</string>
+	<key>overrideservice</key>
+	<string>titleobserverorientation</string>
+	<key>rapidConverter</key>
+	<string>inactiveextension</string>
+	<key>sharedMedia</key>
+	<string>secondcardcontrast</string>
+	<key>stackPressure</key>
+	<string>litemobilestyle</string>
+	<key>sustainabletraversal</key>
+	<string>vectorvelocity</string>
+	<key>textfieldparticle</key>
+	<string>extensionmodule</string>
+	<key>uniqueFactory</key>
+	<string>reductionState</string>
+</dict>
+</plist>

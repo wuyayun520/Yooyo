@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>particleStatus</key>
+	<string>deflateResponse</string>
+	<key>relationalsubscriptionvalidation</key>
+	<string>canDeserializeCollection</string>
+	<key>seamlessImpact</key>
+	<string>unactivatedfuture</string>
+	<key>shaderaction</key>
+	<string>temporaryDelivery</string>
+	<key>shouldFetchChannels</key>
+	<string>canParseRoute</string>
+	<key>singletonCoord</key>
+	<string>uniformBuffer</string>
+	<key>synchronousAnimation</key>
+	<string>deserializeAlert</string>
+</dict>
+</plist>

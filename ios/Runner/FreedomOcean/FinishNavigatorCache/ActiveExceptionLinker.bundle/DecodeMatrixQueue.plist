@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationBehavior</key>
+	<string>pendingStoryboard</string>
+	<key>descriptionanalogy</key>
+	<string>gridviewMediator</string>
+	<key>ignoredStore</key>
+	<string>subscribeConstraint</string>
+	<key>mediumLayout</key>
+	<string>hashVisible</string>
+	<key>resourceDuration</key>
+	<string>explicitContainer</string>
+</dict>
+</plist>

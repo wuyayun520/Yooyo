@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoConstraint</key>
+	<string>multiplicationColor</string>
+	<key>geometricIntegration</key>
+	<string>listenBase</string>
+	<key>interactiveColor</key>
+	<string>singleTrigger</string>
+	<key>operationAcceleration</key>
+	<string>pickerStyle</string>
+	<key>persistentNib</key>
+	<string>defaultGradient</string>
+	<key>scrollableScenario</key>
+	<string>channelSkewX</string>
+	<key>scrollerColor</key>
+	<string>gramFunction</string>
+	<key>statelessResult</key>
+	<string>activeIcon</string>
+	<key>transitionmementoscale</key>
+	<string>chartinterpretertransparency</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheFrequency</key>
+	<string>synchronousColumn</string>
+	<key>customizedDisclaimer</key>
+	<string>onskinchanged</string>
+	<key>declarativeresultkind</key>
+	<string>finderStatus</string>
+	<key>elementSkewX</key>
+	<string>confidentialityFormat</string>
+	<key>reducercompositeorientation</key>
+	<string>resourceworkshape</string>
+	<key>shouldDisconnectText</key>
+	<string>computeDescription</string>
+	<key>shouldPushSubpixel</key>
+	<string>computeNavigator</string>
+</dict>
+</plist>

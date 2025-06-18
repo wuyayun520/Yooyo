@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeCupertino</key>
+	<string>storeBuilder</string>
+	<key>dedicateddelegaterotation</key>
+	<string>slashEnvironment</string>
+	<key>directModel</key>
+	<string>routeCertificate</string>
+	<key>firstUsage</key>
+	<string>sharedCubit</string>
+	<key>intermediateSkin</key>
+	<string>firstRole</string>
+	<key>lostReference</key>
+	<string>boxDepth</string>
+	<key>notifyspine</key>
+	<string>gesturedetectorrate</string>
+	<key>temporaryTolerance</key>
+	<string>modulusbeyondcontext</string>
+	<key>typicalAllocator</key>
+	<string>skinType</string>
+</dict>
+</plist>

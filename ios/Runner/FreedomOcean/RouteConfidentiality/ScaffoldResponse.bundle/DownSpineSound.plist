@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumecompleter</key>
+	<string>disparateTransition</string>
+	<key>discardedBloc</key>
+	<string>conformresponse</string>
+	<key>resilienceSaturation</key>
+	<string>routeInkWell</string>
+	<key>shouldPersistShader</key>
+	<string>referenceLevel</string>
+	<key>standalonegraphic</key>
+	<string>canResumeSine</string>
+</dict>
+</plist>

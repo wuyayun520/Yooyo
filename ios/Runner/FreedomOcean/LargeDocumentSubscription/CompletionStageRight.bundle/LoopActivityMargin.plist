@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>keepexception</key>
+	<string>canKeepScroll</string>
+	<key>mediacallback</key>
+	<string>canUnmountMultiplication</string>
+	<key>newestrange</key>
+	<string>updateTabView</string>
+	<key>prismaticBrush</key>
+	<string>mountedlayout</string>
+	<key>standaloneConverter</key>
+	<string>managerpervalue</string>
+</dict>
+</plist>

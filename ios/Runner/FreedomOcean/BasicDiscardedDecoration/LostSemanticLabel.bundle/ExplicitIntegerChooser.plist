@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>amortizationVisibility</key>
+	<string>unbindNavigation</string>
+	<key>buttonDuration</key>
+	<string>canCacheStoryboard</string>
+	<key>deployproject</key>
+	<string>flexibleChannels</string>
+	<key>fusedaudio</key>
+	<string>rowEnvironment</string>
+	<key>shouldKeepContraction</key>
+	<string>descriptionsystemfrequency</string>
+	<key>shouldNotifyCatalyst</key>
+	<string>utilInterpreter</string>
+	<key>slidernotation</key>
+	<string>buttonstrategyspacing</string>
+	<key>specifyBloc</key>
+	<string>canStopCache</string>
+	<key>tweenSaturation</key>
+	<string>shouldContinueCoordinator</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicInfrastructure</key>
+	<string>defaultText</string>
+	<key>concurrentCheckbox</key>
+	<string>enhancenavigator</string>
+	<key>savesizedbox</key>
+	<string>shouldRenderMatrix</string>
+	<key>scalabilityAppearance</key>
+	<string>canShowCaption</string>
+	<key>segmentBorder</key>
+	<string>skipAspect</string>
+	<key>shouldfinishtouch</key>
+	<string>functionalDispatcher</string>
+	<key>standaloneTicker</key>
+	<string>dropdownbuttonBrightness</string>
+	<key>subsequenttexture</key>
+	<string>defaultPadding</string>
+	<key>substantialskirt</key>
+	<string>originalOperation</string>
+	<key>zonebehavior</key>
+	<string>processCupertino</string>
+</dict>
+</plist>

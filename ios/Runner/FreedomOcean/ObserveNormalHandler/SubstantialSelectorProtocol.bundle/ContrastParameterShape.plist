@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertScale</key>
+	<string>resilientresourcetag</string>
+	<key>displayablepreviewfrequency</key>
+	<string>startProjection</string>
+	<key>ignoredOffset</key>
+	<string>shouldEmitAppBar</string>
+	<key>pageviewconverter</key>
+	<string>instructiontweak</string>
+	<key>plateskewy</key>
+	<string>canPublishProvider</string>
+	<key>rangeMomentum</key>
+	<string>loaderInset</string>
+	<key>responseTag</key>
+	<string>sliderParam</string>
+	<key>shouldPrepareExponent</key>
+	<string>transpilenode</string>
+</dict>
+</plist>

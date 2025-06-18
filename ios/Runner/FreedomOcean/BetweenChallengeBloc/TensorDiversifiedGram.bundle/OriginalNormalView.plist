@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dismisszone</key>
+	<string>shouldObserveArithmetic</string>
+	<key>featureRate</key>
+	<string>variantPosition</string>
+	<key>hardDocument</key>
+	<string>segmentreducer</string>
+	<key>intermediateSlider</key>
+	<string>layoutDensity</string>
+	<key>logawaykind</key>
+	<string>objectState</string>
+	<key>pivotalRepository</key>
+	<string>pushEvent</string>
+	<key>priorResource</key>
+	<string>specifyBullet</string>
+	<key>requiredDuration</key>
+	<string>shouldSaveCompletion</string>
+	<key>shouldUnmountAspectRatio</key>
+	<string>canFormatClipper</string>
+</dict>
+</plist>

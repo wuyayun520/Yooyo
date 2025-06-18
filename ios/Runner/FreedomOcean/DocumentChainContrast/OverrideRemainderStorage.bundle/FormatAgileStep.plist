@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileSemantics</key>
+	<string>materialMovement</string>
+	<key>dependencyPosition</key>
+	<string>resizeAction</string>
+	<key>expandedreducer</key>
+	<string>decorationduration</string>
+	<key>immutablePager</key>
+	<string>currentWorkflow</string>
+	<key>interactivegroupcenter</key>
+	<string>firstExtension</string>
+	<key>requiredRect</key>
+	<string>boxVariable</string>
+	<key>skinRotation</key>
+	<string>routerbrightness</string>
+	<key>tappableframecontrast</key>
+	<string>tappableTechnique</string>
+	<key>zoneresponse</key>
+	<string>executemomentum</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentTail</key>
+	<string>pointkindsaturation</string>
+	<key>bufferstatus</key>
+	<string>shouldTrainImage</string>
+	<key>immediateAscent</key>
+	<string>listenOffset</string>
+	<key>lazyCapacities</key>
+	<string>canTrainTable</string>
+	<key>otherTitle</key>
+	<string>subtleStroke</string>
+	<key>precisionsingletondelay</key>
+	<string>declarativeGate</string>
+	<key>shouldShowEffect</key>
+	<string>shouldEndNotification</string>
+	<key>significantSize</key>
+	<string>associatedFilter</string>
+</dict>
+</plist>

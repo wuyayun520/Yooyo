@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>granularProtocol</key>
+	<string>cardState</string>
+	<key>nextGrayscale</key>
+	<string>canPersistStack</string>
+	<key>oldState</key>
+	<string>shapeHue</string>
+	<key>shouldStartInkWell</key>
+	<string>shouldCacheAppBar</string>
+	<key>staticFilter</key>
+	<string>operationobserverdirection</string>
+</dict>
+</plist>

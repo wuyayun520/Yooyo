@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxnearshape</key>
+	<string>smartFragment</string>
+	<key>flexibleLatency</key>
+	<string>defaultequalization</string>
+	<key>inheritedStep</key>
+	<string>managerShape</string>
+	<key>modalAppearance</key>
+	<string>seekCoordinator</string>
+	<key>shouldConnectGate</key>
+	<string>recursionRight</string>
+	<key>shouldmountedscaffold</key>
+	<string>liteStack</string>
+	<key>shouldshowmargin</key>
+	<string>spotValidation</string>
+	<key>streamorientation</key>
+	<string>directRoute</string>
+	<key>timerDirection</key>
+	<string>painterstylescale</string>
+	<key>touchschema</key>
+	<string>characterresolver</string>
+</dict>
+</plist>

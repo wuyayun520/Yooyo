@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>addpreview</key>
+	<string>resolveRoute</string>
+	<key>asynchronousBullet</key>
+	<string>canFormatMap</string>
+	<key>currentChannels</key>
+	<string>anchorTheme</string>
+	<key>defaultNavigator</key>
+	<string>canCacheTheme</string>
+	<key>groupamongstate</key>
+	<string>shouldSerializeOperation</string>
+	<key>iconDepth</key>
+	<string>keepScreen</string>
+	<key>modelcolor</key>
+	<string>catalystinjection</string>
+	<key>persistentTable</key>
+	<string>animatedcontainertransformer</string>
+	<key>singlePadding</key>
+	<string>maxMedia</string>
+</dict>
+</plist>

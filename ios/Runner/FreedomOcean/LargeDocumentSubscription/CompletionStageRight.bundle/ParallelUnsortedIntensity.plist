@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicBorder</key>
+	<string>presentheap</string>
+	<key>buildermementotop</key>
+	<string>imperativeIntegrity</string>
+	<key>ephemeralstateful</key>
+	<string>deprecateTransition</string>
+	<key>seamlessDispatcher</key>
+	<string>shouldPauseScroll</string>
+	<key>secondService</key>
+	<string>characterVisitor</string>
+	<key>traversalfrequency</key>
+	<string>dimensionSkewY</string>
+</dict>
+</plist>

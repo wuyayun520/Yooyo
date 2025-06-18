@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxInset</key>
+	<string>transposeGrid</string>
+	<key>cartesianEvaluation</key>
+	<string>synchronoustextorientation</string>
+	<key>compositionstate</key>
+	<string>interactorSystem</string>
+	<key>entropyFrequency</key>
+	<string>shouldDisconnectRemainder</string>
+	<key>intuitiveradio</key>
+	<string>requestPadding</string>
+	<key>requiredGrid</key>
+	<string>subscribeView</string>
+	<key>resilientBuilder</key>
+	<string>skirttag</string>
+	<key>resizableOverlay</key>
+	<string>alertstate</string>
+	<key>sharedListView</key>
+	<string>interactiveTween</string>
+</dict>
+</plist>

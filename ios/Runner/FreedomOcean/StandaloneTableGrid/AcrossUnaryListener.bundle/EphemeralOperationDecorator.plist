@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletSize</key>
+	<string>elasticNib</string>
+	<key>largeInfo</key>
+	<string>constrainthandler</string>
+	<key>modelastask</key>
+	<string>canStartBorder</string>
+	<key>scrollerKind</key>
+	<string>basicTechnique</string>
+	<key>significantGrain</key>
+	<string>curveedge</string>
+	<key>storyboardVelocity</key>
+	<string>mainconverter</string>
+</dict>
+</plist>

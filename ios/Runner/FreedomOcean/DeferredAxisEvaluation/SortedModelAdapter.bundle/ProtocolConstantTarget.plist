@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentcontraction</key>
+	<string>observecontainer</string>
+	<key>largecontroller</key>
+	<string>pendingSegue</string>
+	<key>offsetalignment</key>
+	<string>elasticLog</string>
+	<key>rowlocalization</key>
+	<string>pointSingleton</string>
+	<key>secondStateful</key>
+	<string>listenPromise</string>
+	<key>shouldRestartMatrix</key>
+	<string>pinchableMetadata</string>
+	<key>statelessForce</key>
+	<string>currentCallback</string>
+</dict>
+</plist>

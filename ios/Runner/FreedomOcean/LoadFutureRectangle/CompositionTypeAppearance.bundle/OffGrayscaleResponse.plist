@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedOptimizer</key>
+	<string>parallelAnimatedContainer</string>
+	<key>amortizationPressure</key>
+	<string>tweenInteraction</string>
+	<key>boxshadowHead</key>
+	<string>disclaimerVisibility</string>
+	<key>defaultFragment</key>
+	<string>optionBound</string>
+	<key>enabledCombiner</key>
+	<string>canDeserializeRadio</string>
+	<key>isolatemodeinset</key>
+	<string>localizationBridge</string>
+	<key>mediaofproxy</key>
+	<string>storyboardTheme</string>
+	<key>subsequentCanvas</key>
+	<string>denseFormat</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexiblePromise</key>
+	<string>responsiveExtension</string>
+	<key>geometricCurve</key>
+	<string>gramBridge</string>
+	<key>materializertheme</key>
+	<string>currentdropdownbutton</string>
+	<key>mergerposition</key>
+	<string>cacheanimation</string>
+	<key>shouldHandleGridView</key>
+	<string>consumerHue</string>
+	<key>titleType</key>
+	<string>textureFramework</string>
+</dict>
+</plist>

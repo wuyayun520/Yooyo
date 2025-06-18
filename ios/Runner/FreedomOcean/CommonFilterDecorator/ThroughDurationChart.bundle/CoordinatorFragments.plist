@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>heapPressure</key>
+	<string>projectionvalidation</string>
+	<key>observeinstruction</key>
+	<string>eagerMetadata</string>
+	<key>persistentStep</key>
+	<string>resumeMaterial</string>
+	<key>relationalUtil</key>
+	<string>visitaxis</string>
+	<key>sharedReducer</key>
+	<string>interpolateLocalization</string>
+	<key>shouldLoadScaffold</key>
+	<string>prismaticEntity</string>
+	<key>shouldStopReduction</key>
+	<string>shouldpersistmusic</string>
+	<key>volumeName</key>
+	<string>presenterDensity</string>
+</dict>
+</plist>

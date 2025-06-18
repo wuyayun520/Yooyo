@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackBehavior</key>
+	<string>animatedelegate</string>
+	<key>listviewDensity</key>
+	<string>musictemplebrightness</string>
+	<key>newestAsync</key>
+	<string>comprehensiveNavigator</string>
+	<key>normalScene</key>
+	<string>sceneScale</string>
+	<key>onmaptap</key>
+	<string>tabbarTail</string>
+	<key>pinchableevolution</key>
+	<string>flexibleTime</string>
+	<key>similarCapacities</key>
+	<string>singleTime</string>
+	<key>tabviewValidation</key>
+	<string>staticPoint</string>
+	<key>temporaryTangent</key>
+	<string>rectangleSaturation</string>
+</dict>
+</plist>

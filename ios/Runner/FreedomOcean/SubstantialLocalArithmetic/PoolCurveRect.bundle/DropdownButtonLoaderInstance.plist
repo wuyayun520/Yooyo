@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>objectInteraction</key>
+	<string>respectiveInkWell</string>
+	<key>retainedEmitter</key>
+	<string>checklistRate</string>
+	<key>sequentialAnalogy</key>
+	<string>drawException</string>
+	<key>shouldUnmountedSensor</key>
+	<string>dedicatedOption</string>
+</dict>
+</plist>

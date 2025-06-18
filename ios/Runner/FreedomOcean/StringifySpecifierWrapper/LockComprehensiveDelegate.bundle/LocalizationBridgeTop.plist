@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselinescale</key>
+	<string>rebuildTransition</string>
+	<key>configurationthanvisitor</key>
+	<string>accessibleIcon</string>
+	<key>connectorAppearance</key>
+	<string>tensorResponder</string>
+	<key>descriptionRotation</key>
+	<string>statelessfinder</string>
+	<key>dropoutresolver</key>
+	<string>ephemeralJoiner</string>
+	<key>permanentMatrix</key>
+	<string>originalCreator</string>
+	<key>signDensity</key>
+	<string>numericalIntegrity</string>
+	<key>tablejoiner</key>
+	<string>replaceHeap</string>
+	<key>tickerStatus</key>
+	<string>serializeSkirt</string>
+</dict>
+</plist>

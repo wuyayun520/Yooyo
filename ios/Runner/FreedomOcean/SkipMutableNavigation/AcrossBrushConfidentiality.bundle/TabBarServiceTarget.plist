@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentTweak</key>
+	<string>canUnmountedSession</string>
+	<key>controllerchaintype</key>
+	<string>respectiveRadio</string>
+	<key>defaultbutton</key>
+	<string>animateIsolate</string>
+	<key>diversifiedStamp</key>
+	<string>asynchronousModule</string>
+	<key>listenlocalization</key>
+	<string>fusedOffset</string>
+	<key>mediumAnchor</key>
+	<string>interactorName</string>
+	<key>musicHead</key>
+	<string>fusedResponder</string>
+	<key>otherResolver</key>
+	<string>canvasDirection</string>
+	<key>shouldStartReference</key>
+	<string>independentPolyfill</string>
+	<key>storeperchain</key>
+	<string>canRenderSegue</string>
+</dict>
+</plist>

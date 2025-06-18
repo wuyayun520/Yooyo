@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedCell</key>
+	<string>staticpreviewborder</string>
+	<key>equipmentawaycommand</key>
+	<string>largeStream</string>
+	<key>metadatamode</key>
+	<string>makeConfiguration</string>
+	<key>shouldFinishTouch</key>
+	<string>constructResponse</string>
+	<key>shouldStopMusic</key>
+	<string>dependencyAdapter</string>
+</dict>
+</plist>

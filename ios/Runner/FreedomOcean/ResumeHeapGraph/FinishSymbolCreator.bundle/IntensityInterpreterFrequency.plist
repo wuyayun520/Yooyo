@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hastextfield</key>
+	<string>mapColor</string>
+	<key>invisibleChart</key>
+	<string>wrapResource</string>
+	<key>joinerAcceleration</key>
+	<string>positionLeft</string>
+	<key>resilientAxis</key>
+	<string>cubeVariable</string>
+	<key>shouldSubscribeSkirt</key>
+	<string>interactivemultiplication</string>
+	<key>shouldtransformdelegate</key>
+	<string>stackdensity</string>
+	<key>soundStatus</key>
+	<string>shouldFormatArithmetic</string>
+	<key>subscribecomposition</key>
+	<string>canCancelBatch</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cachecontrast</key>
+	<string>localNavigation</string>
+	<key>capacitiesBehavior</key>
+	<string>canvasBottom</string>
+	<key>commonvariant</key>
+	<string>lastText</string>
+	<key>inactiveDimension</key>
+	<string>releaseProgressBar</string>
+	<key>materialInformation</key>
+	<string>shouldCancelSpine</string>
+	<key>pinchableMobile</key>
+	<string>preparefragment</string>
+	<key>scrollableSensor</key>
+	<string>mediumContainer</string>
+	<key>sophisticatedObserver</key>
+	<string>cupertinoTheme</string>
+	<key>varianttitle</key>
+	<string>mutableStateless</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorstyleskewy</key>
+	<string>statelessElasticity</string>
+	<key>listenlistener</key>
+	<string>functionalTabBar</string>
+	<key>permissivelatency</key>
+	<string>cacheChallenge</string>
+	<key>referenceBound</key>
+	<string>shouldObserveFlex</string>
+	<key>shouldAttachKernel</key>
+	<string>shouldYieldMultiplication</string>
+	<key>stepOpacity</key>
+	<string>customizedEvaluation</string>
+	<key>themeTag</key>
+	<string>subscriptionInterval</string>
+	<key>typicalInfo</key>
+	<string>touchcompletion</string>
+</dict>
+</plist>

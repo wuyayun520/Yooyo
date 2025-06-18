@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fragmentVelocity</key>
+	<string>onextensiontap</string>
+	<key>ignoredGraph</key>
+	<string>diffablePermutation</string>
+	<key>shouldHandleBuilder</key>
+	<string>synchronousBaseline</string>
+	<key>uniformrouter</key>
+	<string>managerbeyondfacade</string>
+</dict>
+</plist>

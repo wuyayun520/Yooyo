@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonMargin</key>
+	<string>autosize</string>
+	<key>crucialCapacities</key>
+	<string>multiplyTitle</string>
+	<key>diversifiedslider</key>
+	<string>materialContrast</string>
+	<key>immediateProtocol</key>
+	<string>resizableSkirt</string>
+	<key>keepresource</key>
+	<string>equipmentLeft</string>
+	<key>kernelFrequency</key>
+	<string>showFactory</string>
+	<key>nativeGroup</key>
+	<string>managerprovision</string>
+	<key>trianglesSpeed</key>
+	<string>compilethread</string>
+	<key>uniqueTable</key>
+	<string>reliabilitytag</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>charteffect</key>
+	<string>insteadTopic</string>
+	<key>concreteGroup</key>
+	<string>toolEdge</string>
+	<key>hyperbolicBehavior</key>
+	<string>permutationOrientation</string>
+	<key>movementloader</key>
+	<string>taxonomyopacity</string>
+	<key>shouldAnimateCompletion</key>
+	<string>findMenu</string>
+	<key>toolCoord</key>
+	<string>borderPrototype</string>
+</dict>
+</plist>

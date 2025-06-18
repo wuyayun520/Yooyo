@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticLinker</key>
+	<string>compositionalSorter</string>
+	<key>directConstraint</key>
+	<string>commonCollection</string>
+	<key>hasbatch</key>
+	<string>accordionTangent</string>
+	<key>iterativeLabel</key>
+	<string>scheduleAsset</string>
+	<key>menuorprototype</key>
+	<string>laststackborder</string>
+	<key>previewmatrix</key>
+	<string>sinkAlignment</string>
+	<key>scrollableGesture</key>
+	<string>accessibleprogressbar</string>
+	<key>uniquenodeacceleration</key>
+	<string>tabbartop</string>
+</dict>
+</plist>

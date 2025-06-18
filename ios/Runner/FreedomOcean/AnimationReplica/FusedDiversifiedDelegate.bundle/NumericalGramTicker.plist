@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetbound</key>
+	<string>upgradelayer</string>
+	<key>exitsprite</key>
+	<string>keyVector</string>
+	<key>geometricTime</key>
+	<string>easyTechnique</string>
+	<key>scenePadding</key>
+	<string>delegateValidation</string>
+	<key>shouldrestarthistogram</key>
+	<string>schemaRate</string>
+</dict>
+</plist>

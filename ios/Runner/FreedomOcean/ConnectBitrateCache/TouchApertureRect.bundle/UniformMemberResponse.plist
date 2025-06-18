@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryresponse</key>
+	<string>shouldDisconnectModulus</string>
+	<key>completerreplica</key>
+	<string>continueasset</string>
+	<key>detachtext</key>
+	<string>symmetricRestriction</string>
+	<key>informationTail</key>
+	<string>desktopLoop</string>
+	<key>informationmode</key>
+	<string>shouldYieldPrecision</string>
+	<key>lastQuaternion</key>
+	<string>processGram</string>
+	<key>priorityaroundvariable</key>
+	<string>protocolOperation</string>
+	<key>themeversustype</key>
+	<string>symbolPosition</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>pivotalIntegration</key>
+	<string>layoutPet</string>
+	<key>providerHue</key>
+	<string>persistentConstant</string>
+	<key>skirtcontainstyle</key>
+	<string>grayscalezone</string>
+	<key>typicalStream</key>
+	<string>canBindCanvas</string>
+</dict>
+</plist>

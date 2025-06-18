@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>immutableSignature</key>
+	<string>hierarchicalCube</string>
+	<key>intuitiveInteractor</key>
+	<string>skirtmenu</string>
+	<key>marginValidation</key>
+	<string>dynamicPresenter</string>
+	<key>normalGraphic</key>
+	<string>threadnumbershade</string>
+	<key>radiusmargin</key>
+	<string>accessorybylayer</string>
+	<key>selectedNotification</key>
+	<string>concurrentRemainder</string>
+	<key>shouldNavigateMission</key>
+	<string>discardedScale</string>
+	<key>specifyInteraction</key>
+	<string>shouldFormatExtension</string>
+	<key>writelayer</key>
+	<string>mendalignment</string>
+</dict>
+</plist>

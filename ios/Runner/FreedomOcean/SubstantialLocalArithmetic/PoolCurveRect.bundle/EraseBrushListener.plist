@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicTicker</key>
+	<string>retainedDelegate</string>
+	<key>cycleScale</key>
+	<string>canSubscribeSample</string>
+	<key>evaluationEdge</key>
+	<string>marginfrominterpreter</string>
+	<key>geometricTitle</key>
+	<string>immediateProvider</string>
+	<key>otherDelivery</key>
+	<string>modalBorder</string>
+	<key>resourcetemplebrightness</key>
+	<string>canEmitThread</string>
+	<key>shouldDeserializeStack</key>
+	<string>trianglesOpacity</string>
+	<key>subsequentDescent</key>
+	<string>paintMission</string>
+	<key>texturebridgedepth</key>
+	<string>staticPosition</string>
+</dict>
+</plist>

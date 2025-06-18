@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>extendoffset</key>
+	<string>calculateDescription</string>
+	<key>factoryVelocity</key>
+	<string>canTransitionGram</string>
+	<key>imagecontainmode</key>
+	<string>canReplaceUnary</string>
+	<key>integerstream</key>
+	<string>addQueue</string>
+	<key>preparesegment</key>
+	<string>segmentPhase</string>
+	<key>prevProfile</key>
+	<string>lostTouch</string>
+	<key>seamlessInstruction</key>
+	<string>oldDecoration</string>
+	<key>workflowContrast</key>
+	<string>defaultStream</string>
+</dict>
+</plist>

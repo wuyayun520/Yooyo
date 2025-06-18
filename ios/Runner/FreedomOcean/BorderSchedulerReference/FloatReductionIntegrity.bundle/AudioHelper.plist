@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnDepth</key>
+	<string>mediocreItem</string>
+	<key>explicitButton</key>
+	<string>logarithmMediator</string>
+	<key>rangeEdge</key>
+	<string>effectIndex</string>
+	<key>reusabletoolposition</key>
+	<string>audioSaturation</string>
+	<key>shouldCacheModal</key>
+	<string>encodeStorage</string>
+	<key>shouldPushCanvas</key>
+	<string>canMountCustomPaint</string>
+	<key>tensorAppBar</key>
+	<string>locksegue</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheobserver</key>
+	<string>timelineBound</string>
+	<key>euclideanMesh</key>
+	<string>lossspacing</string>
+	<key>gateInset</key>
+	<string>persistSemantics</string>
+	<key>interactiveObserver</key>
+	<string>parseskin</string>
+	<key>shouldTrainCaption</key>
+	<string>agileMusic</string>
+	<key>themeForce</key>
+	<string>trianglesRight</string>
+	<key>visibleTraversal</key>
+	<string>reconcileRect</string>
+</dict>
+</plist>

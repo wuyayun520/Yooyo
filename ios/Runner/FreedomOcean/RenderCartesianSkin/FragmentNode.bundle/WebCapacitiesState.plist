@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedNotation</key>
+	<string>gestureName</string>
+	<key>denseAspect</key>
+	<string>storageSkewY</string>
+	<key>descriptioncoord</key>
+	<string>measureZone</string>
+	<key>ephemeralQuaternion</key>
+	<string>layerParameter</string>
+	<key>mediocreEvent</key>
+	<string>agileSplitter</string>
+	<key>scrollableintegertransparency</key>
+	<string>reactiveSegment</string>
+	<key>shouldDisconnectAnchor</key>
+	<string>receiveDelegate</string>
+</dict>
+</plist>

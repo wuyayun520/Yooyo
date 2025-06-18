@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianTimer</key>
+	<string>densestream</string>
+	<key>comprehensiveModel</key>
+	<string>canRebuildMap</string>
+	<key>euclideangesturedetector</key>
+	<string>durationrect</string>
+	<key>localizationchainedge</key>
+	<string>positionTint</string>
+	<key>paddingtypepadding</key>
+	<string>localScale</string>
+	<key>receivesession</key>
+	<string>concurrentEfficiency</string>
+	<key>repositoryworksaturation</key>
+	<string>tappableCycle</string>
+	<key>rowBorder</key>
+	<string>cupertinoShade</string>
+	<key>singleDelegate</key>
+	<string>immediateProfile</string>
+	<key>symmetricStateful</key>
+	<string>sustainableRequest</string>
+</dict>
+</plist>

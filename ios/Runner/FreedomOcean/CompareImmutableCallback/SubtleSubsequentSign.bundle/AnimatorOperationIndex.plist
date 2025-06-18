@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationmediatortag</key>
+	<string>optimizeResource</string>
+	<key>binaryTop</key>
+	<string>captureUtil</string>
+	<key>channelmodemomentum</key>
+	<string>sceneCommand</string>
+	<key>metadataMargin</key>
+	<string>canPersistNavigation</string>
+	<key>sequentialtext</key>
+	<string>fixedInformation</string>
+	<key>shouldLoadDuration</key>
+	<string>alertanimation</string>
+	<key>touchasset</key>
+	<string>queueInset</string>
+</dict>
+</plist>

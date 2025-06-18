@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deactivatestorage</key>
+	<string>concurrentDuration</string>
+	<key>interactiveExtension</key>
+	<string>shouldDeserializeLoss</string>
+	<key>lostMaster</key>
+	<string>captureAction</string>
+	<key>precisionLeft</key>
+	<string>directlyPresenter</string>
+	<key>processorFormat</key>
+	<string>canDisconnectMap</string>
+	<key>shouldmountstateless</key>
+	<string>canEmitSine</string>
+	<key>tappabletitlebound</key>
+	<string>techniqueAdapter</string>
+</dict>
+</plist>

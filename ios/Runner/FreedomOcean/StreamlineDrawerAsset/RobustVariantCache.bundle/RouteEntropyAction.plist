@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerAppearance</key>
+	<string>advancedcontractionbottom</string>
+	<key>directSize</key>
+	<string>unmountedButton</string>
+	<key>finderDepth</key>
+	<string>mediumasset</string>
+	<key>interactorLocation</key>
+	<string>originalGrid</string>
+	<key>retainedCapacities</key>
+	<string>lastDescent</string>
+	<key>significantEvolution</key>
+	<string>numericalTimer</string>
+	<key>sizeTag</key>
+	<string>requesttext</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitdispatcher</key>
+	<string>dispatchtitle</string>
+	<key>dedicatedDescriptor</key>
+	<string>canReplaceGram</string>
+	<key>discardedusecasetail</key>
+	<string>graphbrightness</string>
+	<key>explicitContrast</key>
+	<string>unmountedDocument</string>
+	<key>integerscheduler</key>
+	<string>latencyShape</string>
+	<key>logarithmmargin</key>
+	<string>reusableStateless</string>
+	<key>shouldPushComposition</key>
+	<string>positionedasset</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerCatalyst</key>
+	<string>errorMargin</string>
+	<key>intermediateInteractor</key>
+	<string>disconnectPriority</string>
+	<key>respectiveJoiner</key>
+	<string>composableAppBar</string>
+	<key>responsivetolerance</key>
+	<string>receiverInteraction</string>
+	<key>shouldSkipSymbol</key>
+	<string>touchSaturation</string>
+	<key>sortedRequest</key>
+	<string>consultativeResource</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialTransformer</key>
+	<string>animatedCupertino</string>
+	<key>denseconstraintcontrast</key>
+	<string>granularFrame</string>
+	<key>documentbuilder</key>
+	<string>desktopIntensity</string>
+	<key>flexevent</key>
+	<string>grouptag</string>
+	<key>rapidEvolution</key>
+	<string>setstateModal</string>
+	<key>symbolcoordinator</key>
+	<string>opaquePolygon</string>
+	<key>unmountspine</key>
+	<string>shouldlistenstep</string>
+</dict>
+</plist>

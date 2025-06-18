@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerDetector</key>
+	<string>keyMobile</string>
+	<key>inactiveNavigator</key>
+	<string>shouldpersistscale</string>
+	<key>smartAspectRatio</key>
+	<string>usedGridView</string>
+	<key>storyboardstagemargin</key>
+	<string>shouldEmitLog</string>
+	<key>sustainableEffect</key>
+	<string>tensorAppBar</string>
+	<key>timeSkewX</key>
+	<string>repositoryNumber</string>
+	<key>transitioncommandfrequency</key>
+	<string>iterativesizedboxstate</string>
+	<key>webConsumer</key>
+	<string>tabbarLevel</string>
+</dict>
+</plist>

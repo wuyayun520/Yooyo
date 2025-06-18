@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>attachtangent</key>
+	<string>gateFramework</string>
+	<key>denseThread</key>
+	<string>resumeCapacities</string>
+	<key>fixedSlider</key>
+	<string>reusableColor</string>
+	<key>hyperbolicOffset</key>
+	<string>resilientSpot</string>
+	<key>searcherColor</key>
+	<string>subsequentCell</string>
+	<key>shouldKeepNib</key>
+	<string>integritySpeed</string>
+	<key>shouldTransformPainter</key>
+	<string>shouldPresentBullet</string>
+	<key>visiblethemetransparency</key>
+	<string>listenerdensity</string>
+</dict>
+</plist>

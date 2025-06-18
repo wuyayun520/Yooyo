@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>debugparticle</key>
+	<string>missedConfidentiality</string>
+	<key>declarativeDescriptor</key>
+	<string>shouldSaveInteger</string>
+	<key>greatStorage</key>
+	<string>shouldSerializeInterpolation</string>
+	<key>requiredMetrics</key>
+	<string>accordionthreadvelocity</string>
+	<key>widgetedge</key>
+	<string>canDispatchCell</string>
+</dict>
+</plist>

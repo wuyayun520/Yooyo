@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionLog</key>
+	<string>scaleBrightness</string>
+	<key>bulletTag</key>
+	<string>logActivity</string>
+	<key>clusterDistance</key>
+	<string>shouldMountUnary</string>
+	<key>hashSpacing</key>
+	<string>offsetbehavior</string>
+	<key>loadinjection</key>
+	<string>sustainableCollection</string>
+	<key>radiusbound</key>
+	<string>shouldMountedPadding</string>
+	<key>resizableMetadata</key>
+	<string>routeResponse</string>
+	<key>shouldHandleButton</key>
+	<string>opaqueSound</string>
+</dict>
+</plist>

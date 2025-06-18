@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeFrame</key>
+	<string>permissiveScalability</string>
+	<key>missedContrast</key>
+	<string>tappableImpact</string>
+	<key>requestselector</key>
+	<string>canFetchArithmetic</string>
+	<key>sinknumberbottom</key>
+	<string>calculateCurve</string>
+</dict>
+</plist>

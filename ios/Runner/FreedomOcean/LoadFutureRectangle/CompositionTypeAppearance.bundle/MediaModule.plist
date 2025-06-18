@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentAppearance</key>
+	<string>receiveButton</string>
+	<key>mobileSaturation</key>
+	<string>animatedMatrix</string>
+	<key>relationalPolygon</key>
+	<string>canUnmountedNotification</string>
+	<key>requiredSearcher</key>
+	<string>rangeState</string>
+	<key>shouldContinueImage</key>
+	<string>compositionalColor</string>
+	<key>spinepainter</key>
+	<string>resumePainter</string>
+	<key>subtletangent</key>
+	<string>loopbound</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocmodeformat</key>
+	<string>interactorFramework</string>
+	<key>cupertinoResponse</key>
+	<string>listenlocalization</string>
+	<key>geometricPainter</key>
+	<string>mediaColor</string>
+	<key>ignoredInteraction</key>
+	<string>spinStore</string>
+	<key>mediumcontroller</key>
+	<string>looprect</string>
+	<key>multiLayout</key>
+	<string>serializeMission</string>
+	<key>zonebottom</key>
+	<string>shouldEncodeRichText</string>
+</dict>
+</plist>

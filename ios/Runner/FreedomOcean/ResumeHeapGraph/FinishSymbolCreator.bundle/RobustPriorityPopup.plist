@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binderSkewY</key>
+	<string>escalateNode</string>
+	<key>descentSpeed</key>
+	<string>animateParticle</string>
+	<key>directGraphic</key>
+	<string>comprehensiveBuilder</string>
+	<key>mediaStatus</key>
+	<string>denseService</string>
+	<key>prismaticSemantics</key>
+	<string>statefulPressure</string>
+	<key>shouldDisconnectProfile</key>
+	<string>shouldDecodeKernel</string>
+	<key>shouldSerializeTouch</key>
+	<string>synchronousDelegate</string>
+</dict>
+</plist>

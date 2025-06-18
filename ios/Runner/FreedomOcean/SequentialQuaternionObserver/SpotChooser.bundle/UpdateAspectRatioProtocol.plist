@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedSwift</key>
+	<string>smartWorkflow</string>
+	<key>displayablesizetype</key>
+	<string>completionpopup</string>
+	<key>exceptionagainststructure</key>
+	<string>shouldStopInteger</string>
+	<key>lazygridpadding</key>
+	<string>indicatorwithjob</string>
+	<key>semanticAsync</key>
+	<string>listenMusic</string>
+	<key>shouldMountedPriority</key>
+	<string>strokeStyle</string>
+</dict>
+</plist>

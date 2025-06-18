@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileCube</key>
+	<string>previewPadding</string>
+	<key>delicateCompleter</key>
+	<string>canParseFuture</string>
+	<key>frameshapeappearance</key>
+	<string>immediateTween</string>
+	<key>originalExponent</key>
+	<string>soundOpacity</string>
+	<key>retainedinkwellinset</key>
+	<string>parallelNotifier</string>
+	<key>shouldConnectHeap</key>
+	<string>clipcontainer</string>
+	<key>shouldValidateTheme</key>
+	<string>synchronousService</string>
+	<key>standaloneSine</key>
+	<string>delegateHash</string>
+	<key>symbollocation</key>
+	<string>distinctionSpacing</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedListener</key>
+	<string>shouldFetchTabView</string>
+	<key>displayableModel</key>
+	<string>cursorNumber</string>
+	<key>resilientInteractor</key>
+	<string>enabledbuilderskewx</string>
+	<key>shouldDispatchMap</key>
+	<string>heapFlyweight</string>
+	<key>shouldEndScroll</key>
+	<string>composableResolver</string>
+	<key>shouldStartMusic</key>
+	<string>shouldtransitionexponent</string>
+	<key>specifyGraphic</key>
+	<string>containerEnvironment</string>
+</dict>
+</plist>

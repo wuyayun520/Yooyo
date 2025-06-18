@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledSpine</key>
+	<string>equalizationTop</string>
+	<key>mediumCanvas</key>
+	<string>benchmarkResolver</string>
+	<key>nativeColor</key>
+	<string>accessibleMedia</string>
+	<key>notationDelay</key>
+	<string>shouldStopBoxShadow</string>
+	<key>shouldTransitionImage</key>
+	<string>sizedboxplatformfeedback</string>
+	<key>statelessTail</key>
+	<string>segmentrequest</string>
+</dict>
+</plist>

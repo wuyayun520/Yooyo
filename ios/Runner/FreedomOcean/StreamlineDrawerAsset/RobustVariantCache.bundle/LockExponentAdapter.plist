@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonfrequency</key>
+	<string>singleshaderfeedback</string>
+	<key>currentnotification</key>
+	<string>animatedDimension</string>
+	<key>dismissduration</key>
+	<string>tappableLifecycle</string>
+	<key>persistentgroupedge</key>
+	<string>factoryresponse</string>
+	<key>prismaticTask</key>
+	<string>symmetricMesh</string>
+	<key>shouldSerializeAccessory</key>
+	<string>activateTopic</string>
+	<key>shouldSetStateStamp</key>
+	<string>directlyWidget</string>
+</dict>
+</plist>

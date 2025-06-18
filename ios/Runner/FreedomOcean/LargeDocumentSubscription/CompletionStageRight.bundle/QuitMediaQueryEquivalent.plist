@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customCharacter</key>
+	<string>distinctionBehavior</string>
+	<key>enabledAsset</key>
+	<string>statelessQueue</string>
+	<key>positionedSize</key>
+	<string>connectButton</string>
+	<key>responsiveSpot</key>
+	<string>canRebuildPrecision</string>
+	<key>utiledge</key>
+	<string>primaryTimer</string>
+</dict>
+</plist>

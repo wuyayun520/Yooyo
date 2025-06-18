@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customscheduler</key>
+	<string>semanticAnimator</string>
+	<key>defaultaccessory</key>
+	<string>mobilelocation</string>
+	<key>inheritedAnalogy</key>
+	<string>interactorMemento</string>
+	<key>oldDocument</key>
+	<string>numericalAllocator</string>
+	<key>robustmetadataspeed</key>
+	<string>resizeDescription</string>
+	<key>shouldPrepareSizedBox</key>
+	<string>canTransformEquipment</string>
+	<key>splitterColor</key>
+	<string>canHandleOption</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseExtension</key>
+	<string>spriteinjob</string>
+	<key>dropdownbuttonchaindelay</key>
+	<string>customTask</string>
+	<key>materialPermutation</key>
+	<string>materializerCenter</string>
+	<key>smallSkin</key>
+	<string>canDetachConstraint</string>
+</dict>
+</plist>

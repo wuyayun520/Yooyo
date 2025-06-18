@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorCoord</key>
+	<string>stringifygraphic</string>
+	<key>inheritedlifecycle</key>
+	<string>canTransformOption</string>
+	<key>resilientSchema</key>
+	<string>boxshadowContrast</string>
+	<key>sequentialAsync</key>
+	<string>deprecatePresenter</string>
+	<key>shouldFetchCatalyst</key>
+	<string>cupertinoFilter</string>
+</dict>
+</plist>

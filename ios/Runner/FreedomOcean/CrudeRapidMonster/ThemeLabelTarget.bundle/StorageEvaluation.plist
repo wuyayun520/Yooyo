@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionDelay</key>
+	<string>routeexceptvisitor</string>
+	<key>activeMatrix</key>
+	<string>handlerhead</string>
+	<key>easyMend</key>
+	<string>reductionShade</string>
+	<key>gridhue</key>
+	<string>semantictriangles</string>
+	<key>numericalScreen</key>
+	<string>ignoredrenderer</string>
+	<key>processgesturedetector</key>
+	<string>displayableProvider</string>
+	<key>stepchannel</key>
+	<string>serializedescription</string>
+	<key>toucharoundshape</key>
+	<string>backwardLocalization</string>
+</dict>
+</plist>

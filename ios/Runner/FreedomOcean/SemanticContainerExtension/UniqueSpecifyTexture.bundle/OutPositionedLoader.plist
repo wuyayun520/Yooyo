@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicPreview</key>
+	<string>intuitivebuttonappearance</string>
+	<key>disparateEquipment</key>
+	<string>subscribeOverlay</string>
+	<key>instructiontext</key>
+	<string>routertweak</string>
+	<key>playbacktrigger</key>
+	<string>shouldDisconnectModulus</string>
+	<key>remediationOffset</key>
+	<string>retainedTransition</string>
+	<key>topicTail</key>
+	<string>staticbaselinedelay</string>
+	<key>topictag</key>
+	<string>mainexpandedkind</string>
+	<key>unbindlayer</key>
+	<string>modelSkewY</string>
+</dict>
+</plist>

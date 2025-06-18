@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>exponentoffset</key>
+	<string>paintBox</string>
+	<key>groupoffset</key>
+	<string>navigateGrid</string>
+	<key>intermediateStateless</key>
+	<string>asynchronousCallback</string>
+	<key>occasionInterval</key>
+	<string>touchTimer</string>
+	<key>oldFrame</key>
+	<string>shouldRestartCube</string>
+	<key>overlaychainfeedback</key>
+	<string>canContinueRole</string>
+	<key>reactivePager</key>
+	<string>cartesianstampposition</string>
+	<key>statelesscontrast</key>
+	<string>entropyagainstvar</string>
+</dict>
+</plist>

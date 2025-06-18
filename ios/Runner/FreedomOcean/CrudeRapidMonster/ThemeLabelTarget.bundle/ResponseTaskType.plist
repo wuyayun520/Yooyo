@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineFlags</key>
+	<string>usecaseopacity</string>
+	<key>basespacing</key>
+	<string>setstateEffect</string>
+	<key>boxOrigin</key>
+	<string>canEndAspect</string>
+	<key>gradientawaylayer</key>
+	<string>buildPoint</string>
+	<key>immediatestateful</key>
+	<string>assetmomentum</string>
+	<key>scopeForce</key>
+	<string>momentuminstate</string>
+	<key>shouldFetchAppBar</key>
+	<string>normalProvider</string>
+	<key>shouldStreamSemantics</key>
+	<string>shouldrebuildstack</string>
+</dict>
+</plist>

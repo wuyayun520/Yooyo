@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hierarchicalCheckbox</key>
+	<string>themeVariable</string>
+	<key>meshBound</key>
+	<string>seguehue</string>
+	<key>ongatetap</key>
+	<string>popupVelocity</string>
+	<key>shouldbindappbar</key>
+	<string>prismaticRenderer</string>
+	<key>shouldpausebase</key>
+	<string>indicatormodetension</string>
+	<key>symbolCoord</key>
+	<string>shouldanimatesymbol</string>
+</dict>
+</plist>

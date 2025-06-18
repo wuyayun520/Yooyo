@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateIndex</key>
+	<string>concurrentAccessory</string>
+	<key>diffableCheckbox</key>
+	<string>deserializeDrawer</string>
+	<key>interpolationstate</key>
+	<string>desktopProjection</string>
+	<key>observerstatus</key>
+	<string>movementforce</string>
+	<key>shouldPersistMediaQuery</key>
+	<string>activityversusfacade</string>
+	<key>synchronousReducer</key>
+	<string>firstContrast</string>
+	<key>textpadding</key>
+	<string>discoverRequest</string>
+	<key>webTrajectory</key>
+	<string>unsortedArchitecture</string>
+</dict>
+</plist>

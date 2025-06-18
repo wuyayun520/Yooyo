@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianMember</key>
+	<string>shouldRestartInstruction</string>
+	<key>currentchooser</key>
+	<string>selectedbaseline</string>
+	<key>exceptionreliability</key>
+	<string>prevAnimator</string>
+	<key>markequalization</key>
+	<string>processExponent</string>
+	<key>reactiveBatch</key>
+	<string>processTransformer</string>
+	<key>storefunctionfrequency</key>
+	<string>mountedtext</string>
+	<key>touchanimatedcontainer</key>
+	<string>enhanceConfiguration</string>
+	<key>webTask</key>
+	<string>canMountDocument</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composablePriority</key>
+	<string>subscribeSwitch</string>
+	<key>mediocreMargin</key>
+	<string>canPresentAxis</string>
+	<key>prismaticTernary</key>
+	<string>basicappbar</string>
+	<key>refactorpopup</key>
+	<string>createPainter</string>
+	<key>resultlistener</key>
+	<string>topicStatus</string>
+	<key>seamlessSession</key>
+	<string>blochue</string>
+	<key>shouldDispatchStream</key>
+	<string>agileMovement</string>
+</dict>
+</plist>

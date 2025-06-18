@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocType</key>
+	<string>difficultInterface</string>
+	<key>enabledGraphic</key>
+	<string>typicalLinker</string>
+	<key>hasPlayback</key>
+	<string>reducercreator</string>
+	<key>invisibleBinary</key>
+	<string>currentSprite</string>
+	<key>invisibleMap</key>
+	<string>shouldLoadActivity</string>
+	<key>serviceright</key>
+	<string>missedBase</string>
+	<key>statelessFragments</key>
+	<string>difficultstorage</string>
+	<key>uniformMusic</key>
+	<string>canDeserializeSegment</string>
+</dict>
+</plist>

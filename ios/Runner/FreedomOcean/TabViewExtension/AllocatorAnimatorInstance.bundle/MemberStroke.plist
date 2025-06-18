@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentspecifier</key>
+	<string>imperativeTabBar</string>
+	<key>difficultReducer</key>
+	<string>hardRouter</string>
+	<key>largeCupertino</key>
+	<string>responsiveLoader</string>
+	<key>prismaticFeature</key>
+	<string>animationsingletondirection</string>
+	<key>shouldPrepareExponent</key>
+	<string>sinkduration</string>
+	<key>shouldRestartNotifier</key>
+	<string>shouldUnmountedCaption</string>
+	<key>shouldStreamThread</key>
+	<string>unsortedspotkind</string>
+	<key>standaloneSingleton</key>
+	<string>reactiveEquivalent</string>
+	<key>statefulSegment</key>
+	<string>documentCount</string>
+</dict>
+</plist>

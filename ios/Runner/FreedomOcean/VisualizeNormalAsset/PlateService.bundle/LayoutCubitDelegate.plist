@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>multiProject</key>
+	<string>nibTheme</string>
+	<key>projectionviafunction</key>
+	<string>requestvaroffset</string>
+	<key>scenarioVisibility</key>
+	<string>shouldInflateReference</string>
+	<key>shouldcachedocument</key>
+	<string>easyInfrastructure</string>
+	<key>shouldnavigatecharacter</key>
+	<string>subtleMethod</string>
+	<key>spotawayvariable</key>
+	<string>dropoutChannel</string>
+</dict>
+</plist>

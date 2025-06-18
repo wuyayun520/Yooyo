@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedRadius</key>
+	<string>disposeGradient</string>
+	<key>lifecycleSkewX</key>
+	<string>onoptimizerchanged</string>
+	<key>mediumExtension</key>
+	<string>primarydetector</string>
+	<key>paddingFeedback</key>
+	<string>stepwrapper</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptionTransparency</key>
+	<string>resilientAnimator</string>
+	<key>impactfrequency</key>
+	<string>numericaltickeralignment</string>
+	<key>normalselector</key>
+	<string>crucialScroller</string>
+	<key>oldScroller</key>
+	<string>movementstructuretail</string>
+</dict>
+</plist>

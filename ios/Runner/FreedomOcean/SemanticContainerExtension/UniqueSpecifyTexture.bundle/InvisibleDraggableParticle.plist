@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileSplitter</key>
+	<string>inflateError</string>
+	<key>arithmeticLayer</key>
+	<string>inheritedContraction</string>
+	<key>desktopEffect</key>
+	<string>concurrentexponentoffset</string>
+	<key>fusedBehavior</key>
+	<string>spineMargin</string>
+	<key>interpolatesymbol</key>
+	<string>mediocreThroughput</string>
+	<key>opaqueTouch</key>
+	<string>nativeMesh</string>
+	<key>substantialConvolution</key>
+	<string>shouldTransformNorm</string>
+	<key>textfieldTheme</key>
+	<string>disparateTopic</string>
+</dict>
+</plist>

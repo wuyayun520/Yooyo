@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buildervisitorhead</key>
+	<string>allocatorrect</string>
+	<key>graphEdge</key>
+	<string>constraintcompositefrequency</string>
+	<key>isColumn</key>
+	<string>isolatestroke</string>
+	<key>iterativeSymbol</key>
+	<string>keyRole</string>
+	<key>largeMenu</key>
+	<string>prismaticIsolate</string>
+	<key>moduletop</key>
+	<string>smartWidget</string>
+	<key>navigatorshade</key>
+	<string>shouldObserveTernary</string>
+	<key>respectiveMultiplication</key>
+	<string>concurrentTouch</string>
+</dict>
+</plist>

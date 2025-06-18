@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityfunctiondepth</key>
+	<string>apertureVelocity</string>
+	<key>consumptionTension</key>
+	<string>canEndSpot</string>
+	<key>descriptiontint</key>
+	<string>canPopWorkflow</string>
+	<key>euclideanduration</key>
+	<string>canDisposeMovement</string>
+	<key>intuitiveTransition</key>
+	<string>tensorbrush</string>
+	<key>liteComposition</key>
+	<string>listenerLayer</string>
+	<key>richtextResponse</key>
+	<string>eagerDialogs</string>
+	<key>shouldCacheContraction</key>
+	<string>dropdownbuttonthreshold</string>
+	<key>tabviewType</key>
+	<string>impactMode</string>
+</dict>
+</plist>

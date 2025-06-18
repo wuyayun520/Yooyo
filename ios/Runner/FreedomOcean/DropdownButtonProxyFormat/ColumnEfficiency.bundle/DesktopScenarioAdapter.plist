@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnFeedback</key>
+	<string>specifyChallenge</string>
+	<key>draggableChart</key>
+	<string>canPopRadio</string>
+	<key>inactiveLoss</key>
+	<string>numericalCapacities</string>
+	<key>injectionCenter</key>
+	<string>streamJob</string>
+	<key>instructionAppearance</key>
+	<string>sustainableCompletion</string>
+	<key>persistentStack</key>
+	<string>handleIndicator</string>
+	<key>prevScenario</key>
+	<string>precisionCommand</string>
+	<key>requestmetrics</key>
+	<string>soundCenter</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentCapsule</key>
+	<string>lastManager</string>
+	<key>cupertinofunctionopacity</key>
+	<string>compositionfactory</string>
+	<key>customModule</key>
+	<string>dynamicBuilder</string>
+	<key>firstPositioned</key>
+	<string>opaqueTask</string>
+	<key>nextSubpixel</key>
+	<string>resolveTransition</string>
+	<key>statefulBitrate</key>
+	<string>timeFeedback</string>
+	<key>symboltweak</key>
+	<string>updateChapter</string>
+</dict>
+</plist>

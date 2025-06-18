@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseDocument</key>
+	<string>interactorSingleton</string>
+	<key>materializeoffset</key>
+	<string>canRestartResource</string>
+	<key>permanentRenderer</key>
+	<string>directlyUsage</string>
+	<key>pickerValidation</key>
+	<string>parallelTheme</string>
+	<key>reactiveMetadata</key>
+	<string>concreteEvolution</string>
+	<key>renderfeature</key>
+	<string>asynchronousMapper</string>
+	<key>scenehue</key>
+	<string>synchronousSemantics</string>
+	<key>standaloneAnimator</key>
+	<string>displayableMap</string>
+</dict>
+</plist>

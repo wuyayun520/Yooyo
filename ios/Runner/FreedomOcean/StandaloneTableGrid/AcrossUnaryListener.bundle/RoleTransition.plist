@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cachematrix</key>
+	<string>compositionalHandler</string>
+	<key>displayablesorter</key>
+	<string>invisiblePublisher</string>
+	<key>dropdownbuttonpadding</key>
+	<string>inflateGesture</string>
+	<key>enabledKernel</key>
+	<string>rectifyText</string>
+	<key>graphindex</key>
+	<string>aggregateaxis</string>
+	<key>multiRoute</key>
+	<string>keyRequest</string>
+	<key>originalTimer</key>
+	<string>lostStatus</string>
+	<key>shouldMountHistogram</key>
+	<string>navigateCoordinator</string>
+</dict>
+</plist>

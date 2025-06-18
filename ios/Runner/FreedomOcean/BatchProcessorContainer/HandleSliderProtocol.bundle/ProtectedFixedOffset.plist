@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedroutelocation</key>
+	<string>quantizerCallback</string>
+	<key>denseSpecifier</key>
+	<string>shouldDismissFragment</string>
+	<key>futurebottom</key>
+	<string>shouldTrainReference</string>
+	<key>pinchableAnchor</key>
+	<string>cardbeyondtype</string>
+	<key>reactiveAperture</key>
+	<string>combineLayout</string>
+	<key>shouldSaveObserver</key>
+	<string>themeAction</string>
+	<key>typicalQueue</key>
+	<string>addRect</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedTabBar</key>
+	<string>visibleFormat</string>
+	<key>permissiveefficiency</key>
+	<string>dependencyRight</string>
+	<key>semanticgridviewinterval</key>
+	<string>scaleSpacing</string>
+	<key>sortedRow</key>
+	<string>queuetag</string>
+	<key>tweenForce</key>
+	<string>eagerMethod</string>
+</dict>
+</plist>

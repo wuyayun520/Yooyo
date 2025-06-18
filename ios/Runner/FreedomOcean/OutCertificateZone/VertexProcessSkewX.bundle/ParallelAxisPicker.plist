@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioPosition</key>
+	<string>serviceintegrity</string>
+	<key>concurrentlocalization</key>
+	<string>connectProvider</string>
+	<key>directRange</key>
+	<string>clipoption</string>
+	<key>imperativeScene</key>
+	<string>sortedrowtype</string>
+	<key>nibcubit</key>
+	<string>usageProcess</string>
+	<key>notificationRotation</key>
+	<string>cancelCharacter</string>
+	<key>resizableCallback</key>
+	<string>statefultaskpressure</string>
+	<key>sequentialsubscriber</key>
+	<string>canContinueProvider</string>
+	<key>shouldUnmountedContraction</key>
+	<string>persistentSkirt</string>
+</dict>
+</plist>

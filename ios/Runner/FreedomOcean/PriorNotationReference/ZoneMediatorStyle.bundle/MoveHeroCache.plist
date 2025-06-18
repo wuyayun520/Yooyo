@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aperturetype</key>
+	<string>canSaveNotifier</string>
+	<key>appbarawait</key>
+	<string>gesturedetectorAcceleration</string>
+	<key>basicHistogram</key>
+	<string>textevaluation</string>
+	<key>disclaimerInterval</key>
+	<string>uniformMap</string>
+	<key>findbatch</key>
+	<string>nodeForm</string>
+	<key>largeStateless</key>
+	<string>deliveryVisibility</string>
+	<key>layoutOrientation</key>
+	<string>bandwidthStyle</string>
+	<key>mutableChooser</key>
+	<string>scalabilityFlags</string>
+	<key>particleparamrotation</key>
+	<string>createGraph</string>
+	<key>shouldnavigatestream</key>
+	<string>pinchableSpecifier</string>
+</dict>
+</plist>

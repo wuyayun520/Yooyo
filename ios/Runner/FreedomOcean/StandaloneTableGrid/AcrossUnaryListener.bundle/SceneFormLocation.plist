@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationTheme</key>
+	<string>updatePriority</string>
+	<key>arithmeticMaterial</key>
+	<string>temporaryDuration</string>
+	<key>mobileDimension</key>
+	<string>servicetransparency</string>
+	<key>operationchannel</key>
+	<string>standaloneAccessory</string>
+	<key>semanticEvent</key>
+	<string>lockRouter</string>
+</dict>
+</plist>

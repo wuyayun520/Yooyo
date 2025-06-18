@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>firstPicker</key>
+	<string>mendResponse</string>
+	<key>integrationCount</key>
+	<string>kernelBehavior</string>
+	<key>iterativeLoader</key>
+	<string>sinePhase</string>
+	<key>mobileBinary</key>
+	<string>popLog</string>
+	<key>normalBrush</key>
+	<string>basicTheme</string>
+	<key>shouldResumePoint</key>
+	<string>localAsset</string>
+	<key>shouldStopContainer</key>
+	<string>discardedAlignment</string>
+	<key>shouldValidateText</key>
+	<string>publicProvision</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentChecklist</key>
+	<string>animationBottom</string>
+	<key>defaultImage</key>
+	<string>extensionVisible</string>
+	<key>eagerBuffer</key>
+	<string>shouldDismissMonster</string>
+	<key>inactiveAspect</key>
+	<string>gradientVisible</string>
+	<key>otherFlex</key>
+	<string>tensorTriangles</string>
+	<key>shouldDisposeInstruction</key>
+	<string>binaryState</string>
+	<key>shouldPopText</key>
+	<string>showSpine</string>
+	<key>unactivatedListener</key>
+	<string>saveAspect</string>
+</dict>
+</plist>

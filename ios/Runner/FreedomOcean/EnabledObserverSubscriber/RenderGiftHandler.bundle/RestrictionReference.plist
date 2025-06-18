@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialNode</key>
+	<string>statelessscaffoldcontrast</string>
+	<key>cruciallatency</key>
+	<string>canNavigatePet</string>
+	<key>dependencyKind</key>
+	<string>platevisible</string>
+	<key>mediumAnchor</key>
+	<string>shouldobserveunary</string>
+	<key>priorHandler</key>
+	<string>geometricResource</string>
+	<key>scenarioFeedback</key>
+	<string>shouldUpdateSwift</string>
+	<key>substantialController</key>
+	<string>canDisposeNavigation</string>
+	<key>unbindbullet</key>
+	<string>fragmentInteraction</string>
+</dict>
+</plist>

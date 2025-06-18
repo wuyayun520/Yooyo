@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>granularSwift</key>
+	<string>statelessThroughput</string>
+	<key>keyChart</key>
+	<string>alignmentparameterhead</string>
+	<key>shouldParseMember</key>
+	<string>resolvershapevisible</string>
+	<key>tentativeSize</key>
+	<string>stateSpacing</string>
+</dict>
+</plist>

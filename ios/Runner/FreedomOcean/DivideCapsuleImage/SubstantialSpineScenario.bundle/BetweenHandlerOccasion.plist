@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionMargin</key>
+	<string>priorModule</string>
+	<key>desktopCurve</key>
+	<string>searcherAppearance</string>
+	<key>documentbutton</key>
+	<string>agileResource</string>
+	<key>interactiveInformation</key>
+	<string>appendInjection</string>
+	<key>lifecycleDirection</key>
+	<string>constructWidget</string>
+	<key>mitigateanimation</key>
+	<string>canEndHistogram</string>
+	<key>protocolAlignment</key>
+	<string>endProtocol</string>
+	<key>shouldUnbindCharacter</key>
+	<string>optimizerForm</string>
+	<key>tappableDelivery</key>
+	<string>shouldMountConstraint</string>
+</dict>
+</plist>

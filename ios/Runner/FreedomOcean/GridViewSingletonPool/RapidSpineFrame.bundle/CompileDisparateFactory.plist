@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellVisible</key>
+	<string>shouldEncodeCanvas</string>
+	<key>dependencytail</key>
+	<string>shouldInflateSession</string>
+	<key>explicitGroup</key>
+	<string>shouldNavigateGrayscale</string>
+	<key>factoryMargin</key>
+	<string>shouldTransformPositioned</string>
+	<key>intensityreducer</key>
+	<string>cubePressure</string>
+	<key>shouldDismissResource</key>
+	<string>analyzerTransparency</string>
+</dict>
+</plist>

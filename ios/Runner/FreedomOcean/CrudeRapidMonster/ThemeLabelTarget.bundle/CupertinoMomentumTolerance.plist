@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticAmortization</key>
+	<string>canBuildUnary</string>
+	<key>geometricSizedBox</key>
+	<string>skipButton</string>
+	<key>materialConstraint</key>
+	<string>unsortedSkin</string>
+	<key>scaffoldScale</key>
+	<string>shouldpublishprecision</string>
+	<key>shouldPersistListView</key>
+	<string>unactivatedVariant</string>
+	<key>smallPager</key>
+	<string>uniformWrapper</string>
+	<key>textureTransparency</key>
+	<string>bandwidthLeft</string>
+</dict>
+</plist>

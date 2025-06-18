@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>euclideanException</key>
+	<string>tensorslider</string>
+	<key>observerframe</key>
+	<string>requiredradiustype</string>
+	<key>pinchableStream</key>
+	<string>discardedText</string>
+	<key>shouldPresentCollection</key>
+	<string>shouldSerializeSlash</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedInteraction</key>
+	<string>gridRight</string>
+	<key>channelsound</key>
+	<string>sanitizeResolver</string>
+	<key>deployrichtext</key>
+	<string>distinctionState</string>
+	<key>disparateInterpolation</key>
+	<string>asyncincludebridge</string>
+	<key>loopFeedback</key>
+	<string>kernelview</string>
+	<key>numericalChooser</key>
+	<string>asynchronousrecursion</string>
+	<key>sensorAppearance</key>
+	<string>canEndMonster</string>
+	<key>shouldFetchBloc</key>
+	<string>requestParticle</string>
+	<key>significantOccasion</key>
+	<string>autoSpot</string>
+	<key>standaloneAnimator</key>
+	<string>queuevariabletype</string>
+</dict>
+</plist>

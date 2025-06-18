@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeaspectratio</key>
+	<string>ephemeralBinder</string>
+	<key>hardTabBar</key>
+	<string>symmetricFilter</string>
+	<key>hasDuration</key>
+	<string>canPrepareCache</string>
+	<key>lazyexpandedtransparency</key>
+	<string>criticalAspect</string>
+	<key>permanentScheduler</key>
+	<string>oldUseCase</string>
+	<key>rapidsearcher</key>
+	<string>mediumPadding</string>
+	<key>shoulddisconnectaspect</key>
+	<string>marshalAwait</string>
+	<key>substantialNotation</key>
+	<string>instantiateService</string>
+</dict>
+</plist>

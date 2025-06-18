@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityColor</key>
+	<string>immediateModulus</string>
+	<key>aspectDuration</key>
+	<string>singletonbinder</string>
+	<key>gestureForce</key>
+	<string>directlyallocatoroffset</string>
+	<key>observermenu</key>
+	<string>sequentialBrush</string>
+	<key>shouldpaintproject</key>
+	<string>shouldListenLabel</string>
+</dict>
+</plist>

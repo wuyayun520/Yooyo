@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableChapter</key>
+	<string>prepareTabView</string>
+	<key>draggablePadding</key>
+	<string>uniqueThroughput</string>
+	<key>frameSaturation</key>
+	<string>overlaybrightness</string>
+	<key>inkwellcoord</key>
+	<string>currentProvider</string>
+	<key>latencyMode</key>
+	<string>futureorientation</string>
+	<key>pinchableJoiner</key>
+	<string>displayableEquivalent</string>
+	<key>shouldUnmountedColumn</key>
+	<string>canPresentContraction</string>
+	<key>smartProtocol</key>
+	<string>pinchableSwitch</string>
+</dict>
+</plist>

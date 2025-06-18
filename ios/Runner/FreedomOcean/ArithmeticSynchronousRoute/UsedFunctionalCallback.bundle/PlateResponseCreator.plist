@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customUnary</key>
+	<string>listenerPressure</string>
+	<key>explicitNorm</key>
+	<string>originalMaterial</string>
+	<key>lostMember</key>
+	<string>canPersistBitrate</string>
+	<key>mutableQuaternion</key>
+	<string>channelTail</string>
+	<key>specifyCallback</key>
+	<string>augmentStorage</string>
+</dict>
+</plist>

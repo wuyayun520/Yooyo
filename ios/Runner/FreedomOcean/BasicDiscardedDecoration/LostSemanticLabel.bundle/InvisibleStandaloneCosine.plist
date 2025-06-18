@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>architectureForce</key>
+	<string>delicateElement</string>
+	<key>hasImage</key>
+	<string>canDecodeMedia</string>
+	<key>localizationformat</key>
+	<string>defaulteffect</string>
+	<key>menuName</key>
+	<string>canUnbindScreen</string>
+	<key>permissiveLoader</key>
+	<string>optimizerVelocity</string>
+	<key>presenterSaturation</key>
+	<string>selectedSensor</string>
+	<key>resilientUtil</key>
+	<string>draggableReducer</string>
+	<key>schedulerMomentum</key>
+	<string>subtleSearcher</string>
+	<key>schemaOffset</key>
+	<string>statefulBase</string>
+	<key>switchTop</key>
+	<string>cacheSegment</string>
+</dict>
+</plist>

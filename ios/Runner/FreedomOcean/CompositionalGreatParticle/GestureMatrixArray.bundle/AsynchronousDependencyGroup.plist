@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonAspectRatio</key>
+	<string>presenterLocation</string>
+	<key>navigatortheme</key>
+	<string>agilehistogramtint</string>
+	<key>provisionCount</key>
+	<string>relationalRange</string>
+	<key>scaleCenter</key>
+	<string>scrollableScope</string>
+	<key>spotstate</key>
+	<string>largeInfo</string>
+</dict>
+</plist>

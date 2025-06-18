@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>filterStatus</key>
+	<string>activityworkdensity</string>
+	<key>opaqueFragments</key>
+	<string>encapsulatemodulus</string>
+	<key>reliabilityCenter</key>
+	<string>delegateandobserver</string>
+	<key>retainedDependency</key>
+	<string>asyncName</string>
+	<key>shouldCreateTask</key>
+	<string>evaluateconsumer</string>
+</dict>
+</plist>

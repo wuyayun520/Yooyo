@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsDensity</key>
+	<string>tablechannel</string>
+	<key>hasExponent</key>
+	<string>shouldShowController</string>
+	<key>iterativeSplitter</key>
+	<string>wraprouter</string>
+	<key>materializerShade</key>
+	<string>shouldObserveSwift</string>
+	<key>notifymission</key>
+	<string>criticalevaluation</string>
+	<key>originalStroke</key>
+	<string>staticCubit</string>
+	<key>pivotalScalability</key>
+	<string>disabledpointmode</string>
+	<key>robustFactory</key>
+	<string>iterativeMargin</string>
+	<key>subsequentDrawer</key>
+	<string>agileVariant</string>
+</dict>
+</plist>

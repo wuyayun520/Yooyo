@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buildernumberfeedback</key>
+	<string>showChapter</string>
+	<key>instructionBehavior</key>
+	<string>allocatorTag</string>
+	<key>marshalsink</key>
+	<string>layoutEqualization</string>
+	<key>respectiveScroller</key>
+	<string>semanticExpanded</string>
+	<key>semanticMethod</key>
+	<string>autoTexture</string>
+	<key>shouldCreateOption</key>
+	<string>ternaryVisible</string>
+	<key>shouldObserveGift</key>
+	<string>requestprototypetail</string>
+</dict>
+</plist>

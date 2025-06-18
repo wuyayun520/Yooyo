@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actioncontainfunction</key>
+	<string>spinusecase</string>
+	<key>contractioncubit</key>
+	<string>defaultVariant</string>
+	<key>fixedGraphic</key>
+	<string>euclideanmenuforce</string>
+	<key>lostMomentum</key>
+	<string>easyTweak</string>
+	<key>monsterTheme</key>
+	<string>usecaserestriction</string>
+	<key>renderpet</key>
+	<string>spriteChain</string>
+	<key>shouldConnectLayout</key>
+	<string>robustRenderer</string>
+	<key>spotHue</key>
+	<string>crudeFinder</string>
+</dict>
+</plist>

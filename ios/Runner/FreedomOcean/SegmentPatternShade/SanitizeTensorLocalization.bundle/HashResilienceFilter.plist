@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptionShape</key>
+	<string>containerPrototype</string>
+	<key>detectorTransparency</key>
+	<string>instantiateprogressbar</string>
+	<key>explicitEvaluation</key>
+	<string>lostCharacteristic</string>
+	<key>methodmapper</key>
+	<string>shouldObserveCharacter</string>
+	<key>permissivemethod</key>
+	<string>cupertinoCount</string>
+	<key>resourceprototypefeedback</key>
+	<string>renameResolver</string>
+	<key>segmentcontainvar</key>
+	<string>significantarchitecture</string>
+</dict>
+</plist>

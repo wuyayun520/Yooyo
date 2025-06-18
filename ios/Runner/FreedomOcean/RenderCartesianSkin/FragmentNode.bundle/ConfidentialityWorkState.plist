@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarEdge</key>
+	<string>statefulReducer</string>
+	<key>cacheplatformhead</key>
+	<string>pageviewOrientation</string>
+	<key>chartPosition</key>
+	<string>sharedAlert</string>
+	<key>efficiencyBrightness</key>
+	<string>graphCommand</string>
+	<key>largeSine</key>
+	<string>capsuleduration</string>
+	<key>occasionPressure</key>
+	<string>canPrepareSign</string>
+	<key>secondFeature</key>
+	<string>metadataFunction</string>
+	<key>sinetheme</key>
+	<string>objectBehavior</string>
+	<key>sliderVelocity</key>
+	<string>statelessHue</string>
+	<key>transposebase</key>
+	<string>iterativeWidget</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticGrain</key>
+	<string>concreteRadius</string>
+	<key>hardSensor</key>
+	<string>shadervisibility</string>
+	<key>localizationTint</key>
+	<string>defaultReduction</string>
+	<key>retainedCompleter</key>
+	<string>mountProtocol</string>
+	<key>shouldResumeCaption</key>
+	<string>intuitiveDuration</string>
+	<key>subscriberInterval</key>
+	<string>restartMatrix</string>
+</dict>
+</plist>

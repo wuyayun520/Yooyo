@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activefactoryfrequency</key>
+	<string>errorSystem</string>
+	<key>agileschema</key>
+	<string>customizedEntropy</string>
+	<key>customsceneposition</key>
+	<string>tabbarPadding</string>
+	<key>promisethroughsingleton</key>
+	<string>listenerright</string>
+	<key>roleLocation</key>
+	<string>shouldTrainMaster</string>
+	<key>shouldEmitNavigation</key>
+	<string>canCancelContraction</string>
+	<key>shouldpausebatch</key>
+	<string>bundleTransition</string>
+	<key>singletonSkewX</key>
+	<string>diffableAspectRatio</string>
+	<key>textureDepth</key>
+	<string>deprecatefactory</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedBinder</key>
+	<string>symmetricData</string>
+	<key>deferredanimation</key>
+	<string>seamlessGift</string>
+	<key>ignoredIndicator</key>
+	<string>largeLifecycle</string>
+	<key>permanentAlpha</key>
+	<string>canStartCaption</string>
+	<key>semanticChooser</key>
+	<string>canListenClipper</string>
+	<key>shouldPaintSwift</key>
+	<string>updatepet</string>
+	<key>shouldStreamCapsule</key>
+	<string>cacheBrush</string>
+	<key>similardecoration</key>
+	<string>euclideanBitrate</string>
+	<key>spottail</key>
+	<string>gramLeft</string>
+	<key>tappablePermutation</key>
+	<string>bitrateAppearance</string>
+</dict>
+</plist>

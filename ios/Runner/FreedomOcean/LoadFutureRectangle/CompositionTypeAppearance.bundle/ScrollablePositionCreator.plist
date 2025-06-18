@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileTangent</key>
+	<string>mobileAlert</string>
+	<key>beginneranalogy</key>
+	<string>drawview</string>
+	<key>crucialNotification</key>
+	<string>workflowvisibility</string>
+	<key>prevmodal</key>
+	<string>interactiveScheduler</string>
+	<key>shouldAttachNotifier</key>
+	<string>transformBrush</string>
+	<key>tensorTable</key>
+	<string>sorterEdge</string>
+	<key>timetail</key>
+	<string>persistentCubit</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deactivatemedia</key>
+	<string>menukindspacing</string>
+	<key>declarativeCapacity</key>
+	<string>accessibleReducer</string>
+	<key>mediaqueryalignment</key>
+	<string>canFetchCharacter</string>
+	<key>numericalTransition</key>
+	<string>baselineStage</string>
+	<key>objectMomentum</key>
+	<string>substantialPageView</string>
+	<key>prevStream</key>
+	<string>pushHash</string>
+	<key>publisherduration</key>
+	<string>protocolActivity</string>
+	<key>respectivesine</key>
+	<string>diffableNavigator</string>
+	<key>routemultiplication</key>
+	<string>fusedstate</string>
+	<key>transitionisolate</key>
+	<string>disabledStack</string>
+</dict>
+</plist>

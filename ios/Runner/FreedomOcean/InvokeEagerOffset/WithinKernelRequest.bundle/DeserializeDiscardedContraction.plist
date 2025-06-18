@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumerexceptflyweight</key>
+	<string>receiveTopic</string>
+	<key>converterInteraction</key>
+	<string>seekRepository</string>
+	<key>cursorResponse</key>
+	<string>paintOption</string>
+	<key>notifierstateinterval</key>
+	<string>mergerHue</string>
+	<key>seamlesspaddingtop</key>
+	<string>shouldCacheWorkflow</string>
+	<key>shouldSkipHero</key>
+	<string>canAnimateExpanded</string>
+	<key>visibleMember</key>
+	<string>drawUseCase</string>
+</dict>
+</plist>

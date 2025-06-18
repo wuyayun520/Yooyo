@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoAlert</key>
+	<string>partitionWidget</string>
+	<key>cellcontainer</key>
+	<string>criticalFragment</string>
+	<key>factorybound</key>
+	<string>sanitizeRoute</string>
+	<key>fetchstorage</key>
+	<string>ascentSize</string>
+	<key>multiSubpixel</key>
+	<string>gateDistance</string>
+	<key>navigatordetector</key>
+	<string>publicException</string>
+	<key>onmoduluschanged</key>
+	<string>pendingMission</string>
+	<key>shouldMountedMap</key>
+	<string>seamlessMetadata</string>
+</dict>
+</plist>

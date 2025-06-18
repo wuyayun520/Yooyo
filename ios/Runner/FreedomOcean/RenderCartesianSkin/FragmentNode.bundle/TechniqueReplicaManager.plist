@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalRichText</key>
+	<string>shouldCacheHero</string>
+	<key>custompaintTail</key>
+	<string>flexiblePainter</string>
+	<key>dedicatedhandlerstatus</key>
+	<string>shouldParseTouch</string>
+	<key>dynamicGate</key>
+	<string>semanticsLayer</string>
+	<key>interactiveSegue</key>
+	<string>processBoxShadow</string>
+	<key>primaryColumn</key>
+	<string>smallConfidentiality</string>
+	<key>scrollableInformation</key>
+	<string>connectEntity</string>
+</dict>
+</plist>

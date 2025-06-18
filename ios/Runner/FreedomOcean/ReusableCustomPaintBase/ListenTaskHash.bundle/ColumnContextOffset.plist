@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activitycount</key>
+	<string>canObserveScaffold</string>
+	<key>alphastatebottom</key>
+	<string>mainfeature</string>
+	<key>architectureInset</key>
+	<string>shouldSerializeBorder</string>
+	<key>channelawaychain</key>
+	<string>scalekind</string>
+	<key>customHero</key>
+	<string>fixedresilience</string>
+	<key>detectorAppearance</key>
+	<string>transpileTransition</string>
+	<key>textfieldtolerance</key>
+	<string>capacityHead</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocfilter</key>
+	<string>radioStructure</string>
+	<key>numericalbuffer</key>
+	<string>intermediateFinder</string>
+	<key>reliabilityForce</key>
+	<string>paddingVisibility</string>
+	<key>shouldProcessExtension</key>
+	<string>mainReducer</string>
+</dict>
+</plist>

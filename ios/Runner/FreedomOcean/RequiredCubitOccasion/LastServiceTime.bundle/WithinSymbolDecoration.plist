@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryrenderer</key>
+	<string>conformAsync</string>
+	<key>activatedController</key>
+	<string>customEvolution</string>
+	<key>defaultDialogs</key>
+	<string>mediumResult</string>
+	<key>eagereventbottom</key>
+	<string>gramInteraction</string>
+	<key>greatTouch</key>
+	<string>chapterTemple</string>
+	<key>materialCombiner</key>
+	<string>semanticVariant</string>
+	<key>modelType</key>
+	<string>touchTop</string>
+	<key>prevTabView</key>
+	<string>transitionchapter</string>
+	<key>shouldInflateSegue</key>
+	<string>pageviewFunction</string>
+	<key>singleTransformer</key>
+	<string>hyperbolicCubit</string>
+</dict>
+</plist>

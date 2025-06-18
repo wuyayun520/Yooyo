@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedchallengetheme</key>
+	<string>quitListener</string>
+	<key>missedchallenge</key>
+	<string>explicitStamp</string>
+	<key>oldTangent</key>
+	<string>sophisticatedChannel</string>
+	<key>shouldRebuildConsumer</key>
+	<string>concurrentMaster</string>
+	<key>similarImage</key>
+	<string>resizeLoop</string>
+	<key>visibleTweak</key>
+	<string>injectionJob</string>
+</dict>
+</plist>

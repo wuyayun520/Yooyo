@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>detectorCenter</key>
+	<string>equipmentSize</string>
+	<key>materialRemainder</key>
+	<string>pinchableProjection</string>
+	<key>routeinterpreterspeed</key>
+	<string>maxDuration</string>
+	<key>shouldPopRichText</key>
+	<string>euclideanHash</string>
+	<key>shouldSerializeCheckbox</key>
+	<string>alertEnvironment</string>
+	<key>shouldTrainCube</key>
+	<string>agileBinder</string>
+	<key>sinkspacing</key>
+	<string>modalalonginterpreter</string>
+	<key>staticscroll</key>
+	<string>diffablebutton</string>
+	<key>subscriptionSpeed</key>
+	<string>updateText</string>
+</dict>
+</plist>

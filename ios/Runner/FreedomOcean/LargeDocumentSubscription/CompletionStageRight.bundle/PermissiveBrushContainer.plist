@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entityemitter</key>
+	<string>sortedduration</string>
+	<key>lastReference</key>
+	<string>canFinishSine</string>
+	<key>persistentPlate</key>
+	<string>shouldLayoutEffect</string>
+	<key>reactiveAsync</key>
+	<string>orchestrateBuffer</string>
+	<key>resizableEqualization</key>
+	<string>logOperation</string>
+	<key>storecontainprototype</key>
+	<string>unsortedLifecycle</string>
+	<key>uniformTransition</key>
+	<string>registerResource</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerVisible</key>
+	<string>shouldDecodeGradient</string>
+	<key>crudeAllocator</key>
+	<string>asynchronousDimension</string>
+	<key>lastTransition</key>
+	<string>yieldColumn</string>
+	<key>pivotalProtocol</key>
+	<string>shouldsavecolumn</string>
+	<key>singleAllocator</key>
+	<string>shouldFormatImage</string>
+	<key>spinenearobserver</key>
+	<string>factoryAlignment</string>
+	<key>strokedistance</key>
+	<string>agileDrawer</string>
+	<key>transitionbuffer</key>
+	<string>gridviewDuration</string>
+</dict>
+</plist>

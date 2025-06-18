@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellusecase</key>
+	<string>isAspectRatio</string>
+	<key>originalChooser</key>
+	<string>hierarchicalTechnique</string>
+	<key>shouldDeserializeFragment</key>
+	<string>activeRequest</string>
+	<key>shouldLoadTask</key>
+	<string>benchmarkRadius</string>
+	<key>throughputBrightness</key>
+	<string>spinestate</string>
+	<key>typicalAnimatedContainer</key>
+	<string>visitGraph</string>
+	<key>validateexception</key>
+	<string>shouldshowaspectratio</string>
+</dict>
+</plist>

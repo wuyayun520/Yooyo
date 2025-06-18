@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clonegridview</key>
+	<string>canPrepareAspectRatio</string>
+	<key>decorationduration</key>
+	<string>pinchableRectangle</string>
+	<key>elasticAlert</key>
+	<string>shouldMountDimension</string>
+	<key>shouldDisconnectTheme</key>
+	<string>readBuilder</string>
+	<key>textRight</key>
+	<string>newestFormat</string>
+	<key>variantSaturation</key>
+	<string>dependencyFeedback</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationinactivity</key>
+	<string>unsortedCaption</string>
+	<key>dynamicThreshold</key>
+	<string>semanticTicker</string>
+	<key>isSwift</key>
+	<string>tweenDelay</string>
+	<key>notifiernearmediator</key>
+	<string>loaderVisibility</string>
+	<key>retainedDrawer</key>
+	<string>notifyCallback</string>
+	<key>segueinterface</key>
+	<string>connectEquipment</string>
+	<key>timebound</key>
+	<string>sophisticatedListView</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equipmentshapeorientation</key>
+	<string>giftborder</string>
+	<key>exceptionTint</key>
+	<string>shouldUpdateCache</string>
+	<key>flexiblesensor</key>
+	<string>connectContraction</string>
+	<key>graphicValidation</key>
+	<string>shouldRenderGate</string>
+	<key>greatOverlay</key>
+	<string>nodemethodformat</string>
+	<key>liteColumn</key>
+	<string>resizableSingleton</string>
+	<key>logarithmflyweightvalidation</key>
+	<string>canNotifySubpixel</string>
+	<key>renamemap</key>
+	<string>localentity</string>
+	<key>shouldDecodeProvider</key>
+	<string>computeProvider</string>
+</dict>
+</plist>

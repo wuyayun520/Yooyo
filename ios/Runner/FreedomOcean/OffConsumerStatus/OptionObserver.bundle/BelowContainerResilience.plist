@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialDescription</key>
+	<string>compositionalPageView</string>
+	<key>pivotalEmitter</key>
+	<string>evaluateResponse</string>
+	<key>requestbufferhue</key>
+	<string>declarativeFormat</string>
+	<key>servicePosition</key>
+	<string>dimensionLeft</string>
+	<key>spotfacadespeed</key>
+	<string>diffableLatency</string>
+</dict>
+</plist>

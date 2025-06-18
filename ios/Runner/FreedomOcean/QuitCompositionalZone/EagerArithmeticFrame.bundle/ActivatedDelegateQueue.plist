@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousReduction</key>
+	<string>shouldDetachNavigator</string>
+	<key>eventIndex</key>
+	<string>behaviorFormat</string>
+	<key>interactiveShape</key>
+	<string>masterbottom</string>
+	<key>missedLoader</key>
+	<string>compositionVisibility</string>
+</dict>
+</plist>

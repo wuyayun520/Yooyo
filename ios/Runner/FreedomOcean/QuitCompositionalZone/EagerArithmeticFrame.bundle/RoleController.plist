@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarLocation</key>
+	<string>customChapter</string>
+	<key>backwardScaffold</key>
+	<string>masterAdapter</string>
+	<key>cycleResponse</key>
+	<string>lastNode</string>
+	<key>geometricCurve</key>
+	<string>matrixPlatform</string>
+	<key>materialCycle</key>
+	<string>optimizeConfiguration</string>
+	<key>mediumOperation</key>
+	<string>navigatormediatorformat</string>
+	<key>positionedAppearance</key>
+	<string>cursorHue</string>
+	<key>sortedTentative</key>
+	<string>scopeResponse</string>
+	<key>texttime</key>
+	<string>globalCompletion</string>
+</dict>
+</plist>

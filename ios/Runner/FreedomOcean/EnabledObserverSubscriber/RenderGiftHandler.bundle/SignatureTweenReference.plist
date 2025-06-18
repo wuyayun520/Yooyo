@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveStatus</key>
+	<string>entropyDelay</string>
+	<key>dynamicObserver</key>
+	<string>deferredMatrix</string>
+	<key>presentreducer</key>
+	<string>projectionFormat</string>
+	<key>shouldUnmountObserver</key>
+	<string>painterProxy</string>
+</dict>
+</plist>

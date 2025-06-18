@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableentitypressure</key>
+	<string>loadcontroller</string>
+	<key>geometricTernary</key>
+	<string>canShowGem</string>
+	<key>newestQueue</key>
+	<string>skipEquipment</string>
+	<key>normalArchitecture</key>
+	<string>firstSensor</string>
+	<key>smartProfile</key>
+	<string>similarAction</string>
+	<key>subtleModule</key>
+	<string>nativeMetrics</string>
+	<key>symmetricTask</key>
+	<string>canSkipMaster</string>
+	<key>textOrigin</key>
+	<string>primaryFeature</string>
+</dict>
+</plist>

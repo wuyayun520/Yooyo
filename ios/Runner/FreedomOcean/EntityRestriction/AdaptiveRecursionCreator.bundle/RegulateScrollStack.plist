@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associateindicator</key>
+	<string>canDismissSpine</string>
+	<key>buttonprototypeappearance</key>
+	<string>coordinatorType</string>
+	<key>crucialRequest</key>
+	<string>missionDepth</string>
+	<key>currentinstruction</key>
+	<string>arithmeticCatalyst</string>
+	<key>gridviewborder</key>
+	<string>completionComposite</string>
+	<key>histogramIndex</key>
+	<string>serializetouch</string>
+	<key>icontheme</key>
+	<string>stackVelocity</string>
+	<key>localizationpressure</key>
+	<string>canUnbindCertificate</string>
+	<key>navigatordistance</key>
+	<string>lossformat</string>
+	<key>publisherSkewX</key>
+	<string>listenchannel</string>
+</dict>
+</plist>

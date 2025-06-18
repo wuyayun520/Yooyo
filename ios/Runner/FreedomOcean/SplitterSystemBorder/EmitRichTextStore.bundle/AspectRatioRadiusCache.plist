@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionModel</key>
+	<string>positionedProxy</string>
+	<key>appbarFlags</key>
+	<string>controllerbufferrate</string>
+	<key>autoResilience</key>
+	<string>shouldCancelSignature</string>
+	<key>lastfuture</key>
+	<string>pauseRemainder</string>
+	<key>prismaticMesh</key>
+	<string>dedicatedfuturetail</string>
+	<key>reusablePromise</key>
+	<string>shouldAnimateAnimation</string>
+	<key>shouldFormatPlayback</key>
+	<string>disparateFrame</string>
+	<key>shouldSkipNotification</key>
+	<string>finishDecoration</string>
+	<key>sizelevelforce</key>
+	<string>responseContrast</string>
+</dict>
+</plist>

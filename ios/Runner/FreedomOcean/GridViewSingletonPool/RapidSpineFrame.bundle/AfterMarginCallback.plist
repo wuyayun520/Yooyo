@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonOffset</key>
+	<string>prevText</string>
+	<key>coordinatorcreator</key>
+	<string>maintainSprite</string>
+	<key>lazyHero</key>
+	<string>textureLocation</string>
+	<key>receiverSpacing</key>
+	<string>canUpdatePet</string>
+</dict>
+</plist>

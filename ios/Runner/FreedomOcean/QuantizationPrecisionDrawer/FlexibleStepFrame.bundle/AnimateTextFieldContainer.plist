@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ephemeralEquipment</key>
+	<string>normalanimation</string>
+	<key>frameRotation</key>
+	<string>anchorVelocity</string>
+	<key>gestureshade</key>
+	<string>singleextension</string>
+	<key>iterativelinker</key>
+	<string>reducerSkewY</string>
+	<key>mediumDistinction</key>
+	<string>navigateposition</string>
+	<key>restorewidget</key>
+	<string>greatcontraction</string>
+	<key>temporaryClipper</key>
+	<string>captionVisitor</string>
+	<key>visibleEvent</key>
+	<string>navigateExtension</string>
+</dict>
+</plist>

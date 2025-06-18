@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttoncontroller</key>
+	<string>dedicatedmetadata</string>
+	<key>immediateFactory</key>
+	<string>lossscalability</string>
+	<key>independentMatrix</key>
+	<string>constraintlatency</string>
+	<key>offsetSkewY</key>
+	<string>gatespacing</string>
+	<key>shouldKeepBorder</key>
+	<string>secondthread</string>
+	<key>shouldPauseScaffold</key>
+	<string>activityCoord</string>
+	<key>unactivatedSink</key>
+	<string>respectiveResource</string>
+</dict>
+</plist>

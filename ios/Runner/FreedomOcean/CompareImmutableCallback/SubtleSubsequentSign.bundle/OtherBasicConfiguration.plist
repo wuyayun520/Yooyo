@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activePopup</key>
+	<string>textFlags</string>
+	<key>dedicatedSizedBox</key>
+	<string>resourcetransparency</string>
+	<key>injectrow</key>
+	<string>desktopallocator</string>
+	<key>interfaceshaperight</key>
+	<string>gridbandwidth</string>
+	<key>protectedeffect</key>
+	<string>multiAspectRatio</string>
+	<key>shouldTrainBloc</key>
+	<string>sustainableTrigger</string>
+	<key>themeSaturation</key>
+	<string>signOrientation</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clonegrid</key>
+	<string>canPauseBitrate</string>
+	<key>globalPresenter</key>
+	<string>shouldTransformFragment</string>
+	<key>independentlatency</key>
+	<string>arithmeticcontroller</string>
+	<key>specifyGrayscale</key>
+	<string>navigatetouch</string>
+	<key>storyboardvarskewy</key>
+	<string>shouldUnmountedAlert</string>
+</dict>
+</plist>

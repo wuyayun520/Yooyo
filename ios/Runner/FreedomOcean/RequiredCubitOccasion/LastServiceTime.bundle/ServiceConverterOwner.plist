@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintevaluation</key>
+	<string>consumerVelocity</string>
+	<key>immediateCoordinator</key>
+	<string>validateCoordinator</string>
+	<key>mainLifecycle</key>
+	<string>retainedCustomPaint</string>
+	<key>numericalRoute</key>
+	<string>specifyAsync</string>
+	<key>plateHead</key>
+	<string>optionalongvisitor</string>
+	<key>radiusvarmode</key>
+	<string>shouldRenderHeap</string>
+	<key>rowphaseshade</key>
+	<string>creatorBrightness</string>
+	<key>shouldResumeCell</key>
+	<string>widgetemitter</string>
+	<key>shouldStopGridView</key>
+	<string>unsortedchapterdistance</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarSpeed</key>
+	<string>mediocreFrame</string>
+	<key>cubetexture</key>
+	<string>delicateProcessor</string>
+	<key>gesturedetectortransparency</key>
+	<string>canFinishCustomPaint</string>
+	<key>memberColor</key>
+	<string>prevCoordinator</string>
+	<key>priorCharacter</key>
+	<string>elasticAction</string>
+	<key>shouldCacheNavigation</key>
+	<string>resultbesideoperation</string>
+	<key>shouldMountBorder</key>
+	<string>flexibleTicker</string>
+	<key>shouldPersistProjection</key>
+	<string>canProcessRow</string>
+</dict>
+</plist>

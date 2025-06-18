@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>partitionmenu</key>
+	<string>sensorName</string>
+	<key>persistentMatrix</key>
+	<string>polygonVelocity</string>
+	<key>projectionkindflags</key>
+	<string>skipSignature</string>
+	<key>sessioncoord</key>
+	<string>canValidateSkirt</string>
+	<key>shouldPopModal</key>
+	<string>responsiveIsolate</string>
+	<key>shouldSkipProject</key>
+	<string>relationalMetrics</string>
+	<key>textfieldstate</key>
+	<string>canCancelSkin</string>
+</dict>
+</plist>

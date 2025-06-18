@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableSensor</key>
+	<string>reductionComposite</string>
+	<key>ephemeralMetadata</key>
+	<string>radiusrate</string>
+	<key>futuremetrics</key>
+	<string>aspectpadding</string>
+	<key>smallRepository</key>
+	<string>shouldDispatchMission</string>
+</dict>
+</plist>

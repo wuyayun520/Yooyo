@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticStateful</key>
+	<string>mobileTheme</string>
+	<key>easyRestriction</key>
+	<string>canPopAccessory</string>
+	<key>elasticDelegate</key>
+	<string>hyperbolicRepository</string>
+	<key>handlerdelay</key>
+	<string>efficiencySpacing</string>
+	<key>imperativeRequest</key>
+	<string>collectionamongfunction</string>
+	<key>originalLayout</key>
+	<string>restartTouch</string>
+	<key>processinterpolation</key>
+	<string>tappableEquivalent</string>
+	<key>relationalprovision</key>
+	<string>delicateCard</string>
+	<key>shouldDismissTask</key>
+	<string>subscriptionDecorator</string>
+	<key>transitionedge</key>
+	<string>uniqueScheduler</string>
+</dict>
+</plist>

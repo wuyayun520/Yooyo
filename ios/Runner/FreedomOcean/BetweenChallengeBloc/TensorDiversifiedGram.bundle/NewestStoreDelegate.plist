@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderbesidenumber</key>
+	<string>comprehensiveText</string>
+	<key>localduration</key>
+	<string>shouldskipspot</string>
+	<key>mediawithoutfacade</key>
+	<string>sharedSpecifier</string>
+	<key>missionBound</key>
+	<string>replaceoverlay</string>
+	<key>mobileState</key>
+	<string>webInteractor</string>
+	<key>polyfillBrightness</key>
+	<string>menuPattern</string>
+	<key>projectvolume</key>
+	<string>alignmentshade</string>
+	<key>shouldLoadSign</key>
+	<string>boxshadowinsidestyle</string>
+	<key>shouldStartBatch</key>
+	<string>respondGrain</string>
+	<key>sustainableDescription</key>
+	<string>concreteCompletion</string>
+</dict>
+</plist>

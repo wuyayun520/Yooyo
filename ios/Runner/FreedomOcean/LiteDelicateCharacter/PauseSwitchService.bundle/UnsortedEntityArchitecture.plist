@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>architectureSkewX</key>
+	<string>shouldFinishBrush</string>
+	<key>basicTask</key>
+	<string>masterprocessorientation</string>
+	<key>mediocreobserver</key>
+	<string>shouldreplaceheap</string>
+	<key>resolvestream</key>
+	<string>bitrateAcceleration</string>
+	<key>subsequentPreview</key>
+	<string>asynchronousMaterial</string>
+</dict>
+</plist>

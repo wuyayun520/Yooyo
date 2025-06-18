@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionNotation</key>
+	<string>reactiveCatalyst</string>
+	<key>animationevent</key>
+	<string>sequentialStroke</string>
+	<key>challengemanager</key>
+	<string>canLoadStep</string>
+	<key>dropoutdescriptor</key>
+	<string>generateResult</string>
+	<key>exceptionflyweightlocation</key>
+	<string>canUpdateStateful</string>
+	<key>oldDropdownButton</key>
+	<string>smartEntity</string>
+	<key>platestate</key>
+	<string>extendObserver</string>
+	<key>reducerKind</key>
+	<string>remainderContrast</string>
+	<key>toolIndex</key>
+	<string>textBound</string>
+</dict>
+</plist>

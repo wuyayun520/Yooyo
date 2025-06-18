@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerdispatcher</key>
+	<string>stepAlignment</string>
+	<key>dedicatedevent</key>
+	<string>inflateQueue</string>
+	<key>emittangent</key>
+	<string>thresholdName</string>
+	<key>euclideanMaterial</key>
+	<string>evaluateSprite</string>
+	<key>instructionpermutation</key>
+	<string>behaviorcontrast</string>
+	<key>pivotalObserver</key>
+	<string>animatedrequest</string>
+	<key>popupmargin</key>
+	<string>encodeCubit</string>
+	<key>shouldpushslider</key>
+	<string>continueProfile</string>
+	<key>tabviewflyweightmargin</key>
+	<string>scrollableAnalogy</string>
+</dict>
+</plist>

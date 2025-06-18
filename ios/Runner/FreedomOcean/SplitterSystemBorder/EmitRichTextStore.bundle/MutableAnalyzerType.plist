@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curvepressure</key>
+	<string>canStopSymbol</string>
+	<key>mapSaturation</key>
+	<string>unsortedSensor</string>
+	<key>shouldunbindcursor</key>
+	<string>cursorperstyle</string>
+</dict>
+</plist>

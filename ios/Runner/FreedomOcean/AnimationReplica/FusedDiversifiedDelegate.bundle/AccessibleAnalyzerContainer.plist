@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accelerateprotocol</key>
+	<string>backwardScheduler</string>
+	<key>backwardreducer</key>
+	<string>emitreducer</string>
+	<key>disabledCurve</key>
+	<string>topicTier</string>
+	<key>entropyOrientation</key>
+	<string>shouldShowButton</string>
+	<key>intuitiveChannels</key>
+	<string>signFrequency</string>
+	<key>lossacceleration</key>
+	<string>mediocreCapacity</string>
+	<key>sharedSprite</key>
+	<string>canKeepUsage</string>
+	<key>stackascent</key>
+	<string>shouldResumeAnchor</string>
+	<key>statevelocity</key>
+	<string>requiredLogarithm</string>
+	<key>timelineSkewY</key>
+	<string>smallCapacity</string>
+</dict>
+</plist>

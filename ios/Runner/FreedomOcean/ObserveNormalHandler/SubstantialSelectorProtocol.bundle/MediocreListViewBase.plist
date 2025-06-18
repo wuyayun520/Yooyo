@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitFrequency</key>
+	<string>canDeserializePet</string>
+	<key>currentcallback</key>
+	<string>defaultTernary</string>
+	<key>graphtail</key>
+	<string>invokeButton</string>
+	<key>inactivepreviewoffset</key>
+	<string>filterStyle</string>
+	<key>invisibleLocalization</key>
+	<string>canStreamBoxShadow</string>
+	<key>lastCapacities</key>
+	<string>activeCallback</string>
+	<key>platetension</key>
+	<string>keyMomentum</string>
+	<key>promiseValidation</key>
+	<string>secondRoute</string>
+	<key>setstatereference</key>
+	<string>logParam</string>
+	<key>usecaseLeft</key>
+	<string>descriptorProxy</string>
+</dict>
+</plist>

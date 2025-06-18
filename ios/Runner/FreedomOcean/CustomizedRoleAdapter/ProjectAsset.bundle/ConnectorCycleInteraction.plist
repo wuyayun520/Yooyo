@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileUsage</key>
+	<string>eagerAccessory</string>
+	<key>draggableStoryboard</key>
+	<string>completedContraction</string>
+	<key>interactorshapeduration</key>
+	<string>expandedMethod</string>
+	<key>largeMember</key>
+	<string>loopCoord</string>
+	<key>mediumStack</key>
+	<string>viewStrategy</string>
+	<key>permissiveCallback</key>
+	<string>metadataTier</string>
+	<key>quaternionBehavior</key>
+	<string>capacityCenter</string>
+	<key>shouldDetachBase</key>
+	<string>globalIntensity</string>
+	<key>timerForce</key>
+	<string>temporaryproject</string>
+</dict>
+</plist>

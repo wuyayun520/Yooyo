@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorTheme</key>
+	<string>particleTop</string>
+	<key>cupertinoalongfacade</key>
+	<string>mountOptimizer</string>
+	<key>immutablepublisher</key>
+	<string>tabbarFrequency</string>
+	<key>modelFlags</key>
+	<string>deflatenorm</string>
+	<key>resilientInfo</key>
+	<string>characterPattern</string>
+	<key>seamlessfeature</key>
+	<string>canShowSizedBox</string>
+	<key>shouldMountedCapacities</key>
+	<string>canSaveDocument</string>
+</dict>
+</plist>

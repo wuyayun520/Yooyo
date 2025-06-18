@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineproxyhue</key>
+	<string>keepSlash</string>
+	<key>completerlevelfeedback</key>
+	<string>embraceRouter</string>
+	<key>encodeindicator</key>
+	<string>activatethread</string>
+	<key>gestureshade</key>
+	<string>expandedFlags</string>
+	<key>mediocreOption</key>
+	<string>popicon</string>
+	<key>originalStep</key>
+	<string>graphicpatterninteraction</string>
+	<key>prevSemantics</key>
+	<string>usageInset</string>
+	<key>typicalMonster</key>
+	<string>ascentdepth</string>
+	<key>unsortedResolver</key>
+	<string>oldResolver</string>
+</dict>
+</plist>

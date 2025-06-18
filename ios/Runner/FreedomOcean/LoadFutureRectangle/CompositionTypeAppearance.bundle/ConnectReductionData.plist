@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystVelocity</key>
+	<string>checklistdescription</string>
+	<key>denseresolver</key>
+	<string>compositionCommand</string>
+	<key>desktopFactory</key>
+	<string>displayableBuilder</string>
+	<key>effectSkewX</key>
+	<string>retainedgridviewdepth</string>
+	<key>mediumCycle</key>
+	<string>canPushTabBar</string>
+	<key>shouldStartCheckbox</key>
+	<string>reactiveScope</string>
+	<key>slidermodefrequency</key>
+	<string>serializeCompletion</string>
+	<key>splitterVisible</key>
+	<string>uniqueMusic</string>
+</dict>
+</plist>

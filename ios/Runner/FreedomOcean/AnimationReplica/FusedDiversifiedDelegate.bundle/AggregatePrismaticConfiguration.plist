@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisResponse</key>
+	<string>canLayoutMediaQuery</string>
+	<key>calculatecontraction</key>
+	<string>segmentOffset</string>
+	<key>dedicatedNode</key>
+	<string>cacheCurve</string>
+	<key>futureOffset</key>
+	<string>boxflags</string>
+	<key>graphicscroller</key>
+	<string>mountedFragment</string>
+	<key>protectedSize</key>
+	<string>diversifiedSensor</string>
+	<key>typicalThroughput</key>
+	<string>losssize</string>
+</dict>
+</plist>

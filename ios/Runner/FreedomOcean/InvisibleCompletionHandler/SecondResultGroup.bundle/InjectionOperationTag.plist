@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedGradient</key>
+	<string>resumeGridView</string>
+	<key>interactiveResilience</key>
+	<string>notifySizedBox</string>
+	<key>newestBox</key>
+	<string>mediaTier</string>
+	<key>specifierfragments</key>
+	<string>dedicatedBitrate</string>
+	<key>themevariableedge</key>
+	<string>scrollerpadding</string>
+</dict>
+</plist>

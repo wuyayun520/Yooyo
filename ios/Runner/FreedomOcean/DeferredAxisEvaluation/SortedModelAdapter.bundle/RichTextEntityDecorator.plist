@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticSubpixel</key>
+	<string>shouldBindSegment</string>
+	<key>basicsprite</key>
+	<string>zoneShape</string>
+	<key>constraintStatus</key>
+	<string>entitystate</string>
+	<key>intermediateAnimator</key>
+	<string>tabviewOpacity</string>
+	<key>isCapsule</key>
+	<string>specifyAnalyzer</string>
+	<key>missedConsumer</key>
+	<string>canDismissCertificate</string>
+	<key>shouldSubscribeMedia</key>
+	<string>firstDistinction</string>
+	<key>shouldcreatematrix</key>
+	<string>histogrambound</string>
+	<key>webStateless</key>
+	<string>ignoredSkin</string>
+</dict>
+</plist>

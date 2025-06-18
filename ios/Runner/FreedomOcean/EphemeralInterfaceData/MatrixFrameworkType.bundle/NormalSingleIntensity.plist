@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>audioBehavior</key>
+	<string>selectedSpine</string>
+	<key>coordinatortint</key>
+	<string>compositionalTrigger</string>
+	<key>distinctionOrigin</key>
+	<string>scrollableLayout</string>
+	<key>lazyStamp</key>
+	<string>resizableEffect</string>
+	<key>nodeOffset</key>
+	<string>dialogsProxy</string>
+</dict>
+</plist>

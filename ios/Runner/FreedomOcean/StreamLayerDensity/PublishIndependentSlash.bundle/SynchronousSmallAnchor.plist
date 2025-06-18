@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>greatcardinset</key>
+	<string>canFinishMultiplication</string>
+	<key>spriteInterval</key>
+	<string>hasmodal</string>
+	<key>tickertypeskewy</key>
+	<string>shouldValidateBaseline</string>
+	<key>visiblecharacterposition</key>
+	<string>statefulPhase</string>
+</dict>
+</plist>

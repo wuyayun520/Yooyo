@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatordrawer</key>
+	<string>appendInteractor</string>
+	<key>dropdownbuttonFeedback</key>
+	<string>activeAwait</string>
+	<key>euclideanStorage</key>
+	<string>processreduction</string>
+	<key>selectedAlert</key>
+	<string>globalReference</string>
+	<key>tappableScaffold</key>
+	<string>showTable</string>
+	<key>tweenAppearance</key>
+	<string>cardOffset</string>
+</dict>
+</plist>

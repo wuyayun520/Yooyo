@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionExpanded</key>
+	<string>othersingleton</string>
+	<key>ephemeralCallback</key>
+	<string>progressbarInterval</string>
+	<key>heroTheme</key>
+	<string>taxonomyDistance</string>
+	<key>liteCluster</key>
+	<string>queueDepth</string>
+	<key>modulusTransparency</key>
+	<string>eventVar</string>
+	<key>parsedependency</key>
+	<string>extendDecoration</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudefeature</key>
+	<string>isolateBorder</string>
+	<key>inactiveNode</key>
+	<string>reductionOpacity</string>
+	<key>inheritedPadding</key>
+	<string>shouldRebuildMovement</string>
+	<key>particleShade</key>
+	<string>remainderscalability</string>
+	<key>queueforenvironment</key>
+	<string>bindScaffold</string>
+	<key>shouldBuildSine</key>
+	<string>buttonAcceleration</string>
+	<key>streamnavigation</key>
+	<string>observerinbuffer</string>
+	<key>uniqueTopic</key>
+	<string>uniqueFinder</string>
+	<key>unmountappbar</key>
+	<string>renderLog</string>
+</dict>
+</plist>

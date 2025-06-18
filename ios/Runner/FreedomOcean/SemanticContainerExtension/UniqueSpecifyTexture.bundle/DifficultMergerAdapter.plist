@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeMedia</key>
+	<string>statefulflags</string>
+	<key>activityInset</key>
+	<string>managerActivity</string>
+	<key>characterAcceleration</key>
+	<string>graphicdespitelayer</string>
+	<key>customizedSearcher</key>
+	<string>wrapperBound</string>
+	<key>modelAppearance</key>
+	<string>singleMethod</string>
+	<key>requesttension</key>
+	<string>customizedPainter</string>
+	<key>seamlessProfile</key>
+	<string>hasStep</string>
+	<key>shouldLoadPromise</key>
+	<string>locatedependency</string>
+	<key>substantialfactory</key>
+	<string>maxLabel</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxquaternion</key>
+	<string>shouldPauseDuration</string>
+	<key>ephemeralBox</key>
+	<string>restoreDelegate</string>
+	<key>mediumTolerance</key>
+	<string>rebuildmedia</string>
+	<key>metadataLocation</key>
+	<string>brushNumber</string>
+	<key>normalAnchor</key>
+	<string>fixedloop</string>
+	<key>persistentSession</key>
+	<string>effectVisible</string>
+	<key>robustAnalyzer</key>
+	<string>associatedEmitter</string>
+	<key>subtleSpecifier</key>
+	<string>convolutionOperation</string>
+</dict>
+</plist>

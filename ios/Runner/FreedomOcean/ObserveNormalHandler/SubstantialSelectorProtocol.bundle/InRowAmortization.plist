@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedaxis</key>
+	<string>invisibleSign</string>
+	<key>dissociateresource</key>
+	<string>independentConnector</string>
+	<key>dropdownbuttonvarfeedback</key>
+	<string>musicJob</string>
+	<key>inactiveTween</key>
+	<string>inheritedcontainerhead</string>
+	<key>newestFilter</key>
+	<string>configureprovider</string>
+	<key>reactiveColor</key>
+	<string>chapterVisible</string>
+	<key>searcherAcceleration</key>
+	<string>tangentascent</string>
+	<key>shouldDisposeAspectRatio</key>
+	<string>priorExponent</string>
+	<key>shouldLayoutStateless</key>
+	<string>decodeMediaQuery</string>
+	<key>substantialMaterial</key>
+	<string>canLayoutCycle</string>
+</dict>
+</plist>

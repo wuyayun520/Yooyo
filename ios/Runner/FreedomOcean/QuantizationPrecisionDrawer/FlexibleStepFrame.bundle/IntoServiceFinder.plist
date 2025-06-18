@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessorytime</key>
+	<string>shouldObserveView</string>
+	<key>dependencyposition</key>
+	<string>componentbottom</string>
+	<key>hierarchicalCoordinator</key>
+	<string>mediocreProvider</string>
+	<key>mainSize</key>
+	<string>receivereducer</string>
+	<key>momentumbrightness</key>
+	<string>customizedAnchor</string>
+	<key>nativeCursor</key>
+	<string>scrollableColumn</string>
+	<key>nativeMechanism</key>
+	<string>sliderStage</string>
+	<key>requiredTitle</key>
+	<string>appbarSingleton</string>
+	<key>unactivatedOption</key>
+	<string>primarySorter</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicstatefultransparency</key>
+	<string>geometricProvider</string>
+	<key>hyperbolicAnimation</key>
+	<string>multiplySlider</string>
+	<key>presenttransition</key>
+	<string>fetchmultiplication</string>
+	<key>provideroffset</key>
+	<string>pageviewalongcomposite</string>
+	<key>seamlessLinker</key>
+	<string>intuitivecacheopacity</string>
+	<key>shouldBindPageView</key>
+	<string>nativeFormat</string>
+	<key>shouldPublishClipper</key>
+	<string>mediocreGrid</string>
+	<key>shouldValidateRole</key>
+	<string>inheritedMetrics</string>
+	<key>visibleExpanded</key>
+	<string>markContainer</string>
+</dict>
+</plist>

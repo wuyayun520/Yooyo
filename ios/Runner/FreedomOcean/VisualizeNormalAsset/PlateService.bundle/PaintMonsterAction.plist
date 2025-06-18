@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convolutionForce</key>
+	<string>isoption</string>
+	<key>declarativeCube</key>
+	<string>scaleTransparency</string>
+	<key>globalAwait</key>
+	<string>subscribeNorm</string>
+	<key>layouttransparency</key>
+	<string>operationCenter</string>
+	<key>mutableNavigator</key>
+	<string>displayableSlash</string>
+	<key>shouldMountEffect</key>
+	<string>profileTransition</string>
+	<key>shouldPublishColumn</key>
+	<string>visitMetadata</string>
+	<key>tableskewx</key>
+	<string>canSkipGesture</string>
+</dict>
+</plist>

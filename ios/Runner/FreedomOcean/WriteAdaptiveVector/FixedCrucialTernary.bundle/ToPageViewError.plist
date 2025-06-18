@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dispatchcoordinator</key>
+	<string>remainderDirection</string>
+	<key>notificationAlignment</key>
+	<string>rebuildMovement</string>
+	<key>semanticTangent</key>
+	<string>semanticloader</string>
+	<key>shaderinset</key>
+	<string>localTransformer</string>
+	<key>shouldLoadVariant</key>
+	<string>boxIndex</string>
+	<key>staticerror</key>
+	<string>consumeText</string>
+	<key>subpixelDensity</key>
+	<string>observerRotation</string>
+</dict>
+</plist>

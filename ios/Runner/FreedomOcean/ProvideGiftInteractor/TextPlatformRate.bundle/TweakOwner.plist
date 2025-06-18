@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>handlerShape</key>
+	<string>shouldCreateSubpixel</string>
+	<key>layerType</key>
+	<string>intensityLocation</string>
+	<key>oldIntegrity</key>
+	<string>informationDelay</string>
+	<key>subsequentLatency</key>
+	<string>prevChapter</string>
+</dict>
+</plist>

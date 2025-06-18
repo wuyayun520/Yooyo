@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>componentFlags</key>
+	<string>matrixName</string>
+	<key>displaysubscription</key>
+	<string>nodeTint</string>
+	<key>loopBorder</key>
+	<string>restrictionState</string>
+	<key>lostSwitch</key>
+	<string>unmountEqualization</string>
+	<key>schedulestorage</key>
+	<string>opaqueDrawer</string>
+</dict>
+</plist>

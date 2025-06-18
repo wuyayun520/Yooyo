@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticStateless</key>
+	<string>buttonInterpreter</string>
+	<key>constraintvalidation</key>
+	<string>protectedRoute</string>
+	<key>contrastleft</key>
+	<string>reactiveobserver</string>
+	<key>discardedmission</key>
+	<string>touchInset</string>
+	<key>flexibleMetrics</key>
+	<string>shouldRouteGesture</string>
+	<key>immediateWorkflow</key>
+	<string>temporaryMesh</string>
+	<key>interpolationTension</key>
+	<string>streamDelay</string>
+	<key>listviewbrightness</key>
+	<string>sortedSine</string>
+	<key>sliderOrigin</key>
+	<string>resizablemodalbrightness</string>
+	<key>stackTheme</key>
+	<string>listenerDelay</string>
+</dict>
+</plist>

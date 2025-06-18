@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisslider</key>
+	<string>decodeTicker</string>
+	<key>channelsFormat</key>
+	<string>shouldMountedSwitch</string>
+	<key>constraintadapterinset</key>
+	<string>emitLocalization</string>
+	<key>fixedBox</key>
+	<string>assetOrigin</string>
+	<key>notationRate</key>
+	<string>responsiveFormat</string>
+	<key>retrieveprogressbar</key>
+	<string>shouldProcessPromise</string>
+	<key>shouldDisconnectStack</key>
+	<string>selectorDirection</string>
+	<key>shouldSubscribeStateful</key>
+	<string>dispatcherType</string>
+	<key>usecaseatmediator</key>
+	<string>transformerCoord</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>indicatorFlags</key>
+	<string>explicitCustomPaint</string>
+	<key>ismember</key>
+	<string>draggableFormat</string>
+	<key>resilientGem</key>
+	<string>requiredTabView</string>
+	<key>shouldSkipCache</key>
+	<string>providerVisibility</string>
+	<key>startrole</key>
+	<string>finderTag</string>
+	<key>tensorMediaQuery</key>
+	<string>intermediatebloc</string>
+	<key>uniqueNode</key>
+	<string>easyCubit</string>
+	<key>usedcubitlocation</key>
+	<string>recttype</string>
+</dict>
+</plist>

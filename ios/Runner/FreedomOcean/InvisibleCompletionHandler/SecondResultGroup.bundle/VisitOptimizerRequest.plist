@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascentState</key>
+	<string>giftbeyondaction</string>
+	<key>effectPressure</key>
+	<string>collectionLeft</string>
+	<key>mobileDropdownButton</key>
+	<string>timercenter</string>
+	<key>shouldCreateComposition</key>
+	<string>fetchNorm</string>
+	<key>shouldReplaceAspectRatio</key>
+	<string>composableMaterializer</string>
+	<key>shouldinflatetable</key>
+	<string>lostPopup</string>
+	<key>tweenAcceleration</key>
+	<string>indicatorScale</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedPopup</key>
+	<string>animatordepth</string>
+	<key>discardedCube</key>
+	<string>statelessbutton</string>
+	<key>handlerKind</key>
+	<string>activeEvent</string>
+	<key>independentNotifier</key>
+	<string>shouldBuildStamp</string>
+	<key>pinchableOption</key>
+	<string>litePageView</string>
+	<key>schemaOrigin</key>
+	<string>primaryStorage</string>
+	<key>sessionsprite</key>
+	<string>curveTension</string>
+	<key>shouldParseSlash</key>
+	<string>parallelBinary</string>
+</dict>
+</plist>

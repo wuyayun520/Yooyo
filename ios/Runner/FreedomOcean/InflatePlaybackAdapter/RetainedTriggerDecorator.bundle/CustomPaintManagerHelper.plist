@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeStateful</key>
+	<string>substantialMaterial</string>
+	<key>desktopPageView</key>
+	<string>pinchableGrid</string>
+	<key>greatScaffold</key>
+	<string>modelWork</string>
+	<key>meshShape</key>
+	<string>canMountSensor</string>
+	<key>overlaySpacing</key>
+	<string>greatFragment</string>
+	<key>splitterTint</key>
+	<string>symbolCommand</string>
+</dict>
+</plist>

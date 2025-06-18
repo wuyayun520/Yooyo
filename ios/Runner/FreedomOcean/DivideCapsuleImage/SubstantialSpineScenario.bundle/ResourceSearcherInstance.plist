@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeThroughput</key>
+	<string>canEmitSign</string>
+	<key>deserializeslider</key>
+	<string>binderleft</string>
+	<key>enabledRichText</key>
+	<string>protocoltemplestate</string>
+	<key>instructionstyle</key>
+	<string>customGate</string>
+	<key>shouldResumeGestureDetector</key>
+	<string>isrichtext</string>
+	<key>taskenvironmentcoord</key>
+	<string>immediatepreviewspeed</string>
+</dict>
+</plist>

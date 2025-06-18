@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumerAcceleration</key>
+	<string>movementCoord</string>
+	<key>hyperbolicStep</key>
+	<string>wrapSlider</string>
+	<key>nodeaschain</key>
+	<string>chooserPressure</string>
+	<key>normalProject</key>
+	<string>sizestroke</string>
+	<key>richtextspacing</key>
+	<string>uniformgraphresponse</string>
+	<key>spinemode</key>
+	<string>interactiveDocument</string>
+	<key>titlecompositefrequency</key>
+	<string>musicActivity</string>
+	<key>unaryamongtype</key>
+	<string>bitrateOrientation</string>
+	<key>usedInterpolation</key>
+	<string>delicateManager</string>
+</dict>
+</plist>

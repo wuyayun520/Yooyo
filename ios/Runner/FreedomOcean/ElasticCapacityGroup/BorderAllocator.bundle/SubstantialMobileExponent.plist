@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>componentDensity</key>
+	<string>gridVelocity</string>
+	<key>hashistogram</key>
+	<string>baseVariable</string>
+	<key>intermediateSegment</key>
+	<string>shouldShowCheckbox</string>
+	<key>musicchart</key>
+	<string>nativesliderforce</string>
+	<key>shouldHandleDropdownButton</key>
+	<string>parsePlayback</string>
+	<key>subtleElasticity</key>
+	<string>mountLabel</string>
+</dict>
+</plist>

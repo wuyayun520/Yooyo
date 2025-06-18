@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binderTheme</key>
+	<string>movementTransparency</string>
+	<key>compositionalUnary</key>
+	<string>trajectoryShape</string>
+	<key>deserializecompleter</key>
+	<string>tabbarresponse</string>
+	<key>introspectsubscription</key>
+	<string>shouldPersistProject</string>
+	<key>opaqueBloc</key>
+	<string>listenUnary</string>
+	<key>originalMetadata</key>
+	<string>sustainableEfficiency</string>
+	<key>publicGem</key>
+	<string>shouldRebuildOption</string>
+	<key>tooltemplehue</key>
+	<string>offsetSkewY</string>
+</dict>
+</plist>

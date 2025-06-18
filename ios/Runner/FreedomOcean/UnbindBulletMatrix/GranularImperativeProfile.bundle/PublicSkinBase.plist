@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleCompleter</key>
+	<string>allocateCoordinator</string>
+	<key>animationCoord</key>
+	<string>prismaticSign</string>
+	<key>associatedactiontheme</key>
+	<string>canStreamTheme</string>
+	<key>concreteDependency</key>
+	<string>dismissOverlay</string>
+	<key>gridviewInset</key>
+	<string>dropdownbuttonName</string>
+	<key>missionRate</key>
+	<string>themePosition</string>
+	<key>observersincecontext</key>
+	<string>shouldUnmountedInteger</string>
+	<key>originalLayout</key>
+	<string>sessionOpacity</string>
+	<key>shouldDisposeGrayscale</key>
+	<string>retrieveTask</string>
+</dict>
+</plist>

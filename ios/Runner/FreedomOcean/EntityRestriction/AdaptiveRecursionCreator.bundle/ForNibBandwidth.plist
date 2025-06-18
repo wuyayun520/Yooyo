@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonobservertype</key>
+	<string>advancedAnimation</string>
+	<key>currentDisclaimer</key>
+	<string>visibleFeature</string>
+	<key>lifecycleMomentum</key>
+	<string>respectiveCapacities</string>
+	<key>pickeralignment</key>
+	<string>rebuildBase</string>
+	<key>shouldAnimateRadio</key>
+	<string>popupStyle</string>
+	<key>shouldPrepareCanvas</key>
+	<string>defaultgridview</string>
+</dict>
+</plist>

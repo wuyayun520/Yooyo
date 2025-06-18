@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedScreen</key>
+	<string>compositionalConverter</string>
+	<key>invisibleNavigation</key>
+	<string>granularVertex</string>
+	<key>latencyInterval</key>
+	<string>shouldListenSine</string>
+	<key>requiredBoxShadow</key>
+	<string>readDuration</string>
+	<key>shouldBuildController</key>
+	<string>sinkDecorator</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryscopeinteraction</key>
+	<string>canStopImage</string>
+	<key>cycleawaybridge</key>
+	<string>frametop</string>
+	<key>detachindicator</key>
+	<string>parseScale</string>
+	<key>dispatchrequest</key>
+	<string>shouldValidatePrecision</string>
+	<key>elasticInformation</key>
+	<string>liteBloc</string>
+	<key>hascurve</key>
+	<string>monsterComposite</string>
+	<key>mediocreUsage</key>
+	<string>canSaveBullet</string>
+	<key>metadatafacadelocation</key>
+	<string>triggerstyle</string>
+	<key>popupduringvariable</key>
+	<string>canDismissAnimation</string>
+</dict>
+</plist>

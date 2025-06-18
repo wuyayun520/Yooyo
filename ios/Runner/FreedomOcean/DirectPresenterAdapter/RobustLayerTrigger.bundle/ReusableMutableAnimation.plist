@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedManager</key>
+	<string>parallelHero</string>
+	<key>integrityTail</key>
+	<string>deferredCallback</string>
+	<key>resourceIndex</key>
+	<string>prepareConsumer</string>
+	<key>routemember</key>
+	<string>batchCommand</string>
+	<key>shouldEncodeDuration</key>
+	<string>canRoutePainter</string>
+	<key>shouldStartLabel</key>
+	<string>singleTouch</string>
+	<key>soundFrequency</key>
+	<string>convolutionfeedback</string>
+</dict>
+</plist>

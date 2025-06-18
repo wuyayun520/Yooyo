@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartCenter</key>
+	<string>catalystComposite</string>
+	<key>explicitAmortization</key>
+	<string>deflateStore</string>
+	<key>opaquegrid</key>
+	<string>subtleSprite</string>
+	<key>positionedfeature</key>
+	<string>accessibleCatalyst</string>
+	<key>shouldcontinuecache</key>
+	<string>pinchableSink</string>
+	<key>singleHeap</key>
+	<string>canEncodeRemainder</string>
+	<key>symmetricExponent</key>
+	<string>replicateRequest</string>
+	<key>uniformGestureDetector</key>
+	<string>handleBrush</string>
+</dict>
+</plist>

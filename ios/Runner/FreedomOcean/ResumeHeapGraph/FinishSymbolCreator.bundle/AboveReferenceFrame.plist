@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessorySpacing</key>
+	<string>reusableMaster</string>
+	<key>isolatecyclecenter</key>
+	<string>shouldKeepTangent</string>
+	<key>mitigaterow</key>
+	<string>shouldfetchcell</string>
+	<key>statefulInformation</key>
+	<string>fetchCube</string>
+	<key>temporaryEffect</key>
+	<string>uniqueTabBar</string>
+	<key>uniforminfrastructure</key>
+	<string>viewinteraction</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>notifydialogs</key>
+	<string>beginnerchapterdistance</string>
+	<key>popupBorder</key>
+	<string>featurebehavior</string>
+	<key>scrollablemenumomentum</key>
+	<string>resizableUnary</string>
+	<key>setstateicon</key>
+	<string>activeInterface</string>
+	<key>usecasealongparam</key>
+	<string>globalConsumer</string>
+</dict>
+</plist>

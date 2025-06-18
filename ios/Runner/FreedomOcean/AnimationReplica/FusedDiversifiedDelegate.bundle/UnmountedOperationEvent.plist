@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonRotation</key>
+	<string>crucialReference</string>
+	<key>hasfragment</key>
+	<string>popupformorientation</string>
+	<key>ignoredAnimator</key>
+	<string>recursionType</string>
+	<key>shouldDisposeWorkflow</key>
+	<string>activebrush</string>
+	<key>temporaryConnector</key>
+	<string>shouldSerializeIndicator</string>
+</dict>
+</plist>

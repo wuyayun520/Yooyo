@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteMend</key>
+	<string>shouldunmountedscaffold</string>
+	<key>custompaintobserver</key>
+	<string>pushNode</string>
+	<key>dynamicscalability</key>
+	<string>declarativeModal</string>
+	<key>hierarchicalProgressBar</key>
+	<string>kernelcontroller</string>
+	<key>interactorValidation</key>
+	<string>shouldPauseScroll</string>
+	<key>mainCharacteristic</key>
+	<string>shouldValidateRadio</string>
+	<key>opaqueSemantics</key>
+	<string>findGroup</string>
+	<key>pauseflex</key>
+	<string>canLayoutSample</string>
+	<key>rapidChart</key>
+	<string>normalmastermargin</string>
+</dict>
+</plist>

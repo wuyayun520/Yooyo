@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>granularTraversal</key>
+	<string>inactiveEntity</string>
+	<key>linkerTint</key>
+	<string>canRenderTangent</string>
+	<key>methodSpeed</key>
+	<string>prioritySize</string>
+	<key>multiplicationpercommand</key>
+	<string>playbackBrightness</string>
+	<key>protocollevelpadding</key>
+	<string>canFinishGridView</string>
+	<key>requestEdge</key>
+	<string>standaloneCombiner</string>
+	<key>slidername</key>
+	<string>shouldDeserializeCharacter</string>
+</dict>
+</plist>

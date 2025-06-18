@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoComponent</key>
+	<string>chartSingleton</string>
+	<key>commonRecursion</key>
+	<string>profileinsidepattern</string>
+	<key>dynamicAnimator</key>
+	<string>modelCenter</string>
+	<key>integervalidation</key>
+	<string>lostLocalization</string>
+	<key>memberEdge</key>
+	<string>containertransparency</string>
+	<key>prevChooser</key>
+	<string>dedicatedrepository</string>
+	<key>shouldParseColumn</key>
+	<string>gestureProxy</string>
+</dict>
+</plist>

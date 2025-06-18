@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisEdge</key>
+	<string>custompaintPressure</string>
+	<key>deprecatenode</key>
+	<string>differentiateGraph</string>
+	<key>framerotation</key>
+	<string>parallelShader</string>
+	<key>parallelChapter</key>
+	<string>modalComposite</string>
+	<key>prevTicker</key>
+	<string>multicontainer</string>
+	<key>shouldAnimateResource</key>
+	<string>writecallback</string>
+	<key>statefulprovider</key>
+	<string>buildMonster</string>
+	<key>usedTweak</key>
+	<string>webCurve</string>
+</dict>
+</plist>

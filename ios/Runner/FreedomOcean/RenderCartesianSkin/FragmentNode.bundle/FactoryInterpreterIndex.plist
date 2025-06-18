@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>audioOrigin</key>
+	<string>boxshadowShape</string>
+	<key>firstScenario</key>
+	<string>shouldMountDialogs</string>
+	<key>largeError</key>
+	<string>tabbarForce</string>
+	<key>reducerfilter</key>
+	<string>canUpdatePlayback</string>
+	<key>sinecontaintier</key>
+	<string>publicCycle</string>
+	<key>specifierFrequency</key>
+	<string>subscribeSpot</string>
+</dict>
+</plist>

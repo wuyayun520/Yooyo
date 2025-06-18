@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaCenter</key>
+	<string>documentSkewX</string>
+	<key>difficultZone</key>
+	<string>restartAnimatedContainer</string>
+	<key>displayableDependency</key>
+	<string>selectedchannels</string>
+	<key>ephemeralsingleton</key>
+	<string>iterativeTransition</string>
+	<key>hardStamp</key>
+	<string>musicJob</string>
+	<key>offsetOffset</key>
+	<string>menuSpeed</string>
+	<key>primaryButton</key>
+	<string>discoverCallback</string>
+	<key>rapidMission</key>
+	<string>reactiveInformation</string>
+	<key>tweentail</key>
+	<string>infotheme</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedgraph</key>
+	<string>renameRepository</string>
+	<key>cubeAppearance</key>
+	<string>mobileSubscription</string>
+	<key>cycleDepth</key>
+	<string>shouldCancelBorder</string>
+	<key>drawerFrequency</key>
+	<string>canListenNavigation</string>
+	<key>observerconfidentiality</key>
+	<string>characterObserver</string>
+	<key>serviceSize</key>
+	<string>independentFinder</string>
+	<key>statefulUsage</key>
+	<string>mainFilter</string>
+	<key>tappablemargin</key>
+	<string>backwardPopup</string>
+</dict>
+</plist>

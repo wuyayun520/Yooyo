@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activelifecycle</key>
+	<string>rapidDrawer</string>
+	<key>advancedChart</key>
+	<string>firstRepository</string>
+	<key>customAsset</key>
+	<string>shouldEmitMap</string>
+	<key>customizedResponse</key>
+	<string>shouldAnimateText</string>
+	<key>groupdensity</key>
+	<string>stopTool</string>
+	<key>shouldReplaceTabView</key>
+	<string>shouldUnmountedSignature</string>
+	<key>shouldloaddialogs</key>
+	<string>implementBloc</string>
+	<key>symmetricsink</key>
+	<string>entityProxy</string>
+	<key>titlelikemediator</key>
+	<string>flexibleBinary</string>
+	<key>uniformTransition</key>
+	<string>interactorPressure</string>
+</dict>
+</plist>

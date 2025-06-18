@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dispatcherAcceleration</key>
+	<string>positionedRotation</string>
+	<key>overlaySpeed</key>
+	<string>roleStage</string>
+	<key>pivotalTexture</key>
+	<string>originalPromise</string>
+	<key>publicBrush</key>
+	<string>visibleVector</string>
+	<key>tweenFrequency</key>
+	<string>fixedOperation</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeMend</key>
+	<string>composablePromise</string>
+	<key>declarativeFormat</key>
+	<string>calculateCurve</string>
+	<key>integerFeedback</key>
+	<string>shouldFinishHero</string>
+	<key>painterTheme</key>
+	<string>canPaintHero</string>
+	<key>respectiveChannel</key>
+	<string>uniformmarginlocation</string>
+	<key>sinkstrength</key>
+	<string>createReducer</string>
+	<key>traversalDepth</key>
+	<string>tickerOpacity</string>
+</dict>
+</plist>

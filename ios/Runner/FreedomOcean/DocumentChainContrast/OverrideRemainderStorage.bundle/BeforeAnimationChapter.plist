@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>easyTask</key>
+	<string>parseZone</string>
+	<key>sharedProjection</key>
+	<string>invisibleReference</string>
+	<key>workflowInset</key>
+	<string>cacheLoss</string>
+</dict>
+</plist>

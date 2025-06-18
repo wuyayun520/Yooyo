@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledDecoration</key>
+	<string>updateChannels</string>
+	<key>disabledRectangle</key>
+	<string>markProgressBar</string>
+	<key>ephemeralDetail</key>
+	<string>debugCurve</string>
+	<key>measurestore</key>
+	<string>configureTimer</string>
+	<key>methodawaychain</key>
+	<string>adaptiveTransition</string>
+	<key>shouldDismissTechnique</key>
+	<string>featuredistance</string>
+	<key>sineschema</key>
+	<string>lazyView</string>
+	<key>statefulPainter</key>
+	<string>shouldReplaceStoryboard</string>
+	<key>tabbarright</key>
+	<string>transformBaseline</string>
+	<key>triggerVisible</key>
+	<string>presentExtension</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedInterpolation</key>
+	<string>materialSample</string>
+	<key>chapterForce</key>
+	<string>concurrentCompletion</string>
+	<key>disabledLoop</key>
+	<string>provisionOrientation</string>
+	<key>euclideanThreshold</key>
+	<string>hasAnimatedContainer</string>
+	<key>lastContainer</key>
+	<string>movementresponder</string>
+	<key>rendererScale</key>
+	<string>sceneCycle</string>
+	<key>screenevent</key>
+	<string>shouldStopCompletion</string>
+</dict>
+</plist>

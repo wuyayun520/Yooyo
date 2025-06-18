@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeElasticity</key>
+	<string>restoreResource</string>
+	<key>equalizationalongoperation</key>
+	<string>extendLoop</string>
+	<key>memberpressure</key>
+	<string>shouldDisposeModulus</string>
+	<key>scopeMargin</key>
+	<string>equalview</string>
+	<key>shouldLayoutProject</key>
+	<string>compareRect</string>
+	<key>singletonOrigin</key>
+	<string>shouldResumeDelegate</string>
+	<key>statefulScope</key>
+	<string>factoryLeft</string>
+	<key>subscriberBehavior</key>
+	<string>nibSaturation</string>
+	<key>usedFilter</key>
+	<string>shouldUnmountScroll</string>
+</dict>
+</plist>

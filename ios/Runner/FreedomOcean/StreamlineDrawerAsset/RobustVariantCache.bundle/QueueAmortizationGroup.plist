@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>originalScreen</key>
+	<string>analyzeternary</string>
+	<key>secondStrength</key>
+	<string>spineNumber</string>
+	<key>shouldcancelcontroller</key>
+	<string>shouldDispatchLabel</string>
+	<key>spotStyle</key>
+	<string>symbolFunction</string>
+	<key>titlebound</key>
+	<string>canKeepBatch</string>
+</dict>
+</plist>

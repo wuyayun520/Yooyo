@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousFragment</key>
+	<string>concurrentThread</string>
+	<key>awaitbound</key>
+	<string>canSetStateStep</string>
+	<key>compilemodel</key>
+	<string>disparateAnimatedContainer</string>
+	<key>imageFrequency</key>
+	<string>similarSlider</string>
+	<key>nextNavigation</key>
+	<string>controllertaxonomy</string>
+	<key>shouldFormatProtocol</key>
+	<string>geometricScope</string>
+	<key>shouldStartMedia</key>
+	<string>effectTint</string>
+	<key>subsequentReducer</key>
+	<string>crucialReceiver</string>
+</dict>
+</plist>

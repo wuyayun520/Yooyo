@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedLoop</key>
+	<string>opaquePageView</string>
+	<key>capsulereducer</key>
+	<string>serviceRate</string>
+	<key>fusedMenu</key>
+	<string>staticSensor</string>
+	<key>heroForce</key>
+	<string>collectionshade</string>
+	<key>localCubit</key>
+	<string>asynchronousResponder</string>
+	<key>materialCapacity</key>
+	<string>dedicatedSlider</string>
+</dict>
+</plist>

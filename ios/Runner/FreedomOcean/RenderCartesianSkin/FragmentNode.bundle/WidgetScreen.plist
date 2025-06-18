@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncdistinction</key>
+	<string>aspectratioStatus</string>
+	<key>imageOrigin</key>
+	<string>transpileSubscription</string>
+	<key>pinchableResource</key>
+	<string>otherFrame</string>
+	<key>resumetabview</key>
+	<string>equipmentName</string>
+	<key>shouldDecodeMobile</key>
+	<string>rapidSprite</string>
+</dict>
+</plist>

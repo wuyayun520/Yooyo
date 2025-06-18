@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedspineposition</key>
+	<string>shouldSerializeButton</string>
+	<key>certificateOffset</key>
+	<string>contractionCommand</string>
+	<key>custompaintMargin</key>
+	<string>tableVelocity</string>
+	<key>imperativeAccessory</key>
+	<string>granularscheduler</string>
+	<key>listviewEdge</key>
+	<string>canConnectFlex</string>
+	<key>robustfinder</key>
+	<string>intermediateAnalogy</string>
+	<key>shouldNotifyCompletion</key>
+	<string>protectedCapacity</string>
+	<key>shouldStartConsumer</key>
+	<string>canPresentCycle</string>
+</dict>
+</plist>

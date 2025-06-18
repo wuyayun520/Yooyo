@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fragmentForce</key>
+	<string>futuremodepadding</string>
+	<key>graphVelocity</key>
+	<string>otherSemantics</string>
+	<key>handlelabel</key>
+	<string>shouldHandleContainer</string>
+	<key>shouldemitmaterial</key>
+	<string>singleTolerance</string>
+	<key>unbindmenu</key>
+	<string>compositionalLinker</string>
+</dict>
+</plist>

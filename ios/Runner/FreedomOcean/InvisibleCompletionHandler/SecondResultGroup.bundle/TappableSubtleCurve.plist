@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoFrame</key>
+	<string>shouldDisconnectScale</string>
+	<key>customizedTheme</key>
+	<string>explicitcustompaint</string>
+	<key>equalizationsystemduration</key>
+	<string>heroFormat</string>
+	<key>preparetitle</key>
+	<string>canMountGradient</string>
+	<key>selectedTechnique</key>
+	<string>compositionalallocatorskewy</string>
+	<key>shouldValidateTransition</key>
+	<string>parsePageView</string>
+	<key>statelessInteractor</key>
+	<string>schemaSize</string>
+	<key>subtleshader</key>
+	<string>containerMethod</string>
+	<key>tickerAppearance</key>
+	<string>checkState</string>
+	<key>visibleStateless</key>
+	<string>paintdialogs</string>
+</dict>
+</plist>

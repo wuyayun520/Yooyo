@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentSlider</key>
+	<string>kernelTransparency</string>
+	<key>rectangleOrigin</key>
+	<string>typicalrange</string>
+	<key>shouldLoadBase</key>
+	<string>shouldSetStateCaption</string>
+	<key>standaloneActivity</key>
+	<string>replaceMedia</string>
+	<key>staticAllocator</key>
+	<string>islayout</string>
+	<key>tablePadding</key>
+	<string>boxshadowVisibility</string>
+	<key>vectorrotation</key>
+	<string>colorCoord</string>
+</dict>
+</plist>

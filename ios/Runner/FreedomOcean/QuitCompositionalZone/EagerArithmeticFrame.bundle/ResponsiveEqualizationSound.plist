@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialMapper</key>
+	<string>fillAction</string>
+	<key>fixedPlayback</key>
+	<string>futurePlatform</string>
+	<key>permissiveChooser</key>
+	<string>optionFlyweight</string>
+	<key>persistentOffset</key>
+	<string>canUnbindTechnique</string>
+	<key>projectionSkewY</key>
+	<string>notifyIcon</string>
+	<key>shouldDisconnectOperation</key>
+	<string>easyBoxShadow</string>
+	<key>shouldRestartLoss</key>
+	<string>canTransitionSkin</string>
+	<key>utillayersize</key>
+	<string>semanticsTop</string>
+</dict>
+</plist>

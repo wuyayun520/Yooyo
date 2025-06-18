@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionCenter</key>
+	<string>shouldPublishChallenge</string>
+	<key>decodenotification</key>
+	<string>signDensity</string>
+	<key>eventFormat</key>
+	<string>newestFeature</string>
+	<key>inactiveAscent</key>
+	<string>localConsumption</string>
+	<key>modelfeedback</key>
+	<string>searcherBorder</string>
+	<key>observerDuration</key>
+	<string>emitfuture</string>
+	<key>spineSpeed</key>
+	<string>consumptionAcceleration</string>
+	<key>storeAcceleration</key>
+	<string>eraseLayer</string>
+</dict>
+</plist>

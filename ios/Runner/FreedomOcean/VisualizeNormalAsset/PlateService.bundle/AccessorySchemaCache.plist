@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoVolume</key>
+	<string>standaloneCell</string>
+	<key>grayscaledensity</key>
+	<string>aspectratioTask</string>
+	<key>permanentEntity</key>
+	<string>shouldprocessborder</string>
+	<key>shouldConnectSensor</key>
+	<string>accessibleFragments</string>
+	<key>spineAcceleration</key>
+	<string>scrollTier</string>
+</dict>
+</plist>

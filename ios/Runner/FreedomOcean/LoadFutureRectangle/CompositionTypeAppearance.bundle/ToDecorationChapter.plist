@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionSpacing</key>
+	<string>mountRadio</string>
+	<key>cardjoiner</key>
+	<string>restoreResolver</string>
+	<key>directElement</key>
+	<string>shouldFormatAnchor</string>
+	<key>materiallinker</key>
+	<string>independentAudio</string>
+	<key>mediumInkWell</key>
+	<string>shouldDismissProvider</string>
+	<key>permanentTaxonomy</key>
+	<string>composablethroughput</string>
+</dict>
+</plist>

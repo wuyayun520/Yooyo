@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentMonster</key>
+	<string>fusedvolume</string>
+	<key>emitterSaturation</key>
+	<string>shouldRestartTabBar</string>
+	<key>immutableMerger</key>
+	<string>customLinker</string>
+	<key>navigatorBrightness</key>
+	<string>movescroll</string>
+	<key>requiredNotification</key>
+	<string>subtleSegue</string>
+	<key>resultstate</key>
+	<string>entropyincommand</string>
+	<key>spotrate</key>
+	<string>permanentSchema</string>
+</dict>
+</plist>

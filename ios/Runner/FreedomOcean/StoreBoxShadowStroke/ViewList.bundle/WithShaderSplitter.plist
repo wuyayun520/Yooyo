@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbartime</key>
+	<string>saveBrush</string>
+	<key>asynchronousLoop</key>
+	<string>bindbatch</string>
+	<key>blocCenter</key>
+	<string>canFetchFuture</string>
+	<key>compositionalLayout</key>
+	<string>declarativeReference</string>
+	<key>formatchannels</key>
+	<string>releaseStore</string>
+	<key>intensitytypetail</key>
+	<string>geometricCubit</string>
+	<key>intuitiveStorage</key>
+	<string>shouldFetchScaffold</string>
+	<key>normalbase</key>
+	<string>defaultAspect</string>
+</dict>
+</plist>

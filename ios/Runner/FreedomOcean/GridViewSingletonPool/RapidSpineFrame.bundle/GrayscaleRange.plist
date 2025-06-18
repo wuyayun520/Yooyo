@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticstyle</key>
+	<string>navigationduration</string>
+	<key>assetslider</key>
+	<string>interactiveTable</string>
+	<key>channelsBehavior</key>
+	<string>canSaveBorder</string>
+	<key>mutableStore</key>
+	<string>canEmitContainer</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxAlignment</key>
+	<string>isPet</string>
+	<key>defaultWorkflow</key>
+	<string>compositionalRect</string>
+	<key>localScale</key>
+	<string>mediocreResource</string>
+	<key>robustWrapper</key>
+	<string>concurrentmanageroffset</string>
+	<key>routetolerance</key>
+	<string>canPauseUnary</string>
+	<key>subscriptionhead</key>
+	<string>canDisposeTextField</string>
+	<key>textureMargin</key>
+	<string>shouldConnectScroll</string>
+	<key>transitionaboutvalue</key>
+	<string>unsortedRouter</string>
+</dict>
+</plist>

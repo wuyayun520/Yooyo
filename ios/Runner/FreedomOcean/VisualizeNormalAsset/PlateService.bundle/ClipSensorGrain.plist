@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerReplica</key>
+	<string>functionalUnary</string>
+	<key>resilienceFormat</key>
+	<string>popArithmetic</string>
+	<key>resizableConsumption</key>
+	<string>storageTransparency</string>
+	<key>shouldCacheReference</key>
+	<string>canPersistSkirt</string>
+	<key>shouldProcessPet</key>
+	<string>initializeCurve</string>
+	<key>substantialinstruction</key>
+	<string>hierarchicalOption</string>
+	<key>vectoraroundproxy</key>
+	<string>lastStateless</string>
+</dict>
+</plist>

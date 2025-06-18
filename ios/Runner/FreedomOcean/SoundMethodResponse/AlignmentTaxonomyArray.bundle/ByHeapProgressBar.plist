@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedFlex</key>
+	<string>immediateReference</string>
+	<key>cubeflyweightacceleration</key>
+	<string>slashInteraction</string>
+	<key>draggableNib</key>
+	<string>resilientShape</string>
+	<key>inkwellresponse</key>
+	<string>connectorForce</string>
+	<key>opaqueMetrics</key>
+	<string>stateshade</string>
+	<key>replaceevent</key>
+	<string>seamlessReliability</string>
+	<key>searcherDepth</key>
+	<string>dismissSymbol</string>
+	<key>selectordepth</key>
+	<string>substantialPopup</string>
+	<key>shouldHandlePadding</key>
+	<string>shouldConnectScale</string>
+</dict>
+</plist>

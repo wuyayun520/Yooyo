@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocremediation</key>
+	<string>criticalReliability</string>
+	<key>decorationstatestate</key>
+	<string>canAttachMedia</string>
+	<key>draggableDimension</key>
+	<string>staticStamp</string>
+	<key>greatShader</key>
+	<string>smallMaterial</string>
+	<key>hierarchicalProjection</key>
+	<string>canUpdatePainter</string>
+	<key>hyperbolicAlpha</key>
+	<string>errorDecorator</string>
+	<key>multiSymbol</key>
+	<string>textAcceleration</string>
+	<key>oldDescription</key>
+	<string>ignoredAllocator</string>
+	<key>synchronousEquipment</key>
+	<string>bitrateVisitor</string>
+</dict>
+</plist>

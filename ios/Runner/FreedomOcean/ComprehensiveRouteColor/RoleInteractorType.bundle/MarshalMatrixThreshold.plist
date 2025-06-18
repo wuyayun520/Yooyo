@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>audioVisibility</key>
+	<string>backwardSplitter</string>
+	<key>cupertinoviavalue</key>
+	<string>canCancelGradient</string>
+	<key>newestShader</key>
+	<string>enabledVolume</string>
+	<key>paintpadding</key>
+	<string>localBandwidth</string>
+	<key>protocolRight</key>
+	<string>shouldNotifyGridView</string>
+	<key>shouldunbindcube</key>
+	<string>decodehistogram</string>
+</dict>
+</plist>

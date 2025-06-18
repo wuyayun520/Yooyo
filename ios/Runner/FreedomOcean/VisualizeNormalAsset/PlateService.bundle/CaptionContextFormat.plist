@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedItem</key>
+	<string>radioFlags</string>
+	<key>defaultdialogs</key>
+	<string>autobuilderdelay</string>
+	<key>gateSkewY</key>
+	<string>shouldProcessBuilder</string>
+	<key>iterativeFeature</key>
+	<string>characterLocation</string>
+	<key>optimizerBrightness</key>
+	<string>visibleDialogs</string>
+	<key>semanticScalability</key>
+	<string>offsetParam</string>
+	<key>subscribetopic</key>
+	<string>splitterorigin</string>
+	<key>toleranceContrast</key>
+	<string>deliveryLocation</string>
+	<key>unaryHead</key>
+	<string>discardedProvider</string>
+</dict>
+</plist>

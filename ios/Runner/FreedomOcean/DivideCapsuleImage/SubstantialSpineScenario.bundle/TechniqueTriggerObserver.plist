@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryDistance</key>
+	<string>fetchConvolution</string>
+	<key>challengeAlignment</key>
+	<string>denseRect</string>
+	<key>dropdownbuttontemplebrightness</key>
+	<string>emitterAcceleration</string>
+	<key>greatGem</key>
+	<string>missionColor</string>
+	<key>shouldRestartGem</key>
+	<string>checklistAdapter</string>
+	<key>shouldStopShader</key>
+	<string>connectorOrigin</string>
+	<key>shouldUnbindScale</key>
+	<string>multiplydescriptor</string>
+</dict>
+</plist>

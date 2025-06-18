@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationPressure</key>
+	<string>prepareGrayscale</string>
+	<key>findsensor</key>
+	<string>canPresentModulus</string>
+	<key>graphinvar</key>
+	<string>signaturearoundcomposite</string>
+	<key>loadexception</key>
+	<string>animatedStateful</string>
+	<key>materialMargin</key>
+	<string>uniformAccessory</string>
+	<key>metadataSkewY</key>
+	<string>canStreamPlayback</string>
+	<key>optioncoord</key>
+	<string>compositionalDescription</string>
+	<key>sensorState</key>
+	<string>plateposition</string>
+	<key>shouldpaintcollection</key>
+	<string>futurespacing</string>
+	<key>unregisterpriority</key>
+	<string>smallBuffer</string>
+</dict>
+</plist>

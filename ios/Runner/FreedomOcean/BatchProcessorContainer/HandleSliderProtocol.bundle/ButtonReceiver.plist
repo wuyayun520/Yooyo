@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoTicker</key>
+	<string>rowtop</string>
+	<key>coordinatorHead</key>
+	<string>columnMomentum</string>
+	<key>densereference</key>
+	<string>parallelOverlay</string>
+	<key>hasCard</key>
+	<string>tabvieworlevel</string>
+	<key>indicatoredge</key>
+	<string>shouldUnbindSlider</string>
+	<key>positionedsystemskewx</key>
+	<string>listenerHead</string>
+	<key>shouldDetachSpot</key>
+	<string>provideBuilder</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushstatecontrast</key>
+	<string>aggregateObserver</string>
+	<key>displayableCustomPaint</key>
+	<string>notifieractivitytype</string>
+	<key>featurespacing</key>
+	<string>notificationAdapter</string>
+	<key>sequentialEffect</key>
+	<string>frameVar</string>
+	<key>transitionshade</key>
+	<string>paddingSkewX</string>
+</dict>
+</plist>

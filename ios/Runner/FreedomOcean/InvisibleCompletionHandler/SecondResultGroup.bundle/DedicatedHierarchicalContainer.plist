@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>creategrayscale</key>
+	<string>encodeRequest</string>
+	<key>diversifiedImpression</key>
+	<string>canPushButton</string>
+	<key>offsetSpeed</key>
+	<string>shouldCancelWorkflow</string>
+	<key>prismaticscroller</key>
+	<string>agileKernel</string>
+	<key>shouldLayoutHero</key>
+	<string>mediaSkewY</string>
+	<key>shouldProcessProtocol</key>
+	<string>notifierTheme</string>
+	<key>similarqueue</key>
+	<string>propagateRect</string>
+</dict>
+</plist>

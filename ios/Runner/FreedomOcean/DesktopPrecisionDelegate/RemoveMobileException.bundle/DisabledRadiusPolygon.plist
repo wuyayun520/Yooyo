@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicsymbolbrightness</key>
+	<string>touchChart</string>
+	<key>firstReference</key>
+	<string>columnDirection</string>
+	<key>intermediateInteraction</key>
+	<string>delicateAudio</string>
+	<key>processgrid</key>
+	<string>extensionVisibility</string>
+	<key>shouldPublishSpot</key>
+	<string>euclideanTrigger</string>
+	<key>transformeropacity</key>
+	<string>interpolateLoop</string>
+</dict>
+</plist>

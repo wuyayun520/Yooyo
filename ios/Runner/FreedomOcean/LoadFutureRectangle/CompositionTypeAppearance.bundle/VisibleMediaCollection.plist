@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledGridView</key>
+	<string>shouldLoadGem</string>
+	<key>liteHandler</key>
+	<string>gemFeedback</string>
+	<key>reactivecardleft</key>
+	<string>lostCell</string>
+	<key>shouldPersistGrayscale</key>
+	<string>retrieveFactory</string>
+	<key>shouldPublishNotification</key>
+	<string>explicitTolerance</string>
+	<key>sortedvariant</key>
+	<string>respectivePlate</string>
+	<key>specifierrepository</key>
+	<string>streamlinecontroller</string>
+	<key>temporaryBehavior</key>
+	<string>axisSaturation</string>
+</dict>
+</plist>

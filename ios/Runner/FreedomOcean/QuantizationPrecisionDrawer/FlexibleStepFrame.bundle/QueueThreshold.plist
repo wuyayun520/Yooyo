@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectVisibility</key>
+	<string>respectivehero</string>
+	<key>extensionPressure</key>
+	<string>onpaddingtap</string>
+	<key>priorityasdecorator</key>
+	<string>shouldpresentcaption</string>
+	<key>recursionSkewX</key>
+	<string>chartenvironmentindex</string>
+	<key>timelinescale</key>
+	<string>imperativeEntity</string>
+</dict>
+</plist>

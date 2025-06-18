@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryresponse</key>
+	<string>cacheShade</string>
+	<key>crucialpresentercount</key>
+	<string>accessoryDelay</string>
+	<key>diffableStateless</key>
+	<string>associatedTextField</string>
+	<key>immediateNotation</key>
+	<string>synchronoussorter</string>
+	<key>interactiveTaxonomy</key>
+	<string>interceptButton</string>
+	<key>richtextdespitemode</key>
+	<string>painterSpeed</string>
+	<key>subscriberStatus</key>
+	<string>accessiblestate</string>
+	<key>subtleprecision</key>
+	<string>canPresentChallenge</string>
+</dict>
+</plist>

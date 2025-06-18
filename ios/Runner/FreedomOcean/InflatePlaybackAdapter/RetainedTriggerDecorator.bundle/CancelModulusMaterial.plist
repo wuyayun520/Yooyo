@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncsinceform</key>
+	<string>persistKernel</string>
+	<key>intuitivereduceroffset</key>
+	<string>shouldContinueCollection</string>
+	<key>scrollablePlayback</key>
+	<string>intermediateactivity</string>
+	<key>shouldUnbindProtocol</key>
+	<string>shouldEndUnary</string>
+	<key>significantCapacities</key>
+	<string>materializerOrientation</string>
+	<key>significantGrain</key>
+	<string>batchSaturation</string>
+	<key>staticBullet</key>
+	<string>cupertinoBullet</string>
+	<key>threadthanvar</key>
+	<string>advancedCell</string>
+	<key>utilvisibility</key>
+	<string>opaqueUtil</string>
+</dict>
+</plist>

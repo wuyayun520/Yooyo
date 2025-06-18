@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationkindright</key>
+	<string>disposeMonster</string>
+	<key>basicFactory</key>
+	<string>configureException</string>
+	<key>elasticChallenge</key>
+	<string>drawDelegate</string>
+	<key>greatConfidentiality</key>
+	<string>protectedresponse</string>
+	<key>shouldTrainChallenge</key>
+	<string>crudeCollection</string>
+	<key>shouldYieldPositioned</key>
+	<string>scaffoldTier</string>
+	<key>visibleSlider</key>
+	<string>adaptiveutil</string>
+</dict>
+</plist>

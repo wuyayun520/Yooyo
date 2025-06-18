@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonfacadeflags</key>
+	<string>typicalcapacity</string>
+	<key>concreteMediaQuery</key>
+	<string>intuitiveLayer</string>
+	<key>declarativetechniqueduration</key>
+	<string>ignoredMedia</string>
+	<key>itemDelay</key>
+	<string>constantRight</string>
+	<key>mechanismAcceleration</key>
+	<string>basicGate</string>
+	<key>mediocreallocator</key>
+	<string>histogramAdapter</string>
+	<key>positionBottom</key>
+	<string>easyDescription</string>
+	<key>routeTop</key>
+	<string>easyTransformer</string>
+	<key>shouldSetStateObserver</key>
+	<string>canPersistBehavior</string>
+</dict>
+</plist>

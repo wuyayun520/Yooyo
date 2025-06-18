@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animateskin</key>
+	<string>shouldSubscribeView</string>
+	<key>aspectCount</key>
+	<string>statefulSystem</string>
+	<key>gestureRate</key>
+	<string>interactorDensity</string>
+	<key>inheritedBox</key>
+	<string>shouldParseAnimatedContainer</string>
+	<key>providerDelay</key>
+	<string>rowEnvironment</string>
+	<key>subsequentConstant</key>
+	<string>responsiveDetector</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonerrorrotation</key>
+	<string>disabledAnchor</string>
+	<key>componentContrast</key>
+	<string>shouldCreateCache</string>
+	<key>grayscaleKind</key>
+	<string>videoShape</string>
+	<key>ignoredStoryboard</key>
+	<string>defaultscaffold</string>
+	<key>normalEffect</key>
+	<string>synchronousSubpixel</string>
+	<key>publicListView</key>
+	<string>canBindContraction</string>
+	<key>shouldNotifyDelegate</key>
+	<string>shouldSaveObserver</string>
+	<key>symmetricProjection</key>
+	<string>restartCell</string>
+</dict>
+</plist>

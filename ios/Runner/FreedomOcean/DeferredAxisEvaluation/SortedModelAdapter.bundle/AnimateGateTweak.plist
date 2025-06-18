@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatoraboutstrategy</key>
+	<string>disconnectSubpixel</string>
+	<key>fixedNotification</key>
+	<string>permanentNorm</string>
+	<key>fixedService</key>
+	<string>techniqueContext</string>
+	<key>liteLoss</key>
+	<string>defaultgrayscale</string>
+	<key>primaryRadio</key>
+	<string>elastictabview</string>
+	<key>shouldStreamComposition</key>
+	<string>zonePattern</string>
+	<key>uniformDescriptor</key>
+	<string>assetMargin</string>
+	<key>unsortedTangent</key>
+	<string>notifyRouter</string>
+	<key>usedInteraction</key>
+	<string>unscheduleTween</string>
+</dict>
+</plist>

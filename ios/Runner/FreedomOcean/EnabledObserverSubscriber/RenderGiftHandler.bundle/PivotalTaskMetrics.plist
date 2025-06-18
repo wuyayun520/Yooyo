@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>extendtransition</key>
+	<string>painterjobedge</string>
+	<key>handlertransparency</key>
+	<string>displayabledrawer</string>
+	<key>heapFeedback</key>
+	<string>finishGesture</string>
+	<key>paintername</key>
+	<string>layoutsincework</string>
+	<key>priorInteractor</key>
+	<string>partitionDuration</string>
+	<key>routeVelocity</key>
+	<string>skipStateless</string>
+	<key>shouldObserveUnary</key>
+	<string>converterDistance</string>
+	<key>shouldRenderPadding</key>
+	<string>directlyData</string>
+	<key>similarMatrix</key>
+	<string>canPersistMobile</string>
+	<key>unmountedfuture</key>
+	<string>commonPromise</string>
+</dict>
+</plist>

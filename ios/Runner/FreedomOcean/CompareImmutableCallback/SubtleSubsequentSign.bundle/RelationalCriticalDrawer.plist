@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledThreshold</key>
+	<string>plateentity</string>
+	<key>geometricReliability</key>
+	<string>activatespine</string>
+	<key>mainConsumption</key>
+	<string>joinerColor</string>
+	<key>makechannels</key>
+	<string>instructionVariable</string>
+	<key>receiverBottom</key>
+	<string>signatureDirection</string>
+	<key>shouldSubscribeController</key>
+	<string>channelAdapter</string>
+	<key>streamstageshade</key>
+	<string>medianeartask</string>
+	<key>tabviewDensity</key>
+	<string>logarithmSkewY</string>
+	<key>vectorType</key>
+	<string>firstEntity</string>
+</dict>
+</plist>

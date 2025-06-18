@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cyclestatus</key>
+	<string>stepLevel</string>
+	<key>diversifiedAsync</key>
+	<string>optimizereference</string>
+	<key>encodestack</key>
+	<string>mutableDispatcher</string>
+	<key>greatgram</key>
+	<string>objectVelocity</string>
+	<key>requeststream</key>
+	<string>cloneIsolate</string>
+	<key>resizableContraction</key>
+	<string>hierarchicalprovidermode</string>
+	<key>smartResource</key>
+	<string>computePosition</string>
+	<key>triggerIndex</key>
+	<string>imageAlignment</string>
+	<key>usedInteractor</key>
+	<string>hyperbolicCache</string>
+</dict>
+</plist>

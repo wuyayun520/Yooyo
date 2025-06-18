@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedManager</key>
+	<string>advancedModal</string>
+	<key>configurationPosition</key>
+	<string>dedicatedHash</string>
+	<key>ignoredElasticity</key>
+	<string>shouldpauseoption</string>
+	<key>respectiveDisclaimer</key>
+	<string>detailHue</string>
+	<key>staticConsumption</key>
+	<string>isolateactiontype</string>
+	<key>staticMenu</key>
+	<string>canCancelTask</string>
+</dict>
+</plist>

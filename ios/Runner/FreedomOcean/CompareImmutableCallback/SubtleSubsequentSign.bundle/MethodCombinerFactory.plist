@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardResource</key>
+	<string>parseMission</string>
+	<key>checkgrain</key>
+	<string>canRestartHeap</string>
+	<key>mainOptimizer</key>
+	<string>gridVariable</string>
+	<key>streamtrigger</key>
+	<string>shouldrenderdescriptor</string>
+</dict>
+</plist>

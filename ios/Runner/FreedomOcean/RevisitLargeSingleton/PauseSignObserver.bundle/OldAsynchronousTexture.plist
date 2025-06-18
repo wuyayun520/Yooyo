@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decodeslider</key>
+	<string>diversifiedview</string>
+	<key>easyHeap</key>
+	<string>binaryTension</string>
+	<key>hasscroll</key>
+	<string>overlayinteractor</string>
+	<key>iterativeCoordinator</key>
+	<string>canLayoutCell</string>
+	<key>secondSemantics</key>
+	<string>entropysize</string>
+	<key>shouldNotifyBase</key>
+	<string>shouldAttachBatch</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperShade</key>
+	<string>canSerializeAccessory</string>
+	<key>curveName</key>
+	<string>promiseDelay</string>
+	<key>dependencystrategyinterval</key>
+	<string>secondVertex</string>
+	<key>draggablePresenter</key>
+	<string>histogramFlags</string>
+	<key>effectoccasion</key>
+	<string>normDecorator</string>
+	<key>entityTransparency</key>
+	<string>graphOffset</string>
+	<key>granularbuilder</key>
+	<string>asynchronousWrapper</string>
+	<key>inactiveConsumer</key>
+	<string>queueFacade</string>
+	<key>inactiveStoryboard</key>
+	<string>shouldStreamProvider</string>
+	<key>shouldResumeProvider</key>
+	<string>prevSchema</string>
+</dict>
+</plist>

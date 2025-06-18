@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerVertex</key>
+	<string>smallStore</string>
+	<key>certificatedecoration</key>
+	<string>criticalframe</string>
+	<key>multiplicationDepth</key>
+	<string>intermediateCertificate</string>
+	<key>publicCard</key>
+	<string>customService</string>
+	<key>shouldAnimateButton</key>
+	<string>disconnectCaption</string>
+</dict>
+</plist>

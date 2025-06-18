@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticDropdownButton</key>
+	<string>asyncOpacity</string>
+	<key>resilientPageView</key>
+	<string>cartesianRouter</string>
+	<key>shouldTransformMedia</key>
+	<string>shouldUpdateAlert</string>
+	<key>slashmetrics</key>
+	<string>buttonlikeproxy</string>
+	<key>sophisticatedskin</key>
+	<string>responsiveScroll</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedTrigger</key>
+	<string>resizableCache</string>
+	<key>multiAsset</key>
+	<string>shouldBuildOperation</string>
+	<key>significantAccessory</key>
+	<string>consumeFuture</string>
+	<key>significantsingletonduration</key>
+	<string>shouldFinishButton</string>
+	<key>sustainableNotifier</key>
+	<string>activeBullet</string>
+	<key>touchDepth</key>
+	<string>desktopContrast</string>
+</dict>
+</plist>

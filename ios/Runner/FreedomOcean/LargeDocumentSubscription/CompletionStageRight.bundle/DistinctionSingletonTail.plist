@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticBrightness</key>
+	<string>significantPublisher</string>
+	<key>capacityRotation</key>
+	<string>eagerCell</string>
+	<key>gradientResponse</key>
+	<string>shouldAnimateTable</string>
+	<key>isComposition</key>
+	<string>responsiveEqualization</string>
+	<key>mobileMerger</key>
+	<string>canRestartKernel</string>
+	<key>rendererTail</key>
+	<string>canShowTransition</string>
+	<key>specifySegment</key>
+	<string>symmetricScheduler</string>
+	<key>tabviewloop</key>
+	<string>resizableTabView</string>
+	<key>widgetmethodmode</key>
+	<string>completionBridge</string>
+</dict>
+</plist>

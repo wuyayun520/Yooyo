@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalmatrix</key>
+	<string>enabledPageView</string>
+	<key>granularmesh</key>
+	<string>canSkipCurve</string>
+	<key>materializerdelay</key>
+	<string>sequentialMedia</string>
+	<key>presenterVisible</key>
+	<string>accelerateRow</string>
+	<key>publisherInteraction</key>
+	<string>canCancelScroll</string>
+	<key>signatureTag</key>
+	<string>shouldTransformSpine</string>
+	<key>trajectoryPosition</key>
+	<string>shouldPopMediaQuery</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discoverrow</key>
+	<string>maintainstateful</string>
+	<key>numericalmember</key>
+	<string>awaitinsidefacade</string>
+	<key>resilientClipper</key>
+	<string>subscriptionObserver</string>
+	<key>shouldAnimatePromise</key>
+	<string>shouldNotifyRole</string>
+	<key>soundTheme</key>
+	<string>multiplicationOperation</string>
+	<key>uniqueTechnique</key>
+	<string>sharedJoiner</string>
+</dict>
+</plist>

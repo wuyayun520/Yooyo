@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hasReduction</key>
+	<string>geometricDescriptor</string>
+	<key>otherBrush</key>
+	<string>disparateGem</string>
+	<key>shouldTransitionObserver</key>
+	<string>directInteractor</string>
+	<key>subtleException</key>
+	<string>seekBuffer</string>
+	<key>textSkewY</key>
+	<string>inheritedFeature</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dispatcherright</key>
+	<string>subtleStep</string>
+	<key>positionDuration</key>
+	<string>shouldSerializeShader</string>
+	<key>prismaticCube</key>
+	<string>floatCallback</string>
+	<key>shouldRebuildBorder</key>
+	<string>mountedStateless</string>
+	<key>shouldRestartInstruction</key>
+	<string>missedModule</string>
+	<key>smallstatelessborder</key>
+	<string>granularTrigger</string>
+	<key>tablespacing</key>
+	<string>buildUnary</string>
+	<key>usageVisible</key>
+	<string>combinesink</string>
+</dict>
+</plist>

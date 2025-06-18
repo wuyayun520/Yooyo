@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorValidation</key>
+	<string>listenUsage</string>
+	<key>oldDescription</key>
+	<string>elementright</string>
+	<key>protectedBinder</key>
+	<string>persistMaster</string>
+	<key>shouldTrainAnchor</key>
+	<string>restrictionDelay</string>
+	<key>standaloneMechanism</key>
+	<string>dialogsOrientation</string>
+	<key>touchimpression</key>
+	<string>shouldTransitionMaster</string>
+	<key>unsortedgrayscale</key>
+	<string>dedicatednodebound</string>
+</dict>
+</plist>

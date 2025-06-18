@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocascent</key>
+	<string>switchtransition</string>
+	<key>enabledRecursion</key>
+	<string>cartesianThread</string>
+	<key>lostutilspacing</key>
+	<string>loadEntropy</string>
+	<key>missedMetrics</key>
+	<string>imageBottom</string>
+	<key>robustTexture</key>
+	<string>euclideanDrawer</string>
+	<key>yieldtouch</key>
+	<string>unactivatedMetadata</string>
+</dict>
+</plist>

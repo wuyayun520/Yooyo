@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>custompaintVisibility</key>
+	<string>usedBitrate</string>
+	<key>granularBatch</key>
+	<string>tensorIcon</string>
+	<key>graphcontaintask</key>
+	<string>rapidAlert</string>
+	<key>inflateunary</key>
+	<string>grainSize</string>
+	<key>mediumChallenge</key>
+	<string>nextComposition</string>
+	<key>shouldMountedPriority</key>
+	<string>canPushTabBar</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableStamp</key>
+	<string>uniquePageView</string>
+	<key>publictechniqueflags</key>
+	<string>notifierincludestrategy</string>
+	<key>routeScale</key>
+	<string>shaderMode</string>
+	<key>shouldMountedGridView</key>
+	<string>customizedReliability</string>
+	<key>singleDependency</key>
+	<string>signatureObserver</string>
+</dict>
+</plist>

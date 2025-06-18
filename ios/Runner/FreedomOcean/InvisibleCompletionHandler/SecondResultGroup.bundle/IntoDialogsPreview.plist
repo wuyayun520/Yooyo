@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionCoord</key>
+	<string>uniformAsset</string>
+	<key>columnDirection</key>
+	<string>appbarCommand</string>
+	<key>independentRoute</key>
+	<string>ephemeralLayout</string>
+	<key>inkwelltag</key>
+	<string>animatedInteractor</string>
+	<key>layoutwithoutparam</key>
+	<string>projectStrategy</string>
+	<key>subtleternary</key>
+	<string>quitSlider</string>
+	<key>uniformCurve</key>
+	<string>globalDistinction</string>
+	<key>visibleParticle</key>
+	<string>otherSign</string>
+</dict>
+</plist>

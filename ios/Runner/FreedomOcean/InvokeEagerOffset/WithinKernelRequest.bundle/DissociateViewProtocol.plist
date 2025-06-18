@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentTime</key>
+	<string>shouldFinishRadio</string>
+	<key>stateHue</key>
+	<string>resizableColor</string>
+	<key>videoCenter</key>
+	<string>dropdownbuttonStrategy</string>
+</dict>
+</plist>

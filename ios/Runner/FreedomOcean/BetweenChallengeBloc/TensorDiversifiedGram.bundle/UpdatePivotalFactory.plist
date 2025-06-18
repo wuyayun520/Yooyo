@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalStep</key>
+	<string>canFinishInteger</string>
+	<key>concurrentCombiner</key>
+	<string>workflowTransparency</string>
+	<key>imperativesingleton</key>
+	<string>cupertinoJob</string>
+	<key>materialfuturetint</key>
+	<string>composableSound</string>
+	<key>nativeTask</key>
+	<string>rebuildMargin</string>
+</dict>
+</plist>

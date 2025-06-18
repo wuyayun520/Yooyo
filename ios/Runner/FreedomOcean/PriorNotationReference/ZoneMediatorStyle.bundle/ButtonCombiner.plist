@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationtexture</key>
+	<string>granularModel</string>
+	<key>fragmentInset</key>
+	<string>profileresource</string>
+	<key>integerVisible</key>
+	<string>topicSkewY</string>
+	<key>interactiveElasticity</key>
+	<string>permissiveMember</string>
+	<key>shouldValidateMember</key>
+	<string>touchmultiplication</string>
+	<key>significantCollection</key>
+	<string>storeSkewY</string>
+	<key>sustainableBatch</key>
+	<string>retainTicker</string>
+	<key>sustainableService</key>
+	<string>responseeffect</string>
+	<key>visibleGesture</key>
+	<string>unregisterResource</string>
+</dict>
+</plist>

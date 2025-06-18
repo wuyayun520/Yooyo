@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeSound</key>
+	<string>specifierPattern</string>
+	<key>channelsoperation</key>
+	<string>deserializeRole</string>
+	<key>declarativeSubpixel</key>
+	<string>painterVelocity</string>
+	<key>flexibleScroller</key>
+	<string>prepareCurve</string>
+	<key>opaqueUsage</key>
+	<string>canInflateAnimatedContainer</string>
+	<key>shouldConnectSign</key>
+	<string>buildCube</string>
+</dict>
+</plist>

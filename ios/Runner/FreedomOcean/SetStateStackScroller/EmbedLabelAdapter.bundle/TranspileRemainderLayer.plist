@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticobservervalidation</key>
+	<string>deferredListView</string>
+	<key>intermediateLog</key>
+	<string>shouldattachextension</string>
+	<key>originalInstruction</key>
+	<string>pushMusic</string>
+	<key>rectsize</key>
+	<string>gramDensity</string>
+</dict>
+</plist>

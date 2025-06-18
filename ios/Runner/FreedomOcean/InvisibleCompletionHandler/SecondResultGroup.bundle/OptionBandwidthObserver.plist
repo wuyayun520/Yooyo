@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatednotificationcenter</key>
+	<string>checkboxOpacity</string>
+	<key>backwardCoordinator</key>
+	<string>opaqueGestureDetector</string>
+	<key>geometricException</key>
+	<string>shouldAttachCheckbox</string>
+	<key>limitchart</key>
+	<string>flexibleprogressbar</string>
+	<key>setstatedropdownbutton</key>
+	<string>synchronizeTexture</string>
+	<key>shouldConnectPositioned</key>
+	<string>brushCount</string>
+	<key>shouldSerializeCertificate</key>
+	<string>largeStateful</string>
+</dict>
+</plist>

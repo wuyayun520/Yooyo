@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxrepository</key>
+	<string>denseEfficiency</string>
+	<key>disparateAnimation</key>
+	<string>monsterlatency</string>
+	<key>displayintensity</key>
+	<string>smallresource</string>
+	<key>newestRadio</key>
+	<string>shouldYieldTable</string>
+	<key>shouldpaintcell</key>
+	<string>disconnectUseCase</string>
+</dict>
+</plist>

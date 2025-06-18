@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerincludeparameter</key>
+	<string>shouldMountedBaseline</string>
+	<key>dynamicintensityfeedback</key>
+	<string>plateMethod</string>
+	<key>isshader</key>
+	<string>canParseNotification</string>
+	<key>lazyChart</key>
+	<string>consumerStatus</string>
+	<key>mobileIcon</key>
+	<string>shouldMountedHero</string>
+	<key>mutableMultiplication</key>
+	<string>aspectratiovisible</string>
+	<key>pickerSkewY</key>
+	<string>optiontransparency</string>
+	<key>subscriptionCenter</key>
+	<string>timerHue</string>
+</dict>
+</plist>

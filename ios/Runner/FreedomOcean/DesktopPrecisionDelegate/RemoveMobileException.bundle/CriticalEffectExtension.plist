@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>liteprovider</key>
+	<string>formatSession</string>
+	<key>optimizersingletonduration</key>
+	<string>newestTask</string>
+	<key>routeAcceleration</key>
+	<string>validateCustomPaint</string>
+	<key>shouldstreamflex</key>
+	<string>lossPattern</string>
+</dict>
+</plist>

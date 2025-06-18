@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzermomentum</key>
+	<string>shouldLayoutGesture</string>
+	<key>disabledDescriptor</key>
+	<string>mediumRequest</string>
+	<key>exceptiontag</key>
+	<string>axisBound</string>
+	<key>mobileTrajectory</key>
+	<string>referenceResponse</string>
+	<key>prevScaffold</key>
+	<string>criticalStep</string>
+	<key>shouldMountSlash</key>
+	<string>rectifyvector</string>
+	<key>shouldSubscribeSlider</key>
+	<string>ephemeralResilience</string>
+	<key>shouldbuildbitrate</key>
+	<string>eagerTitle</string>
+</dict>
+</plist>

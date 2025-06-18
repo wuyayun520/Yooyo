@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>emitterindex</key>
+	<string>enhancePosition</string>
+	<key>fusedLayout</key>
+	<string>batchresponse</string>
+	<key>graphTop</key>
+	<string>gemSize</string>
+	<key>polygonopacity</key>
+	<string>interactivemodalindex</string>
+	<key>resourcecount</key>
+	<string>annotateHash</string>
+</dict>
+</plist>

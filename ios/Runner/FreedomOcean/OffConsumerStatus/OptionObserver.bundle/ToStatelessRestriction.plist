@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constantIndex</key>
+	<string>conformTween</string>
+	<key>cupertinoCheckbox</key>
+	<string>resourceSkewY</string>
+	<key>customizedGift</key>
+	<string>notificationBridge</string>
+	<key>displayablePriority</key>
+	<string>inactiveAppBar</string>
+	<key>masterContrast</key>
+	<string>gramColor</string>
+	<key>newestOccasion</key>
+	<string>emitNotifier</string>
+	<key>popupindex</key>
+	<string>localSingleton</string>
+	<key>remediationcount</key>
+	<string>draggableAlert</string>
+	<key>shouldValidateInteger</key>
+	<string>bindSpecifier</string>
+	<key>usageofcomposite</key>
+	<string>shouldprocessnavigation</string>
+</dict>
+</plist>

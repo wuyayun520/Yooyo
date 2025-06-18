@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveStoryboard</key>
+	<string>canMountedTransition</string>
+	<key>contractioncontroller</key>
+	<string>protectedSpecifier</string>
+	<key>crudesound</key>
+	<string>normalConnector</string>
+	<key>draggablePager</key>
+	<string>updateInterface</string>
+	<key>equalizationCenter</key>
+	<string>skinscheduler</string>
+	<key>pageviewMargin</key>
+	<string>canUpdateAxis</string>
+</dict>
+</plist>

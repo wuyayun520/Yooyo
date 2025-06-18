@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzerContrast</key>
+	<string>persistentMatrix</string>
+	<key>autoSpine</key>
+	<string>dedicatedMend</string>
+	<key>dedicatedsingletonborder</key>
+	<string>restartSlider</string>
+	<key>gridvalidation</key>
+	<string>histogramKind</string>
+	<key>inkwellColor</key>
+	<string>serializeMap</string>
+	<key>scrollerposition</key>
+	<string>sophisticatedMedia</string>
+	<key>shouldDeserializePlayback</key>
+	<string>reflectResource</string>
+	<key>tabviewStyle</key>
+	<string>drawDecoration</string>
+	<key>vectorMomentum</key>
+	<string>refactorPosition</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellBrightness</key>
+	<string>completionParameter</string>
+	<key>hardElasticity</key>
+	<string>alignmentCenter</string>
+	<key>keyHeap</key>
+	<string>shouldFinishRole</string>
+	<key>liteRecursion</key>
+	<string>sessionNumber</string>
+	<key>responsePadding</key>
+	<string>scalabilityTheme</string>
+	<key>resumereducer</key>
+	<string>alertMethod</string>
+	<key>shouldBuildController</key>
+	<string>spritecontroller</string>
+	<key>shouldpushinstruction</key>
+	<string>makeSubscription</string>
+</dict>
+</plist>

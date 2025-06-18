@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>combinematrix</key>
+	<string>cartesianschema</string>
+	<key>fusedScreen</key>
+	<string>mediaqueryValue</string>
+	<key>mapTail</key>
+	<string>expandedVisible</string>
+	<key>meshvalidation</key>
+	<string>ephemeralTentative</string>
+	<key>originalAperture</key>
+	<string>nextModal</string>
+	<key>otherAscent</key>
+	<string>sampleScope</string>
+	<key>pinchableSegue</key>
+	<string>seamlesseffect</string>
+	<key>standalonegraph</key>
+	<string>oncosinechanged</string>
+</dict>
+</plist>

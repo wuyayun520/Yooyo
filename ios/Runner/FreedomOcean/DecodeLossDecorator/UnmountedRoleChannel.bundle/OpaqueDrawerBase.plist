@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>localNotifier</key>
+	<string>deprecateoffset</string>
+	<key>materialDescent</key>
+	<string>matrixOffset</string>
+	<key>seamlessCurve</key>
+	<string>canNotifyBase</string>
+	<key>shapeLocation</key>
+	<string>shouldInflatePainter</string>
+	<key>shouldHandleScaffold</key>
+	<string>disposecaption</string>
+	<key>shouldtransformaperture</key>
+	<string>shouldDismissCaption</string>
+</dict>
+</plist>

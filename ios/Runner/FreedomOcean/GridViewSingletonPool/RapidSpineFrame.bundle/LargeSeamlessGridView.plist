@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curvereducer</key>
+	<string>shouldNavigateCoordinator</string>
+	<key>fixedProject</key>
+	<string>shouldFetchGrayscale</string>
+	<key>grainrenderer</key>
+	<string>boxSystem</string>
+	<key>shouldTransitionSign</key>
+	<string>appendresource</string>
+	<key>subtleFrame</key>
+	<string>overridePreview</string>
+</dict>
+</plist>

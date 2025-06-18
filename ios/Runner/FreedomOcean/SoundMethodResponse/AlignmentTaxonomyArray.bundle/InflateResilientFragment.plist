@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelslayer</key>
+	<string>firstBehavior</string>
+	<key>notifierLeft</key>
+	<string>checkScene</string>
+	<key>overlayvalidation</key>
+	<string>rowTop</string>
+	<key>processcycle</key>
+	<string>inactiveRectangle</string>
+	<key>publicAnimatedContainer</key>
+	<string>shouldResumeMission</string>
+	<key>singletonRate</key>
+	<string>notifierActivity</string>
+	<key>smartListener</key>
+	<string>consultativedispatcher</string>
+	<key>storageOffset</key>
+	<string>gradientRate</string>
+	<key>subsequentSlider</key>
+	<string>shouldBindMaster</string>
+	<key>unbindaxis</key>
+	<string>presentExtension</string>
+</dict>
+</plist>

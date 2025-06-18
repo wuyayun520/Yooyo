@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accelerateoffset</key>
+	<string>singleCallback</string>
+	<key>arithmeticCoordinator</key>
+	<string>reusableScale</string>
+	<key>backwardSwift</key>
+	<string>taskVisible</string>
+	<key>boxshadowType</key>
+	<string>enumerateButton</string>
+	<key>explicitAnalogy</key>
+	<string>baselinethanparameter</string>
+	<key>hasDropdownButton</key>
+	<string>shouldDisposeSpot</string>
+	<key>matrixVisibility</key>
+	<string>alphaMomentum</string>
+	<key>shouldloadcoordinator</key>
+	<string>baseType</string>
+	<key>visibleAnalyzer</key>
+	<string>grainTask</string>
+</dict>
+</plist>

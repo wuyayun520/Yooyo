@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityduration</key>
+	<string>canSkipAnchor</string>
+	<key>assetCoord</key>
+	<string>respectiveElasticity</string>
+	<key>createcycle</key>
+	<string>evaluateDuration</string>
+	<key>numericalScale</key>
+	<string>loadConvolution</string>
+	<key>onstatefultap</key>
+	<string>smallTaxonomy</string>
+	<key>opaqueStrength</key>
+	<string>richtextContext</string>
+	<key>reactivegroup</key>
+	<string>componentSkewX</string>
+	<key>reusableScreen</key>
+	<string>dependencyAction</string>
+	<key>shouldParseExtension</key>
+	<string>usedReceiver</string>
+	<key>significantEvent</key>
+	<string>lazyContainer</string>
+</dict>
+</plist>

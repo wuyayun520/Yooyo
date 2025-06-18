@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorstructuredelay</key>
+	<string>modulusDepth</string>
+	<key>cancelstate</key>
+	<string>baselinekind</string>
+	<key>chartEdge</key>
+	<string>roleCommand</string>
+	<key>durationinsidestyle</key>
+	<string>vertexShape</string>
+	<key>hyperbolicExpanded</key>
+	<string>referenceCenter</string>
+	<key>receiverHue</key>
+	<string>blocpressure</string>
+	<key>relationalPolyfill</key>
+	<string>variantVariable</string>
+	<key>rowPadding</key>
+	<string>stopGem</string>
+	<key>tickerSkewX</key>
+	<string>vectorValue</string>
+	<key>usecaseAlignment</key>
+	<string>pointinframework</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitCoord</key>
+	<string>toolSpacing</string>
+	<key>deserializetable</key>
+	<string>oldTraversal</string>
+	<key>immediateEquivalent</key>
+	<string>shouldFetchDelegate</string>
+	<key>lazyData</key>
+	<string>entropyMode</string>
+	<key>mobileMargin</key>
+	<string>shouldRestartMomentum</string>
+	<key>opaqueConstraint</key>
+	<string>shouldDisconnectMargin</string>
+	<key>priorInstruction</key>
+	<string>robustScene</string>
+	<key>renderheap</key>
+	<string>chapternumberrotation</string>
+	<key>slashSaturation</key>
+	<string>borderAction</string>
+	<key>streamDelay</key>
+	<string>adjustprecision</string>
+</dict>
+</plist>

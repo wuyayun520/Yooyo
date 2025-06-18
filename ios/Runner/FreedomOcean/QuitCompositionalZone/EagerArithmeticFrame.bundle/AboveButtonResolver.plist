@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionLeft</key>
+	<string>parseDialogs</string>
+	<key>bufferpressure</key>
+	<string>remediationState</string>
+	<key>compositionalrectdensity</key>
+	<string>logduration</string>
+	<key>encodenavigator</key>
+	<string>regulateDelegate</string>
+	<key>hyperbolicZone</key>
+	<string>semanticProfile</string>
+	<key>intuitiveOffset</key>
+	<string>canStreamMargin</string>
+	<key>selectedreference</key>
+	<string>pinchableprojectioncenter</string>
+	<key>statefulMetrics</key>
+	<string>overlayProxy</string>
+	<key>threadcomponent</key>
+	<string>crucialBaseline</string>
+</dict>
+</plist>

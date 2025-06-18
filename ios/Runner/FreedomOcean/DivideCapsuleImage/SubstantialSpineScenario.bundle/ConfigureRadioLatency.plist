@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>easyUseCase</key>
+	<string>canSerializeCustomPaint</string>
+	<key>layoutexceptlayer</key>
+	<string>numericalaction</string>
+	<key>nextProgressBar</key>
+	<string>inactivecellacceleration</string>
+	<key>prevTabBar</key>
+	<string>chartduration</string>
+	<key>secondalpha</key>
+	<string>permutationMode</string>
+	<key>shouldStopProfile</key>
+	<string>publicObserver</string>
+	<key>shouldpausecursor</key>
+	<string>relationalObject</string>
+	<key>tensorBinder</key>
+	<string>methodTask</string>
+	<key>textureorientation</key>
+	<string>restartnode</string>
+</dict>
+</plist>

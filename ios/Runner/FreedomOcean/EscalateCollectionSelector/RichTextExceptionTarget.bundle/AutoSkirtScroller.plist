@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>acceleratenotifier</key>
+	<string>firstObject</string>
+	<key>compositionalEquivalent</key>
+	<string>metricsSpacing</string>
+	<key>crudeNorm</key>
+	<string>canHandleCursor</string>
+	<key>pinchableGram</key>
+	<string>canPresentNavigation</string>
+	<key>responsivetolerance</key>
+	<string>granularModule</string>
+	<key>usecaseBehavior</key>
+	<string>alertCycle</string>
+</dict>
+</plist>

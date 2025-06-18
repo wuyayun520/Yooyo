@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerkind</key>
+	<string>rebuildOption</string>
+	<key>lifecycleStyle</key>
+	<string>resourcecreator</string>
+	<key>missedMerger</key>
+	<string>mobileFactory</string>
+	<key>multiModule</key>
+	<string>currentMenu</string>
+	<key>occasionAppearance</key>
+	<string>subsequentEntity</string>
+	<key>primarySegment</key>
+	<string>concreteIntegration</string>
+	<key>shouldEncodeBehavior</key>
+	<string>interfaceRotation</string>
+	<key>standaloneAction</key>
+	<string>denseVideo</string>
+	<key>typicalSegue</key>
+	<string>hardIndicator</string>
+</dict>
+</plist>

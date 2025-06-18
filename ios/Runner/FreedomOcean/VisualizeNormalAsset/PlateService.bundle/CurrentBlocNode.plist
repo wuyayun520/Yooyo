@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activitymaterializer</key>
+	<string>flexDirection</string>
+	<key>checklistuntilbridge</key>
+	<string>queuecount</string>
+	<key>discardedSine</key>
+	<string>poolModel</string>
+	<key>gatescheduler</key>
+	<string>pinchableInfrastructure</string>
+	<key>interfaceShade</key>
+	<string>functionalReplica</string>
+	<key>numericalCompletion</key>
+	<string>animationHue</string>
+	<key>ongraphicchanged</key>
+	<string>shoulddecodesubpixel</string>
+	<key>respectiveAwait</key>
+	<string>strokeRate</string>
+	<key>scaffoldevent</key>
+	<string>fusedSign</string>
+	<key>shouldLayoutGestureDetector</key>
+	<string>updateFlex</string>
+</dict>
+</plist>

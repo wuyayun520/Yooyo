@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryScale</key>
+	<string>shouldPersistSegment</string>
+	<key>alignmentSpeed</key>
+	<string>clipperFrequency</string>
+	<key>criticalConverter</key>
+	<string>captureFactory</string>
+	<key>firstPreview</key>
+	<string>inheritedasyncappearance</string>
+	<key>imperativeReliability</key>
+	<string>respectiveSkin</string>
+	<key>liteMobile</key>
+	<string>canSetStateConstraint</string>
+	<key>reliabilityDepth</key>
+	<string>primaryVertex</string>
+	<key>subtleChallenge</key>
+	<string>marshalTopic</string>
+	<key>switchOpacity</key>
+	<string>criticalDelegate</string>
+	<key>textthroughstage</key>
+	<string>sequentialCallback</string>
+</dict>
+</plist>

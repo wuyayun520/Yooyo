@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerResponse</key>
+	<string>baselineAlignment</string>
+	<key>ephemeralInformation</key>
+	<string>tableOrigin</string>
+	<key>pageviewFlags</key>
+	<string>endScale</string>
+	<key>priorBinder</key>
+	<string>shouldFinishVariant</string>
+	<key>resourcesincevariable</key>
+	<string>multiplyStore</string>
+	<key>statevolume</key>
+	<string>resultFlyweight</string>
+	<key>usedMultiplication</key>
+	<string>assetEdge</string>
+</dict>
+</plist>

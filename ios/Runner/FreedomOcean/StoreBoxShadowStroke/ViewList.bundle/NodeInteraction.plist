@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerdurationleft</key>
+	<string>descriptorAcceleration</string>
+	<key>descentType</key>
+	<string>eagerReference</string>
+	<key>easyProvider</key>
+	<string>nativeaxis</string>
+	<key>holdhandler</key>
+	<string>interactiveAnimatedContainer</string>
+	<key>robustResolver</key>
+	<string>matrixSkewY</string>
+	<key>sessionCoord</key>
+	<string>priorGrid</string>
+	<key>shouldDetachController</key>
+	<string>canStopStep</string>
+	<key>usecaseOffset</key>
+	<string>fixedUseCase</string>
+</dict>
+</plist>

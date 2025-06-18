@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackspacing</key>
+	<string>particleVar</string>
+	<key>cubitIndex</key>
+	<string>prismaticUnary</string>
+	<key>diversifiedTabBar</key>
+	<string>shouldStopBuilder</string>
+	<key>hierarchicalSingleton</key>
+	<string>showNib</string>
+	<key>interactiverichtext</key>
+	<string>dependencyCount</string>
+	<key>itemOpacity</key>
+	<string>detachShader</string>
+	<key>marginprovider</key>
+	<string>provisionPressure</string>
+	<key>mediumModel</key>
+	<string>requiredTransition</string>
+	<key>seamlessLocalization</key>
+	<string>intuitiveBrush</string>
+	<key>streamerror</key>
+	<string>elasticCanvas</string>
+</dict>
+</plist>

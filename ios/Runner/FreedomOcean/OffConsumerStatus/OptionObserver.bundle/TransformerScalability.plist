@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumertint</key>
+	<string>concreteSubpixel</string>
+	<key>cubefeedback</key>
+	<string>eagerClipper</string>
+	<key>curvebrightness</key>
+	<string>localizationSpeed</string>
+	<key>isthread</key>
+	<string>reduceQueue</string>
+	<key>providerInteraction</key>
+	<string>retainedProtocol</string>
+	<key>searchbuilder</key>
+	<string>shouldBindCube</string>
+	<key>serviceadapterdensity</key>
+	<string>dependencyscheduler</string>
+	<key>shouldHandleFuture</key>
+	<string>diversifiedGroup</string>
+	<key>subpixelState</key>
+	<string>startFuture</string>
+</dict>
+</plist>

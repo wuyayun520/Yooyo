@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedModel</key>
+	<string>boxfeedback</string>
+	<key>detectorTint</key>
+	<string>opaqueWorkflow</string>
+	<key>futurespacing</key>
+	<string>compositionalActivity</string>
+	<key>geometricIntegrity</key>
+	<string>shouldConnectCoordinator</string>
+	<key>globalTangent</key>
+	<string>webCheckbox</string>
+	<key>mountentropy</key>
+	<string>canObserveTable</string>
+	<key>shouldCreateSemantics</key>
+	<string>canSubscribeReduction</string>
+	<key>shouldDecodeRemainder</key>
+	<string>startCycle</string>
+	<key>statelessSkewY</key>
+	<string>visiblePainter</string>
+	<key>uniformNode</key>
+	<string>lostRestriction</string>
+</dict>
+</plist>

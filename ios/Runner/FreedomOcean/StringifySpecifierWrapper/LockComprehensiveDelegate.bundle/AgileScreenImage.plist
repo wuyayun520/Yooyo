@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>nativeMission</key>
+	<string>extensionduration</string>
+	<key>occasionvalidation</key>
+	<string>locatenotifier</string>
+	<key>relationalStep</key>
+	<string>interactorindex</string>
+	<key>shouldFinishSample</key>
+	<string>toolAdapter</string>
+	<key>shouldPresentFuture</key>
+	<string>transposeDescription</string>
+	<key>signatureCoord</key>
+	<string>cupertinoindex</string>
+</dict>
+</plist>

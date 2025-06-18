@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeStack</key>
+	<string>shouldPresentBullet</string>
+	<key>nodeSpeed</key>
+	<string>permanentsine</string>
+	<key>objectContrast</key>
+	<string>canKeepRichText</string>
+	<key>priorityKind</key>
+	<string>immutabletaskspeed</string>
+	<key>sharedConfiguration</key>
+	<string>shouldSetStateReference</string>
+</dict>
+</plist>

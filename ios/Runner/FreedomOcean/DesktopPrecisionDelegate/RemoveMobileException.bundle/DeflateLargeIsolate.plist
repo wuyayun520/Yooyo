@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptorContrast</key>
+	<string>convolutionEdge</string>
+	<key>managerCoord</key>
+	<string>deserializeComposition</string>
+	<key>schemaResponse</key>
+	<string>coordinatorfacadedistance</string>
+	<key>shouldLoadAppBar</key>
+	<string>explicitproviderdelay</string>
+	<key>toolusecase</key>
+	<string>usecaseIndex</string>
+</dict>
+</plist>

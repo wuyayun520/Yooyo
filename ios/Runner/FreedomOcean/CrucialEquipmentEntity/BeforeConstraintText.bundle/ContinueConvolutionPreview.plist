@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousStream</key>
+	<string>shouldloadmultiplication</string>
+	<key>autoCharacter</key>
+	<string>interactiveTransformer</string>
+	<key>boxDepth</key>
+	<string>canDisposeInkWell</string>
+	<key>injectsprite</key>
+	<string>arithmeticScroll</string>
+	<key>reusableMedia</key>
+	<string>pinchableExpanded</string>
+	<key>sensorplatformflags</key>
+	<string>directBorder</string>
+	<key>shouldSerializeCapsule</key>
+	<string>rapidConfiguration</string>
+</dict>
+</plist>

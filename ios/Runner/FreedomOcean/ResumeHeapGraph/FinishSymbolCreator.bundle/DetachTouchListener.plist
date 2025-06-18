@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasBorder</key>
+	<string>eraseCurve</string>
+	<key>delicateInteractor</key>
+	<string>commonEquivalent</string>
+	<key>enabledRoute</key>
+	<string>schedulerDistance</string>
+	<key>geometricThreshold</key>
+	<string>navigatePet</string>
+	<key>oldAspect</key>
+	<string>shouldUpdateStateful</string>
+	<key>scrollSize</key>
+	<string>draggableWorkflow</string>
+	<key>statefulgrain</key>
+	<string>hyperbolicConsumption</string>
+	<key>sustainableMerger</key>
+	<string>animationInset</string>
+	<key>webresultskewy</key>
+	<string>resizableInformation</string>
+	<key>zonebinder</key>
+	<string>singleOffset</string>
+</dict>
+</plist>

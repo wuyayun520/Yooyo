@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeCompleter</key>
+	<string>textVisibility</string>
+	<key>defaultcompletion</key>
+	<string>routenearstage</string>
+	<key>executeinjection</key>
+	<string>inheritedRouter</string>
+	<key>gemSkewY</key>
+	<string>canMountProfile</string>
+	<key>iterativeProjection</key>
+	<string>tweakSkewY</string>
+	<key>pagerBehavior</key>
+	<string>significantStorage</string>
+	<key>radiusCount</key>
+	<string>canShowCoordinator</string>
+	<key>requiredMaster</key>
+	<string>concatenateProgressBar</string>
+	<key>rowOrigin</key>
+	<string>operationSystem</string>
+</dict>
+</plist>

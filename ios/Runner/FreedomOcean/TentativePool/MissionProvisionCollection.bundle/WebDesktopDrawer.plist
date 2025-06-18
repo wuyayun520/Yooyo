@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledSprite</key>
+	<string>hasChecklist</string>
+	<key>finishdimension</key>
+	<string>linkerBorder</string>
+	<key>paddinginsidemethod</key>
+	<string>cancelCube</string>
+	<key>pinchableStack</key>
+	<string>tabbarSpeed</string>
+	<key>popupDelay</key>
+	<string>componentIndex</string>
+	<key>shouldLoadAnimatedContainer</key>
+	<string>scrollabledispatcher</string>
+	<key>shouldRestartTabBar</key>
+	<string>shouldRouteContainer</string>
+</dict>
+</plist>

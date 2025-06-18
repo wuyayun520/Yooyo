@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityleft</key>
+	<string>ephemeralItem</string>
+	<key>errorOrientation</key>
+	<string>canRouteFragment</string>
+	<key>hierarchicaldimension</key>
+	<string>mobileChallenge</string>
+	<key>resilientpublisher</key>
+	<string>canDetachCapsule</string>
+	<key>statelessView</key>
+	<string>disparateBandwidth</string>
+	<key>usecaseframeworkinteraction</key>
+	<string>sequentialDependency</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedAsync</key>
+	<string>concurrentJoiner</string>
+	<key>backwardDetector</key>
+	<string>eagerAwait</string>
+	<key>defaultinterpolation</key>
+	<string>lossOpacity</string>
+	<key>mediocrealignmentbound</key>
+	<string>cubitshade</string>
+	<key>missednavigator</key>
+	<string>activeDistinction</string>
+	<key>radioformat</key>
+	<string>concreteNorm</string>
+	<key>shouldDispatchInstruction</key>
+	<string>canShowEffect</string>
+	<key>storagemargin</key>
+	<string>builderCenter</string>
+	<key>streamreducer</key>
+	<string>notificationmetrics</string>
+</dict>
+</plist>

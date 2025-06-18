@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticPriority</key>
+	<string>onviewtap</string>
+	<key>desktopMaterial</key>
+	<string>brushName</string>
+	<key>hardFuture</key>
+	<string>shouldPresentCycle</string>
+	<key>hardGraphic</key>
+	<string>switchFlyweight</string>
+	<key>shouldNavigateBullet</key>
+	<string>emitScene</string>
+	<key>stacksingleton</key>
+	<string>singleSubscriber</string>
+	<key>timelineLocation</key>
+	<string>skirtFlags</string>
+</dict>
+</plist>

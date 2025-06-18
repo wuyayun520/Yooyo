@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardAnalogy</key>
+	<string>utilfromaction</string>
+	<key>backwardThread</key>
+	<string>referenceframe</string>
+	<key>crudeTimeline</key>
+	<string>advancedinjectioncoord</string>
+	<key>dedicatedHeap</key>
+	<string>cacheAppBar</string>
+	<key>ephemeralKernel</key>
+	<string>semanticShader</string>
+	<key>exponentIndex</key>
+	<string>unmountedPageView</string>
+	<key>ignoredChart</key>
+	<string>unsortedExponent</string>
+	<key>ignoredGrid</key>
+	<string>startScaffold</string>
+	<key>restrictionRate</key>
+	<string>retainDelegate</string>
+	<key>seamlessChannels</key>
+	<string>agileUnary</string>
+</dict>
+</plist>

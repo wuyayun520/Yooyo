@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>navigatorTail</key>
+	<string>uniqueMenu</string>
+	<key>optimizerDelay</key>
+	<string>shouldListenCapacities</string>
+	<key>persistentEntropy</key>
+	<string>shouldYieldNorm</string>
+	<key>temporarySingleton</key>
+	<string>newestcontainer</string>
+</dict>
+</plist>

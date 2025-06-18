@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>colorColor</key>
+	<string>providercallback</string>
+	<key>directObject</key>
+	<string>notificationdistance</string>
+	<key>drawerRotation</key>
+	<string>respondPresenter</string>
+	<key>eventprototypeskewx</key>
+	<string>shouldPrepareCupertino</string>
+	<key>fusedSink</key>
+	<string>holdResolver</string>
+	<key>localLog</key>
+	<string>tableFormat</string>
+</dict>
+</plist>

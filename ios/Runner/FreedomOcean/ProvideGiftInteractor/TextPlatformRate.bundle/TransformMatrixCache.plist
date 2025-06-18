@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengePressure</key>
+	<string>limitmethod</string>
+	<key>histogramSpacing</key>
+	<string>declarativeColor</string>
+	<key>isolatethreshold</key>
+	<string>enabledRemainder</string>
+	<key>losthistogramdirection</key>
+	<string>canUpdateConvolution</string>
+	<key>maptype</key>
+	<string>prepareintensity</string>
+	<key>persistentReference</key>
+	<string>introspectPresenter</string>
+	<key>shouldpushpromise</key>
+	<string>listenSprite</string>
+</dict>
+</plist>

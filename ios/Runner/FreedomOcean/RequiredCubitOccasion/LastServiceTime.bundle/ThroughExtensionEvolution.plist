@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarLeft</key>
+	<string>offsetcurve</string>
+	<key>awaitRight</key>
+	<string>renderEquipment</string>
+	<key>characteradapterrate</key>
+	<string>eventTop</string>
+	<key>geometriccoordinatortail</key>
+	<string>actiontail</string>
+	<key>interactiveProfile</key>
+	<string>independentintegration</string>
+	<key>relationalScroll</key>
+	<string>spriteSkewX</string>
+	<key>shouldNavigateBaseline</key>
+	<string>shouldEncodeCube</string>
+</dict>
+</plist>

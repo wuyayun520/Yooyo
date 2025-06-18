@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelstexture</key>
+	<string>appendStream</string>
+	<key>commonrectangle</key>
+	<string>onherotap</string>
+	<key>groupdrawer</key>
+	<string>markRadius</string>
+	<key>prevIsolate</key>
+	<string>navigatorbufferorigin</string>
+	<key>shouldEncodeText</key>
+	<string>exponentStrategy</string>
+	<key>shouldanimateinstruction</key>
+	<string>permanentPadding</string>
+</dict>
+</plist>

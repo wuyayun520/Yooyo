@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>globalRouter</key>
+	<string>inheritedMargin</string>
+	<key>inkwellTint</key>
+	<string>titlecombiner</string>
+	<key>pointResponse</key>
+	<string>trianglesTransparency</string>
+	<key>retainedFragments</key>
+	<string>shouldendrichtext</string>
+	<key>sampleKind</key>
+	<string>shouldRebuildCanvas</string>
+	<key>sceneagainstsingleton</key>
+	<string>finishSwitch</string>
+	<key>tangentFormat</key>
+	<string>inactiveBaseline</string>
+</dict>
+</plist>

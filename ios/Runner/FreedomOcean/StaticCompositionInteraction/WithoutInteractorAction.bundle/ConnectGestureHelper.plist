@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionFlags</key>
+	<string>layoutHistogram</string>
+	<key>elementBottom</key>
+	<string>ephemeralAccessory</string>
+	<key>finishnib</key>
+	<string>directlystackinteraction</string>
+	<key>otherThreshold</key>
+	<string>currentLayer</string>
+	<key>selectedDrawer</key>
+	<string>actionLeft</string>
+	<key>symmetricSorter</key>
+	<string>accordionBox</string>
+</dict>
+</plist>

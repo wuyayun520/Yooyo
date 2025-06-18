@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousCache</key>
+	<string>presentGate</string>
+	<key>checkboxLeft</key>
+	<string>isolateComposite</string>
+	<key>geometricOverlay</key>
+	<string>shouldResumeComposition</string>
+	<key>shouldanimatebehavior</key>
+	<string>detachLabel</string>
+	<key>smallProfile</key>
+	<string>localProvider</string>
+	<key>subsequentClipper</key>
+	<string>requiredelement</string>
+</dict>
+</plist>

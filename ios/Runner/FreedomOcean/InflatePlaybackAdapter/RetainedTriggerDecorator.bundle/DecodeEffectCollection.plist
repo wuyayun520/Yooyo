@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialPopup</key>
+	<string>multiSpine</string>
+	<key>finderAppearance</key>
+	<string>canMountedWidget</string>
+	<key>independentBrush</key>
+	<string>drawerSpeed</string>
+	<key>shouldFinishStep</key>
+	<string>otherChart</string>
+	<key>shouldhandlebrush</key>
+	<string>computeAction</string>
+	<key>sliderlifecycle</key>
+	<string>continueAnchor</string>
+	<key>storeCount</key>
+	<string>topicalignment</string>
+	<key>transitiondecoratorspacing</key>
+	<string>canSkipExponent</string>
+</dict>
+</plist>

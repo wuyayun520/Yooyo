@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dialogsTag</key>
+	<string>consumptionDensity</string>
+	<key>joinerContrast</key>
+	<string>notationForce</string>
+	<key>navigatorInterval</key>
+	<string>permutationSpacing</string>
+	<key>selectedcurve</key>
+	<string>resizableConstraint</string>
+	<key>shouldDeserializeTransition</key>
+	<string>shouldSaveCapacities</string>
+	<key>shouldPersistTextField</key>
+	<string>directTabView</string>
+	<key>stepCoord</key>
+	<string>signelasticity</string>
+	<key>visibleBaseline</key>
+	<string>prevScroller</string>
+	<key>yieldwidget</key>
+	<string>anchorPlatform</string>
+</dict>
+</plist>

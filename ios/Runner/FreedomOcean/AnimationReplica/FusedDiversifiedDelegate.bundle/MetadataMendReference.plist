@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composablecoordinatormargin</key>
+	<string>synchronousAlert</string>
+	<key>decorationversusobserver</key>
+	<string>shouldRebuildNotifier</string>
+	<key>deserializeicon</key>
+	<string>significantCurve</string>
+	<key>signatureOrientation</key>
+	<string>sinkValidation</string>
+	<key>significantTopic</key>
+	<string>differentiateScene</string>
+</dict>
+</plist>

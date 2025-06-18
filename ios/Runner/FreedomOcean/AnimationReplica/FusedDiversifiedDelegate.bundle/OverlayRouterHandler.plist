@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentTrajectory</key>
+	<string>switchmodule</string>
+	<key>denseMultiplication</key>
+	<string>signphaseright</string>
+	<key>iconRotation</key>
+	<string>lazyResponse</string>
+	<key>retainedMediaQuery</key>
+	<string>shouldAnimateFlex</string>
+	<key>scrollerOrigin</key>
+	<string>linkerStatus</string>
+	<key>shouldValidateDelegate</key>
+	<string>shouldBindMargin</string>
+	<key>symmetricFrame</key>
+	<string>directBehavior</string>
+	<key>transformerCount</key>
+	<string>elasticPicker</string>
+	<key>transitionlevelopacity</key>
+	<string>behaviorInteraction</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianBehavior</key>
+	<string>nativeOption</string>
+	<key>compilemodal</key>
+	<string>mediaqueryContext</string>
+	<key>consultativeinteractororientation</key>
+	<string>resumeColumn</string>
+	<key>giftindex</key>
+	<string>taskstructureinterval</string>
+	<key>liteprotocol</key>
+	<string>saveStamp</string>
+	<key>pivotalbutton</key>
+	<string>visibleBandwidth</string>
+	<key>scaffoldCoord</key>
+	<string>presentCompletion</string>
+	<key>schemaForce</key>
+	<string>prepareCache</string>
+	<key>sharedparticle</key>
+	<string>skirtkind</string>
+	<key>throughputBrightness</key>
+	<string>propagateEvent</string>
+</dict>
+</plist>

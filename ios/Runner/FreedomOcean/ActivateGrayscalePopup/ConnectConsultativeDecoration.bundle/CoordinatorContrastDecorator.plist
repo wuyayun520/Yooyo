@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>functionalBitrate</key>
+	<string>shouldReplaceBinary</string>
+	<key>presenterInteraction</key>
+	<string>matrixFunction</string>
+	<key>scenarioIndex</key>
+	<string>shouldDisconnectAccessory</string>
+	<key>specifyDimension</key>
+	<string>missionDelay</string>
+</dict>
+</plist>

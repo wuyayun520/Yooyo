@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dialogsamongenvironment</key>
+	<string>discardedRecursion</string>
+	<key>equipmentDistance</key>
+	<string>beginnerGrayscale</string>
+	<key>euclideanscheduler</key>
+	<string>basicTriangles</string>
+	<key>resilientVector</key>
+	<string>brushpressure</string>
+	<key>sessionbesideproxy</key>
+	<string>durationSpacing</string>
+	<key>touchoverlay</key>
+	<string>inkwellOrientation</string>
+</dict>
+</plist>

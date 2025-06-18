@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterVisible</key>
+	<string>integerLocation</string>
+	<key>curveMargin</key>
+	<string>transformhandler</string>
+	<key>fusedListener</key>
+	<string>finderSkewY</string>
+	<key>futureinset</key>
+	<string>shouldUpdateCell</string>
+	<key>gramcallback</key>
+	<string>shouldUpdateContraction</string>
+	<key>intuitiveTrigger</key>
+	<string>invisibleOptimizer</string>
+	<key>multiSign</key>
+	<string>touchinterpreterflags</string>
+	<key>shouldUnbindCapacities</key>
+	<string>secondDocument</string>
+	<key>transformerlocation</key>
+	<string>draggableTool</string>
+</dict>
+</plist>

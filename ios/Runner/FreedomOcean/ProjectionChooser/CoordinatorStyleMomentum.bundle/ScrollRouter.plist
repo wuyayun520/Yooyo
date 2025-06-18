@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveAnimatedContainer</key>
+	<string>flexibleComposition</string>
+	<key>cartesianSegment</key>
+	<string>easypresenterinteraction</string>
+	<key>collectiontime</key>
+	<string>sceneTheme</string>
+	<key>deferredStream</key>
+	<string>sustainableScalability</string>
+	<key>throughputtype</key>
+	<string>reactiveAlignment</string>
+	<key>vectorDelay</key>
+	<string>hardJoiner</string>
+</dict>
+</plist>

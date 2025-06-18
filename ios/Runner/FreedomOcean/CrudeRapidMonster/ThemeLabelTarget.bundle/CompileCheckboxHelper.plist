@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dropoutbuffer</key>
+	<string>listenPlate</string>
+	<key>fusedMonster</key>
+	<string>latencyState</string>
+	<key>projectionDistance</key>
+	<string>serializeHandler</string>
+</dict>
+</plist>

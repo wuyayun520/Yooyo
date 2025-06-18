@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>formatFeedback</key>
+	<string>shouldBindMap</string>
+	<key>replacedescriptor</key>
+	<string>modalincludenumber</string>
+	<key>robustShader</key>
+	<string>lastbandwidth</string>
+	<key>shouldMountTable</key>
+	<string>shouldreplacewidget</string>
+	<key>streamCoord</key>
+	<string>shouldYieldReference</string>
+</dict>
+</plist>

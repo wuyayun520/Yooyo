@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorAcceleration</key>
+	<string>binderPosition</string>
+	<key>contrastColor</key>
+	<string>subpixelanimation</string>
+	<key>graphicStatus</key>
+	<string>deserializestateful</string>
+	<key>invisibleGrayscale</key>
+	<string>robustPosition</string>
+	<key>momentumspeed</key>
+	<string>dependencytransparency</string>
+	<key>nativeScreen</key>
+	<string>interfaceCycle</string>
+	<key>scaleorigin</key>
+	<string>comprehensivePresenter</string>
+	<key>shaderBound</key>
+	<string>shouldResumeMusic</string>
+	<key>shouldBindSpine</key>
+	<string>canUnbindGradient</string>
+	<key>similarPlayback</key>
+	<string>smartEfficiency</string>
+</dict>
+</plist>

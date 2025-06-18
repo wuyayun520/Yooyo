@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileEvaluation</key>
+	<string>primaryInformation</string>
+	<key>animationsaturation</key>
+	<string>quitTransformer</string>
+	<key>architectureInteraction</key>
+	<string>reusableStorage</string>
+	<key>difficultOperation</key>
+	<string>shouldPaintDrawer</string>
+	<key>originalJoiner</key>
+	<string>rotateDependency</string>
+	<key>shouldDeserializeCycle</key>
+	<string>inheritedArchitecture</string>
+	<key>shouldInflateCard</key>
+	<string>navigatorParameter</string>
+	<key>shouldPrepareUsage</key>
+	<string>bindComposition</string>
+	<key>skirtInterval</key>
+	<string>switchflyweightrate</string>
+</dict>
+</plist>

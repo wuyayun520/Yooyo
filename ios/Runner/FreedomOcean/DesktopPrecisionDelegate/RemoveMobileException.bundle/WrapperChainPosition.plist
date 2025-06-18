@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diversifiedFrame</key>
+	<string>dynamicInteraction</string>
+	<key>synchronousOptimizer</key>
+	<string>protectedCapacities</string>
+	<key>utilspeed</key>
+	<string>gradientBehavior</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hardProvision</key>
+	<string>masterFramework</string>
+	<key>immediatequeuescale</key>
+	<string>activatedEntity</string>
+	<key>mobileCoord</key>
+	<string>typicalMonster</string>
+	<key>persistentsorter</key>
+	<string>interactiveSorter</string>
+	<key>rapidAlpha</key>
+	<string>evaluationBottom</string>
+	<key>singleImpact</key>
+	<string>mediaquerycontrast</string>
+	<key>statefulVector</key>
+	<string>compositionalzonespacing</string>
+</dict>
+</plist>

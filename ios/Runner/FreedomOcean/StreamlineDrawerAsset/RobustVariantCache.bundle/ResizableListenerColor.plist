@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buildhandler</key>
+	<string>segueStructure</string>
+	<key>retainedFuture</key>
+	<string>errorinformation</string>
+	<key>shouldDetachContraction</key>
+	<string>flexibleSensor</string>
+	<key>shouldskipremainder</key>
+	<string>storageMomentum</string>
+	<key>wrapperBottom</key>
+	<string>canBindMember</string>
+</dict>
+</plist>

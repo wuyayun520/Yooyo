@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationOffset</key>
+	<string>pushAwait</string>
+	<key>customizedAnimator</key>
+	<string>checklistVariable</string>
+	<key>errorcolor</key>
+	<string>canListenIndicator</string>
+	<key>mainCube</key>
+	<string>chapterCycle</string>
+	<key>mutableContainer</key>
+	<string>advancedPoint</string>
+	<key>protectedStep</key>
+	<string>streamBaseline</string>
+	<key>shouldObserveRadio</key>
+	<string>canLayoutDrawer</string>
+	<key>subscriberContrast</key>
+	<string>widgetTail</string>
+</dict>
+</plist>

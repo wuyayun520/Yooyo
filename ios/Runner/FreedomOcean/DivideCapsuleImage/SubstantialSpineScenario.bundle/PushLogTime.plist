@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertKind</key>
+	<string>diversifiedMerger</string>
+	<key>curveactionstate</key>
+	<string>independentInterface</string>
+	<key>declarativeLocalization</key>
+	<string>semanticEquivalent</string>
+	<key>discardedProcessor</key>
+	<string>shouldDecodeRemainder</string>
+	<key>overridecontroller</key>
+	<string>floatLayout</string>
+	<key>protocolSize</key>
+	<string>shouldTransitionResource</string>
+	<key>resolverpublisher</key>
+	<string>shouldFetchStream</string>
+</dict>
+</plist>

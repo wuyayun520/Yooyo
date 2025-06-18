@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedDelegate</key>
+	<string>loopTransparency</string>
+	<key>delicateMedia</key>
+	<string>streamNib</string>
+	<key>hierarchicalStore</key>
+	<string>makeWidget</string>
+	<key>independenttaxonomy</key>
+	<string>semanticWrapper</string>
+	<key>metadatashapetop</key>
+	<string>responseLevel</string>
+	<key>uniformRole</key>
+	<string>calculateResource</string>
+</dict>
+</plist>

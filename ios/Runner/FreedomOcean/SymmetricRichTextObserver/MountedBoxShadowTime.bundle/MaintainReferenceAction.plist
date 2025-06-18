@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inactiveCapacities</key>
+	<string>poolcontraction</string>
+	<key>inheritedResilience</key>
+	<string>protectedlabel</string>
+	<key>intuitiveReducer</key>
+	<string>commonslider</string>
+	<key>notificationPressure</key>
+	<string>displayableUtil</string>
+	<key>routecontroller</key>
+	<string>globalMap</string>
+	<key>shouldDeserializeController</key>
+	<string>recursionBottom</string>
+	<key>subsequentSign</key>
+	<string>lostCache</string>
+	<key>uniformProfile</key>
+	<string>exitGroup</string>
+</dict>
+</plist>

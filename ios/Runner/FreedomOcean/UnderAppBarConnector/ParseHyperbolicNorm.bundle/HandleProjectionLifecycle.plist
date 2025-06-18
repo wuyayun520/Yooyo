@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicateMedia</key>
+	<string>multiStorage</string>
+	<key>handlerstyletype</key>
+	<string>gesturedetectorTop</string>
+	<key>oldAperture</key>
+	<string>shouldEndDropdownButton</string>
+	<key>permissiveaction</key>
+	<string>shouldAttachAnchor</string>
+	<key>pinchableStorage</key>
+	<string>cancelLog</string>
+	<key>singleView</key>
+	<string>locateLabel</string>
+	<key>sortedarithmeticresponse</key>
+	<string>streamfrommemento</string>
+</dict>
+</plist>

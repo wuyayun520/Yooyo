@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintValidation</key>
+	<string>filterPressure</string>
+	<key>diffableGroup</key>
+	<string>intermediatefuture</string>
+	<key>immediateReplica</key>
+	<string>responsiveTabView</string>
+	<key>immutableEntity</key>
+	<string>multiAccessory</string>
+	<key>mutablepopup</key>
+	<string>shouldDismissObserver</string>
+	<key>reusableChallenge</key>
+	<string>encodePrecision</string>
+	<key>shouldSerializeSwift</key>
+	<string>interactorspacing</string>
+	<key>singlechart</key>
+	<string>shouldPushCertificate</string>
+	<key>visibleResponse</key>
+	<string>canPrepareAxis</string>
+</dict>
+</plist>

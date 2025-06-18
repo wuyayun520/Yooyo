@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonLeft</key>
+	<string>canRenderSession</string>
+	<key>disabledError</key>
+	<string>createCache</string>
+	<key>disclaimerVisible</key>
+	<string>streamTension</string>
+	<key>kernelTint</key>
+	<string>specifyInstruction</string>
+	<key>prepareconstraint</key>
+	<string>activeSession</string>
+	<key>prevGraph</key>
+	<string>inflateCurve</string>
+	<key>receiverBorder</key>
+	<string>capsulestate</string>
+	<key>significantchallengecoord</key>
+	<string>statefulDimension</string>
+	<key>smallNotification</key>
+	<string>samplefuture</string>
+	<key>statefulSign</key>
+	<string>throughputSaturation</string>
+</dict>
+</plist>

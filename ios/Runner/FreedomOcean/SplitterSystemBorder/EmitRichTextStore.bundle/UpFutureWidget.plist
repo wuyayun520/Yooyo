@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedResponder</key>
+	<string>resizableSingleton</string>
+	<key>filterbrightness</key>
+	<string>notifyCapacities</string>
+	<key>greatMesh</key>
+	<string>uniquePresenter</string>
+	<key>matrixstagemomentum</key>
+	<string>quaternionBorder</string>
+	<key>routerthanmethod</key>
+	<string>completionrect</string>
+	<key>shouldReplaceCupertino</key>
+	<string>uniqueDispatcher</string>
+	<key>shouldShowDimension</key>
+	<string>profilecompositehead</string>
+	<key>streamlinenavigator</key>
+	<string>initializeInjection</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalSprite</key>
+	<string>reactiveFrame</string>
+	<key>decorationTail</key>
+	<string>smartconfiguration</string>
+	<key>disconnecttabbar</key>
+	<string>cleanMethod</string>
+	<key>fixedAction</key>
+	<string>accessibleKernel</string>
+	<key>hascell</key>
+	<string>immediateSession</string>
+	<key>observetitle</key>
+	<string>advancedStorage</string>
+	<key>streaminfrastructure</key>
+	<string>clearbuffer</string>
+</dict>
+</plist>

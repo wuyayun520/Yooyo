@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>liteConvolution</key>
+	<string>sequentialTimer</string>
+	<key>optionLeft</key>
+	<string>segueFlags</string>
+	<key>primaryPrecision</key>
+	<string>statelessInfo</string>
+	<key>secondInfrastructure</key>
+	<string>frameFacade</string>
+	<key>similarChooser</key>
+	<string>effectAlignment</string>
+	<key>temporaryDetector</key>
+	<string>schedulechannels</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>calculateanimation</key>
+	<string>aspectratioFunction</string>
+	<key>deactivateconfiguration</key>
+	<string>shouldUpdateGrayscale</string>
+	<key>eagerVariant</key>
+	<string>defaultmaterial</string>
+	<key>primaryExpanded</key>
+	<string>vectorkinddelay</string>
+	<key>textrenderer</key>
+	<string>tabviewNumber</string>
+</dict>
+</plist>

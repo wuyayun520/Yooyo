@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationbehavior</key>
+	<string>shouldEmitLabel</string>
+	<key>euclideanDescriptor</key>
+	<string>storyboardFrequency</string>
+	<key>independentUnary</key>
+	<string>scrollableProvider</string>
+	<key>metricsMode</key>
+	<string>behaviorParameter</string>
+	<key>permissivewidgetsize</key>
+	<string>updateCheckbox</string>
+	<key>providereffect</key>
+	<string>materializeTexture</string>
+	<key>requestcompleter</key>
+	<string>canPopSlash</string>
+	<key>secondMetadata</key>
+	<string>shouldDismissCoordinator</string>
+	<key>sequentialsubscription</key>
+	<string>explicitLabel</string>
+	<key>subtleSink</key>
+	<string>pivotalWidget</string>
+</dict>
+</plist>

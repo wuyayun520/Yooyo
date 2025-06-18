@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalCheckbox</key>
+	<string>animationVariable</string>
+	<key>defaultmaterial</key>
+	<string>diffableBloc</string>
+	<key>disabledTimer</key>
+	<string>canPresentMediaQuery</string>
+	<key>interactiveCupertino</key>
+	<string>rowrotation</string>
+	<key>onrichtexttap</key>
+	<string>shouldPresentProtocol</string>
+	<key>seamlessInteraction</key>
+	<string>shouldSetStateStateless</string>
+	<key>transformbutton</key>
+	<string>canResumeSession</string>
+</dict>
+</plist>

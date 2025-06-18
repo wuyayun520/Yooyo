@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticIntegration</key>
+	<string>globalRange</string>
+	<key>numericalResilience</key>
+	<string>popSegment</string>
+	<key>originalwrapper</key>
+	<string>intuitiveCache</string>
+	<key>shouldFinishGram</key>
+	<string>completerCoord</string>
+</dict>
+</plist>

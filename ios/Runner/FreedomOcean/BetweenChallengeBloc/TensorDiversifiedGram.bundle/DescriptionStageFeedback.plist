@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerSound</key>
+	<string>contrastTransparency</string>
+	<key>elasticNavigator</key>
+	<string>serviceadaptercenter</string>
+	<key>entropyVelocity</key>
+	<string>replicaStyle</string>
+	<key>eventshape</key>
+	<string>shouldpersistgridview</string>
+	<key>navigatorFormat</key>
+	<string>fixedCycle</string>
+	<key>shouldPauseVariant</key>
+	<string>catalystFlyweight</string>
+</dict>
+</plist>

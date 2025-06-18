@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedTimeline</key>
+	<string>listenBase</string>
+	<key>normalTweak</key>
+	<string>accessoryHead</string>
+	<key>progressbarcenter</key>
+	<string>missedTimer</string>
+</dict>
+</plist>

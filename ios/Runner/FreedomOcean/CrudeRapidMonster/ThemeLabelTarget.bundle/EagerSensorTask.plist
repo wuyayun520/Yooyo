@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hardCapacity</key>
+	<string>pageviewSize</string>
+	<key>ignoredCharacteristic</key>
+	<string>shouldSetStateDocument</string>
+	<key>objectTag</key>
+	<string>segmentChain</string>
+	<key>publicProfile</key>
+	<string>graphicasfunction</string>
+	<key>visibleCompleter</key>
+	<string>copyChapter</string>
+</dict>
+</plist>

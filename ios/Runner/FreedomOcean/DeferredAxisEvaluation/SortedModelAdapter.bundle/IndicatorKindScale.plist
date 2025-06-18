@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentText</key>
+	<string>paintdescription</string>
+	<key>lastMaterial</key>
+	<string>canSkipInterpolation</string>
+	<key>pickerDirection</key>
+	<string>confidentialityVisible</string>
+	<key>shouldBindStep</key>
+	<string>imperativeSegue</string>
+	<key>stampmanager</key>
+	<string>commonGroup</string>
+</dict>
+</plist>

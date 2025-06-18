@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationstate</key>
+	<string>traversalBehavior</string>
+	<key>associatedEntity</key>
+	<string>keepExpanded</string>
+	<key>channelsStyle</key>
+	<string>matrixPhase</string>
+	<key>clipperscale</key>
+	<string>serviceLayer</string>
+	<key>creatorStyle</key>
+	<string>inkwellCenter</string>
+	<key>fragmentsOrigin</key>
+	<string>clusterSaturation</string>
+	<key>ignoredAudio</key>
+	<string>minRemainder</string>
+	<key>thresholdScale</key>
+	<string>replaceAlpha</string>
+</dict>
+</plist>

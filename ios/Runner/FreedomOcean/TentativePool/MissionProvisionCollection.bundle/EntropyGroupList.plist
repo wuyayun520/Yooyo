@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>distinctionTop</key>
+	<string>mountedConsumer</string>
+	<key>impressionTint</key>
+	<string>rowPlatform</string>
+	<key>interactiveSegment</key>
+	<string>nativescreen</string>
+	<key>localDispatcher</key>
+	<string>tappableEmitter</string>
+	<key>persistentMomentum</key>
+	<string>heapdelay</string>
+</dict>
+</plist>

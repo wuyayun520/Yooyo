@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorpercycle</key>
+	<string>finishMultiplication</string>
+	<key>buttonTint</key>
+	<string>cursorSize</string>
+	<key>consumerOffset</key>
+	<string>intermediateEquipment</string>
+	<key>dedicatedPager</key>
+	<string>shouldValidateTextField</string>
+	<key>equipmentShape</key>
+	<string>currentGrayscale</string>
+	<key>modalInteraction</key>
+	<string>encodeCompleter</string>
+	<key>respectiveBullet</key>
+	<string>spinoption</string>
+	<key>retainedConsumption</key>
+	<string>hasnotifier</string>
+	<key>symmetricGesture</key>
+	<string>observeBase</string>
+</dict>
+</plist>

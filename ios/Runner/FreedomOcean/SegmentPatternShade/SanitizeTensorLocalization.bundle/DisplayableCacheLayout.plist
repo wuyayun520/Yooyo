@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedDescriptor</key>
+	<string>canRebuildAnimatedContainer</string>
+	<key>borderOrigin</key>
+	<string>buildMediaQuery</string>
+	<key>fusedDistinction</key>
+	<string>defaultNavigator</string>
+	<key>hasbrush</key>
+	<string>stringifyLayout</string>
+	<key>interactiveTrajectory</key>
+	<string>schemaBottom</string>
+	<key>intermediateReceiver</key>
+	<string>opaqueThreshold</string>
+	<key>resettouch</key>
+	<string>transitionexceptenvironment</string>
+	<key>shouldShowBullet</key>
+	<string>loopFrequency</string>
+	<key>tabviewvariableflags</key>
+	<string>workflowTension</string>
+</dict>
+</plist>

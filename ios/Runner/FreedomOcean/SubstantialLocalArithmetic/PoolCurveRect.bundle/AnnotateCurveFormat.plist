@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoChart</key>
+	<string>shouldRestartIndicator</string>
+	<key>concurrentSession</key>
+	<string>keepKernel</string>
+	<key>diffableThread</key>
+	<string>concurrentinteractordelay</string>
+	<key>implementinteractor</key>
+	<string>canFinishWidget</string>
+	<key>requiredContraction</key>
+	<string>detectorTransparency</string>
+</dict>
+</plist>

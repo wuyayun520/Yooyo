@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gatedensity</key>
+	<string>inactiveFragments</string>
+	<key>rowLocation</key>
+	<string>shouldProcessTangent</string>
+	<key>sceneRotation</key>
+	<string>easyException</string>
+	<key>shouldFormatTransition</key>
+	<string>enabledmetrics</string>
+	<key>vertexValidation</key>
+	<string>associatedSign</string>
+</dict>
+</plist>

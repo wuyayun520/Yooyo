@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationlayerfeedback</key>
+	<string>reducerDelay</string>
+	<key>immediateObserver</key>
+	<string>segmentCommand</string>
+	<key>lastInteractor</key>
+	<string>dismissRemainder</string>
+	<key>resourcescalability</key>
+	<string>currentUsage</string>
+	<key>shouldUnbindAnchor</key>
+	<string>titleOperation</string>
+</dict>
+</plist>

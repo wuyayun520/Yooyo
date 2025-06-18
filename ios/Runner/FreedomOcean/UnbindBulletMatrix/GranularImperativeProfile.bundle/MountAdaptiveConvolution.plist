@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>provisionvelocity</key>
+	<string>pinchableMap</string>
+	<key>shouldCreatePet</key>
+	<string>shouldProcessMap</string>
+	<key>singletonagainstcommand</key>
+	<string>shouldYieldDecoration</string>
+	<key>typicalInstruction</key>
+	<string>arithmeticdrawer</string>
+	<key>viewinset</key>
+	<string>efficiencyDensity</string>
+</dict>
+</plist>

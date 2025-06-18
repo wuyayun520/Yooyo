@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeEvaluation</key>
+	<string>shouldPaintCell</string>
+	<key>enabledcapsule</key>
+	<string>localVideo</string>
+	<key>independentPlate</key>
+	<string>nativeChooser</string>
+	<key>mainMargin</key>
+	<string>standaloneReliability</string>
+	<key>shouldFetchCollection</key>
+	<string>deserializeResolver</string>
+</dict>
+</plist>

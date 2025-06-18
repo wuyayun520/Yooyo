@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decoderequest</key>
+	<string>configureTween</string>
+	<key>missedSkin</key>
+	<string>awaitStage</string>
+	<key>opaqueMesh</key>
+	<string>polyfillDistance</string>
+	<key>permanentRecursion</key>
+	<string>basicSemantics</string>
+	<key>rapidInjection</key>
+	<string>canDismissNavigation</string>
+	<key>shouldBuildArithmetic</key>
+	<string>instructionamongprocess</string>
+	<key>shouldParseTabBar</key>
+	<string>concurrentColumn</string>
+	<key>shouldRouteNorm</key>
+	<string>canBuildCheckbox</string>
+	<key>sophisticatedGroup</key>
+	<string>shouldPersistSemantics</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalAscent</key>
+	<string>keepGram</string>
+	<key>futureformat</key>
+	<string>shouldTransitionMobile</string>
+	<key>heroCoord</key>
+	<string>statefulFrequency</string>
+	<key>menuScale</key>
+	<string>displayWidget</string>
+	<key>nodeSpeed</key>
+	<string>positionvisibility</string>
+	<key>permanentRadio</key>
+	<string>pagerMomentum</string>
+	<key>rapidScroller</key>
+	<string>blocbrightness</string>
+	<key>semanticReplica</key>
+	<string>shouldDispatchConvolution</string>
+	<key>sliderbufferborder</key>
+	<string>primaryProcessor</string>
+</dict>
+</plist>

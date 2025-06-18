@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticCupertino</key>
+	<string>reusableVideo</string>
+	<key>asyncFlags</key>
+	<string>singleVector</string>
+	<key>customizedTimeline</key>
+	<string>cursorduration</string>
+	<key>flexibleNode</key>
+	<string>interactororigin</string>
+	<key>missedDelegate</key>
+	<string>hardNavigator</string>
+	<key>shouldKeepTouch</key>
+	<string>canConnectWidget</string>
+	<key>shouldTransformPainter</key>
+	<string>specifyStatus</string>
+	<key>sinkorobserver</key>
+	<string>shouldSetStateLayout</string>
+	<key>tappableAperture</key>
+	<string>permanentTangent</string>
+	<key>webAmortization</key>
+	<string>brushInset</string>
+</dict>
+</plist>

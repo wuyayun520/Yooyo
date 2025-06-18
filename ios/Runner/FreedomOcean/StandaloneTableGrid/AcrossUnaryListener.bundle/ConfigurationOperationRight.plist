@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>infoHead</key>
+	<string>offsetFlyweight</string>
+	<key>shouldNavigateExponent</key>
+	<string>pageviewTag</string>
+	<key>shouldUnmountMusic</key>
+	<string>detectorStatus</string>
+</dict>
+</plist>

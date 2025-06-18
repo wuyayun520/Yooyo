@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buildcontainer</key>
+	<string>shouldPrepareSwitch</string>
+	<key>inkwellmenu</key>
+	<string>canAttachTernary</string>
+	<key>specifyTransformer</key>
+	<string>greatGrid</string>
+</dict>
+</plist>

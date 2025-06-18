@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphastorage</key>
+	<string>robustLifecycle</string>
+	<key>aspectratiobrightness</key>
+	<string>renderMultiplication</string>
+	<key>crucialHistogram</key>
+	<string>associatedResolver</string>
+	<key>inkwellopacity</key>
+	<string>endbuffer</string>
+	<key>nativeMesh</key>
+	<string>canPopAnimation</string>
+	<key>resizableTrajectory</key>
+	<string>canvasMomentum</string>
+	<key>sampleStyle</key>
+	<string>conformSprite</string>
+</dict>
+</plist>

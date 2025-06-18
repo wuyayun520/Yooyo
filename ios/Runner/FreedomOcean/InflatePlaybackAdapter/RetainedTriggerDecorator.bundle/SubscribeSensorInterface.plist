@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicFactory</key>
+	<string>traversalInterval</string>
+	<key>certificateDelay</key>
+	<string>clusterBehavior</string>
+	<key>dynamicThreshold</key>
+	<string>custompaintOffset</string>
+	<key>listviewCenter</key>
+	<string>tickerDelay</string>
+	<key>shouldpersistaperture</key>
+	<string>appbarScale</string>
+</dict>
+</plist>

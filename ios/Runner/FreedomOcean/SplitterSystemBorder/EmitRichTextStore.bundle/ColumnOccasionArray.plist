@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardinteractor</key>
+	<string>apertureSpacing</string>
+	<key>directAmortization</key>
+	<string>mountedEffect</string>
+	<key>logarithmState</key>
+	<string>transformModulus</string>
+	<key>movementcycledensity</key>
+	<string>buttonCommand</string>
+	<key>popupLeft</key>
+	<string>pushSwitch</string>
+	<key>protectedAperture</key>
+	<string>mediaqueryOffset</string>
+	<key>usedAsync</key>
+	<string>loopInterval</string>
+</dict>
+</plist>

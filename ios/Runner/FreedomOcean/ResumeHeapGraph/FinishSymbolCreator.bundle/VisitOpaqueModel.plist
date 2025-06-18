@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>emittext</key>
+	<string>chooserMargin</string>
+	<key>entityinteraction</key>
+	<string>monsterProxy</string>
+	<key>kernelprovider</key>
+	<string>canEmitListView</string>
+	<key>oldEntropy</key>
+	<string>disparateMatrix</string>
+</dict>
+</plist>

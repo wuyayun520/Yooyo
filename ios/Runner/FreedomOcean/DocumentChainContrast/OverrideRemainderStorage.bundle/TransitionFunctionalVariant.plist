@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoEquipment</key>
+	<string>particleMediator</string>
+	<key>customizedgesture</key>
+	<string>titleContext</string>
+	<key>imageBorder</key>
+	<string>menuFlags</string>
+	<key>intensityforkind</key>
+	<string>methodValidation</string>
+	<key>materialTint</key>
+	<string>rendererSaturation</string>
+	<key>normalDescent</key>
+	<string>orchestrateService</string>
+	<key>protectedposition</key>
+	<string>pushFuture</string>
+	<key>queuecreator</key>
+	<string>canDispatchCapsule</string>
+	<key>tweakDensity</key>
+	<string>pushRow</string>
+</dict>
+</plist>

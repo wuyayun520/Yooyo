@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialLog</key>
+	<string>strokeFlags</string>
+	<key>diffableAspect</key>
+	<string>shouldConnectConstraint</string>
+	<key>shouldAttachEqualization</key>
+	<string>consumerFacade</string>
+	<key>similarEffect</key>
+	<string>indicatorBuffer</string>
+	<key>singleChart</key>
+	<string>canHandleThread</string>
+</dict>
+</plist>

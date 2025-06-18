@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buildertail</key>
+	<string>publishIndicator</string>
+	<key>compositionalImpact</key>
+	<string>flexibleMetrics</string>
+	<key>denseIndicator</key>
+	<string>integrityType</string>
+	<key>hashfunctionpressure</key>
+	<string>updatehash</string>
+	<key>presenterperlayer</key>
+	<string>draggableConsumption</string>
+	<key>scrollableHash</key>
+	<string>eventsubscriber</string>
+	<key>shouldEmitCaption</key>
+	<string>integerorientation</string>
+	<key>sophisticatedDetector</key>
+	<string>framevisibility</string>
+</dict>
+</plist>

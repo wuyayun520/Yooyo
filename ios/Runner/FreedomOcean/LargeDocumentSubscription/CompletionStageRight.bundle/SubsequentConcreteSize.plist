@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>amortizationDensity</key>
+	<string>staticScale</string>
+	<key>delegateprovision</key>
+	<string>shaderCenter</string>
+	<key>resizableGraph</key>
+	<string>arithmeticInteractor</string>
+	<key>secondIndicator</key>
+	<string>screenPrototype</string>
+	<key>shouldBuildGestureDetector</key>
+	<string>invokeProvider</string>
+	<key>shouldNotifyBullet</key>
+	<string>keyBrush</string>
+	<key>subtleAnimatedContainer</key>
+	<string>shouldinflateloss</string>
+</dict>
+</plist>

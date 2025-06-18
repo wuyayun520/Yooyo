@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioOffset</key>
+	<string>canSkipModal</string>
+	<key>cosineoffset</key>
+	<string>channelmodecenter</string>
+	<key>currentcapacity</key>
+	<string>roleMediator</string>
+	<key>shouldserializeappbar</key>
+	<string>emitextension</string>
+	<key>sortedInformation</key>
+	<string>elasticProjection</string>
+	<key>statefulInterface</key>
+	<string>channelsResponse</string>
+</dict>
+</plist>

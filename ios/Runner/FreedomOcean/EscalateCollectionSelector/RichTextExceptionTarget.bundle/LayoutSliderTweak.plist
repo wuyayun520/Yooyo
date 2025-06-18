@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentdecorationposition</key>
+	<string>rectInterpreter</string>
+	<key>dialogsState</key>
+	<string>shouldRestartMultiplication</string>
+	<key>explicitsplitter</key>
+	<string>capsulekindcount</string>
+	<key>fusedanchor</key>
+	<string>canUpdateCube</string>
+	<key>hierarchicalStateful</key>
+	<string>transitionCycle</string>
+	<key>labelalongactivity</key>
+	<string>temporaryDispatcher</string>
+	<key>previewdescent</key>
+	<string>animatedSkin</string>
+	<key>seamlessscene</key>
+	<string>draggablespotspacing</string>
+	<key>shouldNavigateStack</key>
+	<string>euclideanNotation</string>
+	<key>splitterAppearance</key>
+	<string>activatedActivity</string>
+</dict>
+</plist>

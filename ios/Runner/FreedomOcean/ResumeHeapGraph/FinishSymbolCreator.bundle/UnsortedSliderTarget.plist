@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelborder</key>
+	<string>storetexture</string>
+	<key>declarativeMediaQuery</key>
+	<string>inheritedScaffold</string>
+	<key>dedicatedCube</key>
+	<string>prismaticInstruction</string>
+	<key>radiuscenter</key>
+	<string>statelessmaster</string>
+	<key>shouldStreamTable</key>
+	<string>delicateTimeline</string>
+</dict>
+</plist>

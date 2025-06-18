@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedconfiguration</key>
+	<string>resilienceSkewY</string>
+	<key>flexVisible</key>
+	<string>analogyState</string>
+	<key>flexactivitystate</key>
+	<string>assetcompositescale</string>
+	<key>granularService</key>
+	<string>imperativeCompletion</string>
+	<key>immediateRepository</key>
+	<string>decorationvaluevisibility</string>
+	<key>intermediateChannels</key>
+	<string>canValidateGrayscale</string>
+	<key>interpolationFeedback</key>
+	<string>reduceResponse</string>
+	<key>persistentChecklist</key>
+	<string>canResumeSpecifier</string>
+	<key>unsortedDescriptor</key>
+	<string>shouldConnectInkWell</string>
+	<key>vectorthreshold</key>
+	<string>pinchableCharacter</string>
+</dict>
+</plist>

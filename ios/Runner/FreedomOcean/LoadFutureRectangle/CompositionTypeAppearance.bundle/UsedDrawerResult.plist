@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedTernary</key>
+	<string>canContinueDialogs</string>
+	<key>agileInjection</key>
+	<string>transitiontop</string>
+	<key>aspecttimer</key>
+	<string>standalonepreviewformat</string>
+	<key>associatedGram</key>
+	<string>publicStoryboard</string>
+	<key>customizedListView</key>
+	<string>displayableUtil</string>
+	<key>declarativeradius</key>
+	<string>pivotalProvision</string>
+	<key>durationbrightness</key>
+	<string>baseoccasion</string>
+	<key>histogramtraversal</key>
+	<string>gestureTension</string>
+	<key>quaternionDistance</key>
+	<string>canStartAppBar</string>
+	<key>statelessAscent</key>
+	<string>shouldFetchLogarithm</string>
+</dict>
+</plist>

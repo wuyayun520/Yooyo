@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dropdownbuttontransformer</key>
+	<string>transitionSkin</string>
+	<key>infrastructureOffset</key>
+	<string>lastasyncleft</string>
+	<key>shouldStopCaption</key>
+	<string>resourceStructure</string>
+	<key>shouldUnbindScroll</key>
+	<string>globalTrigger</string>
+</dict>
+</plist>

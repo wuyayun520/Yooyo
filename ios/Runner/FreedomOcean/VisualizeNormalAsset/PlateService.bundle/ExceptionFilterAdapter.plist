@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudenavigator</key>
+	<string>shouldPushMap</string>
+	<key>descriptionflags</key>
+	<string>certificateShape</string>
+	<key>dissociatecallback</key>
+	<string>shouldconnecttool</string>
+	<key>popupalongplatform</key>
+	<string>custompaintSkewY</string>
+	<key>seamlessJoiner</key>
+	<string>deserializemaster</string>
+	<key>selectorVelocity</key>
+	<string>audioBehavior</string>
+	<key>servicefornumber</key>
+	<string>storespeed</string>
+	<key>staticPoint</key>
+	<string>euclideanResponse</string>
+	<key>staticScalability</key>
+	<string>sensornumberorigin</string>
+	<key>tweenSaturation</key>
+	<string>mapOffset</string>
+</dict>
+</plist>

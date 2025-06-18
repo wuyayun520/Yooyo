@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryoperationmargin</key>
+	<string>transitionTextField</string>
+	<key>agileservice</key>
+	<string>shouldSubscribeActivity</string>
+	<key>blocbeyondsystem</key>
+	<string>disabledLoader</string>
+	<key>curvefeedback</key>
+	<string>accordionGrain</string>
+	<key>labelprogressbar</key>
+	<string>shouldDecodeTextField</string>
+	<key>precisionLocation</key>
+	<string>elasticChannels</string>
+	<key>reusableResolver</key>
+	<string>logarithmbesidesingleton</string>
+	<key>sequentialNorm</key>
+	<string>addoffset</string>
+	<key>tabbartransformer</key>
+	<string>usedbuilderresponse</string>
+</dict>
+</plist>

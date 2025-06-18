@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoTension</key>
+	<string>enabledCreator</string>
+	<key>dynamicLocalization</key>
+	<string>publishGradient</string>
+	<key>hyperbolicReference</key>
+	<string>optimizernearform</string>
+	<key>lazyWrapper</key>
+	<string>encodeNib</string>
+	<key>newestgesturedetectorscale</key>
+	<string>chooserEdge</string>
+	<key>sharedstackvisible</key>
+	<string>attachTextField</string>
+	<key>shouldRouteUnary</key>
+	<string>offsetDependency</string>
+	<key>shouldSerializeMediaQuery</key>
+	<string>consumerParam</string>
+	<key>titlescale</key>
+	<string>durationSize</string>
+</dict>
+</plist>

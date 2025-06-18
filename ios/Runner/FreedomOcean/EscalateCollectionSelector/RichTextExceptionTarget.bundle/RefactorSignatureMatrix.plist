@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedwidget</key>
+	<string>shouldSetStateConvolution</string>
+	<key>baselinereplica</key>
+	<string>shouldYieldButton</string>
+	<key>canvasinfrastructure</key>
+	<string>temporaryMedia</string>
+	<key>finishplayback</key>
+	<string>interpolateprogressbar</string>
+	<key>relationalAlert</key>
+	<string>smallPet</string>
+	<key>robustSample</key>
+	<string>animateAnimatedContainer</string>
+	<key>tabviewSize</key>
+	<string>subtleaspectratio</string>
+</dict>
+</plist>

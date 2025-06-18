@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalbufferorigin</key>
+	<string>disconnectaxis</string>
+	<key>currentinkwell</key>
+	<string>liteDelegate</string>
+	<key>dedicatedoperation</key>
+	<string>animatedcontainerOrientation</string>
+	<key>difficultAction</key>
+	<string>canLoadMonster</string>
+	<key>permanentCache</key>
+	<string>usecaserotation</string>
+	<key>permissiveRow</key>
+	<string>dynamicEntropy</string>
+	<key>shouldTrainLabel</key>
+	<string>popupPadding</string>
+</dict>
+</plist>

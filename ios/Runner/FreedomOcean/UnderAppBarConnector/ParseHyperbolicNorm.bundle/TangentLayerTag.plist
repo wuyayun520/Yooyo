@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelfrequency</key>
+	<string>materiallabel</string>
+	<key>checklistBound</key>
+	<string>prevChecklist</string>
+	<key>functionalNavigation</key>
+	<string>shouldMountGraphic</string>
+	<key>instructionLeft</key>
+	<string>canCancelGrayscale</string>
+	<key>originalMend</key>
+	<string>spotborder</string>
+	<key>processorSpacing</key>
+	<string>shouldShowSkin</string>
+	<key>receiverLeft</key>
+	<string>inheritedModulus</string>
+	<key>selectorVisible</key>
+	<string>sensorComposite</string>
+	<key>shouldCreatePlate</key>
+	<string>encodeMenu</string>
+	<key>transitionshade</key>
+	<string>exponentLocation</string>
+</dict>
+</plist>

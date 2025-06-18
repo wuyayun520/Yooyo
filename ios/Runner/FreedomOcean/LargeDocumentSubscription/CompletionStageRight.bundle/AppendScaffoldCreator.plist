@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileScreen</key>
+	<string>canTrainEquipment</string>
+	<key>cleartabbar</key>
+	<string>otherPopup</string>
+	<key>denseGrid</key>
+	<string>extensionDistance</string>
+	<key>dimensionframeworkshade</key>
+	<string>dimensionScope</string>
+	<key>lostClipper</key>
+	<string>respectiveStateful</string>
+	<key>mobileCosine</key>
+	<string>injectionMemento</string>
+	<key>shouldUnbindProtocol</key>
+	<string>dimensionVelocity</string>
+	<key>subsequentStroke</key>
+	<string>segmentInset</string>
+	<key>symmetricStateful</key>
+	<string>staticTechnique</string>
+</dict>
+</plist>

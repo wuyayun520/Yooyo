@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeFlex</key>
+	<string>indicatorpermutation</string>
+	<key>advancedTopic</key>
+	<string>shouldLoadButton</string>
+	<key>controllerloader</key>
+	<string>bindObserver</string>
+	<key>eagerloader</key>
+	<string>storagefunctiondirection</string>
+	<key>mapBound</key>
+	<string>logthanparam</string>
+	<key>normcomponent</key>
+	<string>shouldPrepareCheckbox</string>
+	<key>permanentHeap</key>
+	<string>canRouteLayout</string>
+	<key>shouldResumeResource</key>
+	<string>bandwidthDistance</string>
+	<key>themestore</key>
+	<string>shouldBuildTechnique</string>
+</dict>
+</plist>

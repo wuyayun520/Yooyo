@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionStamp</key>
+	<string>shouldConnectBoxShadow</string>
+	<key>connectchannel</key>
+	<string>primaryRole</string>
+	<key>directLog</key>
+	<string>canFetchSpot</string>
+	<key>equalizationCenter</key>
+	<string>canAttachTable</string>
+	<key>inactiveGraphic</key>
+	<string>latencypadding</string>
+	<key>invisibleFlex</key>
+	<string>partitionFactory</string>
+	<key>mobileColor</key>
+	<string>curveCenter</string>
+	<key>shouldResumeNotifier</key>
+	<string>equipmentTension</string>
+	<key>sortedNavigator</key>
+	<string>convertRow</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelOpacity</key>
+	<string>defaultindicator</string>
+	<key>characteristicVelocity</key>
+	<string>globalAppBar</string>
+	<key>declarativePageView</key>
+	<string>decoupleAction</string>
+	<key>frameefficiency</key>
+	<string>shouldDecodePrecision</string>
+	<key>reactivesegment</key>
+	<string>canBindLoss</string>
+	<key>retainedSwift</key>
+	<string>shouldUnbindMultiplication</string>
+	<key>shaderrotation</key>
+	<string>globalTool</string>
+	<key>shouldFinishPageView</key>
+	<string>cursortypespacing</string>
+	<key>smallresolveropacity</key>
+	<string>canMountSymbol</string>
+	<key>tabviewSpacing</key>
+	<string>inflateSubpixel</string>
+</dict>
+</plist>

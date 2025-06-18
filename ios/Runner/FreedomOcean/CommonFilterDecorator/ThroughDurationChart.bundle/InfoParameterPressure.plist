@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedVolume</key>
+	<string>shouldRenderPromise</string>
+	<key>declarativeTrigger</key>
+	<string>transposeEvent</string>
+	<key>directlyLocalization</key>
+	<string>restartMaster</string>
+	<key>effectcenter</key>
+	<string>precisionLevel</string>
+	<key>marshalscene</key>
+	<string>canShowArithmetic</string>
+	<key>musicVelocity</key>
+	<string>formatTextField</string>
+	<key>optimizerDelay</key>
+	<string>differentiateStorage</string>
+	<key>shouldPresentLoss</key>
+	<string>analogySpeed</string>
+	<key>shouldResumeReference</key>
+	<string>popupamortization</string>
+	<key>switchspacing</key>
+	<string>shouldFormatAspectRatio</string>
+</dict>
+</plist>

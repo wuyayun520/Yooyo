@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>onactivitychanged</key>
+	<string>granularColumn</string>
+	<key>pageviewRight</key>
+	<string>builderadapterstate</string>
+	<key>priorLoader</key>
+	<string>baseparamlocation</string>
+	<key>shouldDisposeBinary</key>
+	<string>normStatus</string>
+</dict>
+</plist>

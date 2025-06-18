@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleBorder</key>
+	<string>webPermutation</string>
+	<key>animatedDimension</key>
+	<string>animatorDepth</string>
+	<key>batchtimer</key>
+	<string>tappableNavigation</string>
+	<key>disableddocumentindex</key>
+	<string>tensorShape</string>
+	<key>hardAnalyzer</key>
+	<string>actiontypeedge</string>
+	<key>injectionDirection</key>
+	<string>materialPositioned</string>
+	<key>oldImpact</key>
+	<string>storageFlags</string>
+	<key>shouldCancelPositioned</key>
+	<string>shearqueue</string>
+</dict>
+</plist>

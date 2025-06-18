@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>permanentScope</key>
+	<string>shouldReplaceEntropy</string>
+	<key>publicInfo</key>
+	<string>standaloneVertex</string>
+	<key>significantMaterializer</key>
+	<string>dismissNotification</string>
+	<key>ternaryopacity</key>
+	<string>requestBorder</string>
+</dict>
+</plist>

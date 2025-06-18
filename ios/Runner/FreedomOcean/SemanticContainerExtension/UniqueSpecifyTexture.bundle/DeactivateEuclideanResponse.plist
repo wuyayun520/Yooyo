@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customGram</key>
+	<string>specifierkind</string>
+	<key>displayableRectangle</key>
+	<string>touchResult</string>
+	<key>eagerFragments</key>
+	<string>detachGrayscale</string>
+	<key>intensitycenter</key>
+	<string>canYieldCollection</string>
+	<key>missionSkewX</key>
+	<string>permissiveResponse</string>
+	<key>opaqueTask</key>
+	<string>evaluatemodal</string>
+	<key>resourcewithcycle</key>
+	<string>slidertypealignment</string>
+	<key>shouldShowChannels</key>
+	<string>inheritedcheckbox</string>
+	<key>specifyReceiver</key>
+	<string>subtlegesturedetector</string>
+</dict>
+</plist>

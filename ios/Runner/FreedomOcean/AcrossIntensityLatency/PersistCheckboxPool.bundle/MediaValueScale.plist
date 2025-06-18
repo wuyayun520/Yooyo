@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diversifiedstream</key>
+	<string>orchestrateResolver</string>
+	<key>ephemeralusecase</key>
+	<string>computeResolver</string>
+	<key>indicatorState</key>
+	<string>unregisteroffset</string>
+	<key>nextStream</key>
+	<string>splitterValidation</string>
+	<key>popupTag</key>
+	<string>gestureconsumption</string>
+	<key>scalebound</key>
+	<string>associatedmethodcenter</string>
+	<key>shouldDeserializeEntropy</key>
+	<string>agileExpanded</string>
+	<key>tableShade</key>
+	<string>composableStore</string>
+	<key>triggerRate</key>
+	<string>rectifyChapter</string>
+</dict>
+</plist>

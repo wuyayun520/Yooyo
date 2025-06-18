@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredCheckbox</key>
+	<string>declarativeModule</string>
+	<key>easySwift</key>
+	<string>triggerValidation</string>
+	<key>granularStateless</key>
+	<string>cacheResponse</string>
+	<key>originalProvider</key>
+	<string>sliderOpacity</string>
+	<key>skirtstateleft</key>
+	<string>presentLoss</string>
+	<key>webEfficiency</key>
+	<string>momentumOffset</string>
+</dict>
+</plist>

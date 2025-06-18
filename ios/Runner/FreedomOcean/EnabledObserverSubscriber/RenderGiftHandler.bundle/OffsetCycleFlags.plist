@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completionStyle</key>
+	<string>significantSine</string>
+	<key>fusedcompleter</key>
+	<string>dynamicPrecision</string>
+	<key>mobileEntropy</key>
+	<string>consultativePet</string>
+	<key>scaffoldDuration</key>
+	<string>diffableChapter</string>
+	<key>shouldDecodeMaterial</key>
+	<string>declarativeCluster</string>
+	<key>statelessBehavior</key>
+	<string>tappableContrast</string>
+	<key>unactivatedIsolate</key>
+	<string>reusableGraph</string>
+	<key>webObserver</key>
+	<string>playbackStage</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicateSplitter</key>
+	<string>shouldPresentAccessory</string>
+	<key>granularLayer</key>
+	<string>logarithmpatternoffset</string>
+	<key>inkwellalongsingleton</key>
+	<string>easyBuilder</string>
+	<key>resilientWrapper</key>
+	<string>resumeSine</string>
+</dict>
+</plist>

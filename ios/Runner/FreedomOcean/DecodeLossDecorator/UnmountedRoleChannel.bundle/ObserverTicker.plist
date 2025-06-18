@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessiblePresenter</key>
+	<string>canMountLog</string>
+	<key>presentercoord</key>
+	<string>dialogskindappearance</string>
+	<key>restrictionrotation</key>
+	<string>keepConvolution</string>
+	<key>shouldContinueUsage</key>
+	<string>temporarybrushalignment</string>
+	<key>shouldDisposeButton</key>
+	<string>canFormatNotification</string>
+	<key>subsequentTrajectory</key>
+	<string>requiredCollection</string>
+</dict>
+</plist>

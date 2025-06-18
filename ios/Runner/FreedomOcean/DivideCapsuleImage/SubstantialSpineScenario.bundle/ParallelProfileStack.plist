@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>densescale</key>
+	<string>signaturemediatorcoord</string>
+	<key>receiverInterval</key>
+	<string>shouldTransformTable</string>
+	<key>topictieroffset</key>
+	<string>ignoredTransformer</string>
+</dict>
+</plist>

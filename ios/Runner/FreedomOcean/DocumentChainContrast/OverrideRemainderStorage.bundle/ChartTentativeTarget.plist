@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dataContrast</key>
+	<string>notationOffset</string>
+	<key>draggableDetail</key>
+	<string>canMountAnchor</string>
+	<key>intuitiveCustomPaint</key>
+	<string>expandedMargin</string>
+	<key>newestAnimatedContainer</key>
+	<string>replicateGroup</string>
+	<key>shouldParseController</key>
+	<string>performFrame</string>
+	<key>stampSize</key>
+	<string>themeoutsideprocess</string>
+	<key>subsequentCoordinator</key>
+	<string>seekAsync</string>
+</dict>
+</plist>

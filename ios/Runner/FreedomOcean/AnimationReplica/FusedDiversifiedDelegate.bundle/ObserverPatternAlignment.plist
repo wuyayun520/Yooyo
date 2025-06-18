@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buildercontrast</key>
+	<string>symmetricStream</string>
+	<key>fixedReference</key>
+	<string>persistentVolume</string>
+	<key>mergerAppearance</key>
+	<string>stackStage</string>
+	<key>radioawayphase</key>
+	<string>canDispatchHistogram</string>
+	<key>swiftusecase</key>
+	<string>canTrainHistogram</string>
+	<key>webmediaqueryorigin</key>
+	<string>introspectListener</string>
+</dict>
+</plist>

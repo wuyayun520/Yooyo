@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonAlignment</key>
+	<string>mediaAppearance</string>
+	<key>functionalStateful</key>
+	<string>pendingLayout</string>
+	<key>gridviewLocation</key>
+	<string>vectorStatus</string>
+	<key>groupborder</key>
+	<string>minObserver</string>
+	<key>hardCreator</key>
+	<string>columnRate</string>
+	<key>inactivebatch</key>
+	<string>shouldPaintPlayback</string>
+	<key>integerSkewX</key>
+	<string>shouldBuildDialogs</string>
+	<key>requestview</key>
+	<string>shouldPauseCustomPaint</string>
+	<key>scrollerIndex</key>
+	<string>canObserveEntropy</string>
+</dict>
+</plist>

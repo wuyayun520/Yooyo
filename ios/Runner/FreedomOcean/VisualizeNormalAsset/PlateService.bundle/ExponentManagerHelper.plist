@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumestateless</key>
+	<string>discardedSize</string>
+	<key>defaultSample</key>
+	<string>cartesianTweak</string>
+	<key>hardCustomPaint</key>
+	<string>lastEqualization</string>
+	<key>intermediatePlayback</key>
+	<string>multiplychapter</string>
+	<key>shouldReplaceChecklist</key>
+	<string>responderOffset</string>
+	<key>shouldunmountprovider</key>
+	<string>memberscopestate</string>
+	<key>signatureSkewX</key>
+	<string>dedicatedCatalyst</string>
+	<key>unschedulechecklist</key>
+	<string>isolateLayer</string>
+	<key>widgetMode</key>
+	<string>concreterichtextdepth</string>
+</dict>
+</plist>

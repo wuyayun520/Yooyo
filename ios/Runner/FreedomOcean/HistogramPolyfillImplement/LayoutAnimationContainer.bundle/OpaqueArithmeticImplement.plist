@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushstylebound</key>
+	<string>asyncShade</string>
+	<key>concurrentfuturecolor</key>
+	<string>refreshQueue</string>
+	<key>movementPadding</key>
+	<string>rectoutsideobserver</string>
+	<key>responseschema</key>
+	<string>tappableBuilder</string>
+	<key>sortedAscent</key>
+	<string>navigatorFlags</string>
+	<key>statelessScroll</key>
+	<string>parallelBitrate</string>
+	<key>switchCoord</key>
+	<string>sortedTentative</string>
+</dict>
+</plist>

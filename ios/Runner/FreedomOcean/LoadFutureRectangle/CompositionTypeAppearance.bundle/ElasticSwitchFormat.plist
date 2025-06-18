@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredInteger</key>
+	<string>persistMaster</string>
+	<key>missedSegue</key>
+	<string>endSpine</string>
+	<key>pinchableTopic</key>
+	<string>shouldPushPlate</string>
+	<key>shouldContinueCosine</key>
+	<string>sustainableAlpha</string>
+</dict>
+</plist>

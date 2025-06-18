@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoBrush</key>
+	<string>shouldContinueWorkflow</string>
+	<key>immutabletransitionsaturation</key>
+	<string>topicvarbrightness</string>
+	<key>interfaceoflayer</key>
+	<string>cancelgrain</string>
+	<key>mainPager</key>
+	<string>canCancelMedia</string>
+	<key>multiLatency</key>
+	<string>backwardPlayback</string>
+	<key>petstageright</key>
+	<string>visibleStrength</string>
+	<key>secondMaterial</key>
+	<string>intuitiveGate</string>
+</dict>
+</plist>

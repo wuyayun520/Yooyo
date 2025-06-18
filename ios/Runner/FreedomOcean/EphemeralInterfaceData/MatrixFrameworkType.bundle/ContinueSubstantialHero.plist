@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonConstant</key>
+	<string>shouldTrainLog</string>
+	<key>defaultsensor</key>
+	<string>substantialBitrate</string>
+	<key>maplocation</key>
+	<string>publishBorder</string>
+	<key>rendererCoord</key>
+	<string>shouldTransformBullet</string>
+	<key>sharedStamp</key>
+	<string>normaltransition</string>
+	<key>switchDensity</key>
+	<string>mountedNib</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchBottom</key>
+	<string>resilientConstant</string>
+	<key>diversifiedelasticity</key>
+	<string>explicitRoute</string>
+	<key>elasticMap</key>
+	<string>skipStream</string>
+	<key>masterperstructure</key>
+	<string>delegateLocalization</string>
+	<key>prioritynavigator</key>
+	<string>retainedAnimator</string>
+	<key>selectedtransition</key>
+	<string>permissivePresenter</string>
+	<key>significantRadio</key>
+	<string>discardedisolate</string>
+	<key>symbolBehavior</key>
+	<string>ephemeralOccasion</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>extensionName</key>
+	<string>easydecoration</string>
+	<key>profileOpacity</key>
+	<string>freeOffset</string>
+	<key>serviceContrast</key>
+	<string>groupDirection</string>
+	<key>shouldInflateMusic</key>
+	<string>materialright</string>
+	<key>shouldStartSkirt</key>
+	<string>mechanismorientation</string>
+	<key>storevelocity</key>
+	<string>basicCoordinator</string>
+	<key>wrapperborder</key>
+	<string>granularContainer</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultContainer</key>
+	<string>taskOpacity</string>
+	<key>intermediateConvolution</key>
+	<string>unaryTransparency</string>
+	<key>onaperturetap</key>
+	<string>histogramsingletonborder</string>
+	<key>shouldInflateMap</key>
+	<string>inactivecursorstyle</string>
+	<key>shouldSerializeGift</key>
+	<string>pagerFeedback</string>
+</dict>
+</plist>

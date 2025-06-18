@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineBottom</key>
+	<string>shouldSetStateEquipment</string>
+	<key>declarativeswitch</key>
+	<string>creatorResponse</string>
+	<key>materialOrientation</key>
+	<string>containerFunction</string>
+	<key>scrollablemetadata</key>
+	<string>sustainableFeature</string>
+	<key>shouldAnimateTernary</key>
+	<string>presentCollection</string>
+	<key>shouldRestartCube</key>
+	<string>canUnmountedTouch</string>
+</dict>
+</plist>

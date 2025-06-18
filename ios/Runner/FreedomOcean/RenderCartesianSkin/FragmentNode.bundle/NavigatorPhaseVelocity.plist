@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousAsset</key>
+	<string>mediumGrid</string>
+	<key>curveInterval</key>
+	<string>gradientHead</string>
+	<key>largeGraph</key>
+	<string>eventwithoutprototype</string>
+	<key>matrixvarcolor</key>
+	<string>discardedPromise</string>
+	<key>nativeContrast</key>
+	<string>shouldPublishHistogram</string>
+	<key>pivotalContainer</key>
+	<string>numericalTheme</string>
+	<key>routepolygon</key>
+	<string>handleCache</string>
+	<key>shouldKeepGridView</key>
+	<string>commonPermutation</string>
+	<key>textureacceleration</key>
+	<string>symmetricPrecision</string>
+	<key>transitiondata</key>
+	<string>quitInterface</string>
+</dict>
+</plist>

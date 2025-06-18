@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledCard</key>
+	<string>canAnimateTernary</string>
+	<key>explicitlatency</key>
+	<string>ephemeralAlignment</string>
+	<key>featurelocation</key>
+	<string>notifierSpeed</string>
+	<key>intuitivecurve</key>
+	<string>symmetricCube</string>
+	<key>invisibleAsset</key>
+	<string>joinerDuration</string>
+	<key>missedOffset</key>
+	<string>functionaltexture</string>
+	<key>missednavigator</key>
+	<string>activateState</string>
+	<key>substantialimage</key>
+	<string>wrapChannel</string>
+</dict>
+</plist>

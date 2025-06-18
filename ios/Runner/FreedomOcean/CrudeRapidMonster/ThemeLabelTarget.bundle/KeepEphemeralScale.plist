@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>explicitpet</key>
+	<string>memberPadding</string>
+	<key>missedLabel</key>
+	<string>gridviewIndex</string>
+	<key>opaqueLifecycle</key>
+	<string>navigatetransformer</string>
+	<key>protectedStep</key>
+	<string>customnormmode</string>
+	<key>tweenTop</key>
+	<string>channelmode</string>
+	<key>webIntegration</key>
+	<string>geometricmodeltail</string>
+</dict>
+</plist>

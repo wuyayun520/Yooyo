@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateservice</key>
+	<string>progressbarValidation</string>
+	<key>customizedBandwidth</key>
+	<string>dismissChart</string>
+	<key>diversifiedSingleton</key>
+	<string>greatLoop</string>
+	<key>heapTint</key>
+	<string>inactivePageView</string>
+	<key>lastUseCase</key>
+	<string>positionRight</string>
+	<key>mediocreTexture</key>
+	<string>semantictangentposition</string>
+	<key>reactiveGradient</key>
+	<string>shouldParseMission</string>
+	<key>timeVisible</key>
+	<string>canDecodeDuration</string>
+	<key>utilSkewX</key>
+	<string>diversifiedButton</string>
+</dict>
+</plist>

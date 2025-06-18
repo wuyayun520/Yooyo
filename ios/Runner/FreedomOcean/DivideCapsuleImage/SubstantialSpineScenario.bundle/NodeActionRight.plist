@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ephemeralError</key>
+	<string>lazyStream</string>
+	<key>mainstrength</key>
+	<string>pointsize</string>
+	<key>mediaresponse</key>
+	<string>compositionalgradient</string>
+	<key>observerdelivery</key>
+	<string>petTop</string>
+	<key>textureBottom</key>
+	<string>conformSprite</string>
+</dict>
+</plist>

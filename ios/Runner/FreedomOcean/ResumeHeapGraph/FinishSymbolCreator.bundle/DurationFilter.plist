@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionScale</key>
+	<string>errorTask</string>
+	<key>declarativeRequest</key>
+	<string>enabledProcessor</string>
+	<key>equalizationFormat</key>
+	<string>managerworkformat</string>
+	<key>firstScenario</key>
+	<string>concatenaterow</string>
+	<key>shouldyieldequalization</key>
+	<string>emitterorigin</string>
+	<key>unsortedMediaQuery</key>
+	<string>impressionTension</string>
+</dict>
+</plist>

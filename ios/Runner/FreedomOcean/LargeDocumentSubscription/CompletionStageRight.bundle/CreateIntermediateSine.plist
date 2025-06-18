@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>exceptionmodecontrast</key>
+	<string>offsetDelegate</string>
+	<key>shouldMountCoordinator</key>
+	<string>saveAnimation</string>
+	<key>statefulname</key>
+	<string>subsequentSprite</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completervisitortheme</key>
+	<string>multiplyRoute</string>
+	<key>hierarchicalFilter</key>
+	<string>shouldPauseDialogs</string>
+	<key>materialtweak</key>
+	<string>rebuildAxis</string>
+	<key>nodeborder</key>
+	<string>animatedTicker</string>
+	<key>notifysegment</key>
+	<string>greatBloc</string>
+	<key>shouldAnimateClipper</key>
+	<string>customChecklist</string>
+	<key>shouldemitgram</key>
+	<string>shouldlayoutmember</string>
+	<key>sophisticatedAnimation</key>
+	<string>endfuture</string>
+</dict>
+</plist>

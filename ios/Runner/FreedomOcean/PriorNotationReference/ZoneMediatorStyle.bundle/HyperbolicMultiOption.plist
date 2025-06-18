@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gatemode</key>
+	<string>intuitiveTangent</string>
+	<key>missedDelegate</key>
+	<string>notifierMethod</string>
+	<key>prevWorkflow</key>
+	<string>oldProvider</string>
+	<key>priorGradient</key>
+	<string>decodecustompaint</string>
+	<key>providerTail</key>
+	<string>dedicatedJoiner</string>
+	<key>richtextHead</key>
+	<string>emittimer</string>
+	<key>tappableKernel</key>
+	<string>shouldInflateCursor</string>
+	<key>vectoroperation</key>
+	<string>introspectSize</string>
+</dict>
+</plist>

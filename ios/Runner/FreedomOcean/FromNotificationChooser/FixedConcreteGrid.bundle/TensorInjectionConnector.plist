@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedMember</key>
+	<string>currentPresenter</string>
+	<key>detailScale</key>
+	<string>permanentresolver</string>
+	<key>iterativesize</key>
+	<string>difficultTechnique</string>
+	<key>materialshape</key>
+	<string>axisAlignment</string>
+	<key>methodskewy</key>
+	<string>concurrentKernel</string>
+	<key>multirecursion</key>
+	<string>bindMatrix</string>
+	<key>petinnumber</key>
+	<string>staticBinary</string>
+	<key>significantDependency</key>
+	<string>unaryLeft</string>
+	<key>usedMovement</key>
+	<string>bindAnimatedContainer</string>
+</dict>
+</plist>

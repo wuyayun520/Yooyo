@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoDescription</key>
+	<string>appbarTag</string>
+	<key>connectstream</key>
+	<string>reconcilemodel</string>
+	<key>emitterBrightness</key>
+	<string>storageOpacity</string>
+	<key>keyTexture</key>
+	<string>clipperDistance</string>
+	<key>rapidParticle</key>
+	<string>difficultnibspacing</string>
+	<key>routeasset</key>
+	<string>invisibleTimeline</string>
+	<key>similarCertificate</key>
+	<string>sustainableAsync</string>
+	<key>splitterDuration</key>
+	<string>mobileopacity</string>
+</dict>
+</plist>

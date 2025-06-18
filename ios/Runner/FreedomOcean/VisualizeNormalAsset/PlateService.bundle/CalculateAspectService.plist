@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileusagedensity</key>
+	<string>loopstyle</string>
+	<key>dataBehavior</key>
+	<string>transformBorder</string>
+	<key>frameedge</key>
+	<string>canPaintBuilder</string>
+	<key>lifecycleorigin</key>
+	<string>reconcileRequest</string>
+	<key>positionbound</key>
+	<string>logTier</string>
+	<key>shouldBuildImage</key>
+	<string>granularArchitecture</string>
+	<key>shouldUnmountMaterial</key>
+	<string>enumeratesegue</string>
+	<key>staticAllocator</key>
+	<string>shouldUnmountedEqualization</string>
+	<key>temporaryScalability</key>
+	<string>currentchecklist</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>creatorFlags</key>
+	<string>canLayoutSymbol</string>
+	<key>draggableStore</key>
+	<string>relationalIntegration</string>
+	<key>floatcard</key>
+	<string>labelBridge</string>
+	<key>handlerSaturation</key>
+	<string>sophisticatedWrapper</string>
+	<key>ignoredSample</key>
+	<string>shapeResponse</string>
+	<key>shouldEncodePadding</key>
+	<string>deferredTabView</string>
+	<key>taskVisibility</key>
+	<string>mapstroke</string>
+</dict>
+</plist>

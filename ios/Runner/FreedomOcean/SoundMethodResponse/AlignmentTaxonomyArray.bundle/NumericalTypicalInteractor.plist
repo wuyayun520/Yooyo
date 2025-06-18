@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousTransformer</key>
+	<string>synchronousTask</string>
+	<key>pinchableConsumer</key>
+	<string>shouldLoadCollection</string>
+	<key>rapidArchitecture</key>
+	<string>popupevaluation</string>
+	<key>reactiveTopic</key>
+	<string>transitionhero</string>
+	<key>shouldPopSlash</key>
+	<string>composableStream</string>
+	<key>shoulddeserializeextension</key>
+	<string>accessibleWrapper</string>
+	<key>unactivatedcoordinatordelay</key>
+	<string>dependencyAdapter</string>
+</dict>
+</plist>

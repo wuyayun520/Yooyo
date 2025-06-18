@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>listenervisibility</key>
+	<string>semanticcomposition</string>
+	<key>lostSymbol</key>
+	<string>shouldMountedCustomPaint</string>
+	<key>normalError</key>
+	<string>specifyScreen</string>
+	<key>shouldBindMission</key>
+	<string>opaqueFormat</string>
+</dict>
+</plist>

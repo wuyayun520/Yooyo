@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customFlex</key>
+	<string>transformTool</string>
+	<key>graphicresponse</key>
+	<string>accessibleBinary</string>
+	<key>ignoredpolygon</key>
+	<string>fixedSizedBox</string>
+	<key>joinerinteraction</key>
+	<string>progressbarState</string>
+	<key>observertype</key>
+	<string>significantScope</string>
+	<key>toleranceHead</key>
+	<string>robustMusic</string>
+</dict>
+</plist>

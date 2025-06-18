@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesiananimation</key>
+	<string>shouldRenderChecklist</string>
+	<key>missedBinary</key>
+	<string>profiletask</string>
+	<key>rowcreator</key>
+	<string>awaitappearance</string>
+	<key>shouldLoadFlex</key>
+	<string>quaternionTail</string>
+	<key>shouldLoadListView</key>
+	<string>declarativeBuilder</string>
+	<key>storemementotag</key>
+	<string>usedPermutation</string>
+</dict>
+</plist>

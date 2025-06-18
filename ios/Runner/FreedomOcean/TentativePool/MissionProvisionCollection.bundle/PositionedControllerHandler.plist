@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionNode</key>
+	<string>readEntity</string>
+	<key>advancedLoader</key>
+	<string>sceneBorder</string>
+	<key>agileInteraction</key>
+	<string>sizeMode</string>
+	<key>customcontrast</key>
+	<string>releasePosition</string>
+	<key>discardedNib</key>
+	<string>canCancelChallenge</string>
+	<key>inheritedDecoration</key>
+	<string>constraintInset</string>
+	<key>responseBehavior</key>
+	<string>concurrentCluster</string>
+	<key>shouldDismissVariant</key>
+	<string>usedDistinction</string>
+	<key>shouldRestartCustomPaint</key>
+	<string>protectedobserver</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>featurecontextcoord</key>
+	<string>unmountfactory</string>
+	<key>imperativeTentative</key>
+	<string>errorCenter</string>
+	<key>pinchablePublisher</key>
+	<string>interfaceSystem</string>
+	<key>shouldLoadArithmetic</key>
+	<string>triggerdepth</string>
+	<key>shouldNavigateBehavior</key>
+	<string>showBinary</string>
+	<key>shouldPaintAspectRatio</key>
+	<string>temporarySprite</string>
+	<key>shouldReplaceCustomPaint</key>
+	<string>responderBorder</string>
+	<key>storagealignment</key>
+	<string>iterativeTask</string>
+	<key>taskPressure</key>
+	<string>cubeCenter</string>
+</dict>
+</plist>

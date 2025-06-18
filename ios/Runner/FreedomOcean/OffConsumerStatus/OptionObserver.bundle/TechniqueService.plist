@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedgesturedetectorsize</key>
+	<string>coordinatorHue</string>
+	<key>clipperOpacity</key>
+	<string>shouldprepareoptimizer</string>
+	<key>declarativeLifecycle</key>
+	<string>canPublishDelegate</string>
+	<key>desktopCycle</key>
+	<string>chartmode</string>
+	<key>hasColumn</key>
+	<string>sensorProxy</string>
+	<key>lossOrigin</key>
+	<string>shouldBuildStoryboard</string>
+	<key>notifychannels</key>
+	<string>robustScalability</string>
+	<key>shouldInflateGraphic</key>
+	<string>wrapCoordinator</string>
+	<key>subscriptionSkewY</key>
+	<string>routeMobile</string>
+</dict>
+</plist>

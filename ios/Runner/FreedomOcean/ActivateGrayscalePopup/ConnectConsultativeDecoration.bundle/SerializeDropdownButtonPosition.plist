@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseconfidentiality</key>
+	<string>quaternionCount</string>
+	<key>capacitiesagainstcomposite</key>
+	<string>semanticsasmemento</string>
+	<key>fixedIsolate</key>
+	<string>requiredInteractor</string>
+	<key>permissiveLinker</key>
+	<string>lifecycleFeedback</string>
+	<key>prismaticTitle</key>
+	<string>interceptParticle</string>
+	<key>shouldMountedCertificate</key>
+	<string>fixedGrid</string>
+	<key>shoulddispatchoperation</key>
+	<string>statefulCard</string>
+</dict>
+</plist>

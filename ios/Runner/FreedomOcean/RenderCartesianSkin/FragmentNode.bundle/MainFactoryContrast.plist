@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equivalentresponse</key>
+	<string>stackEnvironment</string>
+	<key>mainBatch</key>
+	<string>overrideMetadata</string>
+	<key>tappableActivity</key>
+	<string>staticGridView</string>
+	<key>titleTension</key>
+	<string>cleanTexture</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteResolver</key>
+	<string>notifyNotifier</string>
+	<key>dispatchermargin</key>
+	<string>compositionalRepository</string>
+	<key>dropdownbuttonInterval</key>
+	<string>pinchableJoiner</string>
+	<key>modelOpacity</key>
+	<string>shouldMountKernel</string>
+	<key>popinterface</key>
+	<string>customizedButton</string>
+	<key>secondTransition</key>
+	<string>canStartScreen</string>
+	<key>shouldBuildGem</key>
+	<string>customCertificate</string>
+	<key>smartReplica</key>
+	<string>intermediateObserver</string>
+</dict>
+</plist>

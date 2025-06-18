@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryforinterpreter</key>
+	<string>usagespacing</string>
+	<key>certificateType</key>
+	<string>moveRepository</string>
+	<key>shouldCancelAnimation</key>
+	<string>canBindBatch</string>
+	<key>shouldUnmountBaseline</key>
+	<string>animatedLoop</string>
+	<key>symmetricAudio</key>
+	<string>diversifiedIntegrity</string>
+	<key>synchronousFilter</key>
+	<string>inactiveRemainder</string>
+</dict>
+</plist>

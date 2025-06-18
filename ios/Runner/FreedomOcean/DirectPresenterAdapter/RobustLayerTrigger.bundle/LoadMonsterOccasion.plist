@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticreducerinset</key>
+	<string>smartProtocol</string>
+	<key>formatworkflow</key>
+	<string>cupertinoStack</string>
+	<key>intensitysubscriber</key>
+	<string>accessibleStep</string>
+	<key>notationTransparency</key>
+	<string>desktopLoss</string>
+	<key>notificationtrigger</key>
+	<string>canRouteModal</string>
+	<key>synchronousdrawerfrequency</key>
+	<string>canListenDelegate</string>
+</dict>
+</plist>

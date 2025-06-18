@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aperturemechanism</key>
+	<string>chartflyweightopacity</string>
+	<key>declarativeTransformer</key>
+	<string>differentiateManager</string>
+	<key>onaccessorytap</key>
+	<string>layoutFragment</string>
+	<key>statefulSorter</key>
+	<string>bufferPosition</string>
+	<key>threadAppearance</key>
+	<string>buttonVelocity</string>
+</dict>
+</plist>

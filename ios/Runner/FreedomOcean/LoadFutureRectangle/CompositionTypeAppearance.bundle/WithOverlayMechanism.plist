@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicPolygon</key>
+	<string>transformerbound</string>
+	<key>deferredFragment</key>
+	<string>canDeserializeExpanded</string>
+	<key>invisibleMaterializer</key>
+	<string>shouldSubscribeAnimatedContainer</string>
+	<key>observerInterval</key>
+	<string>overlayMomentum</string>
+	<key>shouldTrainBaseline</key>
+	<string>taxonomyPadding</string>
+</dict>
+</plist>

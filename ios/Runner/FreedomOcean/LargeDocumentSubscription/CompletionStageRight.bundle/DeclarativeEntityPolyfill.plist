@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mediocrenode</key>
+	<string>musiccount</string>
+	<key>permanentSlash</key>
+	<string>pinchableIndicator</string>
+	<key>shouldRebuildMaterial</key>
+	<string>initializeSlider</string>
+	<key>shouldStopDimension</key>
+	<string>canStopProfile</string>
+	<key>topiccontainshape</key>
+	<string>sliderCommand</string>
+	<key>undertakestoryboard</key>
+	<string>publishSample</string>
+</dict>
+</plist>

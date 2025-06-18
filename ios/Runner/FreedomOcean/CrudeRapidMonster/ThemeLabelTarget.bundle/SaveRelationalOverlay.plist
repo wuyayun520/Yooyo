@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredAction</key>
+	<string>lostVariant</string>
+	<key>displayableSlash</key>
+	<string>transposeGroup</string>
+	<key>granularPreview</key>
+	<string>rectangleSkewY</string>
+	<key>inkwellborder</key>
+	<string>usageevolution</string>
+	<key>retainedTabBar</key>
+	<string>registerInteractor</string>
+	<key>shouldStopCheckbox</key>
+	<string>canMountBrush</string>
+	<key>sortedboxvelocity</key>
+	<string>builderright</string>
+	<key>uniqueExpanded</key>
+	<string>sharedProgressBar</string>
+</dict>
+</plist>

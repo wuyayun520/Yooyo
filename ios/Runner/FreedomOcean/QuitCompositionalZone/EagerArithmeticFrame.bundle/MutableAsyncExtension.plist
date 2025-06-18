@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheMode</key>
+	<string>calculateCurve</string>
+	<key>customizedAnimator</key>
+	<string>responseparamfeedback</string>
+	<key>gramContrast</key>
+	<string>otherTechnique</string>
+	<key>primaryRow</key>
+	<string>easyFeature</string>
+	<key>robustisolate</key>
+	<string>deflateAnimation</string>
+	<key>scalabilityPosition</key>
+	<string>popActivity</string>
+</dict>
+</plist>

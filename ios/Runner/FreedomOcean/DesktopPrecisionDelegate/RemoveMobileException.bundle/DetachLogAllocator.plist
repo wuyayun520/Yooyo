@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryorparameter</key>
+	<string>multigraphic</string>
+	<key>beginnerResource</key>
+	<string>richtextPressure</string>
+	<key>declarativeAnimation</key>
+	<string>efficiencysaturation</string>
+	<key>granularBandwidth</key>
+	<string>anchorobserver</string>
+	<key>injectionthanadapter</key>
+	<string>usageStrategy</string>
+	<key>transformerInteraction</key>
+	<string>subsequentOptimizer</string>
+</dict>
+</plist>

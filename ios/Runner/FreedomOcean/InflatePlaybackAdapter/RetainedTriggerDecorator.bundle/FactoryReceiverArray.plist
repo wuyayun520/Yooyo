@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleValidation</key>
+	<string>shouldAnimateAlert</string>
+	<key>inactiveStatus</key>
+	<string>semantictrigger</string>
+	<key>intermediateBuilder</key>
+	<string>shouldconnectpet</string>
+	<key>materialtickerscale</key>
+	<string>shouldstartnavigator</string>
+	<key>semanticPoint</key>
+	<string>intermediateProvider</string>
+	<key>shouldEmitCosine</key>
+	<string>marginDelay</string>
+	<key>staticBinary</key>
+	<string>rebuildStream</string>
+	<key>streamDirection</key>
+	<string>beginnerEvolution</string>
+	<key>tangentcontrast</key>
+	<string>permanentTexture</string>
+</dict>
+</plist>

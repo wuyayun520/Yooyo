@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalanimationcolor</key>
+	<string>displayableScreen</string>
+	<key>declarativeScreen</key>
+	<string>workflowResponse</string>
+	<key>extensionemitter</key>
+	<string>canKeepIndicator</string>
+	<key>greatScale</key>
+	<string>canDeserializeNib</string>
+	<key>immediateTriangles</key>
+	<string>giftValue</string>
+</dict>
+</plist>

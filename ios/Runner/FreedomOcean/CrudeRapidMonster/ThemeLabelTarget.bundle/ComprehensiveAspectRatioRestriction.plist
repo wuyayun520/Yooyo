@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>indicatorSpacing</key>
+	<string>delegateVar</string>
+	<key>integrityTint</key>
+	<string>keyAlert</string>
+	<key>itemMode</key>
+	<string>convertSlider</string>
+	<key>singletonobservertint</key>
+	<string>granularCupertino</string>
+	<key>uniformException</key>
+	<string>particleMomentum</string>
+</dict>
+</plist>

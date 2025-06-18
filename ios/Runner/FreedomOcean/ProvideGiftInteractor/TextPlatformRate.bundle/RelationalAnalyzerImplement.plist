@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>annotateshader</key>
+	<string>multiplysprite</string>
+	<key>axisVisibility</key>
+	<string>moveController</string>
+	<key>challengeDistance</key>
+	<string>logarithmFlags</string>
+	<key>impressionKind</key>
+	<string>animateStamp</string>
+	<key>independentConnector</key>
+	<string>canParsePlate</string>
+	<key>masterBottom</key>
+	<string>sinkParameter</string>
+	<key>publisherRotation</key>
+	<string>singletonTheme</string>
+</dict>
+</plist>

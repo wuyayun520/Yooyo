@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticmodel</key>
+	<string>responderSpacing</string>
+	<key>bulletmethodforce</key>
+	<string>beginnerMember</string>
+	<key>currentTicker</key>
+	<string>anchorphasebound</string>
+	<key>dimensionEdge</key>
+	<string>listenAxis</string>
+	<key>directlyReliability</key>
+	<string>unmountInstruction</string>
+	<key>lostFuture</key>
+	<string>publicListView</string>
+	<key>shouldFetchBatch</key>
+	<string>quitDependency</string>
+	<key>shouldanimateconstraint</key>
+	<string>startconstraint</string>
+	<key>sizedboxroute</key>
+	<string>descriptorBehavior</string>
+	<key>tablespeed</key>
+	<string>canTrainGestureDetector</string>
+</dict>
+</plist>

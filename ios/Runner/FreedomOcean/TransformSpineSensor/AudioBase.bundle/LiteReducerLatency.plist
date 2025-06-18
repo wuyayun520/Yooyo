@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedCustomPaint</key>
+	<string>evaluationStatus</string>
+	<key>chapterbound</key>
+	<string>clipcanvas</string>
+	<key>flexibleDelivery</key>
+	<string>layoutAdapter</string>
+	<key>monsteraboutform</key>
+	<string>inflateGrain</string>
+	<key>nextLayout</key>
+	<string>spinEvent</string>
+	<key>subsequentRange</key>
+	<string>musicContext</string>
+</dict>
+</plist>

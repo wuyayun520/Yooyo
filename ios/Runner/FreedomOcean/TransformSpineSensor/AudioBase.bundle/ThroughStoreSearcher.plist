@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleHandler</key>
+	<string>diffableTrigger</string>
+	<key>adaptiveradio</key>
+	<string>canFormatConsumer</string>
+	<key>criticalbox</key>
+	<string>screenmode</string>
+	<key>cupertinoLatency</key>
+	<string>boxInteraction</string>
+	<key>immediateTween</key>
+	<string>secondRepository</string>
+	<key>multiBase</key>
+	<string>ascentlocation</string>
+	<key>saveprofile</key>
+	<string>deferredPageView</string>
+</dict>
+</plist>

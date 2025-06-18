@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedLoss</key>
+	<string>accordionTabView</string>
+	<key>advancedchannel</key>
+	<string>granularproviderbehavior</string>
+	<key>comprehensiveSegue</key>
+	<string>bitratestagealignment</string>
+	<key>desktopThroughput</key>
+	<string>shouldEndLog</string>
+	<key>factoryResponse</key>
+	<string>ignoredMapper</string>
+	<key>newestmaterialformat</key>
+	<string>enabledsprite</string>
+	<key>priorDisclaimer</key>
+	<string>dispatchButton</string>
+	<key>rapidDescent</key>
+	<string>shouldRenderCard</string>
+	<key>statefulRemainder</key>
+	<string>popnavigator</string>
+	<key>threadtransparency</key>
+	<string>shouldunmounthero</string>
+</dict>
+</plist>

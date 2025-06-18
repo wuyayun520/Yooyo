@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationIndex</key>
+	<string>interactorForce</string>
+	<key>custompaintInteraction</key>
+	<string>memberMethod</string>
+	<key>labelHead</key>
+	<string>imperativeColumn</string>
+	<key>liteObject</key>
+	<string>accordionAlpha</string>
+	<key>originalStorage</key>
+	<string>screenpolyfill</string>
+	<key>shouldParseFragment</key>
+	<string>geometricMerger</string>
+</dict>
+</plist>

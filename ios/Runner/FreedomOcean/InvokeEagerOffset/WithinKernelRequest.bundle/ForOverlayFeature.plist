@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hashtiertype</key>
+	<string>accessibleCustomPaint</string>
+	<key>integerPadding</key>
+	<string>canSerializeCube</string>
+	<key>keyDetector</key>
+	<string>tappableBullet</string>
+	<key>limittween</key>
+	<string>spinZone</string>
+	<key>nodebrightness</key>
+	<string>shouldRestartCharacter</string>
+	<key>shouldPublishRadio</key>
+	<string>requestBuilder</string>
+	<key>smallviewmode</key>
+	<string>routeController</string>
+</dict>
+</plist>

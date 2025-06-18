@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubeOffset</key>
+	<string>endPadding</string>
+	<key>customizedSensor</key>
+	<string>certificateChain</string>
+	<key>modelSkewX</key>
+	<string>canPushMovement</string>
+	<key>primaryalignment</key>
+	<string>shouldNotifyReference</string>
+	<key>shouldSetStateRoute</key>
+	<string>invisibleGradient</string>
+</dict>
+</plist>

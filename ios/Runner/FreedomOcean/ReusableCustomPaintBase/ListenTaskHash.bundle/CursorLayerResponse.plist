@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineuntiltier</key>
+	<string>selectedSensor</string>
+	<key>constraintinterval</key>
+	<string>dismissNorm</string>
+	<key>criticalSine</key>
+	<string>compositionalTangent</string>
+	<key>currentContainer</key>
+	<string>interactorSkewY</string>
+	<key>hasGate</key>
+	<string>symmetricScroll</string>
+	<key>iterativeState</key>
+	<string>saveAnchor</string>
+	<key>mediaqueryRotation</key>
+	<string>diversifiedSizedBox</string>
+	<key>seamlessModule</key>
+	<string>scrollableResult</string>
+</dict>
+</plist>

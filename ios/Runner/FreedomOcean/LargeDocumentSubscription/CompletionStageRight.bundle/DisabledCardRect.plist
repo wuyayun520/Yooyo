@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledDialogs</key>
+	<string>viewofvariable</string>
+	<key>immediateConvolution</key>
+	<string>stopMaterial</string>
+	<key>impressionMomentum</key>
+	<string>shouldTransitionMatrix</string>
+	<key>pinchableClipper</key>
+	<string>computeInjection</string>
+	<key>popbatch</key>
+	<string>serviceRotation</string>
+	<key>reactiveMaterial</key>
+	<string>inheritedPager</string>
+	<key>stateRotation</key>
+	<string>curvePosition</string>
+</dict>
+</plist>

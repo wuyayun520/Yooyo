@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeAmortization</key>
+	<string>positionedParameter</string>
+	<key>diffableResponse</key>
+	<string>platecoordinator</string>
+	<key>directlyNavigation</key>
+	<string>frameFeedback</string>
+	<key>shouldValidatePlayback</key>
+	<string>primaryGem</string>
+</dict>
+</plist>

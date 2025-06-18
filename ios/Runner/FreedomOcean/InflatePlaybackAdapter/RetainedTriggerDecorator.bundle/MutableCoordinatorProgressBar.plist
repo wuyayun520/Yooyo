@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsDirection</key>
+	<string>temporaryresource</string>
+	<key>elasticityBrightness</key>
+	<string>transformUseCase</string>
+	<key>fragmentpadding</key>
+	<string>ternaryFlags</string>
+	<key>notationTension</key>
+	<string>responsiveSearcher</string>
+	<key>opaqueImage</key>
+	<string>explicitAllocator</string>
+	<key>resourceoutsidecommand</key>
+	<string>hasCatalyst</string>
+	<key>seamlessRouter</key>
+	<string>techniquebyfacade</string>
+</dict>
+</plist>

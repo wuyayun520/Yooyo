@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chaptertrigger</key>
+	<string>alignmentOrientation</string>
+	<key>factorymodel</key>
+	<string>animatedReference</string>
+	<key>lastcombiner</key>
+	<string>permutationShade</string>
+	<key>multiBox</key>
+	<string>canInflateSkin</string>
+	<key>tappableDuration</key>
+	<string>scrollTheme</string>
+	<key>unsortedTrigger</key>
+	<string>sliderPattern</string>
+</dict>
+</plist>

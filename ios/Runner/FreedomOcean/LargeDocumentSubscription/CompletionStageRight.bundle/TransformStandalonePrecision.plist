@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasvalidation</key>
+	<string>compositionelasticity</string>
+	<key>cupertinoMend</key>
+	<string>inactiveBoxShadow</string>
+	<key>detachgesturedetector</key>
+	<string>fragmentsColor</string>
+	<key>nextutilinset</key>
+	<string>limitGrain</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationDuration</key>
+	<string>mediumSkin</string>
+	<key>controllerTransparency</key>
+	<string>resultprocessor</string>
+	<key>decorationstyleforce</key>
+	<string>zoneRotation</string>
+	<key>disparateItem</key>
+	<string>controllerFormat</string>
+	<key>sortedStore</key>
+	<string>cardMemento</string>
+	<key>streamSkewY</key>
+	<string>canUnmountAperture</string>
+</dict>
+</plist>

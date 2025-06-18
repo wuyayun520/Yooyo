@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decoupleticker</key>
+	<string>eventsaturation</string>
+	<key>dialogsSpeed</key>
+	<string>pivotalextensionvalidation</string>
+	<key>disabledTransition</key>
+	<string>shouldNotifyMaterial</string>
+	<key>localizationShade</key>
+	<string>canDetachStateful</string>
+	<key>optimizerForce</key>
+	<string>presenterDistance</string>
+	<key>prevReliability</key>
+	<string>measureMenu</string>
+	<key>shouldTransformGem</key>
+	<string>shouldDecodeSession</string>
+	<key>skirtOrientation</key>
+	<string>scrollerBottom</string>
+	<key>touchAcceleration</key>
+	<string>pivotalCallback</string>
+	<key>triggerBehavior</key>
+	<string>canConnectBullet</string>
+</dict>
+</plist>

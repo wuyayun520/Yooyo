@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableInterface</key>
+	<string>pushPosition</string>
+	<key>dynamicMobile</key>
+	<string>architectureInteraction</string>
+	<key>functionalprocessor</key>
+	<string>customLoop</string>
+	<key>shouldSubscribeComposition</key>
+	<string>reduceSink</string>
+	<key>tooltag</key>
+	<string>agilecursor</string>
+</dict>
+</plist>

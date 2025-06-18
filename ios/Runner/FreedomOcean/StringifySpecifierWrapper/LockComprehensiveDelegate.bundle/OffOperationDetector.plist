@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elementResponse</key>
+	<string>staticHandler</string>
+	<key>isCapsule</key>
+	<string>tweenresponse</string>
+	<key>mobilematrix</key>
+	<string>constraintInteraction</string>
+	<key>orchestrateexponent</key>
+	<string>resizablerowleft</string>
+	<key>shouldprepareoperation</key>
+	<string>uniqueBoxShadow</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowamonglevel</key>
+	<string>decorationcontrast</string>
+	<key>customInkWell</key>
+	<string>semanticBinary</string>
+	<key>densePlayback</key>
+	<string>shouldNavigateSlider</string>
+	<key>reactiveTolerance</key>
+	<string>lastcharacterpadding</string>
+	<key>responsiveMethod</key>
+	<string>associatedTheme</string>
+	<key>shouldUnbindReference</key>
+	<string>paddingCommand</string>
+</dict>
+</plist>

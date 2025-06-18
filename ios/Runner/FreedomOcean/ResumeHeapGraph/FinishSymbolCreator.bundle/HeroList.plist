@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>layoutDensity</key>
+	<string>escalatemedia</string>
+	<key>lossTint</key>
+	<string>interactioncount</string>
+	<key>materialMonster</key>
+	<string>descriptionMethod</string>
+	<key>mediumManager</key>
+	<string>radioPosition</string>
+	<key>rapidBehavior</key>
+	<string>prevListener</string>
+	<key>replacebullet</key>
+	<string>queueVariable</string>
+	<key>seeksegue</key>
+	<string>reducerForce</string>
+	<key>shouldProcessShader</key>
+	<string>inheritedInfo</string>
+	<key>timerName</key>
+	<string>musicHead</string>
+</dict>
+</plist>

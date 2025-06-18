@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleBrightness</key>
+	<string>symmetricLifecycle</string>
+	<key>consumeusage</key>
+	<string>timelineEdge</string>
+	<key>controllerawayproxy</key>
+	<string>overrideTicker</string>
+	<key>erasescreen</key>
+	<string>taskchaintheme</string>
+	<key>respectiveAnimation</key>
+	<string>captureRow</string>
+	<key>respectivesign</key>
+	<string>standaloneSkin</string>
+	<key>shouldInflateTechnique</key>
+	<string>resourceEdge</string>
+	<key>shouldReplacePlayback</key>
+	<string>errorLeft</string>
+	<key>temporaryWidget</key>
+	<string>adaptiveDialogs</string>
+</dict>
+</plist>

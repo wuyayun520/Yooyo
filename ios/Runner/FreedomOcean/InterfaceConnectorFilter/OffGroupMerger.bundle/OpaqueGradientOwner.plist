@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptionmode</key>
+	<string>singleSound</string>
+	<key>difficultReceiver</key>
+	<string>createInkWell</string>
+	<key>flexSaturation</key>
+	<string>consumerstate</string>
+	<key>immediateConsumer</key>
+	<string>concatenatezone</string>
+	<key>lostPrecision</key>
+	<string>subsequentGrain</string>
+	<key>lostTraversal</key>
+	<string>integerTension</string>
+	<key>radioamongflyweight</key>
+	<string>restartBox</string>
+	<key>selectedAlpha</key>
+	<string>compileSlider</string>
+	<key>touchwithoutchain</key>
+	<string>intensityforce</string>
+</dict>
+</plist>

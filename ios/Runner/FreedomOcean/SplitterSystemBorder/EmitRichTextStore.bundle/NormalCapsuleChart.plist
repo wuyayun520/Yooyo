@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptionBottom</key>
+	<string>euclideanMend</string>
+	<key>independenttouchresponse</key>
+	<string>completedSlash</string>
+	<key>interactionCenter</key>
+	<string>temporaryTabBar</string>
+	<key>otheranimator</key>
+	<string>smartError</string>
+	<key>parallelnotifiercontrast</key>
+	<string>shouldPauseDelegate</string>
+	<key>protectedtask</key>
+	<string>stopchannel</string>
+	<key>resultdescription</key>
+	<string>asynchronousQuaternion</string>
+	<key>scenarioCenter</key>
+	<string>customDependency</string>
+	<key>sharedchannel</key>
+	<string>keeptopic</string>
+</dict>
+</plist>

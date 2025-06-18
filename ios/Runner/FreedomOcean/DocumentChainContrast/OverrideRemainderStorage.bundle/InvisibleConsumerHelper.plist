@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicTimer</key>
+	<string>discardedRenderer</string>
+	<key>completerFeedback</key>
+	<string>completedStamp</string>
+	<key>iterativeBuffer</key>
+	<string>canFinishAnimation</string>
+	<key>newestIsolate</key>
+	<string>oldBullet</string>
+	<key>observesingleton</key>
+	<string>poolInterface</string>
+	<key>shouldTrainAlpha</key>
+	<string>staticProfile</string>
+	<key>usagestyle</key>
+	<string>presentListView</string>
+</dict>
+</plist>

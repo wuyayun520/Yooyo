@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedConverter</key>
+	<string>agileView</string>
+	<key>cycleorigin</key>
+	<string>layoutVisible</string>
+	<key>descriptioninset</key>
+	<string>cachePlayback</string>
+	<key>deserializeconfiguration</key>
+	<string>immutableWidget</string>
+	<key>entityValidation</key>
+	<string>sortedDimension</string>
+	<key>protectedImpact</key>
+	<string>globalSemantics</string>
+	<key>shouldNotifyPriority</key>
+	<string>updateTask</string>
+	<key>shouldPaintTangent</key>
+	<string>litescrollformat</string>
+	<key>transformercenter</key>
+	<string>orchestrateSlider</string>
+</dict>
+</plist>

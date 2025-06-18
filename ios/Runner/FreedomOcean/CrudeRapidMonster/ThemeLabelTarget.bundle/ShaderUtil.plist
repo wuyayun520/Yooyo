@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorarchitecture</key>
+	<string>publicDrawer</string>
+	<key>containerinfo</key>
+	<string>autoMetadata</string>
+	<key>diversifiedPolyfill</key>
+	<string>formatContrast</string>
+	<key>respectivenavigation</key>
+	<string>singleThroughput</string>
+	<key>shouldDecodeCurve</key>
+	<string>hardGraphic</string>
+	<key>shouldPushMomentum</key>
+	<string>denseLoader</string>
+	<key>subsequentMetadata</key>
+	<string>musicCommand</string>
+	<key>tickerTail</key>
+	<string>resizableBorder</string>
+</dict>
+</plist>

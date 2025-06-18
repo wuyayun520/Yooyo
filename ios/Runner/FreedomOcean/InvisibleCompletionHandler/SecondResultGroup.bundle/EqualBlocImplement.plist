@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedMedia</key>
+	<string>semanticbinarystyle</string>
+	<key>orchestratestateful</key>
+	<string>disposeScale</string>
+	<key>queueBehavior</key>
+	<string>liteSegment</string>
+	<key>shouldRenderStack</key>
+	<string>cardHue</string>
+	<key>smallrouterbrightness</key>
+	<string>canTransitionSwift</string>
+</dict>
+</plist>

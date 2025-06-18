@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableConstraint</key>
+	<string>canNavigateStoryboard</string>
+	<key>emitterDepth</key>
+	<string>dividePosition</string>
+	<key>mapcompositedelay</key>
+	<string>shouldDispatchNotification</string>
+	<key>pinchableRestriction</key>
+	<string>smallGroup</string>
+	<key>savealignment</key>
+	<string>shouldMountedImage</string>
+	<key>shouldDecodeCaption</key>
+	<string>robustBatch</string>
+	<key>shouldEncodeLogarithm</key>
+	<string>extensionkind</string>
+	<key>shouldParseContraction</key>
+	<string>intuitiverequest</string>
+	<key>tappableModulus</key>
+	<string>substantialTask</string>
+	<key>usagehandler</key>
+	<string>basicAllocator</string>
+</dict>
+</plist>

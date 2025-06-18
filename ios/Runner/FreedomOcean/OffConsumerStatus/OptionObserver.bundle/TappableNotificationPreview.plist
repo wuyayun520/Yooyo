@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardStatus</key>
+	<string>canStreamBaseline</string>
+	<key>commonConverter</key>
+	<string>stopComposition</string>
+	<key>graphfeedback</key>
+	<string>accessiblelabel</string>
+	<key>immutableThread</key>
+	<string>optionTemple</string>
+	<key>mountedtransition</key>
+	<string>canLayoutBorder</string>
+	<key>pinchableusecasemode</key>
+	<string>gridviewPadding</string>
+	<key>shouldSkipCatalyst</key>
+	<string>optimizeContainer</string>
+</dict>
+</plist>

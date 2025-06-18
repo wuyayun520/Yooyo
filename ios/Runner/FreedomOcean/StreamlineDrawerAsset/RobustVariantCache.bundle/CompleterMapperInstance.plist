@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumerContrast</key>
+	<string>observerFeedback</string>
+	<key>disabledIndicator</key>
+	<string>appbarMode</string>
+	<key>dismisspet</key>
+	<string>completerappearance</string>
+	<key>keySink</key>
+	<string>paintCollection</string>
+	<key>lostCurve</key>
+	<string>consumerascommand</string>
+	<key>provisionType</key>
+	<string>prepareCard</string>
+	<key>subsequentRectangle</key>
+	<string>modelAdapter</string>
+</dict>
+</plist>

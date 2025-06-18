@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateOrigin</key>
+	<string>invisiblesubpixel</string>
+	<key>declarativeStep</key>
+	<string>completedSubpixel</string>
+	<key>fixedConfidentiality</key>
+	<string>evaluationPosition</string>
+	<key>functionalPicker</key>
+	<string>synchronizeMetadata</string>
+	<key>graphicleft</key>
+	<string>visibleAnalyzer</string>
+	<key>reactivefilter</key>
+	<string>canPopLabel</string>
+	<key>shouldStreamMultiplication</key>
+	<string>shouldStopMatrix</string>
+	<key>smallnorm</key>
+	<string>protectedScroller</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bandwidthforce</key>
+	<string>denseHandler</string>
+	<key>geometricEqualization</key>
+	<string>fixedBandwidth</string>
+	<key>groupRate</key>
+	<string>techniqueNumber</string>
+	<key>onprofiletap</key>
+	<string>observeAperture</string>
+	<key>resizableBorder</key>
+	<string>requiredStroke</string>
+	<key>shouldDeserializeNotifier</key>
+	<string>unarynotation</string>
+	<key>switchopacity</key>
+	<string>deferredinstructionspeed</string>
+	<key>trajectoryOrientation</key>
+	<string>imageduringparameter</string>
+</dict>
+</plist>

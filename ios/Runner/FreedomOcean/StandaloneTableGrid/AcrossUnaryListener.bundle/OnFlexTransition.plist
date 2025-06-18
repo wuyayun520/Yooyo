@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackbycycle</key>
+	<string>animationsinceprototype</string>
+	<key>custompaintduration</key>
+	<string>restorescene</string>
+	<key>labelperscope</key>
+	<string>shouldNavigateStep</string>
+	<key>positionefficiency</key>
+	<string>displayableResponse</string>
+	<key>sharedOption</key>
+	<string>delegatebound</string>
+	<key>shouldUnmountNotification</key>
+	<string>exceptionhead</string>
+	<key>similarThread</key>
+	<string>sampleShape</string>
+	<key>statefulChapter</key>
+	<string>directlyReliability</string>
+</dict>
+</plist>

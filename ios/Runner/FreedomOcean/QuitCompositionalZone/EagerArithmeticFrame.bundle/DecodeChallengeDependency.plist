@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>lastNotifier</key>
+	<string>concurrentTimeline</string>
+	<key>loopOpacity</key>
+	<string>mediumDescriptor</string>
+	<key>materializecurve</key>
+	<string>completionAdapter</string>
+	<key>observertransparency</key>
+	<string>opaqueScenario</string>
+	<key>requiredDetector</key>
+	<string>seekCoordinator</string>
+	<key>shouldDetachLabel</key>
+	<string>columnStage</string>
+	<key>vectororientation</key>
+	<string>detailInteraction</string>
+</dict>
+</plist>

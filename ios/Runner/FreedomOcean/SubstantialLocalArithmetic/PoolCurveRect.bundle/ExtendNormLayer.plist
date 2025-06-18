@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>iterativeTimeline</key>
+	<string>petcomponent</string>
+	<key>listviewVelocity</key>
+	<string>combinerOpacity</string>
+	<key>modulusopacity</key>
+	<string>catalystCommand</string>
+	<key>shouldAnimateChecklist</key>
+	<string>streamBase</string>
+	<key>shouldListenNavigator</key>
+	<string>retainedClipper</string>
+	<key>sorterVelocity</key>
+	<string>canSaveDropdownButton</string>
+	<key>usecaseHue</key>
+	<string>sensorpadding</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativePrecision</key>
+	<string>listenerDensity</string>
+	<key>decodeprovider</key>
+	<string>dedicatedRange</string>
+	<key>injectnavigation</key>
+	<string>replaceCompletion</string>
+	<key>objectVelocity</key>
+	<string>transitionNorm</string>
+	<key>symmetricdecorationorientation</key>
+	<string>taskforvar</string>
+</dict>
+</plist>

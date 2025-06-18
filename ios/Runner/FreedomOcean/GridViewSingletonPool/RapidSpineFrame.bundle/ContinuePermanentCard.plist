@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarForce</key>
+	<string>divideResource</string>
+	<key>musicdespitecontext</key>
+	<string>basesize</string>
+	<key>offsetaction</key>
+	<string>smallSpecifier</string>
+	<key>respondstate</key>
+	<string>conformlocalization</string>
+	<key>sharedSymbol</key>
+	<string>largeRequest</string>
+	<key>shouldConnectCapsule</key>
+	<string>shouldDeserializeGradient</string>
+	<key>shouldSkipLog</key>
+	<string>streamdispatcher</string>
+</dict>
+</plist>

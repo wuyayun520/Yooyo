@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerLinker</key>
+	<string>dispatchlayout</string>
+	<key>easyPopup</key>
+	<string>evaluateMenu</string>
+	<key>exponentchannel</key>
+	<string>nextStream</string>
+	<key>gateviaprototype</key>
+	<string>ternarysize</string>
+	<key>groupRate</key>
+	<string>serializeGridView</string>
+	<key>resolverthreshold</key>
+	<string>detailIndex</string>
+	<key>sensorkindvelocity</key>
+	<string>spinChapter</string>
+	<key>shouldConnectMediaQuery</key>
+	<string>materialStorage</string>
+	<key>sortedProvision</key>
+	<string>mediumScene</string>
+</dict>
+</plist>

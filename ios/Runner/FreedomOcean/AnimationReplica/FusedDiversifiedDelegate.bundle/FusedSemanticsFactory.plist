@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartascycle</key>
+	<string>disparateBuffer</string>
+	<key>controllervariablepressure</key>
+	<string>adjustTransition</string>
+	<key>draggablecaptionright</key>
+	<string>missionSystem</string>
+	<key>metricsType</key>
+	<string>equalizationTheme</string>
+	<key>priorPolyfill</key>
+	<string>gradientqueue</string>
+	<key>protocolcolor</key>
+	<string>polyfillInteraction</string>
+	<key>scrolllikelevel</key>
+	<string>agileGraphic</string>
+	<key>sessionresource</key>
+	<string>secondEffect</string>
+	<key>shouldnotifyconstraint</key>
+	<string>inheritedBehavior</string>
+	<key>utilenvironmentname</key>
+	<string>usageDelay</string>
+</dict>
+</plist>

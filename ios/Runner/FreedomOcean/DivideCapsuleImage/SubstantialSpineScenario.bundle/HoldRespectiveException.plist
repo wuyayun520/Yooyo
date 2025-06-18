@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicArchitecture</key>
+	<string>shouldendmobile</string>
+	<key>descriptionkind</key>
+	<string>responsiveAudio</string>
+	<key>documentAlignment</key>
+	<string>radioalongpattern</string>
+	<key>filterKind</key>
+	<string>agilePresenter</string>
+	<key>restrictionvalidation</key>
+	<string>shoulddetachbaseline</string>
+	<key>shouldCachePainter</key>
+	<string>batchTier</string>
+</dict>
+</plist>

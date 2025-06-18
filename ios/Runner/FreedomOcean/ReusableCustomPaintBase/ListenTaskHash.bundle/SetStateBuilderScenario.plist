@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedmetadata</key>
+	<string>standaloneTweak</string>
+	<key>denseTraversal</key>
+	<string>pushSink</string>
+	<key>graphlayerinset</key>
+	<string>shouldAttachAlert</string>
+	<key>keyTraversal</key>
+	<string>parseRoute</string>
+	<key>pageviewPosition</key>
+	<string>layoutOptimizer</string>
+	<key>sharedScenario</key>
+	<string>connectUtil</string>
+	<key>shouldpersistcheckbox</key>
+	<string>clonesize</string>
+	<key>storagelikechain</key>
+	<string>shouldPushAnimation</string>
+	<key>unbindmaster</key>
+	<string>dynamicResponse</string>
+</dict>
+</plist>

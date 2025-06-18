@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchlikephase</key>
+	<string>serializeChannels</string>
+	<key>globalError</key>
+	<string>canContinueCheckbox</string>
+	<key>intuitiveWorkflow</key>
+	<string>activatedMend</string>
+	<key>mutableCallback</key>
+	<string>encoderesource</string>
+	<key>pivotalMaster</key>
+	<string>accessibleGram</string>
+	<key>protectedUseCase</key>
+	<string>memberBorder</string>
+	<key>resizableAnalyzer</key>
+	<string>performkernel</string>
+	<key>shouldBuildMaterial</key>
+	<string>associatedLoop</string>
+	<key>shouldObserveAccessory</key>
+	<string>notifyCheckbox</string>
+</dict>
+</plist>

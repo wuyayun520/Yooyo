@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleListener</key>
+	<string>createSubpixel</string>
+	<key>controllerscopeforce</key>
+	<string>specifyinjectionkind</string>
+	<key>draggableTolerance</key>
+	<string>labelTag</string>
+	<key>inkwellBrightness</key>
+	<string>unmountMedia</string>
+	<key>keyOperation</key>
+	<string>compositionalScheduler</string>
+	<key>otherternary</key>
+	<string>subsequentAscent</string>
+	<key>singletonType</key>
+	<string>decodeModal</string>
+</dict>
+</plist>

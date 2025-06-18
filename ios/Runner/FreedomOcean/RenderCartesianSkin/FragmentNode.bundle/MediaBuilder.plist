@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoGradient</key>
+	<string>unbindsubpixel</string>
+	<key>draweractiondepth</key>
+	<string>promiseInteraction</string>
+	<key>globalTask</key>
+	<string>shouldFinishMaterial</string>
+	<key>positionposition</key>
+	<string>undertakeChart</string>
+	<key>requiredStore</key>
+	<string>agileProvider</string>
+	<key>scrollableAllocator</key>
+	<string>replicaPadding</string>
+	<key>shouldParseObserver</key>
+	<string>completerLeft</string>
+	<key>symmetricModal</key>
+	<string>mediumThroughput</string>
+	<key>visibleMesh</key>
+	<string>constraintStrategy</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>granularAudio</key>
+	<string>shouldStopCheckbox</string>
+	<key>shouldFetchKernel</key>
+	<string>shouldDisposeCollection</string>
+	<key>substantialAnimator</key>
+	<string>transformstorage</string>
+	<key>tentativeBrightness</key>
+	<string>tweakVelocity</string>
+	<key>visibleCycle</key>
+	<string>configurationemitter</string>
+	<key>widgetlayerbound</key>
+	<string>resilientSession</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>errorhandler</key>
+	<string>playprojection</string>
+	<key>invisibleentity</key>
+	<string>canDisposeRemainder</string>
+	<key>largeTangent</key>
+	<string>directConvolution</string>
+	<key>prevTitle</key>
+	<string>layoutTop</string>
+	<key>queuePadding</key>
+	<string>draggableLog</string>
+	<key>shouldPersistCertificate</key>
+	<string>stringifyRouter</string>
+	<key>shouldUpdateContraction</key>
+	<string>createSegue</string>
+	<key>slashShape</key>
+	<string>specifybufferresponse</string>
+	<key>tabviewposition</key>
+	<string>shouldPublishHeap</string>
+</dict>
+</plist>

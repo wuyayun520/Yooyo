@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryasprocess</key>
+	<string>shaderstylehue</string>
+	<key>dialogsstagemargin</key>
+	<string>modulusPattern</string>
+	<key>localizationName</key>
+	<string>canUpdateRemainder</string>
+	<key>quantizerlocalization</key>
+	<string>fusedBoxShadow</string>
+	<key>smartDispatcher</key>
+	<string>easyButton</string>
+	<key>taskconnector</key>
+	<string>mediaqueryInterpreter</string>
+</dict>
+</plist>

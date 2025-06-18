@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorinfrastructure</key>
+	<string>connectThread</string>
+	<key>entityaroundstyle</key>
+	<string>stateVelocity</string>
+	<key>flexibleDrawer</key>
+	<string>sliderFrequency</string>
+	<key>interpolationDuration</key>
+	<string>dynamicPicker</string>
+	<key>listenercoord</key>
+	<string>advancedMultiplication</string>
+	<key>responsereliability</key>
+	<string>scrollableAppBar</string>
+	<key>spineDistance</key>
+	<string>multiplicationScale</string>
+</dict>
+</plist>

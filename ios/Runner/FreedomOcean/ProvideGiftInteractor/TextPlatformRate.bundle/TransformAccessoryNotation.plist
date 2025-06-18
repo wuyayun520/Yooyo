@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleDuration</key>
+	<string>radioFormat</string>
+	<key>desktopSensor</key>
+	<string>canTrainSpot</string>
+	<key>fragmentdecoration</key>
+	<string>backwardpainter</string>
+	<key>reactiveDispatcher</key>
+	<string>modalStyle</string>
+	<key>repositoryframeworkcoord</key>
+	<string>switchForm</string>
+	<key>resetresolver</key>
+	<string>trianglesScale</string>
+	<key>scrollableMatrix</key>
+	<string>missedSample</string>
+	<key>shouldSetStateSwitch</key>
+	<string>typicalObject</string>
+	<key>shouldUnmountResource</key>
+	<string>dedicatedSize</string>
+	<key>throughputOffset</key>
+	<string>canDispatchPromise</string>
+</dict>
+</plist>

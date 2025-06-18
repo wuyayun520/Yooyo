@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoCapacity</key>
+	<string>adjustService</string>
+	<key>consumerSkewY</key>
+	<string>persistEffect</string>
+	<key>crucialTabView</key>
+	<string>readLabel</string>
+	<key>dedicatedicon</key>
+	<string>touchAdapter</string>
+	<key>eagerTimeline</key>
+	<string>shouldKeepAspect</string>
+	<key>meshInterval</key>
+	<string>canCreateSwitch</string>
+	<key>publisherRate</key>
+	<string>handleVariant</string>
+	<key>shouldLayoutSign</key>
+	<string>mediumSkirt</string>
+	<key>shouldResumeLogarithm</key>
+	<string>labelfromstage</string>
+	<key>unactivatedImpact</key>
+	<string>subtleInstruction</string>
+</dict>
+</plist>

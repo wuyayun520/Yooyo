@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticHistogram</key>
+	<string>directLayout</string>
+	<key>autoChallenge</key>
+	<string>nextReplica</string>
+	<key>completerSpeed</key>
+	<string>oncapacitieschanged</string>
+	<key>easyaccessory</key>
+	<string>oldParticle</string>
+	<key>pickerOpacity</key>
+	<string>popupsystemshape</string>
+	<key>primarySine</key>
+	<string>accordionInterface</string>
+	<key>sequentialLayout</key>
+	<string>durationSpacing</string>
+	<key>sortedCallback</key>
+	<string>transitionhandler</string>
+</dict>
+</plist>

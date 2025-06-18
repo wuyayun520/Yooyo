@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionpainter</key>
+	<string>infrastructureVisibility</string>
+	<key>hyperbolicSwitch</key>
+	<string>markScene</string>
+	<key>impactBorder</key>
+	<string>capacitiesShade</string>
+	<key>localObserver</key>
+	<string>dedicatedRow</string>
+	<key>scalefeedback</key>
+	<string>directlyResponse</string>
+	<key>sequentialTextField</key>
+	<string>diffabletoolflags</string>
+	<key>shouldDetachFuture</key>
+	<string>enabledSlider</string>
+	<key>statelessCompletion</key>
+	<string>canSaveSpine</string>
+</dict>
+</plist>

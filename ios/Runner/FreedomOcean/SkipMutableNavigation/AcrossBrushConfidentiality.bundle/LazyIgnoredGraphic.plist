@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoMethod</key>
+	<string>cartesianQueue</string>
+	<key>commonCustomPaint</key>
+	<string>bitrateVisible</string>
+	<key>cubitinsideprototype</key>
+	<string>precisionJob</string>
+	<key>fixedVolume</key>
+	<string>dynamicPositioned</string>
+	<key>flexiblePolygon</key>
+	<string>captionDecorator</string>
+	<key>intensityfromvariable</key>
+	<string>topicDirection</string>
+	<key>pivotalIndicator</key>
+	<string>otherCharacteristic</string>
+	<key>spriteawayshape</key>
+	<string>interactionEdge</string>
+</dict>
+</plist>

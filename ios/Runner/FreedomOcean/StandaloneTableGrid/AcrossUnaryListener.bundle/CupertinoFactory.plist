@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>colorAppearance</key>
+	<string>animateException</string>
+	<key>fusedInteger</key>
+	<string>basicBehavior</string>
+	<key>gateInterval</key>
+	<string>pickerStyle</string>
+	<key>lastSegue</key>
+	<string>quaternionVisibility</string>
+	<key>reactivePicker</key>
+	<string>textfieldCenter</string>
+</dict>
+</plist>

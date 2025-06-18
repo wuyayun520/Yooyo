@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicGraph</key>
+	<string>unsortedVertex</string>
+	<key>buildermethodvelocity</key>
+	<string>shouldUnmountedBullet</string>
+	<key>enabledJoiner</key>
+	<string>shouldDispatchSubpixel</string>
+	<key>freeplayback</key>
+	<string>shouldResumeListView</string>
+	<key>geometricPromise</key>
+	<string>mutableAnimatedContainer</string>
+	<key>projectionEdge</key>
+	<string>shouldPresentCosine</string>
+	<key>shouldContinueFragment</key>
+	<string>transitionpresenter</string>
+	<key>texturecontainform</key>
+	<string>shouldAttachExpanded</string>
+</dict>
+</plist>

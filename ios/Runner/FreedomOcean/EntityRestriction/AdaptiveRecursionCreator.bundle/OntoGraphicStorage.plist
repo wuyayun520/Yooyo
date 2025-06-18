@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticreducer</key>
+	<string>largeElement</string>
+	<key>commonOccasion</key>
+	<string>resizableOperation</string>
+	<key>crudeRestriction</key>
+	<string>modulusDepth</string>
+	<key>dynamicDialogs</key>
+	<string>momentummechanism</string>
+	<key>factoryAppearance</key>
+	<string>canShowUsage</string>
+	<key>interactortweak</key>
+	<string>showKernel</string>
+	<key>keyContainer</key>
+	<string>trainScreen</string>
+	<key>pinchableGrain</key>
+	<string>notificationChain</string>
+	<key>statictimeline</key>
+	<string>pendingOption</string>
+	<key>writegroup</key>
+	<string>canResumeObserver</string>
+</dict>
+</plist>

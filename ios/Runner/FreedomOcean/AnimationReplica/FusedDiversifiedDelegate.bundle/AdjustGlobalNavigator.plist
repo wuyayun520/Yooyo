@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystDelay</key>
+	<string>audiovelocity</string>
+	<key>completiontype</key>
+	<string>immediateArithmetic</string>
+	<key>ignoredSpine</key>
+	<string>meshCount</string>
+	<key>interpolationsize</key>
+	<string>buttonparametervisibility</string>
+</dict>
+</plist>

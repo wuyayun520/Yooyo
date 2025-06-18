@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>featuremethodscale</key>
+	<string>canPersistBox</string>
+	<key>observeaspect</key>
+	<string>memberDistance</string>
+	<key>shouldMountedInteger</key>
+	<string>nextviewdensity</string>
+	<key>similarSchema</key>
+	<string>elasticityoffset</string>
+	<key>smallTransformer</key>
+	<string>maxButton</string>
+	<key>statelessCubit</key>
+	<string>updatePadding</string>
+	<key>staticUtil</key>
+	<string>commonRadius</string>
+</dict>
+</plist>

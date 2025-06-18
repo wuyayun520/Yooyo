@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableImage</key>
+	<string>agileEmitter</string>
+	<key>granularVector</key>
+	<string>dispatcherPadding</string>
+	<key>kernelFrequency</key>
+	<string>independentComposition</string>
+	<key>permissiveDetector</key>
+	<string>shouldProcessRichText</string>
+	<key>prismaticTechnique</key>
+	<string>concurrentLinker</string>
+	<key>sensorwithplatform</key>
+	<string>canDecodeContraction</string>
+	<key>shouldLayoutBaseline</key>
+	<string>canShowShader</string>
+	<key>shouldPopLayout</key>
+	<string>reactiveSchema</string>
+	<key>similarLogarithm</key>
+	<string>elementInteraction</string>
+</dict>
+</plist>

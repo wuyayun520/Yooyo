@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveOverlay</key>
+	<string>scrollableService</string>
+	<key>delegatefilter</key>
+	<string>listenFuture</string>
+	<key>iterativeInteraction</key>
+	<string>titleJob</string>
+	<key>optimizerphasetheme</key>
+	<string>readRow</string>
+	<key>persistentUnary</key>
+	<string>shouldResumeHeap</string>
+	<key>shouldParseChecklist</key>
+	<string>diversifiedMaterializer</string>
+	<key>sustainableResource</key>
+	<string>mediocreDimension</string>
+</dict>
+</plist>

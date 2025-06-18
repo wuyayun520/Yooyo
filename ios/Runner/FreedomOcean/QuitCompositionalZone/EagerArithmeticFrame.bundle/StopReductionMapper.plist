@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedIcon</key>
+	<string>axisorigin</string>
+	<key>explicitGradient</key>
+	<string>activatedMultiplication</string>
+	<key>newestDelivery</key>
+	<string>shouldTransitionRoute</string>
+	<key>petbuffersaturation</key>
+	<string>conformInjection</string>
+	<key>shouldObserveNotifier</key>
+	<string>rapidAlert</string>
+	<key>shouldUnbindSemantics</key>
+	<string>groupTension</string>
+</dict>
+</plist>

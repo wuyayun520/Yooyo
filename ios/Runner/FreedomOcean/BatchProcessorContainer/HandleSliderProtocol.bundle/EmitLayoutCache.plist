@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>momentumrect</key>
+	<string>transformCosine</string>
+	<key>originalRenderer</key>
+	<string>resolverStructure</string>
+	<key>robustRemainder</key>
+	<string>directlyDescent</string>
+	<key>splitterInterval</key>
+	<string>paddingScale</string>
+	<key>themeContrast</key>
+	<string>resourcehue</string>
+</dict>
+</plist>

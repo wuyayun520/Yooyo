@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengeinterpretervelocity</key>
+	<string>concreteGraph</string>
+	<key>consultativeKernel</key>
+	<string>draggableSelector</string>
+	<key>currentIndicator</key>
+	<string>utilconnector</string>
+	<key>customQueue</key>
+	<string>factoryShape</string>
+	<key>lazyAnimation</key>
+	<string>canAttachMomentum</string>
+	<key>observerlayout</key>
+	<string>listenSprite</string>
+	<key>reconciletransition</key>
+	<string>canNotifySpecifier</string>
+	<key>shouldDisposeSpecifier</key>
+	<string>autoAwait</string>
+	<key>shouldNavigateHistogram</key>
+	<string>margintaskfrequency</string>
+	<key>shouldYieldDecoration</key>
+	<string>newestStateful</string>
+</dict>
+</plist>

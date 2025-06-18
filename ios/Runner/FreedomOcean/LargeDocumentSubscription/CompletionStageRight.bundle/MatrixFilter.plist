@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianSink</key>
+	<string>cartesianAllocator</string>
+	<key>descriptortext</key>
+	<string>interactivefutureinset</string>
+	<key>invisibleTrigger</key>
+	<string>dissociatetimer</string>
+	<key>lastElement</key>
+	<string>fixedBehavior</string>
+	<key>secondStoryboard</key>
+	<string>synchronousDistinction</string>
+	<key>shouldCreateCompletion</key>
+	<string>immutablebuilder</string>
+	<key>skipskirt</key>
+	<string>canLoadColumn</string>
+	<key>storageSkewY</key>
+	<string>mountSession</string>
+	<key>visibleListView</key>
+	<string>toolStyle</string>
+</dict>
+</plist>

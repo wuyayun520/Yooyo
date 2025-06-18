@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveReceiver</key>
+	<string>shouldPopPet</string>
+	<key>containervardirection</key>
+	<string>streamNumber</string>
+	<key>fixedProgressBar</key>
+	<string>iterativeResponder</string>
+	<key>independentCoordinator</key>
+	<string>resilientLocalization</string>
+	<key>logdistance</key>
+	<string>apertureSkewY</string>
+	<key>scrollableGesture</key>
+	<string>filterShape</string>
+	<key>sortedMechanism</key>
+	<string>chapterSize</string>
+	<key>statefulstate</key>
+	<string>updateComposition</string>
+	<key>taskDepth</key>
+	<string>normalVariant</string>
+</dict>
+</plist>

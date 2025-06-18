@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeWrapper</key>
+	<string>independentKernel</string>
+	<key>arithmeticMedia</key>
+	<string>batchMode</string>
+	<key>capacitiesCoord</key>
+	<string>mapAction</string>
+	<key>declarativePager</key>
+	<string>shouldMountedPositioned</string>
+	<key>diversifiedShader</key>
+	<string>numericalRadius</string>
+	<key>entitymatrix</key>
+	<string>baselineSpeed</string>
+	<key>lazyDetail</key>
+	<string>meshIndex</string>
+	<key>sizedboxLocation</key>
+	<string>validateCapsule</string>
+</dict>
+</plist>

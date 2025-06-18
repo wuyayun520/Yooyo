@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>drawergrain</key>
+	<string>adaptiveMobile</string>
+	<key>initializesink</key>
+	<string>statelessInteractor</string>
+	<key>missedReduction</key>
+	<string>canResumeAlpha</string>
+	<key>nextRemediation</key>
+	<string>overlaytheme</string>
+	<key>primaryBatch</key>
+	<string>cloneDelegate</string>
+	<key>shouldPaintSample</key>
+	<string>substantialScreen</string>
+	<key>sliderevolution</key>
+	<string>shouldPushMission</string>
+	<key>smartAspectRatio</key>
+	<string>canEncodePlate</string>
+	<key>sophisticatedTitle</key>
+	<string>reusablePolyfill</string>
+</dict>
+</plist>

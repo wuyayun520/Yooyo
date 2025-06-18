@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composablerequestspeed</key>
+	<string>painterDirection</string>
+	<key>difficultPrecision</key>
+	<string>flexInset</string>
+	<key>intermediaterect</key>
+	<string>similarcaption</string>
+	<key>methodTension</key>
+	<string>sampleEnvironment</string>
+	<key>showlocalization</key>
+	<string>schemaFrequency</string>
+	<key>stackpreview</key>
+	<string>shouldDisposeNotifier</string>
+</dict>
+</plist>

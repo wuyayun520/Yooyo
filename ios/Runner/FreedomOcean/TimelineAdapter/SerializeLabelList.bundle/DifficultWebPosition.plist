@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencySize</key>
+	<string>shaderFrequency</string>
+	<key>displayableTopic</key>
+	<string>secondScheduler</string>
+	<key>firstConfidentiality</key>
+	<string>canStreamCharacter</string>
+	<key>firstTriangles</key>
+	<string>trianglesOffset</string>
+	<key>prevSingleton</key>
+	<string>publicModel</string>
+	<key>shouldRouteStep</key>
+	<string>preparespecifier</string>
+</dict>
+</plist>

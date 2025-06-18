@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonContainer</key>
+	<string>setstateController</string>
+	<key>fusedProvision</key>
+	<string>wrapException</string>
+	<key>singleReceiver</key>
+	<string>dedicatedColumn</string>
+	<key>tabbarpatternleft</key>
+	<string>shouldCreateTransition</string>
+	<key>typicalOccasion</key>
+	<string>asynchronousgraph</string>
+</dict>
+</plist>

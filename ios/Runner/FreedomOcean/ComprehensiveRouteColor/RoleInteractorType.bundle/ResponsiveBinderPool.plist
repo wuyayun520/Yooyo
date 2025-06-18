@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchbeyondjob</key>
+	<string>lostUseCase</string>
+	<key>granularAnalyzer</key>
+	<string>showInterpolation</string>
+	<key>liteCatalyst</key>
+	<string>staticTicker</string>
+	<key>methodShade</key>
+	<string>uniformKernel</string>
+	<key>nativeCube</key>
+	<string>deferredSearcher</string>
+	<key>otherButton</key>
+	<string>streamBuffer</string>
+	<key>shouldHandleMultiplication</key>
+	<string>serializeMusic</string>
+	<key>specifierBrightness</key>
+	<string>missedTextField</string>
+	<key>toolvisible</key>
+	<string>subsequentPlate</string>
+</dict>
+</plist>

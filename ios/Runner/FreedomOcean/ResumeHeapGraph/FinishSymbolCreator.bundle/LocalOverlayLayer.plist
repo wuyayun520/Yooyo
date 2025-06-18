@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureversusdecorator</key>
+	<string>constraintforce</string>
+	<key>priorityLocation</key>
+	<string>shouldStreamScaffold</string>
+	<key>shouldPauseLoss</key>
+	<string>histogramPlatform</string>
+	<key>visibleCell</key>
+	<string>completerTop</string>
+</dict>
+</plist>

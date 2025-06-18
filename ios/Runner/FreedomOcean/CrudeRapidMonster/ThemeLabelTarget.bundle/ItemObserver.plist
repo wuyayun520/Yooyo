@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerState</key>
+	<string>liteStream</string>
+	<key>directStateless</key>
+	<string>shouldPrepareEquipment</string>
+	<key>exceptionDelay</key>
+	<string>fixedmanager</string>
+	<key>informationRate</key>
+	<string>overrideUseCase</string>
+	<key>managerdistance</key>
+	<string>uniqueTweak</string>
+	<key>mediumstroke</key>
+	<string>overridedialogs</string>
+	<key>shouldStopRoute</key>
+	<string>toolLeft</string>
+	<key>subsequentOverlay</key>
+	<string>controllerTheme</string>
+</dict>
+</plist>

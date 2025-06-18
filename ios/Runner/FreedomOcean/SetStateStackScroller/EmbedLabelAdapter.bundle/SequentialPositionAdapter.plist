@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buffercount</key>
+	<string>detachSample</string>
+	<key>entropyrequest</key>
+	<string>displayableAction</string>
+	<key>lostGestureDetector</key>
+	<string>shouldParseOptimizer</string>
+	<key>observepresenter</key>
+	<string>compositionalprovision</string>
+	<key>statefulMatrix</key>
+	<string>trianglesTail</string>
+	<key>statepernumber</key>
+	<string>animationinterpretersize</string>
+	<key>steptiertension</key>
+	<string>errorAdapter</string>
+	<key>timerversuscycle</key>
+	<string>globalviewopacity</string>
+	<key>trajectorySize</key>
+	<string>dynamicSprite</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultAlpha</key>
+	<string>collectionCycle</string>
+	<key>independentScale</key>
+	<string>publicTable</string>
+	<key>mutableStack</key>
+	<string>maxCycle</string>
+	<key>toleranceStatus</key>
+	<string>canDeserializeReduction</string>
+</dict>
+</plist>

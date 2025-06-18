@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonCursor</key>
+	<string>cartesianframe</string>
+	<key>evolutionInset</key>
+	<string>geometricDistinction</string>
+	<key>floatkernel</key>
+	<string>mutableConstant</string>
+	<key>listviewTheme</key>
+	<string>canAttachScale</string>
+	<key>missedsplitter</key>
+	<string>interactivebuttoncoord</string>
+	<key>objectDistance</key>
+	<string>deactivateResult</string>
+	<key>optimizerOffset</key>
+	<string>controllerVisibility</string>
+	<key>shouldAttachGestureDetector</key>
+	<string>animatedFinder</string>
+	<key>wrapcontroller</key>
+	<string>logcolor</string>
+</dict>
+</plist>

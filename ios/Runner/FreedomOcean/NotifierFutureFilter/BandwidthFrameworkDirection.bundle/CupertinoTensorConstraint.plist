@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>architectureFeedback</key>
+	<string>particleasstage</string>
+	<key>diversifiedTask</key>
+	<string>tentativeedge</string>
+	<key>infoscale</key>
+	<string>pauseDecoration</string>
+	<key>paralleltouch</key>
+	<string>canDetachBinary</string>
+	<key>protectedpositiontheme</key>
+	<string>parseProvider</string>
+	<key>validateusage</key>
+	<string>shouldResumeRow</string>
+</dict>
+</plist>

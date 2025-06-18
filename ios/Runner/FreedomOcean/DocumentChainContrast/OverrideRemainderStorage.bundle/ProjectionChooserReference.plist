@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convolutionconfidentiality</key>
+	<string>shouldDeserializeGridView</string>
+	<key>dynamicSpecifier</key>
+	<string>momentumProcess</string>
+	<key>gridviewStatus</key>
+	<string>executestate</string>
+	<key>interactionDensity</key>
+	<string>sliderdepth</string>
+	<key>localLoader</key>
+	<string>sequentialConfidentiality</string>
+	<key>particleofmemento</key>
+	<string>shouldKeepThread</string>
+</dict>
+</plist>

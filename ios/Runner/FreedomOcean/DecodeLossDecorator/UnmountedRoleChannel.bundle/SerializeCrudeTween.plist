@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartoffset</key>
+	<string>heroSpacing</string>
+	<key>connecttheme</key>
+	<string>binderAppearance</string>
+	<key>controllerDirection</key>
+	<string>shouldSaveGate</string>
+	<key>displayableScene</key>
+	<string>subsequentclipperduration</string>
+	<key>mountnode</key>
+	<string>shouldEncodeStateful</string>
+	<key>musicPressure</key>
+	<string>canSetStateScale</string>
+	<key>rapidPriority</key>
+	<string>listviewimpression</string>
+</dict>
+</plist>

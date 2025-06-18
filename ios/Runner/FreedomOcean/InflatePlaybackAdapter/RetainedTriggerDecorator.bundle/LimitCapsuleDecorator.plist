@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedLabel</key>
+	<string>multiModel</string>
+	<key>fusedBloc</key>
+	<string>canTransitionSemantics</string>
+	<key>navigatedropdownbutton</key>
+	<string>canDismissTheme</string>
+	<key>persistentRow</key>
+	<string>tweensaturation</string>
+	<key>primaryTrajectory</key>
+	<string>activeDimension</string>
+	<key>radiusbyinterpreter</key>
+	<string>renderContainer</string>
+	<key>routerOrigin</key>
+	<string>shouldInflateMusic</string>
+	<key>skinadaptermode</key>
+	<string>difficultBase</string>
+</dict>
+</plist>

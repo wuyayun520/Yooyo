@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>detectorTransparency</key>
+	<string>canAttachCapacities</string>
+	<key>disabledSlash</key>
+	<string>entropyformat</string>
+	<key>keyImpact</key>
+	<string>presentScaffold</string>
+	<key>otherConverter</key>
+	<string>canEndUnary</string>
+	<key>seamlessCubit</key>
+	<string>progressbarRotation</string>
+	<key>secondQueue</key>
+	<string>resizeFuture</string>
+</dict>
+</plist>

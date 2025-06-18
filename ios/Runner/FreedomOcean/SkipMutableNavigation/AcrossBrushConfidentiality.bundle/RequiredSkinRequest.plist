@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeCurve</key>
+	<string>shouldPublishCaption</string>
+	<key>enddelegate</key>
+	<string>shouldTrainGem</string>
+	<key>functionaldetector</key>
+	<string>shouldPresentEntropy</string>
+	<key>hardstate</key>
+	<string>textfieldspeed</string>
+	<key>statefulProgressBar</key>
+	<string>shouldcontinuetechnique</string>
+	<key>staticTouch</key>
+	<string>shouldDetachIcon</string>
+	<key>switchspacing</key>
+	<string>handleConfiguration</string>
+</dict>
+</plist>

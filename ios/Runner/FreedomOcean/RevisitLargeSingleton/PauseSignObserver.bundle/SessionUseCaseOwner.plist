@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackandpattern</key>
+	<string>emitDuration</string>
+	<key>chooserContrast</key>
+	<string>gemInteraction</string>
+	<key>scaffoldsubscription</key>
+	<string>associatedTable</string>
+	<key>scenarioMargin</key>
+	<string>formatCell</string>
+	<key>shouldNavigateAxis</key>
+	<string>popupreliability</string>
+</dict>
+</plist>

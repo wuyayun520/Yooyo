@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelSize</key>
+	<string>canLayoutIndicator</string>
+	<key>consumptionName</key>
+	<string>ephemeralIntegrity</string>
+	<key>greatData</key>
+	<string>layoutLeft</string>
+	<key>injectlabel</key>
+	<string>drawProgressBar</string>
+	<key>localreference</key>
+	<string>directOptimizer</string>
+	<key>paddingtexture</key>
+	<string>activeMargin</string>
+	<key>previewMode</key>
+	<string>notifyAnimatedContainer</string>
+	<key>specifyPainter</key>
+	<string>requiredCapacity</string>
+	<key>topicFlags</key>
+	<string>timerCycle</string>
+</dict>
+</plist>

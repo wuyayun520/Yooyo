@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureVisibility</key>
+	<string>eventForm</string>
+	<key>coordinatorTint</key>
+	<string>reduceGroup</string>
+	<key>dataLeft</key>
+	<string>accessibleMaterial</string>
+	<key>dynamicskinmode</key>
+	<string>canAnimateMaterial</string>
+	<key>keyScaffold</key>
+	<string>explicitCompletion</string>
+	<key>layoutuntillayer</key>
+	<string>scaleSkewY</string>
+	<key>lazyProvider</key>
+	<string>coordinatorDelay</string>
+	<key>shouldConnectArithmetic</key>
+	<string>literoutekind</string>
+	<key>temporaryMember</key>
+	<string>denseFeature</string>
+</dict>
+</plist>

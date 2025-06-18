@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultdocument</key>
+	<string>normalParticle</string>
+	<key>directlyColor</key>
+	<string>autoDocument</string>
+	<key>geometricEffect</key>
+	<string>autoDetector</string>
+	<key>hierarchicalLocalization</key>
+	<string>composableAsset</string>
+	<key>hyperbolicPosition</key>
+	<string>efficiencyResponse</string>
+	<key>shouldTrainMission</key>
+	<string>smartElasticity</string>
+	<key>singleShader</key>
+	<string>canResumePageView</string>
+	<key>statelessConnector</key>
+	<string>custompaintInset</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopController</key>
+	<string>prevObject</string>
+	<key>ephemeralAsync</key>
+	<string>menuCommand</string>
+	<key>intuitiveTouch</key>
+	<string>schedulesample</string>
+	<key>publicStorage</key>
+	<string>responsiveHeap</string>
+	<key>richtextjoiner</key>
+	<string>canNavigateExpanded</string>
+	<key>seamlessCycle</key>
+	<string>metadataflyweighttail</string>
+	<key>shouldDisconnectNorm</key>
+	<string>factoryTheme</string>
+	<key>uniformCaption</key>
+	<string>canDetachGradient</string>
+	<key>webSpecifier</key>
+	<string>drawerAppearance</string>
+</dict>
+</plist>

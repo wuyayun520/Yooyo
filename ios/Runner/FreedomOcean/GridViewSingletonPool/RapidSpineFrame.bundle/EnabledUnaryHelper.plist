@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleservice</key>
+	<string>intermediateChart</string>
+	<key>controllerorcommand</key>
+	<string>draggableTask</string>
+	<key>deferredResult</key>
+	<string>aspectkindtop</string>
+	<key>managerTheme</key>
+	<string>canSubscribeBullet</string>
+	<key>mechanismInterval</key>
+	<string>advancedPermutation</string>
+	<key>popupmerger</key>
+	<string>continueThread</string>
+	<key>shouldObserveCube</key>
+	<string>globalUnary</string>
+	<key>shoulddispatchcache</key>
+	<string>marginvisible</string>
+	<key>storeparamshape</key>
+	<string>scrollableBehavior</string>
+	<key>tangentdetector</key>
+	<string>rapidInteractor</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicKernel</key>
+	<string>aspectType</string>
+	<key>invisibleUnary</key>
+	<string>shaderSpacing</string>
+	<key>mainbuttonleft</key>
+	<string>fusedmodulus</string>
+	<key>meshacceleration</key>
+	<string>immediateAccessory</string>
+	<key>otherRemainder</key>
+	<string>pivotalAnimatedContainer</string>
+	<key>scrollabledecorationtag</key>
+	<string>interpolationMediator</string>
+	<key>similarVariant</key>
+	<string>shouldStreamResource</string>
+	<key>splitterOpacity</key>
+	<string>coordinatorMemento</string>
+	<key>subtleConstant</key>
+	<string>radiusNumber</string>
+	<key>transposetouch</key>
+	<string>cacheColor</string>
+</dict>
+</plist>

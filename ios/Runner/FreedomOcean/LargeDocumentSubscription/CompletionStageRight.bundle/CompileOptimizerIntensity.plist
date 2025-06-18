@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectstatus</key>
+	<string>cartesianSegment</string>
+	<key>priorityBound</key>
+	<string>shouldResumeStateful</string>
+	<key>shouldPaintBullet</key>
+	<string>tabbarBottom</string>
+</dict>
+</plist>

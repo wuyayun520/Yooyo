@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatorVisibility</key>
+	<string>instructionVariable</string>
+	<key>channelsbyplatform</key>
+	<string>shouldStartCollection</string>
+	<key>completionschema</key>
+	<string>canAttachContainer</string>
+	<key>disclaimerFlags</key>
+	<string>expandedBorder</string>
+	<key>draggableAppBar</key>
+	<string>specifierSystem</string>
+	<key>multiDialogs</key>
+	<string>largeGrain</string>
+	<key>screenValidation</key>
+	<string>augmentDescription</string>
+	<key>seamlessmesh</key>
+	<string>protocolColor</string>
+</dict>
+</plist>

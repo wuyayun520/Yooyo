@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationintegrity</key>
+	<string>temporaryCubit</string>
+	<key>deferredUtil</key>
+	<string>eventVariable</string>
+	<key>delicateTangent</key>
+	<string>cacheSubpixel</string>
+	<key>globalRichText</key>
+	<string>sceneoperationshade</string>
+	<key>previewBehavior</key>
+	<string>errorMediator</string>
+	<key>segmentbychain</key>
+	<string>rectDecorator</string>
+	<key>shouldRestartSensor</key>
+	<string>singleState</string>
+	<key>shouldTrainCube</key>
+	<string>animatedVector</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableDisclaimer</key>
+	<string>objectShade</string>
+	<key>consumeroutsideinterpreter</key>
+	<string>immediateAlert</string>
+	<key>coordinatorRotation</key>
+	<string>canRenderGradient</string>
+	<key>groupstyle</key>
+	<string>dataName</string>
+	<key>interactorwithoutobserver</key>
+	<string>deactivateIsolate</string>
+	<key>listenanimatedcontainer</key>
+	<string>texturematrix</string>
+	<key>parallelBitrate</key>
+	<string>subscriptionStyle</string>
+	<key>presentresult</key>
+	<string>interceptChart</string>
+	<key>sampleSaturation</key>
+	<string>topicbridgeedge</string>
+</dict>
+</plist>

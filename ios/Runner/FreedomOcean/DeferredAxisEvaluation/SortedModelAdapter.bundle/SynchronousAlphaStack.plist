@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardAudio</key>
+	<string>monsterspacing</string>
+	<key>commonMaterial</key>
+	<string>mediaquerySkewX</string>
+	<key>disposedialogs</key>
+	<string>subsequentListView</string>
+	<key>handlerState</key>
+	<string>saveConvolution</string>
+	<key>localTrajectory</key>
+	<string>mutableSpine</string>
+	<key>oldMedia</key>
+	<string>pageviewVisible</string>
+	<key>reactiveRouter</key>
+	<string>restartExpanded</string>
+	<key>routerAppearance</key>
+	<string>shouldRouteLayout</string>
+</dict>
+</plist>

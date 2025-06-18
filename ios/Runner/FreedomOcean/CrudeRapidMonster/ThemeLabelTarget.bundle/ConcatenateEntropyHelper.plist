@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>lifecycleEdge</key>
+	<string>subscribeLogarithm</string>
+	<key>logarithmOpacity</key>
+	<string>smartascent</string>
+	<key>shadernumberflags</key>
+	<string>interactorFlags</string>
+	<key>shouldUnbindOption</key>
+	<string>blocbuilder</string>
+</dict>
+</plist>

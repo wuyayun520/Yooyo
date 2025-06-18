@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enhanceservice</key>
+	<string>joinerOrigin</string>
+	<key>linkerlocation</key>
+	<string>equivalentLeft</string>
+	<key>responsivewidget</key>
+	<string>recursionOpacity</string>
+	<key>shouldEmitMultiplication</key>
+	<string>parseRole</string>
+	<key>shouldrouteoperation</key>
+	<string>observeButton</string>
+</dict>
+</plist>

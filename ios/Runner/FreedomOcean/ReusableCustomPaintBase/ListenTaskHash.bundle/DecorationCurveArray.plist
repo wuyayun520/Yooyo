@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardColor</key>
+	<string>decorationversuswork</string>
+	<key>errorlifecycle</key>
+	<string>shouldpersistmodulus</string>
+	<key>parsetitle</key>
+	<string>updateskin</string>
+	<key>priorManager</key>
+	<string>sharedPolyfill</string>
+	<key>scrollpadding</key>
+	<string>transitionTangent</string>
+	<key>streamName</key>
+	<string>canMountOperation</string>
+</dict>
+</plist>

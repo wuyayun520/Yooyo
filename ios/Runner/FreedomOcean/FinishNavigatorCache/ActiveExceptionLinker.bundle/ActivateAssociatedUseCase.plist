@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapteragainstvar</key>
+	<string>firstSprite</string>
+	<key>mutableGrain</key>
+	<string>shouldYieldStream</string>
+	<key>nextAction</key>
+	<string>subtleTheme</string>
+	<key>protectedBullet</key>
+	<string>cellNumber</string>
+	<key>radiusstatus</key>
+	<string>elementType</string>
+	<key>serializeduration</key>
+	<string>statelessCluster</string>
+	<key>shouldEmitStamp</key>
+	<string>independentGesture</string>
+</dict>
+</plist>

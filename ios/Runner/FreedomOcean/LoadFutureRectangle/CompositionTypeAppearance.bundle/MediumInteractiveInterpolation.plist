@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ephemeralSplitter</key>
+	<string>quaternionBorder</string>
+	<key>normalnotification</key>
+	<string>numericalTrajectory</string>
+	<key>onstatelesschanged</key>
+	<string>shouldpresentgraphic</string>
+	<key>pinchableAlignment</key>
+	<string>spinFactory</string>
+	<key>shouldShowRow</key>
+	<string>animatedcontainerFrequency</string>
+	<key>temporarycontainercontrast</key>
+	<string>saveGestureDetector</string>
+	<key>touchspacing</key>
+	<string>canSetStateCollection</string>
+</dict>
+</plist>

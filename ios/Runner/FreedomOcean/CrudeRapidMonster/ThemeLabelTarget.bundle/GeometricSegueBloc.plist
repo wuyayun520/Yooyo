@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleBase</key>
+	<string>symmetricProvision</string>
+	<key>fragmentresponse</key>
+	<string>operationtypebound</string>
+	<key>isolatefrequency</key>
+	<string>modalTask</string>
+	<key>lifecycleFrequency</key>
+	<string>configureCurve</string>
+	<key>mobileperoperation</key>
+	<string>attachCallback</string>
+	<key>shouldDisposeCatalyst</key>
+	<string>blocalignment</string>
+	<key>shouldPauseGift</key>
+	<string>shouldSkipGridView</string>
+	<key>synchronousscenario</key>
+	<string>diversifiedTouch</string>
+</dict>
+</plist>

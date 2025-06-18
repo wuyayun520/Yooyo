@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileTransition</key>
+	<string>enabledMetrics</string>
+	<key>completionphasetail</key>
+	<string>persistentQueue</string>
+	<key>localView</key>
+	<string>cancelExponent</string>
+	<key>requiredRemediation</key>
+	<string>positionedEdge</string>
+	<key>semanticMargin</key>
+	<string>shouldkeepscroll</string>
+	<key>tensorThreshold</key>
+	<string>presentBullet</string>
+</dict>
+</plist>

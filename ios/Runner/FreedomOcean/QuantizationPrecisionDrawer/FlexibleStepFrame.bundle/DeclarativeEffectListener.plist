@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>confidentialityInterval</key>
+	<string>cellAcceleration</string>
+	<key>coordinatorinbuffer</key>
+	<string>shouldRebuildOperation</string>
+	<key>discoverrepository</key>
+	<string>pendingHero</string>
+	<key>greatRow</key>
+	<string>sizeDepth</string>
+	<key>instructionShape</key>
+	<string>renderSine</string>
+	<key>scrollerfrequency</key>
+	<string>spriteDuration</string>
+	<key>singleeventcoord</key>
+	<string>rebuildPet</string>
+	<key>synchronousLoader</key>
+	<string>alignmenttension</string>
+	<key>uniquePager</key>
+	<string>shouldPaintProvider</string>
+	<key>vectoropacity</key>
+	<string>commonBoxShadow</string>
+</dict>
+</plist>

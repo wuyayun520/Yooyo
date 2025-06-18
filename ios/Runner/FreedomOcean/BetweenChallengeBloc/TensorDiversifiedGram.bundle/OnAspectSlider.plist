@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>integerdelivery</key>
+	<string>nibphasevisible</string>
+	<key>normdepth</key>
+	<string>resilientGrain</string>
+	<key>otherTentative</key>
+	<string>canUnmountedScreen</string>
+	<key>shouldEmitSine</key>
+	<string>respectiveCoordinator</string>
+	<key>shouldRestartInkWell</key>
+	<string>buttonstylebehavior</string>
+	<key>sortedEvent</key>
+	<string>prismaticrect</string>
+	<key>subscribercontrast</key>
+	<string>subpixelname</string>
+	<key>toolelement</key>
+	<string>encodeDuration</string>
+</dict>
+</plist>

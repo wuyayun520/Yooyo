@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedheapspacing</key>
+	<string>shouldContinueEffect</string>
+	<key>attachsymbol</key>
+	<string>parseTouch</string>
+	<key>customizedIntensity</key>
+	<string>cupertinoStage</string>
+	<key>difficultConverter</key>
+	<string>secondservicespacing</string>
+	<key>disparateMetadata</key>
+	<string>criticalGroup</string>
+	<key>draggableEfficiency</key>
+	<string>statefulNavigation</string>
+	<key>removeutil</key>
+	<string>completionaboutsystem</string>
+	<key>shouldSkipSegue</key>
+	<string>disabledComposition</string>
+	<key>shouldValidateNavigation</key>
+	<string>dispatchInkWell</string>
+	<key>widgetlifecycle</key>
+	<string>shouldpushgradient</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityTag</key>
+	<string>currentPrecision</string>
+	<key>aspectaction</key>
+	<string>gesturedetectorframe</string>
+	<key>cupertinoScheduler</key>
+	<string>consultativeMonster</string>
+	<key>geometricRichText</key>
+	<string>connectactivity</string>
+	<key>inflateboxshadow</key>
+	<string>sineVisible</string>
+	<key>intermediatechart</key>
+	<string>flexibleOverlay</string>
+	<key>similarPager</key>
+	<string>shouldDeserializeTouch</string>
+</dict>
+</plist>

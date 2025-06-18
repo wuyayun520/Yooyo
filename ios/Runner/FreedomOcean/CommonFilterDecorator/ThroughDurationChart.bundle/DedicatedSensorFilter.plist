@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cachecontainstructure</key>
+	<string>opaqueTextField</string>
+	<key>displayableStore</key>
+	<string>storeVisitor</string>
+	<key>eagerDocument</key>
+	<string>hascapsule</string>
+	<key>exceptionvelocity</key>
+	<string>canDeserializeCell</string>
+	<key>gesturedetectorcontexttop</key>
+	<string>comprehensiveChannel</string>
+	<key>imageSpacing</key>
+	<string>elasticcapacities</string>
+	<key>intensityskewx</key>
+	<string>materializerBrightness</string>
+	<key>interactiveShape</key>
+	<string>inflateNorm</string>
+	<key>unaryBehavior</key>
+	<string>typicalGestureDetector</string>
+</dict>
+</plist>

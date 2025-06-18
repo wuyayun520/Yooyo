@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionBullet</key>
+	<string>assetOrientation</string>
+	<key>expandedtail</key>
+	<string>serviceOrientation</string>
+	<key>hassignature</key>
+	<string>inflatesignature</string>
+	<key>shouldDetachProject</key>
+	<string>swiftLevel</string>
+	<key>shouldParseRow</key>
+	<string>musicscopevalidation</string>
+	<key>statefulfinder</key>
+	<string>borderSingleton</string>
+	<key>statelessRequest</key>
+	<string>attachChallenge</string>
+</dict>
+</plist>

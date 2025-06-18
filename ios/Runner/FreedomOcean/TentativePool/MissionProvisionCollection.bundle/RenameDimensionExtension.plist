@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedmember</key>
+	<string>canRebuildThread</string>
+	<key>crucialMetrics</key>
+	<string>reflectFuture</string>
+	<key>drawertrigger</key>
+	<string>partitioncanvas</string>
+	<key>flexibleDocument</key>
+	<string>logType</string>
+	<key>mediaqueryisolate</key>
+	<string>canAnimateMap</string>
+	<key>nodeimpact</key>
+	<string>similarCharacteristic</string>
+	<key>observerContrast</key>
+	<string>interactorOrientation</string>
+	<key>provisionVisible</key>
+	<string>searchResolver</string>
+	<key>sinkCoord</key>
+	<string>shouldProcessNavigation</string>
+</dict>
+</plist>

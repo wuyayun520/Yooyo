@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>copypositioned</key>
+	<string>backwardpopup</string>
+	<key>deferredFilter</key>
+	<string>rectprocesstint</string>
+	<key>discardedSubscriber</key>
+	<string>fixedChart</string>
+	<key>momentumTail</key>
+	<string>shouldKeepScale</string>
+	<key>nextchaptertheme</key>
+	<string>nativeService</string>
+	<key>scenarioAcceleration</key>
+	<string>resilientInteger</string>
+	<key>shouldNavigateTask</key>
+	<string>canDisconnectSkin</string>
+	<key>shouldpushnavigation</key>
+	<string>stateLayer</string>
+	<key>sophisticatedDelivery</key>
+	<string>buildhistogram</string>
+	<key>substantialTernary</key>
+	<string>compositionalpopupbound</string>
+</dict>
+</plist>

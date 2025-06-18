@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedlinker</key>
+	<string>gradientMode</string>
+	<key>gramFormat</key>
+	<string>keyAspectRatio</string>
+	<key>nibmodel</key>
+	<string>navigateGrain</string>
+	<key>observelayer</key>
+	<string>uniqueConvolution</string>
+	<key>relationalMend</key>
+	<string>mixinMetadata</string>
+	<key>skipnode</key>
+	<string>sinkLayer</string>
+	<key>tensorMatrix</key>
+	<string>gateCount</string>
+</dict>
+</plist>

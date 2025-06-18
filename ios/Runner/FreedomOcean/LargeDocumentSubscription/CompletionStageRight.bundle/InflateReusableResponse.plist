@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>differentiatetransformer</key>
+	<string>publisherCenter</string>
+	<key>dispatcherStyle</key>
+	<string>streamlineChannel</string>
+	<key>immediateRouter</key>
+	<string>resetService</string>
+	<key>masterbound</key>
+	<string>protectedLoss</string>
+	<key>responderCount</key>
+	<string>shouldRouteBatch</string>
+	<key>shouldConnectMultiplication</key>
+	<string>associatedBoxShadow</string>
+	<key>typicalDocument</key>
+	<string>resilientDetail</string>
+</dict>
+</plist>

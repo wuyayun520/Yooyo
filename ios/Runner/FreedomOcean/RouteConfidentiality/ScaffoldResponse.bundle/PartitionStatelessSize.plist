@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inactiveArithmetic</key>
+	<string>profileModel</string>
+	<key>largeSession</key>
+	<string>canSetStateOverlay</string>
+	<key>mediumResolver</key>
+	<string>uniformJoiner</string>
+	<key>newestchallengestyle</key>
+	<string>asynchronousGrain</string>
+	<key>nextSkin</key>
+	<string>axiscount</string>
+	<key>spriteMomentum</key>
+	<string>smallSize</string>
+	<key>subsequentOperation</key>
+	<string>implementCurve</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedTextField</key>
+	<string>firstAction</string>
+	<key>constraintcoord</key>
+	<string>attachHash</string>
+	<key>drawerTheme</key>
+	<string>delegatecompositestatus</string>
+	<key>exceptionfeedback</key>
+	<string>reusableIntensity</string>
+	<key>prismaticModulus</key>
+	<string>responsiveObserver</string>
+	<key>shouldFetchInkWell</key>
+	<string>scrollStyle</string>
+	<key>uniquesinkedge</key>
+	<string>gemResponse</string>
+</dict>
+</plist>

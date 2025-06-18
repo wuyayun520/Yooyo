@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitytag</key>
+	<string>canDisconnectMonster</string>
+	<key>coordinatorconfiguration</key>
+	<string>shouldObserveConvolution</string>
+	<key>mobileSymbol</key>
+	<string>localSwift</string>
+	<key>shouldprocesspriority</key>
+	<string>crucialPreview</string>
+</dict>
+</plist>

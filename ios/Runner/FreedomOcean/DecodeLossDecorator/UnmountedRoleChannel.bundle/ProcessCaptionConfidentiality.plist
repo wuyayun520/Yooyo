@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorright</key>
+	<string>baselineAdapter</string>
+	<key>insteadmember</key>
+	<string>subtleParticle</string>
+	<key>materializerPosition</key>
+	<string>globalInterface</string>
+	<key>missedBatch</key>
+	<string>loadTabView</string>
+	<key>restoresingleton</key>
+	<string>usagelayerforce</string>
+	<key>shouldLoadGesture</key>
+	<string>factoryTransparency</string>
+	<key>shouldReplaceColumn</key>
+	<string>saveHero</string>
+	<key>substantialState</key>
+	<string>diffableDependency</string>
+</dict>
+</plist>

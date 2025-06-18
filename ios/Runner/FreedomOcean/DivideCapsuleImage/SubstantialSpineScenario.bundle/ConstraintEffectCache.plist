@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialMedia</key>
+	<string>flexStage</string>
+	<key>denseProject</key>
+	<string>shouldParsePlayback</string>
+	<key>ephemeralEffect</key>
+	<string>combineHandler</string>
+	<key>mutableConsumer</key>
+	<string>responsivePriority</string>
+	<key>originalPositioned</key>
+	<string>invisibleElement</string>
+	<key>shouldPaintLoss</key>
+	<string>shouldResumeRole</string>
+</dict>
+</plist>

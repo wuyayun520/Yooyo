@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianMusic</key>
+	<string>modulusLayer</string>
+	<key>draggableDispatcher</key>
+	<string>unmountSignature</string>
+	<key>maintainchapter</key>
+	<string>subscribeEqualization</string>
+	<key>managercommandtype</key>
+	<string>resizableRectangle</string>
+	<key>priorityVisibility</key>
+	<string>aspectratioBuffer</string>
+	<key>secondLoader</key>
+	<string>alphacontextspacing</string>
+	<key>shouldFetchAnimation</key>
+	<string>shouldRouteSine</string>
+	<key>shouldTransitionProject</key>
+	<string>actionstyle</string>
+	<key>subtleRequest</key>
+	<string>permanentLocalization</string>
+	<key>unsortedScalability</key>
+	<string>callbacktypeduration</string>
+</dict>
+</plist>

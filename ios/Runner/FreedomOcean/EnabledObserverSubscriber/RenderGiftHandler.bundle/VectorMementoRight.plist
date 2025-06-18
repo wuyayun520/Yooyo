@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentLifecycle</key>
+	<string>spinBuffer</string>
+	<key>currentasync</key>
+	<string>mapTop</string>
+	<key>hardCustomPaint</key>
+	<string>techniqueframe</string>
+	<key>interfaceBrightness</key>
+	<string>encapsulateCurve</string>
+	<key>menubesideshape</key>
+	<string>menucommandorientation</string>
+	<key>multiplicationmementooffset</key>
+	<string>otherConsumer</string>
+	<key>shouldFormatShader</key>
+	<string>blocTail</string>
+</dict>
+</plist>

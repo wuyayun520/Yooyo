@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteElasticity</key>
+	<string>validatesine</string>
+	<key>displayableNotification</key>
+	<string>paintHeap</string>
+	<key>geometricNode</key>
+	<string>referencePrototype</string>
+	<key>shouldParseStack</key>
+	<string>prepareTechnique</string>
+	<key>stopbullet</key>
+	<string>standaloneChart</string>
+</dict>
+</plist>

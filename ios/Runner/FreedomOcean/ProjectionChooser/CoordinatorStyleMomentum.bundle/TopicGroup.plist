@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonRect</key>
+	<string>normalelasticity</string>
+	<key>cubebound</key>
+	<string>crucialCurve</string>
+	<key>filterMargin</key>
+	<string>dedicatedHistogram</string>
+	<key>layoutTransparency</key>
+	<string>graphBound</string>
+	<key>reusableWorkflow</key>
+	<string>temporaryscope</string>
+	<key>seamlessBehavior</key>
+	<string>registerCallback</string>
+</dict>
+</plist>

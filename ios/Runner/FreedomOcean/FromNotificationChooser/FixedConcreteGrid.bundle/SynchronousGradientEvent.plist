@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudefeature</key>
+	<string>destroyRoute</string>
+	<key>fragmentshapekind</key>
+	<string>connectorPressure</string>
+	<key>priorCreator</key>
+	<string>widgetinterpreterposition</string>
+	<key>shouldEndCell</key>
+	<string>shouldRestartCatalyst</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeCoordinator</key>
+	<string>replicateGrain</string>
+	<key>inheritedEqualization</key>
+	<string>optionFunction</string>
+	<key>reactiveCanvas</key>
+	<string>canDetachIndicator</string>
+	<key>sequentialAction</key>
+	<string>sortedThread</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalBrush</key>
+	<string>storageforce</string>
+	<key>equipmentanimation</key>
+	<string>linkerRight</string>
+	<key>explicitPriority</key>
+	<string>lazyTabView</string>
+	<key>lazyMetrics</key>
+	<string>evaluateprofile</string>
+	<key>rangeMargin</key>
+	<string>subpixelPattern</string>
+	<key>shouldBuildAxis</key>
+	<string>subpixelTransparency</string>
+	<key>timelineState</key>
+	<string>canValidateExtension</string>
+</dict>
+</plist>

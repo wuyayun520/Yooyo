@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>intermediatestrength</key>
+	<string>skipCursor</string>
+	<key>sortedInfo</key>
+	<string>analyzeAsset</string>
+	<key>synchronousShape</key>
+	<string>equipmentprototypedirection</string>
+	<key>techniqueTint</key>
+	<string>syncTicker</string>
+</dict>
+</plist>

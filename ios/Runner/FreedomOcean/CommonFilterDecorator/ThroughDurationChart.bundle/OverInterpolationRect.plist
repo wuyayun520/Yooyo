@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintexception</key>
+	<string>profilePopup</string>
+	<key>joinerinterval</key>
+	<string>compositionalSound</string>
+	<key>rapidTask</key>
+	<string>canFormatMobile</string>
+	<key>responsiveCoordinator</key>
+	<string>unsortedMusic</string>
+	<key>scaleTheme</key>
+	<string>startMaterial</string>
+	<key>shouldFinishLayout</key>
+	<string>persistCycle</string>
+	<key>shouldUnmountPlayback</key>
+	<string>slidervideo</string>
+	<key>signStatus</key>
+	<string>freemenu</string>
+	<key>slashfromenvironment</key>
+	<string>elasticChannel</string>
+	<key>trajectorySpeed</key>
+	<string>canResumeAspect</string>
+</dict>
+</plist>

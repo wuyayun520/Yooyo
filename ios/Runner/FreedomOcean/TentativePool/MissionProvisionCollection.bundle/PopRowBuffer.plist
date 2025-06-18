@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deliveryForce</key>
+	<string>prevmatrix</string>
+	<key>disabledMend</key>
+	<string>managerCenter</string>
+	<key>fixedDimension</key>
+	<string>eventDensity</string>
+	<key>gridsingletonspacing</key>
+	<string>explicitResilience</string>
+	<key>lastgem</key>
+	<string>functionalBaseline</string>
+	<key>shouldHandleAnimatedContainer</key>
+	<string>sharedScreen</string>
+</dict>
+</plist>

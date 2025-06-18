@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoMenu</key>
+	<string>aspectTint</string>
+	<key>currentScreen</key>
+	<string>exponentwithoutform</string>
+	<key>difficultSelector</key>
+	<string>mobileProjection</string>
+	<key>lazyIcon</key>
+	<string>standalonedata</string>
+	<key>opaquescope</key>
+	<string>provisionDelay</string>
+	<key>operationlocalization</key>
+	<string>shouldLayoutInstruction</string>
+	<key>semanticcharacter</key>
+	<string>usedSegment</string>
+	<key>singleMethod</key>
+	<string>convolutionContext</string>
+	<key>synchronousGift</key>
+	<string>shouldEncodeDrawer</string>
+	<key>toleranceVisible</key>
+	<string>serviceInteraction</string>
+</dict>
+</plist>

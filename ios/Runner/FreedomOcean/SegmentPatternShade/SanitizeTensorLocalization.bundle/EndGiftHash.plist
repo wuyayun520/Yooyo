@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>architectureContrast</key>
+	<string>clearTask</string>
+	<key>constantShape</key>
+	<string>statefulvalidation</string>
+	<key>fragmentsFlags</key>
+	<string>standaloneFragment</string>
+	<key>modelsplitter</key>
+	<string>typicalCycle</string>
+	<key>pinchableExpanded</key>
+	<string>binaryIndex</string>
+	<key>statePadding</key>
+	<string>visibleCluster</string>
+	<key>symmetricShader</key>
+	<string>greatGift</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvascompositetransparency</key>
+	<string>curveflags</string>
+	<key>composableJoiner</key>
+	<string>shouldUnbindRadio</string>
+	<key>elementShade</key>
+	<string>visibleIntegration</string>
+	<key>interactiveEvent</key>
+	<string>herointerface</string>
+	<key>numericalCupertino</key>
+	<string>shouldNavigateEquipment</string>
+	<key>rapidInstruction</key>
+	<string>shouldFetchModal</string>
+	<key>scaffoldVisibility</key>
+	<string>shouldRenderTernary</string>
+	<key>shouldDetachMedia</key>
+	<string>onslashtap</string>
+	<key>touchHead</key>
+	<string>draweragainstvalue</string>
+</dict>
+</plist>

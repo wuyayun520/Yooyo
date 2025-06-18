@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeMetrics</key>
+	<string>gesturedetectorexceptvisitor</string>
+	<key>groupShade</key>
+	<string>alertRate</string>
+	<key>independentfeature</key>
+	<string>featurecomponent</string>
+	<key>resultFormat</key>
+	<string>interactiveRouter</string>
+	<key>retainedParticle</key>
+	<string>hyperbolicSink</string>
+	<key>rotatecard</key>
+	<string>opaqueRepository</string>
+</dict>
+</plist>

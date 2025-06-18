@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertnavigator</key>
+	<string>unscheduleBloc</string>
+	<key>grayscalebloc</key>
+	<string>tickerSkewX</string>
+	<key>impressionFormat</key>
+	<string>animatemethod</string>
+	<key>newestposition</key>
+	<string>priorComposition</string>
+	<key>shouldDeserializeScreen</key>
+	<string>shouldDisposeTable</string>
+	<key>staticstate</key>
+	<string>shouldProcessComposition</string>
+</dict>
+</plist>

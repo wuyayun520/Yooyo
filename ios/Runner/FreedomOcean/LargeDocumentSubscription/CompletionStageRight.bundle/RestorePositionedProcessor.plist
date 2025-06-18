@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractionDirection</key>
+	<string>detailResponse</string>
+	<key>decorationoperationrate</key>
+	<string>persistentNavigation</string>
+	<key>granularresponse</key>
+	<string>diffableOverlay</string>
+	<key>latencyVelocity</key>
+	<string>deployLabel</string>
+	<key>lostboxshadow</key>
+	<string>canEmitDelegate</string>
+	<key>nodeVisibility</key>
+	<string>factoryBound</string>
+	<key>pageviewutil</key>
+	<string>gesturedetectorresponse</string>
+	<key>previewcomponent</key>
+	<string>mainInfrastructure</string>
+	<key>scenarioPadding</key>
+	<string>permissiveFrame</string>
+</dict>
+</plist>

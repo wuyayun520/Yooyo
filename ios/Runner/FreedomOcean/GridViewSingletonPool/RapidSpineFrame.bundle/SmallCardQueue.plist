@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binderOrientation</key>
+	<string>shouldSerializeScroll</string>
+	<key>builderDelay</key>
+	<string>directDetail</string>
+	<key>callbackprototypeflags</key>
+	<string>intensityTail</string>
+	<key>checktext</key>
+	<string>canCacheSegue</string>
+	<key>columnInset</key>
+	<string>directlyStep</string>
+	<key>densePermutation</key>
+	<string>activeState</string>
+	<key>keyTransition</key>
+	<string>persistWidget</string>
+	<key>shouldObserveLogarithm</key>
+	<string>remainderSystem</string>
+	<key>temporaryNotification</key>
+	<string>shouldBindTextField</string>
+</dict>
+</plist>

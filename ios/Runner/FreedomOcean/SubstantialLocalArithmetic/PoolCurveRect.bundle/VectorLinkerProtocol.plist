@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoVertex</key>
+	<string>dispatchMovement</string>
+	<key>ephemeralchart</key>
+	<string>webRemainder</string>
+	<key>shouldYieldTabBar</key>
+	<string>cardCoord</string>
+	<key>shouldtransitionmedia</key>
+	<string>activeNib</string>
+	<key>statefulReliability</key>
+	<string>invokeResolver</string>
+	<key>statefulternarybehavior</key>
+	<string>stampStructure</string>
+	<key>unscheduleentity</key>
+	<string>fixedHero</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderdescription</key>
+	<string>shouldProcessTransition</string>
+	<key>concreteActivity</key>
+	<string>significantIsolate</string>
+	<key>navigatormechanism</key>
+	<string>globalService</string>
+	<key>usecasestyle</key>
+	<string>eagerStoryboard</string>
+	<key>zoneexceptaction</key>
+	<string>remediationEdge</string>
+</dict>
+</plist>

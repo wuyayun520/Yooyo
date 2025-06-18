@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatorTransparency</key>
+	<string>fixedMovement</string>
+	<key>dynamicTaxonomy</key>
+	<string>servicelayerkind</string>
+	<key>lostListView</key>
+	<string>operationvalidation</string>
+	<key>onswitchchanged</key>
+	<string>semanticNotification</string>
+	<key>responsiveLoader</key>
+	<string>attachhero</string>
+	<key>seamlessPolyfill</key>
+	<string>assetparametertag</string>
+	<key>taskthroughparam</key>
+	<string>shouldEmitArithmetic</string>
+</dict>
+</plist>

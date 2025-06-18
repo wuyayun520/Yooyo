@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseRight</key>
+	<string>paintModulus</string>
+	<key>captionCoord</key>
+	<string>asyncAppearance</string>
+	<key>loaderVisibility</key>
+	<string>temporaryCheckbox</string>
+	<key>loopnotation</key>
+	<string>maintainallocator</string>
+	<key>monsterpadding</key>
+	<string>multiElasticity</string>
+	<key>scalabilityPosition</key>
+	<string>temporaryRichText</string>
+	<key>webBehavior</key>
+	<string>validatetool</string>
+</dict>
+</plist>

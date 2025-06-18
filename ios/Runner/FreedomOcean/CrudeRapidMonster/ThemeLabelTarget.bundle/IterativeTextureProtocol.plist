@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletStatus</key>
+	<string>asyncBound</string>
+	<key>lastReduction</key>
+	<string>largeBuffer</string>
+	<key>newestQuaternion</key>
+	<string>invisiblebuilderalignment</string>
+	<key>shouldDismissActivity</key>
+	<string>lazyAsset</string>
+	<key>shouldSubscribeDrawer</key>
+	<string>encapsulateisolate</string>
+	<key>sorterPosition</key>
+	<string>scrollerType</string>
+	<key>vertexTag</key>
+	<string>blocAlignment</string>
+</dict>
+</plist>

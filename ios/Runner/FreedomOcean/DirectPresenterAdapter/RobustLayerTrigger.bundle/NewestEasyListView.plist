@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedOffset</key>
+	<string>pivotalCard</string>
+	<key>diversifiedChooser</key>
+	<string>pageviewBridge</string>
+	<key>filterRotation</key>
+	<string>nativeImage</string>
+	<key>shouldstopappbar</key>
+	<string>dynamicCompletion</string>
+</dict>
+</plist>

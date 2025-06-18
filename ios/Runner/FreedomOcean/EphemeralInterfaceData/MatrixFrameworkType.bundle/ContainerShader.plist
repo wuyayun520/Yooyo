@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completertiermode</key>
+	<string>fetchChecklist</string>
+	<key>controllerRight</key>
+	<string>vectorizeRequest</string>
+	<key>disparateSine</key>
+	<string>canBindSignature</string>
+	<key>scrollableFragment</key>
+	<string>animatedcontainerDelay</string>
+	<key>shapeDistance</key>
+	<string>usecaseShade</string>
+	<key>shouldDetachShader</key>
+	<string>observescaffold</string>
+	<key>shouldFetchCursor</key>
+	<string>aspectratioDistance</string>
+	<key>shouldPreparePromise</key>
+	<string>publicExtension</string>
+</dict>
+</plist>

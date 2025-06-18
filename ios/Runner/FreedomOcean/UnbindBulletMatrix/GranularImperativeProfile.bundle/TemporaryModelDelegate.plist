@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedBinary</key>
+	<string>adaptiveShape</string>
+	<key>computemethod</key>
+	<string>tangentOffset</string>
+	<key>fixedSearcher</key>
+	<string>discardedBoxShadow</string>
+	<key>matrixIndex</key>
+	<string>nativeMetrics</string>
+	<key>permissiveSplitter</key>
+	<string>shouldStreamUnary</string>
+	<key>rapidOccasion</key>
+	<string>listeninstruction</string>
+	<key>relationalConvolution</key>
+	<string>activePadding</string>
+	<key>shouldCancelGradient</key>
+	<string>projectAppearance</string>
+	<key>substantialItem</key>
+	<string>canEndAccessory</string>
+	<key>uniqueAnimatedContainer</key>
+	<string>canFetchSensor</string>
+</dict>
+</plist>

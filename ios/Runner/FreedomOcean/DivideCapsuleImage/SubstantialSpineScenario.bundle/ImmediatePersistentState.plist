@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>granularModule</key>
+	<string>documentskewx</string>
+	<key>integrationBorder</key>
+	<string>shouldRebuildOperation</string>
+	<key>similarButton</key>
+	<string>shouldTransitionAppBar</string>
+	<key>smallSegment</key>
+	<string>resizeFuture</string>
+</dict>
+</plist>

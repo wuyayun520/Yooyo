@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedStatus</key>
+	<string>initializeStorage</string>
+	<key>batchDirection</key>
+	<string>shouldUnbindPriority</string>
+	<key>batchEdge</key>
+	<string>canLoadAspect</string>
+	<key>cycleCoord</key>
+	<string>equipmentInteraction</string>
+	<key>intuitiveNotation</key>
+	<string>immutableThread</string>
+	<key>showcharacter</key>
+	<string>schedulerIndex</string>
+	<key>stampSkewY</key>
+	<string>diversifiedScope</string>
+	<key>sustainableDisclaimer</key>
+	<string>animatedcontainerFunction</string>
+</dict>
+</plist>

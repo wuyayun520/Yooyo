@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>audioKind</key>
+	<string>canInflateNorm</string>
+	<key>axisflags</key>
+	<string>saveCursor</string>
+	<key>newestDelivery</key>
+	<string>invisibleTechnique</string>
+	<key>projectbandwidth</key>
+	<string>shouldFinishMovement</string>
+	<key>rapidconstraint</key>
+	<string>disconnectStep</string>
+	<key>shouldDecodeCatalyst</key>
+	<string>canValidateSample</string>
+	<key>shouldShowCard</key>
+	<string>shoulddetachcell</string>
+	<key>tappableSine</key>
+	<string>textPattern</string>
+	<key>unsortedprojectionright</key>
+	<string>prepareCard</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>detachpopup</key>
+	<string>shouldPopExponent</string>
+	<key>detectorSize</key>
+	<string>listenMobile</string>
+	<key>listviewFeedback</key>
+	<string>topicTag</string>
+	<key>mountbinary</key>
+	<string>joinerValidation</string>
+	<key>robustChart</key>
+	<string>activeconfidentiality</string>
+	<key>seamlesssample</key>
+	<string>rotatecollection</string>
+	<key>shouldDisconnectBuilder</key>
+	<string>trainCard</string>
+	<key>tappableImpression</key>
+	<string>callbackDensity</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardPet</key>
+	<string>shouldEncodeVariant</string>
+	<key>customizedOptimizer</key>
+	<string>largeReducer</string>
+	<key>latencyShape</key>
+	<string>shouldSetStateExpanded</string>
+	<key>mobileDescriptor</key>
+	<string>usedLocalization</string>
+	<key>protocolKind</key>
+	<string>setstateusage</string>
+	<key>shouldRestartInkWell</key>
+	<string>directlySegment</string>
+</dict>
+</plist>

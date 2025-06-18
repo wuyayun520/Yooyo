@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>globalnavigator</key>
+	<string>stackrotation</string>
+	<key>immutableCharacter</key>
+	<string>volumeAlignment</string>
+	<key>intermediateSample</key>
+	<string>crudePresenter</string>
+	<key>materialreplica</key>
+	<string>descriptioncenter</string>
+	<key>originalStep</key>
+	<string>standaloneAnimation</string>
+	<key>providerDirection</key>
+	<string>enabledDuration</string>
+	<key>seamlessRichText</key>
+	<string>grainborder</string>
+	<key>shouldInflateTabBar</key>
+	<string>notifyCharacter</string>
+</dict>
+</plist>

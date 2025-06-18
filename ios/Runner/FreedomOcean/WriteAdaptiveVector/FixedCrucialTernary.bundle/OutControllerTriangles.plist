@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselinehue</key>
+	<string>standaloneListener</string>
+	<key>concreteCaption</key>
+	<string>radiusobserverleft</string>
+	<key>declarativeSkirt</key>
+	<string>createSample</string>
+	<key>materialposition</key>
+	<string>notificationresponder</string>
+	<key>rectanglePosition</key>
+	<string>shouldCreateBuilder</string>
+	<key>signforsingleton</key>
+	<string>observeracceleration</string>
+	<key>smartExtension</key>
+	<string>canKeepAspectRatio</string>
+</dict>
+</plist>

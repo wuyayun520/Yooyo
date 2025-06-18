@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonLabel</key>
+	<string>emitterSize</string>
+	<key>implementtransition</key>
+	<string>shouldPrepareInstruction</string>
+	<key>optionDensity</key>
+	<string>activatedResilience</string>
+	<key>semanticlocalizationorigin</key>
+	<string>finishrequest</string>
+	<key>tensorView</key>
+	<string>activatedTexture</string>
+</dict>
+</plist>

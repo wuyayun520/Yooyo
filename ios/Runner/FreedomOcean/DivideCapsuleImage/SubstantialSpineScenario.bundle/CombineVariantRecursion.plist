@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>nativeComponent</key>
+	<string>minBox</string>
+	<key>popswitch</key>
+	<string>lossOrigin</string>
+	<key>secondTime</key>
+	<string>geometricCursor</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentdensity</key>
+	<string>functionalContainer</string>
+	<key>currentpositioned</key>
+	<string>relationalBox</string>
+	<key>descriptorlayerdistance</key>
+	<string>graphtypeopacity</string>
+	<key>isolateHead</key>
+	<string>baselineKind</string>
+	<key>listenfactory</key>
+	<string>prepareGesture</string>
+	<key>mountedsink</key>
+	<string>deferredDimension</string>
+	<key>parallelScene</key>
+	<string>detachActivity</string>
+	<key>resolverTag</key>
+	<string>spottitle</string>
+	<key>seamlessLoss</key>
+	<string>exitbuffer</string>
+	<key>shouldPauseContainer</key>
+	<string>previewPlatform</string>
+</dict>
+</plist>

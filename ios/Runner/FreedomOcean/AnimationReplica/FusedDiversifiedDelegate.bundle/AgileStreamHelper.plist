@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedCatalyst</key>
+	<string>activityCommand</string>
+	<key>explicitAspect</key>
+	<string>boxForm</string>
+	<key>ignoredSlider</key>
+	<string>framename</string>
+	<key>interactiveChooser</key>
+	<string>beginnerCube</string>
+	<key>pausecallback</key>
+	<string>shouldsaveusage</string>
+	<key>strokeLocation</key>
+	<string>storeSpeed</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>architectureCount</key>
+	<string>optimizerOperation</string>
+	<key>channelsKind</key>
+	<string>exceptionLevel</string>
+	<key>configurationResponse</key>
+	<string>ephemeralAlpha</string>
+	<key>cyclepicker</key>
+	<string>shoulddispatchnotification</string>
+	<key>hasExponent</key>
+	<string>canPauseAxis</string>
+	<key>hierarchicalSample</key>
+	<string>mergerEdge</string>
+	<key>shouldshowcontraction</key>
+	<string>deferredCompleter</string>
+	<key>spritePressure</key>
+	<string>shouldUnmountFlex</string>
+	<key>strengthBehavior</key>
+	<string>aspectContrast</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardPageView</key>
+	<string>shouldFinishScale</string>
+	<key>defaultTouch</key>
+	<string>stopGift</string>
+	<key>disparateOptimizer</key>
+	<string>canCreateAccessory</string>
+	<key>explicitInterface</key>
+	<string>canDeserializeBinary</string>
+	<key>polygonpressure</key>
+	<string>wrapperFrequency</string>
+	<key>publicAwait</key>
+	<string>oncosinetap</string>
+</dict>
+</plist>

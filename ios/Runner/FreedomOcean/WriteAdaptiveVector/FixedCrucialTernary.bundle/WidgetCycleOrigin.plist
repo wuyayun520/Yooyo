@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionEqualization</key>
+	<string>presentNorm</string>
+	<key>audioColor</key>
+	<string>exponentEdge</string>
+	<key>concurrentSkirt</key>
+	<string>heroBorder</string>
+	<key>containerconverter</key>
+	<string>injectionbrightness</string>
+	<key>dataType</key>
+	<string>mountedInterpolation</string>
+	<key>elasticLinker</key>
+	<string>modalpressure</string>
+	<key>pivotalspecifierrate</key>
+	<string>hardeffect</string>
+	<key>timeBrightness</key>
+	<string>pauseCollection</string>
+</dict>
+</plist>

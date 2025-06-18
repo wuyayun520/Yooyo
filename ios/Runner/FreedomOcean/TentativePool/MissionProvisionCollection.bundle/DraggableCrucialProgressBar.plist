@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gradientstructurebound</key>
+	<string>musicContrast</string>
+	<key>masterevolution</key>
+	<string>tweenpadding</string>
+	<key>referencedespitestructure</key>
+	<string>shouldEndCursor</string>
+	<key>shouldPushExtension</key>
+	<string>canTransformAppBar</string>
+	<key>standaloneCompleter</key>
+	<string>advancedReceiver</string>
+</dict>
+</plist>

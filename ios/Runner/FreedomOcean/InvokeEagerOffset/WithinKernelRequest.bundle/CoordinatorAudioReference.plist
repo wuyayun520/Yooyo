@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicStorage</key>
+	<string>selectedinkwell</string>
+	<key>callbackoutsidetype</key>
+	<string>marshalstateful</string>
+	<key>cubeScale</key>
+	<string>nativeContraction</string>
+	<key>directLoop</key>
+	<string>shouldNavigateLogarithm</string>
+	<key>firstsymbol</key>
+	<string>shouldPersistReference</string>
+	<key>hierarchicalStamp</key>
+	<string>keepSensor</string>
+	<key>intermediatetextshape</key>
+	<string>saveresponse</string>
+	<key>resolverlinker</key>
+	<string>baseCommand</string>
+	<key>shouldCreateStateful</key>
+	<string>canTrainPlayback</string>
+</dict>
+</plist>

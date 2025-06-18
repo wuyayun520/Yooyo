@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characteristiccontrast</key>
+	<string>canDeserializeCanvas</string>
+	<key>cursorinteraction</key>
+	<string>attachContainer</string>
+	<key>effectFlags</key>
+	<string>uniqueFlex</string>
+	<key>parallelCursor</key>
+	<string>crucialTexture</string>
+	<key>queueintegration</key>
+	<string>cartesianpainterorigin</string>
+	<key>shouldStartCustomPaint</key>
+	<string>zoneStructure</string>
+	<key>storyboardpervalue</key>
+	<string>eagerconvolutionname</string>
+</dict>
+</plist>

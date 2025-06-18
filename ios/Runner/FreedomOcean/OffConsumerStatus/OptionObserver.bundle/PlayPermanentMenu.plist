@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerColor</key>
+	<string>startgroup</string>
+	<key>controllerDirection</key>
+	<string>mutableTrajectory</string>
+	<key>draggableAnchor</key>
+	<string>directCreator</string>
+	<key>dynamicstore</key>
+	<string>shouldLoadProvider</string>
+	<key>hashagainststage</key>
+	<string>equipmentRotation</string>
+	<key>masterHead</key>
+	<string>parseNorm</string>
+	<key>shouldBuildGestureDetector</key>
+	<string>shouldFormatTable</string>
+	<key>zoneinterval</key>
+	<string>retainHash</string>
+</dict>
+</plist>

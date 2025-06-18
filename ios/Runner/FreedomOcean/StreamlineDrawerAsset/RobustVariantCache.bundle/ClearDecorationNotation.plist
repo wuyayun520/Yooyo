@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characteristicDuration</key>
+	<string>canStreamGate</string>
+	<key>concreteAsync</key>
+	<string>decoupleScene</string>
+	<key>richtextwidget</key>
+	<string>transitionColor</string>
+	<key>shouldInflateTabBar</key>
+	<string>elasticityOpacity</string>
+	<key>soundBrightness</key>
+	<string>unscheduleScene</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesInterval</key>
+	<string>asynchronousPicker</string>
+	<key>diversifiedLoop</key>
+	<string>actionOrigin</string>
+	<key>normalbuffertop</key>
+	<string>rectSpacing</string>
+	<key>scalemenu</key>
+	<string>provideError</string>
+	<key>shaderinterval</key>
+	<string>delegateOrientation</string>
+	<key>shouldPaintGem</key>
+	<string>topiccolor</string>
+	<key>splitterleft</key>
+	<string>featureBehavior</string>
+	<key>storetexture</key>
+	<string>associatedRectangle</string>
+	<key>typicalRectangle</key>
+	<string>pivotalImage</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinotimer</key>
+	<string>canDisconnectCheckbox</string>
+	<key>navigationtempletint</key>
+	<string>shouldRenderNib</string>
+	<key>particleHue</key>
+	<string>multiEfficiency</string>
+	<key>rapidRectangle</key>
+	<string>interpolateOffset</string>
+	<key>tentativeIndex</key>
+	<string>shouldPauseAspect</string>
+</dict>
+</plist>

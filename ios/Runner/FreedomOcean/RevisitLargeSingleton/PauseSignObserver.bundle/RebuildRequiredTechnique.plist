@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzercenter</key>
+	<string>hashAppearance</string>
+	<key>chartorigin</key>
+	<string>singletonLocation</string>
+	<key>customPainter</key>
+	<string>pagerTension</string>
+	<key>entityTension</key>
+	<string>shouldYieldInstruction</string>
+	<key>mergerTransparency</key>
+	<string>canValidateAccessory</string>
+	<key>painterflyweighttint</key>
+	<string>standaloneRecursion</string>
+</dict>
+</plist>

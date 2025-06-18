@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianChannel</key>
+	<string>canTrainBullet</string>
+	<key>cubitBorder</key>
+	<string>draggableProjection</string>
+	<key>customizedTrajectory</key>
+	<string>quaternionOpacity</string>
+	<key>descriptioncount</key>
+	<string>permissiveSizedBox</string>
+	<key>independentAscent</key>
+	<string>isolateSize</string>
+	<key>pagerStyle</key>
+	<string>advancedConstant</string>
+	<key>secondrowdelay</key>
+	<string>pushDialogs</string>
+	<key>shouldProcessCatalyst</key>
+	<string>selectedCell</string>
+</dict>
+</plist>

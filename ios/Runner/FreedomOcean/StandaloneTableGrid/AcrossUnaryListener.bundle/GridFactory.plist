@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubeAppearance</key>
+	<string>sustainableCharacter</string>
+	<key>displayableState</key>
+	<string>symbolSkewX</string>
+	<key>lifecycleTop</key>
+	<string>cubitFacade</string>
+	<key>modalRate</key>
+	<string>animatedBinary</string>
+	<key>momentumTransparency</key>
+	<string>checklistSize</string>
+	<key>optionHue</key>
+	<string>canDetachBoxShadow</string>
+	<key>responsiveNorm</key>
+	<string>activatedTicker</string>
+</dict>
+</plist>

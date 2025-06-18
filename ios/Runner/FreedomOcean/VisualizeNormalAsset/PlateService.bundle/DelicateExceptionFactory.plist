@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleTrajectory</key>
+	<string>smallMaterial</string>
+	<key>elasticStore</key>
+	<string>navigateDimension</string>
+	<key>inheritedMediaQuery</key>
+	<string>oldAsync</string>
+	<key>plateLocation</key>
+	<string>pushVariant</string>
+	<key>priorcupertino</key>
+	<string>navigateSlider</string>
+	<key>robustDistinction</key>
+	<string>priorUnary</string>
+	<key>shouldYieldSlash</key>
+	<string>pinchableFactory</string>
+	<key>statelessPresenter</key>
+	<string>keepDescriptor</string>
+</dict>
+</plist>

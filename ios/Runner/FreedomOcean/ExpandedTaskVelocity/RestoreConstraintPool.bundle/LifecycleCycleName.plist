@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableScenario</key>
+	<string>mediocreUseCase</string>
+	<key>grainKind</key>
+	<string>hierarchicalDependency</string>
+	<key>graphOpacity</key>
+	<string>canValidateHistogram</string>
+	<key>remainderBottom</key>
+	<string>navigatorCount</string>
+	<key>vectorVisibility</key>
+	<string>resolverShape</string>
+</dict>
+</plist>

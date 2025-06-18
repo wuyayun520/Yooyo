@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintbeyonddecorator</key>
+	<string>queueLevel</string>
+	<key>currentProtocol</key>
+	<string>sliderLayer</string>
+	<key>itemResponse</key>
+	<string>streamIcon</string>
+	<key>mediumDistinction</key>
+	<string>smartComposition</string>
+	<key>shouldPaintMovement</key>
+	<string>errorBound</string>
+	<key>trajectoryResponse</key>
+	<string>shouldemitconsumer</string>
+</dict>
+</plist>

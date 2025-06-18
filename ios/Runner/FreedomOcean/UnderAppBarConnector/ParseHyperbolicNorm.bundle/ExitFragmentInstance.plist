@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contrastKind</key>
+	<string>shouldvalidateactivity</string>
+	<key>currenttext</key>
+	<string>concreteanimation</string>
+	<key>firstCupertino</key>
+	<string>benchmarkChapter</string>
+	<key>flexibleInterface</key>
+	<string>canRouteBloc</string>
+	<key>inheritedModel</key>
+	<string>richtextBottom</string>
+	<key>responsiveBoxShadow</key>
+	<string>resizableText</string>
+	<key>smartColor</key>
+	<string>prismaticContraction</string>
+	<key>smarthash</key>
+	<string>shouldUpdateNotification</string>
+	<key>smartscheduler</key>
+	<string>roleSkewX</string>
+	<key>webDocument</key>
+	<string>basicpolyfill</string>
+</dict>
+</plist>

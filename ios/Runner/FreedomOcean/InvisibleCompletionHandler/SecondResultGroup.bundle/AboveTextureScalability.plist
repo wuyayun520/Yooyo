@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cosineContrast</key>
+	<string>reconcileMethod</string>
+	<key>desktopStroke</key>
+	<string>symmetricLogarithm</string>
+	<key>elasticassettop</key>
+	<string>expandedLocation</string>
+	<key>euclideanMomentum</key>
+	<string>blocOrigin</string>
+	<key>mediumCanvas</key>
+	<string>gesturedetectorInteraction</string>
+	<key>mutableScale</key>
+	<string>shouldStopMedia</string>
+	<key>pagerType</key>
+	<string>missionActivity</string>
+	<key>retainedTabBar</key>
+	<string>autoInstruction</string>
+	<key>signInterval</key>
+	<string>showSpot</string>
+	<key>staticTabView</key>
+	<string>tangentatmemento</string>
+</dict>
+</plist>

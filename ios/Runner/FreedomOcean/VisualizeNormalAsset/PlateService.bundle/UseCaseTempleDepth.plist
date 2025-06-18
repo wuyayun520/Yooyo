@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitaspect</key>
+	<string>shouldPaintCaption</string>
+	<key>emitterDirection</key>
+	<string>bundleChapter</string>
+	<key>implementspecifier</key>
+	<string>notifychannels</string>
+	<key>intensityindex</key>
+	<string>orchestrateBuilder</string>
+	<key>shouldBuildController</key>
+	<string>containerEnvironment</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveBound</key>
+	<string>reusableGesture</string>
+	<key>othersound</key>
+	<string>logInterval</string>
+	<key>popupreliability</key>
+	<string>canHandleInterpolation</string>
+	<key>providechecklist</key>
+	<string>canDispatchProject</string>
+	<key>requestplatformresponse</key>
+	<string>positionedFunction</string>
+	<key>sampletierorigin</key>
+	<string>heapcontrast</string>
+	<key>spineInteraction</key>
+	<string>respectiveExpanded</string>
+	<key>textDensity</key>
+	<string>canStopSignature</string>
+</dict>
+</plist>

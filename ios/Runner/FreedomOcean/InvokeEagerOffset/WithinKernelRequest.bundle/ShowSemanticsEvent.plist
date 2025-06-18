@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentRichText</key>
+	<string>canStartSlash</string>
+	<key>iterativeModule</key>
+	<string>animateUtil</string>
+	<key>mediocreHeap</key>
+	<string>hasexpanded</string>
+	<key>sequentialRichText</key>
+	<string>notifyEvent</string>
+	<key>sharedRouter</key>
+	<string>modeltransparency</string>
+</dict>
+</plist>

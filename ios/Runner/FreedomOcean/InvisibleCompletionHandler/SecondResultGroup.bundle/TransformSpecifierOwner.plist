@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entropyMargin</key>
+	<string>listviewPrototype</string>
+	<key>granularSplitter</key>
+	<string>autoResponse</string>
+	<key>lazyStorage</key>
+	<string>primaryStack</string>
+	<key>protectedScaffold</key>
+	<string>monstervisibility</string>
+	<key>rendererValidation</key>
+	<string>visitgraph</string>
+	<key>startmultiplication</key>
+	<string>scaffoldfeature</string>
+	<key>webSlash</key>
+	<string>rapidEntropy</string>
+</dict>
+</plist>

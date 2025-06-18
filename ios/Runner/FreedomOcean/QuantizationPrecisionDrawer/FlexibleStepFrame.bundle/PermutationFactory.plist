@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteThread</key>
+	<string>layoutCapacities</string>
+	<key>cubeTag</key>
+	<string>entitytransformer</string>
+	<key>cubitconnector</key>
+	<string>beginnerMenu</string>
+	<key>elementTag</key>
+	<string>animatedAxis</string>
+	<key>explicitResponder</key>
+	<string>sessionBehavior</string>
+	<key>popupfunctionrotation</key>
+	<string>unmountedbuffer</string>
+	<key>seamlessSpecifier</key>
+	<string>canDetachAlpha</string>
+	<key>shouldKeepPrecision</key>
+	<string>adaptiveMaterial</string>
+	<key>shouldReplaceSkin</key>
+	<string>shouldFormatCapsule</string>
+	<key>unbindtext</key>
+	<string>canReplaceCell</string>
+</dict>
+</plist>

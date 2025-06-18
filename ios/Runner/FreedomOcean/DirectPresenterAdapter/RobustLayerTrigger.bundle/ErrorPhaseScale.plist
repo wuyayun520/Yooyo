@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedSprite</key>
+	<string>persistBloc</string>
+	<key>basewithvar</key>
+	<string>currentPlate</string>
+	<key>commonDescription</key>
+	<string>shoulddetachcube</string>
+	<key>escalatechecklist</key>
+	<string>multiProcessor</string>
+	<key>functionalLoss</key>
+	<string>shouldAnimateScroll</string>
+	<key>priorprojectiondistance</key>
+	<string>canListenCurve</string>
+	<key>reactiveScreen</key>
+	<string>fixedButton</string>
+	<key>storyboardasfunction</key>
+	<string>inflateScroll</string>
+	<key>tensorMonster</key>
+	<string>integrityFeedback</string>
+</dict>
+</plist>

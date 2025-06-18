@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerlayeralignment</key>
+	<string>reflectPopup</string>
+	<key>cubitnumbercount</key>
+	<string>shouldPopHistogram</string>
+	<key>equipmentfragments</key>
+	<string>canYieldProvider</string>
+	<key>processorOrientation</key>
+	<string>textfieldProxy</string>
+	<key>responsiveinfo</key>
+	<string>shouldEmitCatalyst</string>
+	<key>scalearoundvariable</key>
+	<string>mediataskcolor</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>charactertransparency</key>
+	<string>canKeepCharacter</string>
+	<key>diversifiedAspect</key>
+	<string>canRestartSlider</string>
+	<key>mobileLabel</key>
+	<string>mutablePosition</string>
+	<key>parallelSymbol</key>
+	<string>handleResponse</string>
+	<key>prevDetector</key>
+	<string>updatePromise</string>
+	<key>responsetolerance</key>
+	<string>canSubscribeGift</string>
+	<key>shouldConnectNib</key>
+	<string>shouldDecodeColumn</string>
+</dict>
+</plist>

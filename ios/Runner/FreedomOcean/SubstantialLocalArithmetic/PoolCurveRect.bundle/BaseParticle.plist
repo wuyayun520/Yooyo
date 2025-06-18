@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleInteraction</key>
+	<string>shouldstopcheckbox</string>
+	<key>converterVisible</key>
+	<string>skipCatalyst</string>
+	<key>crudeLifecycle</key>
+	<string>shouldStreamLogarithm</string>
+	<key>desktopObject</key>
+	<string>invisibleconverter</string>
+	<key>pivotalLifecycle</key>
+	<string>pageviewState</string>
+	<key>reducerAlignment</key>
+	<string>checklistVisibility</string>
+	<key>requiredgrid</key>
+	<string>reducerOpacity</string>
+	<key>robustScroller</key>
+	<string>ephemeralAction</string>
+</dict>
+</plist>

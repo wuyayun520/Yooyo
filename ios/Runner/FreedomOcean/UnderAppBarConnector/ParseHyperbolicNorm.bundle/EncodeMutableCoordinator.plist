@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeRadius</key>
+	<string>dimensionCycle</string>
+	<key>directMap</key>
+	<string>shouldCacheRemainder</string>
+	<key>hierarchicalState</key>
+	<string>granularNotifier</string>
+	<key>kernelTag</key>
+	<string>connectMenu</string>
+	<key>labelleft</key>
+	<string>difficultSegment</string>
+	<key>litePolygon</key>
+	<string>requestVisitor</string>
+	<key>notifyspot</key>
+	<string>animatedcontainervisitorkind</string>
+	<key>semanticsBrightness</key>
+	<string>reactiveHash</string>
+	<key>skirtfromnumber</key>
+	<string>sanitizetween</string>
+	<key>spotalongscope</key>
+	<string>drawerscope</string>
+</dict>
+</plist>

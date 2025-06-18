@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessorycontextshade</key>
+	<string>dismissIndicator</string>
+	<key>adaptiveScroll</key>
+	<string>zoneinset</string>
+	<key>checklistdensity</key>
+	<string>canDisposeTechnique</string>
+	<key>declarativeEmitter</key>
+	<string>binaryAdapter</string>
+	<key>disabledReducer</key>
+	<string>iterativeTransformer</string>
+	<key>independentStack</key>
+	<string>canPreparePositioned</string>
+	<key>intermediateBatch</key>
+	<string>specifyCache</string>
+	<key>lossposition</key>
+	<string>textEnvironment</string>
+	<key>pickerSpeed</key>
+	<string>restartExtension</string>
+	<key>shouldContinueReference</key>
+	<string>resilientNavigator</string>
+</dict>
+</plist>

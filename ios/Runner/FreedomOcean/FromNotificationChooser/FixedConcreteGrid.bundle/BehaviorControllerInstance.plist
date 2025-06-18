@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticState</key>
+	<string>defaultgrayscale</string>
+	<key>locaterect</key>
+	<string>shouldPushRadio</string>
+	<key>shouldResumeDrawer</key>
+	<string>resizableLifecycle</string>
+	<key>shouldStartCycle</key>
+	<string>featureRate</string>
+	<key>statefulGrid</key>
+	<string>associatedTabBar</string>
+</dict>
+</plist>

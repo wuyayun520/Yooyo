@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedQueue</key>
+	<string>logTint</string>
+	<key>cubitfragments</key>
+	<string>transformGrid</string>
+	<key>dynamicResult</key>
+	<string>alignmenttransparency</string>
+	<key>eagerEquipment</key>
+	<string>subsequentCoordinator</string>
+	<key>interactiveItem</key>
+	<string>limitTween</string>
+	<key>resizableMend</key>
+	<string>explicitCube</string>
+	<key>resizableStateless</key>
+	<string>diffableNotifier</string>
+	<key>sequentialInteractor</key>
+	<string>syncFrame</string>
+</dict>
+</plist>

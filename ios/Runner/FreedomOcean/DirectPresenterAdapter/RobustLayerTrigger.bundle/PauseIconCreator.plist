@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionColor</key>
+	<string>introspectDescription</string>
+	<key>activeGrayscale</key>
+	<string>buttonStyle</string>
+	<key>autoAspect</key>
+	<string>canAttachNib</string>
+	<key>descriptorinterpretervelocity</key>
+	<string>modalbufferacceleration</string>
+	<key>flexibleScope</key>
+	<string>canRouteDropdownButton</string>
+	<key>grainstructureappearance</key>
+	<string>shearscale</string>
+	<key>imperativeEmitter</key>
+	<string>listenRemainder</string>
+	<key>nativeMetrics</key>
+	<string>informationBorder</string>
+	<key>tappableHandler</key>
+	<string>synchronousGrid</string>
+</dict>
+</plist>

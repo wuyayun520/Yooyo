@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleLocation</key>
+	<string>multiGrain</string>
+	<key>comprehensiveAnalyzer</key>
+	<string>documentValue</string>
+	<key>promiseFeedback</key>
+	<string>serializeproject</string>
+	<key>regulatecontroller</key>
+	<string>limitsubpixel</string>
+	<key>triggerposition</key>
+	<string>ongesturechanged</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoInformation</key>
+	<string>grainDuration</string>
+	<key>elasticBloc</key>
+	<string>symbolKind</string>
+	<key>modelofadapter</key>
+	<string>compositionjobhead</string>
+	<key>rapidScene</key>
+	<string>labeldecoratorposition</string>
+	<key>shouldKeepTabView</key>
+	<string>accordionContainer</string>
+	<key>shouldUnbindExtension</key>
+	<string>unmountedFragment</string>
+	<key>typicalInteractor</key>
+	<string>clearTicker</string>
+</dict>
+</plist>

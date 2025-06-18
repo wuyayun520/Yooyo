@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateinterval</key>
+	<string>loadWorkflow</string>
+	<key>cupertinoBandwidth</key>
+	<string>permanentConsumption</string>
+	<key>denseBinary</key>
+	<string>dispatchSensor</string>
+	<key>provideaspect</key>
+	<string>deserializeText</string>
+	<key>savechallenge</key>
+	<string>responsivePlate</string>
+	<key>shouldStopRow</key>
+	<string>activatedCombiner</string>
+	<key>shouldUpdateNib</key>
+	<string>shouldValidateSlash</string>
+</dict>
+</plist>

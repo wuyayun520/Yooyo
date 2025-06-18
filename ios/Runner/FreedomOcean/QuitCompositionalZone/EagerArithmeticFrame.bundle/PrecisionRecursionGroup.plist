@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionfacadeopacity</key>
+	<string>prioritytask</string>
+	<key>captiontween</key>
+	<string>cardHue</string>
+	<key>hasbase</key>
+	<string>gestureorcycle</string>
+	<key>shouldFinishStack</key>
+	<string>backwardOffset</string>
+	<key>smartSubscriber</key>
+	<string>techniqueopacity</string>
+	<key>sophisticatedLoop</key>
+	<string>ignoredStateless</string>
+</dict>
+</plist>

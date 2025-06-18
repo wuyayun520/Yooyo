@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocbylayer</key>
+	<string>workflowDepth</string>
+	<key>disparateScope</key>
+	<string>streamlineoptimizer</string>
+	<key>iterativeTolerance</key>
+	<string>asynchronousPromise</string>
+	<key>lazyThread</key>
+	<string>composableConverter</string>
+	<key>observerbuilder</key>
+	<string>canPublishEqualization</string>
+	<key>opaqueBatch</key>
+	<string>shouldUnbindTask</string>
+</dict>
+</plist>

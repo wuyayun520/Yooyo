@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterDirection</key>
+	<string>parseAsync</string>
+	<key>cosinerange</key>
+	<string>validateSlash</string>
+	<key>dynamicAperture</key>
+	<string>routecomponent</string>
+	<key>elasticError</key>
+	<string>audioTransparency</string>
+	<key>formatOrigin</key>
+	<string>skirtCenter</string>
+	<key>petbridgetype</key>
+	<string>symmetricprevieworigin</string>
+	<key>selectedPlayback</key>
+	<string>euclideanStamp</string>
+	<key>shouldEncodeBox</key>
+	<string>progressbarSaturation</string>
+	<key>standaloneaccessorycoord</key>
+	<string>canTransformCapsule</string>
+</dict>
+</plist>

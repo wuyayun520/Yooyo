@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionMode</key>
+	<string>exceptioninfunction</string>
+	<key>controllertempleformat</key>
+	<string>shouldUnmountCycle</string>
+	<key>coordinatorRate</key>
+	<string>pagerRotation</string>
+	<key>cupertinogateinterval</key>
+	<string>canSaveTable</string>
+	<key>intuitiveGrayscale</key>
+	<string>hierarchicalScroll</string>
+	<key>newestLatency</key>
+	<string>modelVisibility</string>
+	<key>replicainterval</key>
+	<string>euclideanNavigation</string>
+	<key>resilientObserver</key>
+	<string>shouldRestartFuture</string>
+	<key>updaterow</key>
+	<string>mutableFrame</string>
+</dict>
+</plist>

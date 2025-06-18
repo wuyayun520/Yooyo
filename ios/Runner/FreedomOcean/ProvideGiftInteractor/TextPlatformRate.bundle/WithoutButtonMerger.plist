@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatesink</key>
+	<string>activityObserver</string>
+	<key>associatedappbarappearance</key>
+	<string>shouldObserveMomentum</string>
+	<key>fusedMetrics</key>
+	<string>accessibleSymbol</string>
+	<key>requiredLifecycle</key>
+	<string>refreshState</string>
+	<key>responsebinder</key>
+	<string>gradientState</string>
+	<key>shouldFinishDuration</key>
+	<string>renameResolver</string>
+	<key>shouldHandleArithmetic</key>
+	<string>infoTop</string>
+	<key>transformerLocation</key>
+	<string>lastCupertino</string>
+	<key>unmounterror</key>
+	<string>nativePlayback</string>
+</dict>
+</plist>

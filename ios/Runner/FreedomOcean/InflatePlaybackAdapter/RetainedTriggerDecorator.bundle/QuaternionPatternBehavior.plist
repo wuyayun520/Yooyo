@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customMission</key>
+	<string>liteLabel</string>
+	<key>handlerType</key>
+	<string>statelessAspectRatio</string>
+	<key>iterativeTrajectory</key>
+	<string>receiverEdge</string>
+	<key>navigateview</key>
+	<string>finishslider</string>
+	<key>semanticFragment</key>
+	<string>navigateBehavior</string>
+</dict>
+</plist>

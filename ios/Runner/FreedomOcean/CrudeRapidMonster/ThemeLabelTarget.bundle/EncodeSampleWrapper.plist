@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedProvision</key>
+	<string>binaryParam</string>
+	<key>agileDependency</key>
+	<string>arithmeticMesh</string>
+	<key>dialogsexceptvalue</key>
+	<string>beginnerMesh</string>
+	<key>tappableTouch</key>
+	<string>canYieldCell</string>
+</dict>
+</plist>

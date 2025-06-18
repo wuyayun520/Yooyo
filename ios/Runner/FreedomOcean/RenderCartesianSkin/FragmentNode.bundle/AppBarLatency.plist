@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesMargin</key>
+	<string>canFetchPromise</string>
+	<key>certificateOpacity</key>
+	<string>uniformLayer</string>
+	<key>fusedHeap</key>
+	<string>shouldUnbindDelegate</string>
+	<key>normalnotificationshade</key>
+	<string>animatedcontainerLevel</string>
+	<key>shouldParseButton</key>
+	<string>displayableFilter</string>
+	<key>shouldTransitionScale</key>
+	<string>ignoredCharacter</string>
+	<key>typicaldialogsdistance</key>
+	<string>minEntropy</string>
+</dict>
+</plist>

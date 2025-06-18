@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>heapcurve</key>
+	<string>optimizerMemento</string>
+	<key>ignoredresolver</key>
+	<string>nextSelector</string>
+	<key>inheritedTopic</key>
+	<string>sortedDocument</string>
+	<key>maintransitionindex</key>
+	<string>compositionmargin</string>
+	<key>shouldInflateObserver</key>
+	<string>rangePadding</string>
+	<key>shouldLayoutReduction</key>
+	<string>callbackForm</string>
+	<key>shouldhandlelistview</key>
+	<string>significantEvaluation</string>
+	<key>substantialDetector</key>
+	<string>canNavigateAlert</string>
+	<key>utilduringstructure</key>
+	<string>shouldyieldmaster</string>
+</dict>
+</plist>

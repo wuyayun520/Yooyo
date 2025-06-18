@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedBloc</key>
+	<string>textfieldinteractor</string>
+	<key>draggableElasticity</key>
+	<string>canPublishAlert</string>
+	<key>resolverformat</key>
+	<string>sinkvariablebound</string>
+	<key>shouldNavigateSlider</key>
+	<string>registerUseCase</string>
+	<key>sophisticatedThread</key>
+	<string>handleResult</string>
+</dict>
+</plist>

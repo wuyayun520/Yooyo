@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopScale</key>
+	<string>aggregateGroup</string>
+	<key>dynamicCustomPaint</key>
+	<string>spinearoundsingleton</string>
+	<key>euclideanRenderer</key>
+	<string>shouldEncodeStream</string>
+	<key>extensionTag</key>
+	<string>streamscene</string>
+	<key>gesturedetectorwithoutstructure</key>
+	<string>unmarshalResponse</string>
+	<key>shouldConnectAxis</key>
+	<string>alertInteraction</string>
+	<key>shouldRenderBaseline</key>
+	<string>entitychainrotation</string>
+</dict>
+</plist>

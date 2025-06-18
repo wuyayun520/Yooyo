@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentdialogs</key>
+	<string>zoneBrightness</string>
+	<key>diffableMaterializer</key>
+	<string>canPresentOperation</string>
+	<key>disclaimerEdge</key>
+	<string>eventTag</string>
+	<key>durationrate</key>
+	<string>sampleObserver</string>
+	<key>offsetColor</key>
+	<string>beginnerGrid</string>
+	<key>permissiveSwitch</key>
+	<string>iconPhase</string>
+	<key>pivotalInteractor</key>
+	<string>hierarchicalTaxonomy</string>
+	<key>prevWrapper</key>
+	<string>formatStamp</string>
+	<key>shouldSetStateCustomPaint</key>
+	<string>viewtheme</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianTaxonomy</key>
+	<string>resetConstraint</string>
+	<key>composableRouter</key>
+	<string>offsetformat</string>
+	<key>delegatewithphase</key>
+	<string>canPrepareScreen</string>
+	<key>dismissalignment</key>
+	<string>seamlessFlex</string>
+	<key>layervisible</key>
+	<string>smallTimeline</string>
+	<key>visibleSensor</key>
+	<string>tweenOrientation</string>
+</dict>
+</plist>

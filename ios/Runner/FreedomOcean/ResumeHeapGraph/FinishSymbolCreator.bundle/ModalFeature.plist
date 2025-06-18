@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisanimation</key>
+	<string>transformCubit</string>
+	<key>dynamicTechnique</key>
+	<string>reactivebaseline</string>
+	<key>greatMapper</key>
+	<string>shouldShowMap</string>
+	<key>modeltheme</key>
+	<string>decodegrain</string>
+	<key>tableOrigin</key>
+	<string>processOptimizer</string>
+	<key>topicaboutparameter</key>
+	<string>prismaticPlayback</string>
+	<key>typicalScalability</key>
+	<string>timelinename</string>
+	<key>uniformMaterial</key>
+	<string>transformNorm</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianFeature</key>
+	<string>asynchronousFragment</string>
+	<key>cupertinoText</key>
+	<string>apertureStructure</string>
+	<key>inactiveAsync</key>
+	<string>bitrateJob</string>
+	<key>mobilerotation</key>
+	<string>shouldNotifyBehavior</string>
+	<key>rapidFactory</key>
+	<string>sustainableFeature</string>
+	<key>rectRotation</key>
+	<string>desktoprouterposition</string>
+	<key>sensorCenter</key>
+	<string>canAnimateBatch</string>
+	<key>sequentialpager</key>
+	<string>lockSprite</string>
+</dict>
+</plist>

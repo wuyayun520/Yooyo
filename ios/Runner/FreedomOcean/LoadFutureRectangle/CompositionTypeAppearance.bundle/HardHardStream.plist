@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characteristicMargin</key>
+	<string>lostTransition</string>
+	<key>singleExtension</key>
+	<string>textfieldFlags</string>
+	<key>smartPolyfill</key>
+	<string>activeEntropy</string>
+	<key>spineformat</key>
+	<string>independentCapacities</string>
+	<key>sustainableEffect</key>
+	<string>firstNotifier</string>
+	<key>throughputAcceleration</key>
+	<string>asynchronousEmitter</string>
+</dict>
+</plist>

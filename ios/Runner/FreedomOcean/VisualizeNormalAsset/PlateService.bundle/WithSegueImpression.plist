@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>audioVisible</key>
+	<string>attachconfiguration</string>
+	<key>deserializecube</key>
+	<string>detectorInteraction</string>
+	<key>immediatemethodinset</key>
+	<string>canMountedCube</string>
+	<key>materialNib</key>
+	<string>partitionconfiguration</string>
+	<key>observerTheme</key>
+	<string>sinkType</string>
+	<key>smallplate</key>
+	<string>transitionPrecision</string>
+	<key>textureright</key>
+	<string>shouldformatstream</string>
+</dict>
+</plist>

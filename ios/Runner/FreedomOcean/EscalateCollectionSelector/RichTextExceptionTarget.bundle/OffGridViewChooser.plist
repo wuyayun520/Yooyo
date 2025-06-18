@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionTail</key>
+	<string>initializeGrain</string>
+	<key>normalCompleter</key>
+	<string>prevCombiner</string>
+	<key>protectedFinder</key>
+	<string>canCancelStoryboard</string>
+</dict>
+</plist>

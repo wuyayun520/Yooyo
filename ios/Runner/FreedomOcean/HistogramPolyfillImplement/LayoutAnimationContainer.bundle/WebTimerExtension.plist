@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedListView</key>
+	<string>agileRow</string>
+	<key>beginnerBuffer</key>
+	<string>occasionMode</string>
+	<key>disabledQuaternion</key>
+	<string>notifierBridge</string>
+	<key>mapvalidation</key>
+	<string>traversalOrientation</string>
+	<key>multisineflags</key>
+	<string>sessionNumber</string>
+	<key>radiustint</key>
+	<string>inflateMetadata</string>
+	<key>renameslider</key>
+	<string>subscribebaseline</string>
+	<key>spinextension</key>
+	<string>statefulType</string>
+</dict>
+</plist>

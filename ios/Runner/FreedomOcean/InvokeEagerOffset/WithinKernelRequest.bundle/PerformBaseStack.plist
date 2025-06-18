@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoEqualization</key>
+	<string>clearAnimation</string>
+	<key>basicshadercontrast</key>
+	<string>subscribeBatch</string>
+	<key>difficultAnchor</key>
+	<string>mainImage</string>
+	<key>graphcallback</key>
+	<string>selectedcatalyst</string>
+	<key>hasDuration</key>
+	<string>firstRectangle</string>
+	<key>shouldCreateScale</key>
+	<string>localAsset</string>
+</dict>
+</plist>

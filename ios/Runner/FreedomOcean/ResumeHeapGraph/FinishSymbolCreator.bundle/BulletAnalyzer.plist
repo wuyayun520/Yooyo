@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncInteraction</key>
+	<string>animatedAction</string>
+	<key>draggableSchema</key>
+	<string>hierarchicalscope</string>
+	<key>fixedSelector</key>
+	<string>radioRate</string>
+	<key>ignoredExponent</key>
+	<string>activeBoxShadow</string>
+	<key>intuitiveIntensity</key>
+	<string>shouldUnbindTask</string>
+	<key>rapidiconbound</key>
+	<string>thresholdLocation</string>
+	<key>tensorHash</key>
+	<string>dissociateHandler</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeClipper</key>
+	<string>largePlayback</string>
+	<key>compositionresource</key>
+	<string>dependencyStatus</string>
+	<key>deferredOverlay</key>
+	<string>hashDistance</string>
+	<key>informationStyle</key>
+	<string>lazyDetector</string>
+	<key>loopHead</key>
+	<string>firsthashscale</string>
+	<key>nextGate</key>
+	<string>conformpriority</string>
+	<key>popupborder</key>
+	<string>unaryBottom</string>
+	<key>statelessEquipment</key>
+	<string>cupertinoRange</string>
+	<key>textfieldadaptervisible</key>
+	<string>canBindCustomPaint</string>
+</dict>
+</plist>

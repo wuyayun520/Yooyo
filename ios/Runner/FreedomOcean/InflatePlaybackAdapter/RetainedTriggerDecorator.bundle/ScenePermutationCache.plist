@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellinteraction</key>
+	<string>usageVisibility</string>
+	<key>completionaction</key>
+	<string>scrollMargin</string>
+	<key>customImpression</key>
+	<string>materialEvaluation</string>
+	<key>normdepth</key>
+	<string>analogyAcceleration</string>
+	<key>providepoint</key>
+	<string>fixedIndicator</string>
+	<key>shouldReplaceIndicator</key>
+	<string>loopIndex</string>
+	<key>symmetricContrast</key>
+	<string>singleTriangles</string>
+</dict>
+</plist>

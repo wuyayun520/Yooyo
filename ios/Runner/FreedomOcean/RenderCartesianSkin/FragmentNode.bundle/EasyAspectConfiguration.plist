@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diversifiedGesture</key>
+	<string>canBindLabel</string>
+	<key>masterdepth</key>
+	<string>sceneTension</string>
+	<key>playbackforwork</key>
+	<string>canMountedThread</string>
+	<key>queueBehavior</key>
+	<string>pendingMusic</string>
+	<key>receiverTag</key>
+	<string>maxSession</string>
+</dict>
+</plist>

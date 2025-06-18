@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>attachdescription</key>
+	<string>prismaticConvolution</string>
+	<key>controllerdependency</key>
+	<string>configureaspect</string>
+	<key>easysink</key>
+	<string>usageDistance</string>
+	<key>retainedGrain</key>
+	<string>playRouter</string>
+	<key>shouldSaveNavigation</key>
+	<string>discoverCoordinator</string>
+	<key>wrapperSpacing</key>
+	<string>canStopAperture</string>
+</dict>
+</plist>

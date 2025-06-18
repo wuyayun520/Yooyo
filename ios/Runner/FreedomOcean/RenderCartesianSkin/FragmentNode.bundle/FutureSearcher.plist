@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoOrientation</key>
+	<string>maxStateful</string>
+	<key>cupertinoalongtier</key>
+	<string>vectorVisibility</string>
+	<key>shouldPrepareInteger</key>
+	<string>richtextedge</string>
+	<key>shouldProcessCell</key>
+	<string>canAnimatePromise</string>
+	<key>shouldPushCheckbox</key>
+	<string>transposetween</string>
+	<key>specifierDelay</key>
+	<string>advancedEffect</string>
+	<key>utiltyperate</key>
+	<string>nativeCallback</string>
+</dict>
+</plist>

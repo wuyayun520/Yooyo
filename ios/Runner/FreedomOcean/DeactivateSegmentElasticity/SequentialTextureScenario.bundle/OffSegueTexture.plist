@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicUsage</key>
+	<string>sequentialmap</string>
+	<key>factoryHead</key>
+	<string>borderScope</string>
+	<key>hardLifecycle</key>
+	<string>draggableDescriptor</string>
+	<key>injectequipment</key>
+	<string>progressbarFunction</string>
+	<key>matrixprovision</key>
+	<string>publicTweak</string>
+	<key>nativeinteractorcontrast</key>
+	<string>immediateDependency</string>
+	<key>shouldEmitHistogram</key>
+	<string>symmetricexception</string>
+	<key>substantialImpression</key>
+	<string>screensingleton</string>
+</dict>
+</plist>

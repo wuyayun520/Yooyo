@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedListView</key>
+	<string>observerChain</string>
+	<key>channelspopup</key>
+	<string>advancedCharacter</string>
+	<key>disabledAnimator</key>
+	<string>attachDependency</string>
+	<key>moduleVelocity</key>
+	<string>activeResolver</string>
+	<key>rapidgraphic</key>
+	<string>shouldRenderCharacter</string>
+	<key>resizableSpine</key>
+	<string>textfieldTheme</string>
+	<key>sensortransformer</key>
+	<string>currentaperture</string>
+</dict>
+</plist>

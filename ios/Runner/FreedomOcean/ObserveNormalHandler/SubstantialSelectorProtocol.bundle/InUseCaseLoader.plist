@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedQuaternion</key>
+	<string>updateallocator</string>
+	<key>denseAmortization</key>
+	<string>customizedMedia</string>
+	<key>immediateTexture</key>
+	<string>optimizerName</string>
+	<key>musicCount</key>
+	<string>navigatorChain</string>
+	<key>parallelthroughput</key>
+	<string>shouldProcessSwitch</string>
+	<key>resilientCupertino</key>
+	<string>shouldPresentProjection</string>
+	<key>specifierinteractor</key>
+	<string>canCacheExpanded</string>
+	<key>switchEdge</key>
+	<string>respondCallback</string>
+	<key>unactivatedtextureleft</key>
+	<string>completionWork</string>
+</dict>
+</plist>

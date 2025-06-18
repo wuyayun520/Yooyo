@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryShade</key>
+	<string>customizedActivity</string>
+	<key>consultativechooser</key>
+	<string>shouldKeepMediaQuery</string>
+	<key>discardedElasticity</key>
+	<string>asynchronousentityinterval</string>
+	<key>euclideanPageView</key>
+	<string>interactiveRouter</string>
+	<key>restorelocalization</key>
+	<string>oncosinetap</string>
+	<key>retaineddocument</key>
+	<string>presenterSingleton</string>
+	<key>tableparametermomentum</key>
+	<string>dismissCapsule</string>
+	<key>uniquebehaviorstatus</key>
+	<string>configurationPressure</string>
+</dict>
+</plist>

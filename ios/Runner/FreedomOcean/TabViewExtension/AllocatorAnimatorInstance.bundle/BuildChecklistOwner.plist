@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystSpeed</key>
+	<string>shouldSkipEqualization</string>
+	<key>efficiencyscale</key>
+	<string>notifyStateful</string>
+	<key>loadequipment</key>
+	<string>resizableDetector</string>
+	<key>modellikestate</key>
+	<string>cubitMethod</string>
+	<key>pinchableChart</key>
+	<string>gateHead</string>
+	<key>scaleBrightness</key>
+	<string>independentInstruction</string>
+	<key>shoulddispatchmatrix</key>
+	<string>mobileSaturation</string>
+	<key>significantmaterial</key>
+	<string>screenBorder</string>
+</dict>
+</plist>

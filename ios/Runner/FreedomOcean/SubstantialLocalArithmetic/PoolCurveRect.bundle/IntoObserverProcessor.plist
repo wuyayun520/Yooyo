@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchMomentum</key>
+	<string>sharedConfiguration</string>
+	<key>builderduringmediator</key>
+	<string>checklistProxy</string>
+	<key>granularfactory</key>
+	<string>liteCaption</string>
+	<key>labelvisibility</key>
+	<string>secondScreen</string>
+	<key>replicatedelegate</key>
+	<string>operationconfiguration</string>
+	<key>repositoryBorder</key>
+	<string>playbackShade</string>
+	<key>resilientSound</key>
+	<string>diversifiedCompletion</string>
+	<key>robustScheduler</key>
+	<string>undertakefactory</string>
+	<key>usedTopic</key>
+	<string>slashStrategy</string>
+</dict>
+</plist>

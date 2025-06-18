@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionAlignment</key>
+	<string>priorConsumption</string>
+	<key>labeltempleinterval</key>
+	<string>opaquePresenter</string>
+	<key>priorSwitch</key>
+	<string>shouldTransformTechnique</string>
+	<key>sensorSkewY</key>
+	<string>bundleAlignment</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitratebrightness</key>
+	<string>linkerStyle</string>
+	<key>commonPoint</key>
+	<string>backwardInjection</string>
+	<key>declarativePageView</key>
+	<string>grainParam</string>
+	<key>finishdropdownbutton</key>
+	<string>decodeWidget</string>
+	<key>functionalLatency</key>
+	<string>shouldEncodeChecklist</string>
+	<key>hardcomponent</key>
+	<string>shouldTransitionMap</string>
+	<key>largeMetrics</key>
+	<string>callbackappearance</string>
+	<key>richtextScale</key>
+	<string>directlyTernary</string>
+	<key>singleResult</key>
+	<string>canPushBullet</string>
+</dict>
+</plist>

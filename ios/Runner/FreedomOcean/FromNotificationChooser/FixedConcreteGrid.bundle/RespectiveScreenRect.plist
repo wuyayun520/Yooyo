@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasColor</key>
+	<string>unmountedCheckbox</string>
+	<key>euclideanEntropy</key>
+	<string>divideTask</string>
+	<key>keyInfo</key>
+	<string>canProcessSymbol</string>
+	<key>layoutSaturation</key>
+	<string>diffableChart</string>
+	<key>rectInterval</key>
+	<string>decodeRadius</string>
+	<key>respectivePageView</key>
+	<string>dismissCheckbox</string>
+</dict>
+</plist>

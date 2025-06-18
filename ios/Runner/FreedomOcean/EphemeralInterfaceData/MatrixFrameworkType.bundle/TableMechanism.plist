@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedElasticity</key>
+	<string>prioritypressure</string>
+	<key>dependencyfilter</key>
+	<string>binaryskewy</string>
+	<key>fetchdecoration</key>
+	<string>ignoredSkin</string>
+	<key>missionforce</key>
+	<string>equivalentForce</string>
+	<key>pivotalCosine</key>
+	<string>pivotalDropdownButton</string>
+	<key>releasestore</key>
+	<string>intuitiveScalability</string>
+	<key>remediationScale</key>
+	<string>cancelBaseline</string>
+	<key>seamlessTabView</key>
+	<string>subtleinstruction</string>
+	<key>textureScale</key>
+	<string>regulatereducer</string>
+</dict>
+</plist>

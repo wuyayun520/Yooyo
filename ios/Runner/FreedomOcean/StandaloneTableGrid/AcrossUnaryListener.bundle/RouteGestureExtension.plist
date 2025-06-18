@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousradiusinterval</key>
+	<string>defaultMomentum</string>
+	<key>backwardStateful</key>
+	<string>shouldSubscribeTransition</string>
+	<key>normfeedback</key>
+	<string>evaluationIndex</string>
+	<key>shouldAnimateRadio</key>
+	<string>agileSensor</string>
+	<key>subsequentDispatcher</key>
+	<string>subscriptionContrast</string>
+	<key>tensorChallenge</key>
+	<string>uniformwrapper</string>
+	<key>uniqueTransition</key>
+	<string>globalLocalization</string>
+</dict>
+</plist>

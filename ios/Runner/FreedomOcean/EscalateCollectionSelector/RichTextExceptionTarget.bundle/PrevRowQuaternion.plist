@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>firstConstraint</key>
+	<string>mobileName</string>
+	<key>gridviewvalidation</key>
+	<string>responsiveReceiver</string>
+	<key>matrixpadding</key>
+	<string>amortizationSize</string>
+	<key>reusableView</key>
+	<string>intermediateInkWell</string>
+	<key>shouldEncodeView</key>
+	<string>hierarchicallistener</string>
+	<key>sizedboxmethodfeedback</key>
+	<string>canListenMomentum</string>
+	<key>statusrotation</key>
+	<string>mobileRotation</string>
+	<key>subscribechart</key>
+	<string>storyboardPosition</string>
+</dict>
+</plist>

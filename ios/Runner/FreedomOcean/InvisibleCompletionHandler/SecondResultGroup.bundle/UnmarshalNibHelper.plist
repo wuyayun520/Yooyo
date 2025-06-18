@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderPosition</key>
+	<string>streamScreen</string>
+	<key>comprehensivePageView</key>
+	<string>sessionFunction</string>
+	<key>endreducer</key>
+	<string>pivotalCompleter</string>
+	<key>grayscaleScale</key>
+	<string>missedSearcher</string>
+	<key>pagerRight</key>
+	<string>baselineResponse</string>
+	<key>shouldCreateCheckbox</key>
+	<string>shouldDeserializeGram</string>
+	<key>shouldSkipCheckbox</key>
+	<string>subsequentNotification</string>
+	<key>statefulUtil</key>
+	<string>canEmitCube</string>
+	<key>statelessNorm</key>
+	<string>allocatorforce</string>
+	<key>visibleObserver</key>
+	<string>sorterdistance</string>
+</dict>
+</plist>

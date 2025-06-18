@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletactivityfrequency</key>
+	<string>updateGate</string>
+	<key>framevolume</key>
+	<string>canTrainAccessory</string>
+	<key>observemodulus</key>
+	<string>grayscaleVisible</string>
+	<key>resilientBaseline</key>
+	<string>mediocreGrain</string>
+	<key>shouldUnmountPet</key>
+	<string>crucialExpanded</string>
+	<key>soundForce</key>
+	<string>hashSpeed</string>
+	<key>subtleBandwidth</key>
+	<string>primaryWrapper</string>
+	<key>topicInteraction</key>
+	<string>canShowDelegate</string>
+</dict>
+</plist>

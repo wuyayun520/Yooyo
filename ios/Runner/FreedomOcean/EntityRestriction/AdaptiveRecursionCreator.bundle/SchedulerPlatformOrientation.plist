@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiespager</key>
+	<string>accelerateGrain</string>
+	<key>cartesianSound</key>
+	<string>gateOperation</string>
+	<key>fetchgraph</key>
+	<string>dynamicChooser</string>
+	<key>globalDecoration</key>
+	<string>relationalVector</string>
+	<key>imperativeStroke</key>
+	<string>numericalThread</string>
+	<key>rapidEfficiency</key>
+	<string>masterShade</string>
+	<key>reducertypeopacity</key>
+	<string>observestore</string>
+	<key>unactivatedPromise</key>
+	<string>shouldCancelSession</string>
+</dict>
+</plist>

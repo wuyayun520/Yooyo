@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deploycurve</key>
+	<string>transposeDecoration</string>
+	<key>descentshape</key>
+	<string>normalresponseskewx</string>
+	<key>tweenatstage</key>
+	<string>shouldUnbindGrayscale</string>
+	<key>visibleCombiner</key>
+	<string>nibcycleskewy</string>
+</dict>
+</plist>

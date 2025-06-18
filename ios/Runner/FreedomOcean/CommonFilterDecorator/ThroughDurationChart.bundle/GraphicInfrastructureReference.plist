@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createrepository</key>
+	<string>statelessLocation</string>
+	<key>entitylikestage</key>
+	<string>requestResource</string>
+	<key>iconbesideflyweight</key>
+	<string>shouldStartTouch</string>
+	<key>listenerdisclaimer</key>
+	<string>consumerInterpreter</string>
+	<key>rowBehavior</key>
+	<string>denseRemediation</string>
+	<key>shouldPresentIndicator</key>
+	<string>canConnectInteger</string>
+	<key>subsequentQueue</key>
+	<string>priortext</string>
+	<key>tabviewShade</key>
+	<string>mediaAction</string>
+</dict>
+</plist>

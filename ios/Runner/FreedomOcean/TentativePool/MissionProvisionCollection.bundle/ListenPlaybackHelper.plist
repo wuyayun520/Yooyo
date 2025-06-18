@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffablerouterhue</key>
+	<string>animatedcontaineracceleration</string>
+	<key>directgraphic</key>
+	<string>shouldRebuildSizedBox</string>
+	<key>disabledKernel</key>
+	<string>oldIntegration</string>
+	<key>lossType</key>
+	<string>canAnimateBase</string>
+	<key>numericalBox</key>
+	<string>boxTag</string>
+	<key>objectState</key>
+	<string>floatConstraint</string>
+	<key>scopeBrightness</key>
+	<string>combineDecoration</string>
+	<key>titlemodeformat</key>
+	<string>resultShade</string>
+	<key>writereducer</key>
+	<string>streamListView</string>
+</dict>
+</plist>

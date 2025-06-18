@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteSubpixel</key>
+	<string>pivotalPositioned</string>
+	<key>declarativeKernel</key>
+	<string>shouldDeserializeDocument</string>
+	<key>descriptionEdge</key>
+	<string>cardAcceleration</string>
+	<key>fixedDuration</key>
+	<string>canDeserializeContraction</string>
+	<key>iterativePolyfill</key>
+	<string>shouldStartPositioned</string>
+	<key>mediaorigin</key>
+	<string>iterativeCluster</string>
+	<key>notationTransparency</key>
+	<string>inheritedMapper</string>
+	<key>processorOrientation</key>
+	<string>detectorSaturation</string>
+</dict>
+</plist>

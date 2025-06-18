@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentamongmediator</key>
+	<string>notificationAlignment</string>
+	<key>directTime</key>
+	<string>alertInterpreter</string>
+	<key>displayablescope</key>
+	<string>rectangleFlags</string>
+	<key>factoryindex</key>
+	<string>dismissBoxShadow</string>
+	<key>geometricInteractor</key>
+	<string>oldSignature</string>
+	<key>imageShape</key>
+	<string>delegatestyle</string>
+	<key>largeplate</key>
+	<string>mainChannel</string>
+	<key>shouldDisposeSign</key>
+	<string>streamnumberacceleration</string>
+</dict>
+</plist>

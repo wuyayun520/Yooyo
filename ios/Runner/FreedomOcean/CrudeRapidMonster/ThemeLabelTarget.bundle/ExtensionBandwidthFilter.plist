@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousWidget</key>
+	<string>iconCount</string>
+	<key>cuberotation</key>
+	<string>shouldYieldInteger</string>
+	<key>discardedBitrate</key>
+	<string>relationalShader</string>
+	<key>immutableConsumption</key>
+	<string>invokeSingleton</string>
+	<key>mergerSaturation</key>
+	<string>optimizesprite</string>
+	<key>metadatajobhue</key>
+	<string>reducerstyle</string>
+	<key>shouldEncodeConvolution</key>
+	<string>shouldSubscribeDimension</string>
+	<key>shouldFinishAperture</key>
+	<string>canContinueSegue</string>
+</dict>
+</plist>

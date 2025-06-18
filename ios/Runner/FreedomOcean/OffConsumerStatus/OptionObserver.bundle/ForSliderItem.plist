@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deserializeanimation</key>
+	<string>seamlessProject</string>
+	<key>explicitProvision</key>
+	<string>animatedJoiner</string>
+	<key>mediocreRequest</key>
+	<string>findTransformer</string>
+	<key>pointSkewX</key>
+	<string>overrideState</string>
+	<key>relationalSpecifier</key>
+	<string>stepRotation</string>
+	<key>resultAlignment</key>
+	<string>accessoryScale</string>
+	<key>shouldObserveBaseline</key>
+	<string>deferredShape</string>
+	<key>tabbarskewy</key>
+	<string>setupSink</string>
+	<key>typicalResponse</key>
+	<string>navigateProject</string>
+</dict>
+</plist>

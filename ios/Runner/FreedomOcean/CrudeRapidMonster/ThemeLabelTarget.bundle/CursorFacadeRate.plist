@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clusteralignment</key>
+	<string>documentCount</string>
+	<key>compositionalTask</key>
+	<string>selectedCell</string>
+	<key>mobileEfficiency</key>
+	<string>textfieldTemple</string>
+	<key>shouldCreateSwitch</key>
+	<string>scrollableStep</string>
+	<key>shouldstopconstraint</key>
+	<string>flexiblechooser</string>
+	<key>sophisticatedtableskewx</key>
+	<string>animationBehavior</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptivecharacteristic</key>
+	<string>prepareTask</string>
+	<key>advancedCapacities</key>
+	<string>nibcontrast</string>
+	<key>defaultConvolution</key>
+	<string>textfieldBottom</string>
+	<key>discardedcompleterbrightness</key>
+	<string>shouldstartplayback</string>
+	<key>notifybuffer</key>
+	<string>axisProxy</string>
+	<key>shouldResumeCharacter</key>
+	<string>durationposition</string>
+	<key>webProject</key>
+	<string>mobileMaterial</string>
+</dict>
+</plist>

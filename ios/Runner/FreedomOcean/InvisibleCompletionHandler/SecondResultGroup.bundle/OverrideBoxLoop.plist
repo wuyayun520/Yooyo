@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveTernary</key>
+	<string>criticaldescent</string>
+	<key>animationedge</key>
+	<string>restartMomentum</string>
+	<key>axistierlocation</key>
+	<string>endAlert</string>
+	<key>crucialcontainer</key>
+	<string>scrollableBaseline</string>
+	<key>informationRate</key>
+	<string>shouldKeepMonster</string>
+	<key>numericalOverlay</key>
+	<string>normalRoute</string>
+	<key>progressbarMomentum</key>
+	<string>staticcaption</string>
+	<key>screencount</key>
+	<string>providernotation</string>
+	<key>shouldProcessWidget</key>
+	<string>vectorsize</string>
+</dict>
+</plist>

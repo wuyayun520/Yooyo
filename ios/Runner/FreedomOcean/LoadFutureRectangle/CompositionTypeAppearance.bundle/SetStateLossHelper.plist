@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeVolume</key>
+	<string>cursorForce</string>
+	<key>baselineHead</key>
+	<string>animatedcontainerexceptvalue</string>
+	<key>chapteratstrategy</key>
+	<string>numericalTouch</string>
+	<key>masterContrast</key>
+	<string>grainVariable</string>
+	<key>particleedge</key>
+	<string>findconstraint</string>
+	<key>shouldfinishdelegate</key>
+	<string>deactivateDuration</string>
+	<key>timelineEdge</key>
+	<string>geometricSearcher</string>
+	<key>workflowwithshape</key>
+	<string>integrityName</string>
+</dict>
+</plist>

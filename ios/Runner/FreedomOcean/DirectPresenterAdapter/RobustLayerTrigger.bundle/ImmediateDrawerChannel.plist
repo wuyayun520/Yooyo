@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitofcommand</key>
+	<string>releaseEntity</string>
+	<key>customizedsizedbox</key>
+	<string>globalBuilder</string>
+	<key>formatfeedback</key>
+	<string>staticView</string>
+	<key>granularThread</key>
+	<string>dispatchSine</string>
+	<key>otherButton</key>
+	<string>swiftBehavior</string>
+	<key>retainunary</key>
+	<string>videoOrigin</string>
+	<key>stackHead</key>
+	<string>dynamicscheduler</string>
+	<key>subpixelName</key>
+	<string>accordionLoader</string>
+	<key>tickerShade</key>
+	<string>gradientresponse</string>
+	<key>unmountedpainter</key>
+	<string>decorationbound</string>
+</dict>
+</plist>

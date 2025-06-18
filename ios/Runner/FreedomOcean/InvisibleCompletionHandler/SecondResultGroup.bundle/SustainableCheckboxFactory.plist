@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>multiGesture</key>
+	<string>transpileService</string>
+	<key>reusableAudio</key>
+	<string>originalGestureDetector</string>
+	<key>shouldBuildCheckbox</key>
+	<string>instantiateinteractor</string>
+	<key>shouldTransitionHero</key>
+	<string>replicaName</string>
+	<key>shoulddisposearithmetic</key>
+	<string>transposeRepository</string>
+	<key>skipisolate</key>
+	<string>resilientrectangle</string>
+	<key>unmountcustompaint</key>
+	<string>disparateTabBar</string>
+</dict>
+</plist>

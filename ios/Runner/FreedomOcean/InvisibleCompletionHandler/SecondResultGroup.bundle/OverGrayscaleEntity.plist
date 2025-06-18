@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicInfrastructure</key>
+	<string>subpixelTransparency</string>
+	<key>iscache</key>
+	<string>replaceTable</string>
+	<key>isrow</key>
+	<string>animateMap</string>
+	<key>listenerscale</key>
+	<string>connectsignature</string>
+	<key>pointAppearance</key>
+	<string>checkTransition</string>
+	<key>shouldDismissBox</key>
+	<string>rapidlayoutright</string>
+	<key>skirtLocation</key>
+	<string>permissiveTransition</string>
+	<key>temporaryFeature</key>
+	<string>aspectbinder</string>
+</dict>
+</plist>

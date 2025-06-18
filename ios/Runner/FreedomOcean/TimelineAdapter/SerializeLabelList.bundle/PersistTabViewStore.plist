@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentGraphic</key>
+	<string>heapAcceleration</string>
+	<key>criticalModal</key>
+	<string>canFinishSkirt</string>
+	<key>gridviewoffset</key>
+	<string>notificationCount</string>
+	<key>mediamementotail</key>
+	<string>assetresilience</string>
+	<key>referenceprototypetransparency</key>
+	<string>commonTicker</string>
+	<key>tangentuntilphase</key>
+	<string>shouldRestartNavigator</string>
+</dict>
+</plist>

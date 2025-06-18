@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowFlags</key>
+	<string>compileRadius</string>
+	<key>dedicatedcollectioninset</key>
+	<string>fixedResponse</string>
+	<key>offsetHue</key>
+	<string>overrideModel</string>
+	<key>queuepressure</key>
+	<string>firstImpact</string>
+	<key>resizableTernary</key>
+	<string>extensionrouter</string>
+	<key>respectiveHeap</key>
+	<string>custompaintSize</string>
+	<key>shouldPrepareRole</key>
+	<string>mobilesystemrate</string>
+	<key>subsequentTouch</key>
+	<string>durationVisitor</string>
+	<key>sustainableAllocator</key>
+	<string>characterOrientation</string>
+</dict>
+</plist>

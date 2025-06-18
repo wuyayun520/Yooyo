@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzenode</key>
+	<string>startBaseline</string>
+	<key>criticalScalability</key>
+	<string>mainNotifier</string>
+	<key>projectDepth</key>
+	<string>offsetOperation</string>
+	<key>textfieldinterval</key>
+	<string>requiredPolyfill</string>
+	<key>tweenInterval</key>
+	<string>sizedboxDecorator</string>
+</dict>
+</plist>

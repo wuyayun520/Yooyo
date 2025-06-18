@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>injectionVisibility</key>
+	<string>adaptiveBaseline</string>
+	<key>parsemetadata</key>
+	<string>hardStamp</string>
+	<key>protectedrectangle</key>
+	<string>respectiveArchitecture</string>
+	<key>shouldRenderScreen</key>
+	<string>minOption</string>
+	<key>statelessNotification</key>
+	<string>compileStream</string>
+	<key>storecoord</key>
+	<string>canShowProvider</string>
+</dict>
+</plist>

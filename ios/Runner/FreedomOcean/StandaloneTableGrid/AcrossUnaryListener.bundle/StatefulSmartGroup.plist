@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushCenter</key>
+	<string>spotstructuremargin</string>
+	<key>cachevideo</key>
+	<string>grayscalealongenvironment</string>
+	<key>displaycallback</key>
+	<string>disposeFragment</string>
+	<key>iconawaystyle</key>
+	<string>sheartransformer</string>
+	<key>partitionchannel</key>
+	<string>directlyModel</string>
+	<key>shouldtransformlog</key>
+	<string>multiradiusright</string>
+</dict>
+</plist>

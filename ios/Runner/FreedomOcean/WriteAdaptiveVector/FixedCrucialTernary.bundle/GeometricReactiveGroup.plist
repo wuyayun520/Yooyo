@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>groupTint</key>
+	<string>canUnmountProvider</string>
+	<key>ongrayscalechanged</key>
+	<string>navigatorParam</string>
+	<key>segmentorientation</key>
+	<string>intuitiveDelivery</string>
+	<key>shouldCacheRole</key>
+	<string>shouldParseSubpixel</string>
+	<key>smartQueue</key>
+	<string>modalChain</string>
+	<key>syncstamp</key>
+	<string>shouldSetStateCosine</string>
+</dict>
+</plist>

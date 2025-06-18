@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>exceptionVelocity</key>
+	<string>emithero</string>
+	<key>keyScreen</key>
+	<string>hyperbolicAlignment</string>
+	<key>prevWrapper</key>
+	<string>selectedNavigator</string>
+	<key>screenTag</key>
+	<string>injectSize</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fetchtopic</key>
+	<string>easyItem</string>
+	<key>screenTop</key>
+	<string>normalreducer</string>
+	<key>shouldLoadPainter</key>
+	<string>canPrepareInteger</string>
+	<key>storeDensity</key>
+	<string>injectManager</string>
+</dict>
+</plist>

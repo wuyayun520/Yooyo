@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerphaseformat</key>
+	<string>reducerCoord</string>
+	<key>draggableDimension</key>
+	<string>detailTension</string>
+	<key>immutableHero</key>
+	<string>uniqueentity</string>
+	<key>multiConsumption</key>
+	<string>explicitStore</string>
+	<key>shouldPresentTouch</key>
+	<string>batchtop</string>
+	<key>shouldTransitionSpecifier</key>
+	<string>cacheSegue</string>
+	<key>taskinset</key>
+	<string>prepareAnimatedContainer</string>
+	<key>trianglesDistance</key>
+	<string>decorationvalidation</string>
+</dict>
+</plist>

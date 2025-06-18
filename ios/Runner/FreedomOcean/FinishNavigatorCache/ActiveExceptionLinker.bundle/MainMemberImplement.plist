@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decodescaffold</key>
+	<string>localReduction</string>
+	<key>defaultaxis</key>
+	<string>integrityCenter</string>
+	<key>heapneartype</key>
+	<string>draggableDialogs</string>
+	<key>memberBehavior</key>
+	<string>invisibleSink</string>
+	<key>shouldparsecheckbox</key>
+	<string>canYieldStack</string>
+	<key>statusTheme</key>
+	<string>gridviewSaturation</string>
+	<key>visibleMargin</key>
+	<string>resizablePicker</string>
+</dict>
+</plist>

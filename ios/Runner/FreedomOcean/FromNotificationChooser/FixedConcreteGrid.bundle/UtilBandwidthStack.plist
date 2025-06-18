@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>imageSkewX</key>
+	<string>singleSkin</string>
+	<key>memberSize</key>
+	<string>sharedconstraint</string>
+	<key>pinchableCheckbox</key>
+	<string>signatureLocation</string>
+	<key>rangetag</key>
+	<string>shouldhandletool</string>
+</dict>
+</plist>

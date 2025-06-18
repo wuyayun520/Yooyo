@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableDecoration</key>
+	<string>temporaryCapacities</string>
+	<key>globalOptimizer</key>
+	<string>shouldConnectSegue</string>
+	<key>navigatorefficiency</key>
+	<string>canPrepareStack</string>
+	<key>parallelCheckbox</key>
+	<string>shouldUnbindAlert</string>
+	<key>persistrichtext</key>
+	<string>mountedTheme</string>
+	<key>responsevisibility</key>
+	<string>builderFrequency</string>
+	<key>shouldmountgradient</key>
+	<string>challengeTier</string>
+</dict>
+</plist>

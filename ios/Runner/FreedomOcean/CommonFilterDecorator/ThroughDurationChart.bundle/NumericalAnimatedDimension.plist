@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateCenter</key>
+	<string>radioOrientation</string>
+	<key>dependencyPadding</key>
+	<string>customMetadata</string>
+	<key>persistentClipper</key>
+	<string>reactiveLoop</string>
+	<key>quantizationstamp</key>
+	<string>routeCycle</string>
+	<key>requiredMomentum</key>
+	<string>mediocreConverter</string>
+	<key>resizableStream</key>
+	<string>accordionPromise</string>
+	<key>seekservice</key>
+	<string>streamTag</string>
+	<key>shouldPauseMatrix</key>
+	<string>positionedLeft</string>
+	<key>shouldreplacelabel</key>
+	<string>customizedTheme</string>
+</dict>
+</plist>

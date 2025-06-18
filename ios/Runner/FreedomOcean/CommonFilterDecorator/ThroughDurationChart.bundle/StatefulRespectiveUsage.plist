@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultcurve</key>
+	<string>hardConsumer</string>
+	<key>respectiveTraversal</key>
+	<string>modelWork</string>
+	<key>responsiveDuration</key>
+	<string>webInjection</string>
+	<key>secondSound</key>
+	<string>tensorVector</string>
+	<key>shouldRebuildPlayback</key>
+	<string>canSkipSpot</string>
+	<key>tensorResponder</key>
+	<string>usecaseTint</string>
+</dict>
+</plist>

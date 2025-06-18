@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorMomentum</key>
+	<string>encodeCycle</string>
+	<key>heroPosition</key>
+	<string>tabbarAlignment</string>
+	<key>marginScale</key>
+	<string>compositionFramework</string>
+	<key>pageviewCoord</key>
+	<string>accessibleCache</string>
+</dict>
+</plist>

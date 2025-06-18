@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelindex</key>
+	<string>navigationmesh</string>
+	<key>shouldLayoutWidget</key>
+	<string>shouldcontinuenib</string>
+	<key>shouldMountArithmetic</key>
+	<string>hierarchicalPainter</string>
+	<key>shouldUpdateCube</key>
+	<string>significantOverlay</string>
+	<key>streamconsumer</key>
+	<string>rectifyLayout</string>
+	<key>topicResponse</key>
+	<string>materialAxis</string>
+</dict>
+</plist>

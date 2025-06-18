@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedTriangles</key>
+	<string>concatenateRoute</string>
+	<key>catalystcoordinator</key>
+	<string>directlyVolume</string>
+	<key>lostBandwidth</key>
+	<string>completerJob</string>
+	<key>playconsumer</key>
+	<string>upgradeDescription</string>
+	<key>shouldObserveBuilder</key>
+	<string>skirtParameter</string>
+	<key>standaloneModel</key>
+	<string>normalMetadata</string>
+	<key>unsortedDrawer</key>
+	<string>shouldMountMultiplication</string>
+	<key>usedScalability</key>
+	<string>materialHistogram</string>
+</dict>
+</plist>

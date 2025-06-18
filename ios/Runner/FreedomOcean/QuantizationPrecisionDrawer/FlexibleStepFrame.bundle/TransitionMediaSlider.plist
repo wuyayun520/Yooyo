@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxvisible</key>
+	<string>builderPadding</string>
+	<key>deferredInteger</key>
+	<string>robustDependency</string>
+	<key>ephemeralTweak</key>
+	<string>tangentstyleforce</string>
+	<key>intuitiveBuilder</key>
+	<string>canEmitPet</string>
+	<key>metricsDensity</key>
+	<string>canCreateShader</string>
+	<key>shouldTransformBrush</key>
+	<string>difficultBuffer</string>
+</dict>
+</plist>

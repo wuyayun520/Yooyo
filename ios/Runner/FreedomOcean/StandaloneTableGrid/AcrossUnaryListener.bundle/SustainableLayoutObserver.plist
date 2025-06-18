@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activitywithvariable</key>
+	<string>semanticQuaternion</string>
+	<key>animationskewx</key>
+	<string>interactiveQueue</string>
+	<key>backwardbaseline</key>
+	<string>shouldUnbindCard</string>
+	<key>consumptionHue</key>
+	<string>immediateAnimation</string>
+	<key>declarativeconstant</key>
+	<string>symmetricMaterial</string>
+	<key>respectivePrecision</key>
+	<string>persistentAnimatedContainer</string>
+	<key>shouldHandleCheckbox</key>
+	<string>litePolygon</string>
+</dict>
+</plist>

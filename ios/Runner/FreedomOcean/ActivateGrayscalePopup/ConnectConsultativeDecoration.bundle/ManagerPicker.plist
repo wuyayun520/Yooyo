@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialKernel</key>
+	<string>geometricgesture</string>
+	<key>interactiveCreator</key>
+	<string>memberprovider</string>
+	<key>shouldPopIndicator</key>
+	<string>updateTask</string>
+	<key>soundSpeed</key>
+	<string>promiseContext</string>
+	<key>standaloneconstraintoffset</key>
+	<string>processTechnique</string>
+	<key>taskForce</key>
+	<string>mediaqueryForce</string>
+	<key>uniformFinder</key>
+	<string>parseAction</string>
+</dict>
+</plist>

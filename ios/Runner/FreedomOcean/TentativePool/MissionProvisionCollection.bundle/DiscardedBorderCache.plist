@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicConfiguration</key>
+	<string>moduluscurve</string>
+	<key>basicSubpixel</key>
+	<string>pivotalActivity</string>
+	<key>currentCard</key>
+	<string>arithmeticaccessory</string>
+	<key>inactiveReceiver</key>
+	<string>canPopGridView</string>
+	<key>radioPadding</key>
+	<string>diffableCubit</string>
+	<key>semanticScene</key>
+	<string>labelParam</string>
+	<key>shouldObserveDocument</key>
+	<string>rectEdge</string>
+	<key>shouldformatgrayscale</key>
+	<string>unactivatedInkWell</string>
+	<key>typicalLog</key>
+	<string>permanentScene</string>
+</dict>
+</plist>

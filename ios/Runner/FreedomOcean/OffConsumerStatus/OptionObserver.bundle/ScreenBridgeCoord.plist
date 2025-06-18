@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>materializerleft</key>
+	<string>gridFramework</string>
+	<key>nextMaterializer</key>
+	<string>serviceTransparency</string>
+	<key>positionedBorder</key>
+	<string>mediaqueryOpacity</string>
+	<key>sensorbuilder</key>
+	<string>positionFrequency</string>
+	<key>shouldUnmountedPriority</key>
+	<string>processasync</string>
+	<key>shouldformataxis</key>
+	<string>canAttachComposition</string>
+</dict>
+</plist>

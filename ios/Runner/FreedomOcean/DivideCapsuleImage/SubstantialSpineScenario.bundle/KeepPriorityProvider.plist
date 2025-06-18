@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>confidentialityMomentum</key>
+	<string>scheduleDuration</string>
+	<key>drawerskewx</key>
+	<string>adaptiveCubit</string>
+	<key>eagerSemantics</key>
+	<string>shouldFormatAccessory</string>
+	<key>inheritedTicker</key>
+	<string>canPersistMaster</string>
+	<key>uniformMultiplication</key>
+	<string>rapidScene</string>
+</dict>
+</plist>

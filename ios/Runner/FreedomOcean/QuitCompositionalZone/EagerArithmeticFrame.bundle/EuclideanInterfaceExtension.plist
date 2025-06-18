@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumercurve</key>
+	<string>sustainableVolume</string>
+	<key>directlyLinker</key>
+	<string>loadMap</string>
+	<key>gridVelocity</key>
+	<string>buffercontainmethod</string>
+	<key>missedpopup</key>
+	<string>shouldFinishProject</string>
+	<key>radiusflyweightfrequency</key>
+	<string>consultativeOccasion</string>
+	<key>rapidConsumption</key>
+	<string>mainBloc</string>
+	<key>shouldBindRow</key>
+	<string>shouldEncodeModulus</string>
+	<key>shouldPauseSample</key>
+	<string>gateDepth</string>
+	<key>shouldRouteInteger</key>
+	<string>pointBorder</string>
+	<key>transformertag</key>
+	<string>singleConstant</string>
+</dict>
+</plist>

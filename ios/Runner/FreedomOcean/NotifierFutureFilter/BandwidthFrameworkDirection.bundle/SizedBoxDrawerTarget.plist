@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultScaffold</key>
+	<string>canSaveCycle</string>
+	<key>disabledSizedBox</key>
+	<string>cubitreceiver</string>
+	<key>entropyName</key>
+	<string>navigatorfeedback</string>
+	<key>intuitivePageView</key>
+	<string>animationTransparency</string>
+	<key>menuacceleration</key>
+	<string>liteCycle</string>
+	<key>multiasync</key>
+	<string>allocatorStrategy</string>
+	<key>pivotalthreshold</key>
+	<string>techniqueCount</string>
+	<key>scopePosition</key>
+	<string>boxVisibility</string>
+	<key>seamlessScaffold</key>
+	<string>fusedTouch</string>
+	<key>viewPadding</key>
+	<string>largeBinder</string>
+</dict>
+</plist>

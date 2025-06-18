@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customInstruction</key>
+	<string>overlayTag</string>
+	<key>directParticle</key>
+	<string>canSaveCapsule</string>
+	<key>explicitLabel</key>
+	<string>presenterDirection</string>
+	<key>gridviewScale</key>
+	<string>opaqueRoute</string>
+	<key>parallelTabBar</key>
+	<string>uniqueChart</string>
+	<key>projectionType</key>
+	<string>projectDuration</string>
+	<key>shouldDisposeSpecifier</key>
+	<string>calculateResult</string>
+	<key>shouldattachlogarithm</key>
+	<string>dynamicLatency</string>
+</dict>
+</plist>

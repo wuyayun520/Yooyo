@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analogyName</key>
+	<string>canBuildAnimatedContainer</string>
+	<key>basichistogramright</key>
+	<string>adaptiveContrast</string>
+	<key>cubitMargin</key>
+	<string>euclideanPadding</string>
+	<key>inflatemodal</key>
+	<string>invokeResolver</string>
+	<key>protectedMend</key>
+	<string>asynchronousAnimatedContainer</string>
+	<key>storeMargin</key>
+	<string>statelessVisibility</string>
+</dict>
+</plist>

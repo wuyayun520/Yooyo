@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardBottom</key>
+	<string>completionDuration</string>
+	<key>detachtransition</key>
+	<string>imperativeConsumer</string>
+	<key>grainDistance</key>
+	<string>mediaquerytask</string>
+	<key>numericalReducer</key>
+	<string>localGrid</string>
+	<key>numericalstate</key>
+	<string>immediateSlash</string>
+	<key>shouldFormatDelegate</key>
+	<string>sustainableTitle</string>
+	<key>shouldListenAnchor</key>
+	<string>missionLevel</string>
+	<key>shouldMountRadio</key>
+	<string>dismisslocalization</string>
+	<key>shouldObserveCapsule</key>
+	<string>offsetrenderer</string>
+	<key>unactivatedfilter</key>
+	<string>agileConsumption</string>
+</dict>
+</plist>

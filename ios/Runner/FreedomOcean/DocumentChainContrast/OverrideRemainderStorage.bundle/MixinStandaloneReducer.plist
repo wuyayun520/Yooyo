@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableTitle</key>
+	<string>canSubscribePainter</string>
+	<key>loopbesidepattern</key>
+	<string>schedulerLocation</string>
+	<key>resizableHeap</key>
+	<string>shouldPausePositioned</string>
+	<key>sharedAxis</key>
+	<string>benchmarkEvent</string>
+	<key>shouldStreamTextField</key>
+	<string>enumerateRadius</string>
+	<key>tappableThreshold</key>
+	<string>rapidInteractor</string>
+	<key>unactivatedInjection</key>
+	<string>formatright</string>
+</dict>
+</plist>

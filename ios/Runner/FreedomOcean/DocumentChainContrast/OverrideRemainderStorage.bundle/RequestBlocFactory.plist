@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cycletiervisibility</key>
+	<string>effectkind</string>
+	<key>enableddependency</key>
+	<string>fragmentshead</string>
+	<key>numericalalignment</key>
+	<string>bitrateDistance</string>
+	<key>paddingFlags</key>
+	<string>observerOrigin</string>
+	<key>paintdimension</key>
+	<string>channelMemento</string>
+	<key>shouldBuildCoordinator</key>
+	<string>createCompletion</string>
+	<key>tableHue</key>
+	<string>unsortedResult</string>
+	<key>typicaltimeline</key>
+	<string>nativeGraph</string>
+</dict>
+</plist>

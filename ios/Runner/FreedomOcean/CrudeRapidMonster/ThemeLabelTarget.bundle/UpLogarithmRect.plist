@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedTrajectory</key>
+	<string>unsortedremaindertag</string>
+	<key>dialogsobserverflags</key>
+	<string>descriptionOrigin</string>
+	<key>globalInfrastructure</key>
+	<string>sortedFlex</string>
+	<key>nativeAlignment</key>
+	<string>shouldStartEffect</string>
+	<key>navigatescene</key>
+	<string>adaptivecoordinatorkind</string>
+	<key>shouldLayoutInterpolation</key>
+	<string>normalTechnique</string>
+	<key>shouldRouteArithmetic</key>
+	<string>singleStore</string>
+	<key>unmountfeature</key>
+	<string>canvasType</string>
+</dict>
+</plist>

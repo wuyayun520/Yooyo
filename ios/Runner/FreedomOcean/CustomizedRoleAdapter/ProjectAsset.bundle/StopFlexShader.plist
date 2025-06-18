@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveSine</key>
+	<string>skipContraction</string>
+	<key>hardRenderer</key>
+	<string>denseStrength</string>
+	<key>immediatecube</key>
+	<string>interfaceAction</string>
+	<key>movementBrightness</key>
+	<string>interactorstate</string>
+	<key>requiredTask</key>
+	<string>selectedContraction</string>
+	<key>scrollerState</key>
+	<string>restartExpanded</string>
+	<key>sizedboxcoordinator</key>
+	<string>densePermutation</string>
+	<key>smarttangentdistance</key>
+	<string>regulateButton</string>
+	<key>synchronousFinder</key>
+	<string>adaptiveMethod</string>
+	<key>visibleconvolution</key>
+	<string>routerEdge</string>
+</dict>
+</plist>

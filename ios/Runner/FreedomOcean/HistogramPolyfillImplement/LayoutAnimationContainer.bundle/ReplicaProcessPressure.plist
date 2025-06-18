@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumemap</key>
+	<string>shouldUnbindNavigation</string>
+	<key>crucialContainer</key>
+	<string>layoutScale</string>
+	<key>dropoutrow</key>
+	<string>similarstoryboard</string>
+	<key>gradientInset</key>
+	<string>expandedprototypespeed</string>
+	<key>masteragainstvar</key>
+	<string>multiplicationobserverdensity</string>
+	<key>mediocreMesh</key>
+	<string>basicSegue</string>
+	<key>pageviewSaturation</key>
+	<string>rowdescription</string>
+	<key>shouldNotifyIndicator</key>
+	<string>equipmentTask</string>
+	<key>symmetricDisclaimer</key>
+	<string>euclideanResponder</string>
+</dict>
+</plist>

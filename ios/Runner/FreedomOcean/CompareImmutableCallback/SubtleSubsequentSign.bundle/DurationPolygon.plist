@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonmodel</key>
+	<string>animatesegue</string>
+	<key>currentCupertino</key>
+	<string>gridviaflyweight</string>
+	<key>customizedPolyfill</key>
+	<string>customizedSegue</string>
+	<key>lazyThroughput</key>
+	<string>deployResolver</string>
+	<key>numericalBrush</key>
+	<string>fragmentObserver</string>
+	<key>opaqueexceptionorientation</key>
+	<string>spotIndex</string>
+	<key>schemaDuration</key>
+	<string>orchestrateCallback</string>
+	<key>sustainableGroup</key>
+	<string>containerCount</string>
+</dict>
+</plist>

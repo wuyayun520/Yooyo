@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticConfiguration</key>
+	<string>scalabilityPadding</string>
+	<key>containerduringflyweight</key>
+	<string>tabviewWork</string>
+	<key>gridInterval</key>
+	<string>assetIndex</string>
+	<key>indicatorfrequency</key>
+	<string>amortizationRotation</string>
+	<key>singletonSaturation</key>
+	<string>statefulInterface</string>
+</dict>
+</plist>

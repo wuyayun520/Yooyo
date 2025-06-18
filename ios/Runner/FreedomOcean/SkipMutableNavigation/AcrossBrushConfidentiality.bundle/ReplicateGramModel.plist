@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeTaxonomy</key>
+	<string>graphicDepth</string>
+	<key>enabledClipper</key>
+	<string>streamfromactivity</string>
+	<key>mutableTable</key>
+	<string>replacecharacter</string>
+	<key>providerTag</key>
+	<string>localModule</string>
+	<key>scrollalongfacade</key>
+	<string>shouldListenComposition</string>
+</dict>
+</plist>

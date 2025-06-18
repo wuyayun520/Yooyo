@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxservice</key>
+	<string>resizableAmortization</string>
+	<key>currentbullet</key>
+	<string>screenForm</string>
+	<key>logarithmvelocity</key>
+	<string>previewPattern</string>
+	<key>matrixTag</key>
+	<string>typicalobservermode</string>
+	<key>opaqueNotation</key>
+	<string>missedQueue</string>
+	<key>resizableBehavior</key>
+	<string>secondMultiplication</string>
+	<key>shouldSkipModulus</key>
+	<string>canPrepareTechnique</string>
+	<key>singleDisclaimer</key>
+	<string>framedelay</string>
+	<key>temporaryProject</key>
+	<string>canPrepareScaffold</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentScheduler</key>
+	<string>independentVertex</string>
+	<key>displayableTweak</key>
+	<string>painterCommand</string>
+	<key>grayscalecommandbrightness</key>
+	<string>previewNumber</string>
+	<key>indicatorcreator</key>
+	<string>shouldUpdateRichText</string>
+	<key>recthead</key>
+	<string>constraintalongdecorator</string>
+	<key>responsiveScheduler</key>
+	<string>canRouteMember</string>
+	<key>visibledescriptor</key>
+	<string>infoIndex</string>
+</dict>
+</plist>

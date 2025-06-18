@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousMenu</key>
+	<string>decodeTheme</string>
+	<key>explicitConsumer</key>
+	<string>requiredNotification</string>
+	<key>fixedMonster</key>
+	<string>synchronousgrayscalerotation</string>
+	<key>immediateSpine</key>
+	<string>numericalthreadvisible</string>
+</dict>
+</plist>

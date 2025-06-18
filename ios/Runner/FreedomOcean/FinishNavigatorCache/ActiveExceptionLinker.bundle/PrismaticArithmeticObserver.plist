@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationindex</key>
+	<string>shouldContinueCell</string>
+	<key>cubeFrequency</key>
+	<string>aspectTail</string>
+	<key>dependencyShade</key>
+	<string>localCubit</string>
+	<key>scrollVelocity</key>
+	<string>themePosition</string>
+	<key>shouldpopinkwell</key>
+	<string>gateStage</string>
+	<key>tensorBatch</key>
+	<string>routeTop</string>
+</dict>
+</plist>

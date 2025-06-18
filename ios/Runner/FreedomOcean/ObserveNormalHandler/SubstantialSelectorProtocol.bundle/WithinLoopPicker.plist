@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllermediatorshade</key>
+	<string>specifyContainer</string>
+	<key>customPermutation</key>
+	<string>unactivatedUseCase</string>
+	<key>mobileHead</key>
+	<string>shouldListenRole</string>
+	<key>screenopacity</key>
+	<string>isolateProxy</string>
+	<key>selectorState</key>
+	<string>diffableDispatcher</string>
+	<key>shouldPopHistogram</key>
+	<string>unactivatedTrigger</string>
+</dict>
+</plist>

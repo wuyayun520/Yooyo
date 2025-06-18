@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultCupertino</key>
+	<string>basicPosition</string>
+	<key>fixedTrigger</key>
+	<string>prevDialogs</string>
+	<key>hyperbolicPermutation</key>
+	<string>adaptiveRadio</string>
+	<key>monsterTransparency</key>
+	<string>similarAspect</string>
+	<key>shouldListenTernary</key>
+	<string>makeController</string>
+</dict>
+</plist>

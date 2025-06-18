@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaAcceleration</key>
+	<string>resilienceTheme</string>
+	<key>deferredSignature</key>
+	<string>subscribespecifier</string>
+	<key>eagerEquipment</key>
+	<string>gestureAdapter</string>
+	<key>invisibleEntropy</key>
+	<string>listenerrotation</string>
+	<key>kernelMargin</key>
+	<string>mutableIntensity</string>
+	<key>permanentDialogs</key>
+	<string>temporaryEquipment</string>
+	<key>prismaticobserver</key>
+	<string>shouldStartModal</string>
+</dict>
+</plist>

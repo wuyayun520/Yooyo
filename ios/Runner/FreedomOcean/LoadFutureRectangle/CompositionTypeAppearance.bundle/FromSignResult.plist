@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseFeature</key>
+	<string>invokeHash</string>
+	<key>permanentBloc</key>
+	<string>canMountedTask</string>
+	<key>providesemantics</key>
+	<string>elasticityCoord</string>
+	<key>shouldKeepContainer</key>
+	<string>unaryTop</string>
+	<key>shouldRestartBloc</key>
+	<string>staticOperation</string>
+</dict>
+</plist>

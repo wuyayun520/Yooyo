@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compareawait</key>
+	<string>cupertinoSemantics</string>
+	<key>desktopOffset</key>
+	<string>shearFeature</string>
+	<key>enabledcertificate</key>
+	<string>adaptiveExponent</string>
+	<key>opaqueImage</key>
+	<string>cupertinotension</string>
+	<key>retainedConfiguration</key>
+	<string>completerBottom</string>
+	<key>shouldCacheMaterial</key>
+	<string>transformVariant</string>
+	<key>shouldEncodeText</key>
+	<string>responsiveNavigation</string>
+</dict>
+</plist>

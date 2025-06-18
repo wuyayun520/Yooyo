@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalDescription</key>
+	<string>shouldRenderOverlay</string>
+	<key>resilientmonstervisible</key>
+	<string>shouldtransformbinary</string>
+	<key>shouldRebuildSpot</key>
+	<string>buildChallenge</string>
+	<key>shouldReplaceMobile</key>
+	<string>rectifyCubit</string>
+	<key>specifygate</key>
+	<string>pushScaffold</string>
+</dict>
+</plist>

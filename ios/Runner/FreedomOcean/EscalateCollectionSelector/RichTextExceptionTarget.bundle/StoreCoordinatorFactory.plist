@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistpopup</key>
+	<string>canSkipShader</string>
+	<key>formatbullet</key>
+	<string>smartRestriction</string>
+	<key>lazyrecursion</key>
+	<string>progressbarefficiency</string>
+	<key>mobileSine</key>
+	<string>injectionBorder</string>
+	<key>monsterDensity</key>
+	<string>canUnmountedReference</string>
+	<key>notifypromise</key>
+	<string>streamtierinset</string>
+	<key>reactiveConstant</key>
+	<string>shouldLayoutRichText</string>
+	<key>shouldCacheSine</key>
+	<string>scalabilityDensity</string>
+</dict>
+</plist>

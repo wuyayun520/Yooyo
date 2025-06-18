@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificatePosition</key>
+	<string>replicateRow</string>
+	<key>delegatepublisher</key>
+	<string>canNotifyModulus</string>
+	<key>dynamicAspectRatio</key>
+	<string>fetchScroll</string>
+	<key>explicitSink</key>
+	<string>captionFormat</string>
+	<key>rangeVisible</key>
+	<string>canAttachScaffold</string>
+	<key>responsiveExponent</key>
+	<string>resourceIndex</string>
+</dict>
+</plist>

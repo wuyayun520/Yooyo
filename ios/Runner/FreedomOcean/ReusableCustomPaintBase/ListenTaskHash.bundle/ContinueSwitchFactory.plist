@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityCount</key>
+	<string>canContinueTouch</string>
+	<key>comprehensiveInjection</key>
+	<string>canCacheMomentum</string>
+	<key>gridMode</key>
+	<string>stackLocation</string>
+	<key>gridviewSize</key>
+	<string>hassubpixel</string>
+	<key>permanentTimeline</key>
+	<string>sharedInjection</string>
+	<key>shouldParseRadio</key>
+	<string>unsortedInfo</string>
+</dict>
+</plist>

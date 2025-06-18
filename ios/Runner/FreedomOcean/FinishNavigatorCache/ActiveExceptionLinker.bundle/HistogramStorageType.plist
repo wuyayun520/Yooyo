@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completeradapterindex</key>
+	<string>observecertificate</string>
+	<key>controllermapper</key>
+	<string>stepWork</string>
+	<key>desktoploopskewx</key>
+	<string>criticalbinder</string>
+	<key>dropdownbuttonBorder</key>
+	<string>disconnectDropdownButton</string>
+	<key>shouldKeepMediaQuery</key>
+	<string>shouldPersistSubpixel</string>
+</dict>
+</plist>

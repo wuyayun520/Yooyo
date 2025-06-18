@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controlleritem</key>
+	<string>skirtProcess</string>
+	<key>denseAxis</key>
+	<string>streamparameterdepth</string>
+	<key>directlyDescriptor</key>
+	<string>inflateMatrix</string>
+	<key>localizationStyle</key>
+	<string>buildSpot</string>
+	<key>opaqueProtocol</key>
+	<string>canRestartWidget</string>
+	<key>painterPosition</key>
+	<string>usedMethod</string>
+	<key>resizableSizedBox</key>
+	<string>canUnbindGestureDetector</string>
+	<key>sustainableRectangle</key>
+	<string>subtleClipper</string>
+</dict>
+</plist>

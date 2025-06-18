@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>attachrow</key>
+	<string>channelsvalidation</string>
+	<key>emitdropdownbutton</key>
+	<string>dispatchGrayscale</string>
+	<key>referencemode</key>
+	<string>activityShape</string>
+	<key>sanitizealpha</key>
+	<string>utilNumber</string>
+	<key>setstateoffset</key>
+	<string>semanticsFramework</string>
+	<key>shouldCreateCurve</key>
+	<string>readChannel</string>
+	<key>sophisticatedInteractor</key>
+	<string>canConnectRichText</string>
+	<key>subscriptionEdge</key>
+	<string>switchOperation</string>
+	<key>usedDrawer</key>
+	<string>routePriority</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorShape</key>
+	<string>inkwellLayer</string>
+	<key>capsuletransformer</key>
+	<string>isview</string>
+	<key>deferredchartstate</key>
+	<string>streamCollection</string>
+	<key>firstMethod</key>
+	<string>decorationInterval</string>
+	<key>intermediateCosine</key>
+	<string>asynchronousTransformer</string>
+	<key>pivotalAxis</key>
+	<string>inactiveVertex</string>
+	<key>processmanager</key>
+	<string>deserializeOperation</string>
+	<key>segmentRotation</key>
+	<string>ephemeralTangent</string>
+	<key>shouldEndMobile</key>
+	<string>attachConstraint</string>
+</dict>
+</plist>

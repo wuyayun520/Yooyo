@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completeractivityedge</key>
+	<string>utilrange</string>
+	<key>gridInterval</key>
+	<string>shouldDispatchCheckbox</string>
+	<key>immediateTaxonomy</key>
+	<string>delegaterepository</string>
+	<key>locateoffset</key>
+	<string>canInflateOperation</string>
+	<key>numericaldependency</key>
+	<string>pinchableTrajectory</string>
+	<key>pageviewDelay</key>
+	<string>imagetag</string>
+	<key>shouldYieldIndicator</key>
+	<string>basicMember</string>
+	<key>smallLatency</key>
+	<string>sequentialButton</string>
+</dict>
+</plist>

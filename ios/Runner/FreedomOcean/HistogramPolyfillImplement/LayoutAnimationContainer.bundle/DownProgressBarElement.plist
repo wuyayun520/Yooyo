@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionAction</key>
+	<string>canSkipAspectRatio</string>
+	<key>beginnerThreshold</key>
+	<string>singleButton</string>
+	<key>crucialSpecifier</key>
+	<string>shouldRebuildCell</string>
+	<key>displayableConstant</key>
+	<string>monstercount</string>
+	<key>multinorm</key>
+	<string>gateSize</string>
+	<key>numericalTrigger</key>
+	<string>accordioncontainercolor</string>
+	<key>releaseposition</key>
+	<string>staticConverter</string>
+	<key>resolveratvisitor</key>
+	<string>debugRow</string>
+	<key>usedBinder</key>
+	<string>unactivatedStamp</string>
+</dict>
+</plist>

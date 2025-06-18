@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesFlags</key>
+	<string>activeEquipment</string>
+	<key>collectionSkewX</key>
+	<string>smartbuffer</string>
+	<key>criticalSymbol</key>
+	<string>documentBottom</string>
+	<key>diversifiedCallback</key>
+	<string>deferredProvision</string>
+	<key>permissiveUsage</key>
+	<string>respondRow</string>
+	<key>shouldMountRole</key>
+	<string>canDeserializeWidget</string>
+	<key>streamlineclipper</key>
+	<string>appbarFlyweight</string>
+	<key>webPublisher</key>
+	<string>canSaveMargin</string>
+</dict>
+</plist>

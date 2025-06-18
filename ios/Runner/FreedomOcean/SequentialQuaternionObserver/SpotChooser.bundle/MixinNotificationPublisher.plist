@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>requestcompositerotation</key>
+	<string>permutationOrigin</string>
+	<key>shouldDetachTransition</key>
+	<string>canPushCharacter</string>
+	<key>similarMerger</key>
+	<string>clearResolver</string>
+	<key>sinkduringflyweight</key>
+	<string>remainderCount</string>
+	<key>zonerestriction</key>
+	<string>shouldConnectTransition</string>
+</dict>
+</plist>

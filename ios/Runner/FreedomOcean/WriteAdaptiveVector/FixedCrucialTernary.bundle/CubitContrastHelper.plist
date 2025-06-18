@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>attachskin</key>
+	<string>metricsFeedback</string>
+	<key>beginnerChannels</key>
+	<string>evolutionAlignment</string>
+	<key>commoncompletion</key>
+	<string>fragmentForm</string>
+	<key>customizedMapper</key>
+	<string>logarithmState</string>
+	<key>elasticTrigger</key>
+	<string>transformerRotation</string>
+	<key>resourceFeedback</key>
+	<string>equalInterface</string>
+</dict>
+</plist>

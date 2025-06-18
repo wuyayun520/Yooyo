@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedNavigation</key>
+	<string>destroyEntity</string>
+	<key>chapterShape</key>
+	<string>standaloneCosine</string>
+	<key>directlyDelegate</key>
+	<string>enabledScene</string>
+	<key>fixedNode</key>
+	<string>capsuleSingleton</string>
+	<key>shouldSerializeCoordinator</key>
+	<string>signOrigin</string>
+	<key>shouldSerializeRole</key>
+	<string>attachcoordinator</string>
+	<key>shouldShowInterpolation</key>
+	<string>actiontolerance</string>
+</dict>
+</plist>

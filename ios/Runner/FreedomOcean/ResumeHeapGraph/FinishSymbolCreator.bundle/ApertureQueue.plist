@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocPressure</key>
+	<string>temporaryMetrics</string>
+	<key>draggablelayoutpadding</key>
+	<string>canPushAlert</string>
+	<key>equipmentBottom</key>
+	<string>canResumeArithmetic</string>
+	<key>lostPainter</key>
+	<string>particleTag</string>
+	<key>permanentBorder</key>
+	<string>particleKind</string>
+	<key>visibleRow</key>
+	<string>missionsorter</string>
+</dict>
+</plist>

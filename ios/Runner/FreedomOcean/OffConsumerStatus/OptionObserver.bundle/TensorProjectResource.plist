@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeException</key>
+	<string>dynamicRenderer</string>
+	<key>autoTangent</key>
+	<string>desktopKernel</string>
+	<key>deferredLabel</key>
+	<string>dependencyHue</string>
+	<key>listviewAppearance</key>
+	<string>persistentVideo</string>
+	<key>shouldConnectGradient</key>
+	<string>permutationSize</string>
+	<key>specifyTask</key>
+	<string>borderOpacity</string>
+</dict>
+</plist>

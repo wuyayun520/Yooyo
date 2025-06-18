@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellAppearance</key>
+	<string>iconMethod</string>
+	<key>explicitTangent</key>
+	<string>statelessLabel</string>
+	<key>graphtransparency</key>
+	<string>shouldDeserializeContainer</string>
+	<key>shouldContinueBox</key>
+	<string>advancedresponder</string>
+	<key>temporarywidgetkind</key>
+	<string>fixedSlash</string>
+</dict>
+</plist>

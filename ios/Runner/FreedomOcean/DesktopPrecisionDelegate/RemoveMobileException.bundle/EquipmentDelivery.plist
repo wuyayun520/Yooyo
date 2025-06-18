@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumptionInterval</key>
+	<string>canPushHistogram</string>
+	<key>grouprate</key>
+	<string>lostImpact</string>
+	<key>shouldSkipNavigation</key>
+	<string>instantiateRepository</string>
+	<key>tensorEntity</key>
+	<string>usecasecolor</string>
+</dict>
+</plist>

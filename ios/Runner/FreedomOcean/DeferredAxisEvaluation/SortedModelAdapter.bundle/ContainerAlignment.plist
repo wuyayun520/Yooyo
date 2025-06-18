@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curvestate</key>
+	<string>reactiveCompletion</string>
+	<key>invisibleChecklist</key>
+	<string>secondManager</string>
+	<key>normwithouttier</key>
+	<string>shaderAdapter</string>
+	<key>projectamongmethod</key>
+	<string>associateTransition</string>
+	<key>segueMode</key>
+	<string>exceptioncount</string>
+</dict>
+</plist>

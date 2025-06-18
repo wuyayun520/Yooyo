@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeAlignment</key>
+	<string>wrapDelegate</string>
+	<key>defaultTransition</key>
+	<string>shouldtransitionaxis</string>
+	<key>draggablematrix</key>
+	<string>animatedcontainerMemento</string>
+	<key>normalConvolution</key>
+	<string>unmountedTouch</string>
+	<key>positionedInset</key>
+	<string>requestHandler</string>
+	<key>responsivepreviewshape</key>
+	<string>paddingShade</string>
+	<key>sequentialGraph</key>
+	<string>webInteractor</string>
+	<key>serializecard</key>
+	<string>processorDirection</string>
+	<key>shouldsubscribemission</key>
+	<string>shouldcancelsample</string>
+	<key>unactivatedText</key>
+	<string>canNotifyMusic</string>
+</dict>
+</plist>

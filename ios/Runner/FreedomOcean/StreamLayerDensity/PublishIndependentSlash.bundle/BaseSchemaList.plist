@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoBorder</key>
+	<string>canEmitSegue</string>
+	<key>mediumTween</key>
+	<string>buildervalueleft</string>
+	<key>skipposition</key>
+	<string>primaryResponse</string>
+	<key>sliderwithvalue</key>
+	<string>accordionSign</string>
+	<key>specifySpecifier</key>
+	<string>directlyNavigator</string>
+	<key>substantialActivity</key>
+	<string>beginnerLayout</string>
+	<key>titleSize</key>
+	<string>shouldFinishCustomPaint</string>
+</dict>
+</plist>

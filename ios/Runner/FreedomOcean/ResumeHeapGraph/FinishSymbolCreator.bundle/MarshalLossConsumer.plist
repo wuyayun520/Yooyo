@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardColor</key>
+	<string>timelineMode</string>
+	<key>builderbandwidth</key>
+	<string>searcherduration</string>
+	<key>dedicatedEquipment</key>
+	<string>elasticprovider</string>
+	<key>hasPlayback</key>
+	<string>subscribeexception</string>
+	<key>infrastructureTail</key>
+	<string>shouldEndScaffold</string>
+	<key>materializerSkewX</key>
+	<string>deflateRouter</string>
+</dict>
+</plist>

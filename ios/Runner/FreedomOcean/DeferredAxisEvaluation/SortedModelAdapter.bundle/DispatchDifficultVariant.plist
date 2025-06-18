@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleFilter</key>
+	<string>animationevolution</string>
+	<key>accordionAccessory</key>
+	<string>resizableDecoration</string>
+	<key>backwardManager</key>
+	<string>channellayertension</string>
+	<key>batchOrientation</key>
+	<string>enabledArchitecture</string>
+	<key>impressionState</key>
+	<string>effectprocessor</string>
+	<key>objectPadding</key>
+	<string>informationFeedback</string>
+	<key>webcontrast</key>
+	<string>durationproxyacceleration</string>
+</dict>
+</plist>

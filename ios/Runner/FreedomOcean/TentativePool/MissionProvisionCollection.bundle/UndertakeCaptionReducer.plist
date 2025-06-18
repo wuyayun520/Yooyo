@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fixedColumn</key>
+	<string>destroyUtil</string>
+	<key>newestMultiplication</key>
+	<string>accessibleSprite</string>
+	<key>persistentTheme</key>
+	<string>animatedStoryboard</string>
+	<key>responsiveextensiontype</key>
+	<string>widgetvisible</string>
+	<key>shouldRouteTool</key>
+	<string>protectedDocument</string>
+</dict>
+</plist>

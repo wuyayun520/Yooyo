@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deliveryBehavior</key>
+	<string>dispatchView</string>
+	<key>pinchableRepository</key>
+	<string>canPrepareArithmetic</string>
+	<key>shouldDispatchSegue</key>
+	<string>declarativeChapter</string>
+	<key>shouldShowSwitch</key>
+	<string>enabledRole</string>
+	<key>specifySprite</key>
+	<string>undertakeScene</string>
+	<key>substantialView</key>
+	<string>animatedtimerappearance</string>
+</dict>
+</plist>

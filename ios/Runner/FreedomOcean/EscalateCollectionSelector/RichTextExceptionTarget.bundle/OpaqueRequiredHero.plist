@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeConverter</key>
+	<string>resumeSensor</string>
+	<key>dynamicNode</key>
+	<string>inactiveUseCase</string>
+	<key>fragmentinterface</key>
+	<string>canObserveCheckbox</string>
+	<key>imagewidget</key>
+	<string>granularAmortization</string>
+	<key>nodeOpacity</key>
+	<string>memberParam</string>
+	<key>shouldMountInteger</key>
+	<string>shouldSaveCursor</string>
+	<key>shouldRestartSine</key>
+	<string>restoreStore</string>
+	<key>statelessGrid</key>
+	<string>immutableReliability</string>
+</dict>
+</plist>

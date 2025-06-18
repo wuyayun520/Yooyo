@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorleft</key>
+	<string>canCreateDropdownButton</string>
+	<key>eagerRect</key>
+	<string>richtextscroller</string>
+	<key>mediumTrigger</key>
+	<string>sizedboxOrigin</string>
+	<key>notationVisibility</key>
+	<string>medianumberdepth</string>
+	<key>resilientMomentum</key>
+	<string>polyfillSkewX</string>
+	<key>shouldPopDelegate</key>
+	<string>primarySubscription</string>
+	<key>uniqueStrength</key>
+	<string>streamDirection</string>
+	<key>unsortedDuration</key>
+	<string>equipmentAcceleration</string>
+</dict>
+</plist>

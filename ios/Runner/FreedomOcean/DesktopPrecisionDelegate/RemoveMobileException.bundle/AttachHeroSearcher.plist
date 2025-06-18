@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>movementBehavior</key>
+	<string>configurationMethod</string>
+	<key>opaqueCombiner</key>
+	<string>widgetDelay</string>
+	<key>relationalTime</key>
+	<string>composablePreview</string>
+	<key>shouldAnimateHeap</key>
+	<string>streamBottom</string>
+	<key>shouldCacheMaster</key>
+	<string>listenertransformer</string>
+</dict>
+</plist>

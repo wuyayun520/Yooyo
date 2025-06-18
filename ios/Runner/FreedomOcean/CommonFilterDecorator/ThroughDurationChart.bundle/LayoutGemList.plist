@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>sharedEvent</key>
+	<string>sustainableLatency</string>
+	<key>shouldDisconnectRemainder</key>
+	<string>rebuildCapsule</string>
+	<key>unactivatedGesture</key>
+	<string>shouldSetStateExtension</string>
+	<key>uniformdispatcher</key>
+	<string>deferredIndicator</string>
+	<key>usedAscent</key>
+	<string>isolateevent</string>
+</dict>
+</plist>

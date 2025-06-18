@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderconverter</key>
+	<string>observeSingleton</string>
+	<key>navigatorduringstrategy</key>
+	<string>volumeRate</string>
+	<key>shouldShowChecklist</key>
+	<string>nextInjection</string>
+	<key>substantialsigntransparency</key>
+	<string>defaultgram</string>
+</dict>
+</plist>

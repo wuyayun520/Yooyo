@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedCallback</key>
+	<string>dedicatedResource</string>
+	<key>concurrentclipper</key>
+	<string>canListenProtocol</string>
+	<key>presentercallback</key>
+	<string>tappableBorder</string>
+	<key>segueprocessor</key>
+	<string>statefulCreator</string>
+	<key>shouldInflateAnchor</key>
+	<string>navigateStore</string>
+	<key>subtleUsage</key>
+	<string>arithmeticPolyfill</string>
+	<key>toolleft</key>
+	<string>tensorSingleton</string>
+	<key>widgetatactivity</key>
+	<string>canInflateCoordinator</string>
+	<key>workflowRotation</key>
+	<string>shouldUnbindView</string>
+</dict>
+</plist>

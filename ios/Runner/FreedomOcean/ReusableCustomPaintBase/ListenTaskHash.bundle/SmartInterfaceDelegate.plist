@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardTail</key>
+	<string>shouldDisconnectModal</string>
+	<key>finishvector</key>
+	<string>executeFeature</string>
+	<key>logRight</key>
+	<string>elementCount</string>
+	<key>mediumIcon</key>
+	<string>vectorSingleton</string>
+	<key>observername</key>
+	<string>resilientConstant</string>
+	<key>reconcileentity</key>
+	<string>listenerPosition</string>
+	<key>requestLeft</key>
+	<string>holdAsync</string>
+	<key>shouldMountAlpha</key>
+	<string>respectiveMenu</string>
+	<key>subscriberVisibility</key>
+	<string>detectorEdge</string>
+	<key>zoneIndex</key>
+	<string>segueFunction</string>
+</dict>
+</plist>

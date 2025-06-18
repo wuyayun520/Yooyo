@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzerLeft</key>
+	<string>brushDecorator</string>
+	<key>largeReduction</key>
+	<string>processChart</string>
+	<key>movementtask</key>
+	<string>connectorForce</string>
+	<key>oldChooser</key>
+	<string>dissociatedecoration</string>
+	<key>shouldParseModulus</key>
+	<string>interactionEdge</string>
+</dict>
+</plist>

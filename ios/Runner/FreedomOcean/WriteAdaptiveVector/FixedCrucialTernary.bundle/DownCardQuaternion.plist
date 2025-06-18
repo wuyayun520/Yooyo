@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectprocessalignment</key>
+	<string>listenListener</string>
+	<key>associateconstraint</key>
+	<string>grainMemento</string>
+	<key>fragmentlikeenvironment</key>
+	<string>interpolateTicker</string>
+	<key>mediumThread</key>
+	<string>prevsinetransparency</string>
+	<key>shouldFormatMember</key>
+	<string>accordionBinder</string>
+	<key>shouldLoadSemantics</key>
+	<string>shouldRestartView</string>
+	<key>shouldSaveGestureDetector</key>
+	<string>canObserveAnimatedContainer</string>
+	<key>smartPermutation</key>
+	<string>scaffoldDecorator</string>
+	<key>spineDuration</key>
+	<string>mediaqueryvelocity</string>
+</dict>
+</plist>

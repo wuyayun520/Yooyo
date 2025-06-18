@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoconvolution</key>
+	<string>indicatorLayer</string>
+	<key>dataBottom</key>
+	<string>providerPrototype</string>
+	<key>functionalGrayscale</key>
+	<string>cardSaturation</string>
+	<key>inflaterepository</key>
+	<string>reusableTriangles</string>
+	<key>offsetEdge</key>
+	<string>differentiateCubit</string>
+	<key>parsecheckbox</key>
+	<string>robustCompleter</string>
+	<key>promiseFormat</key>
+	<string>smarttopic</string>
+	<key>reducerIndex</key>
+	<string>resizableSize</string>
+	<key>transformerSkewX</key>
+	<string>canFormatRichText</string>
+	<key>visiblePriority</key>
+	<string>builderthroughstructure</string>
+</dict>
+</plist>

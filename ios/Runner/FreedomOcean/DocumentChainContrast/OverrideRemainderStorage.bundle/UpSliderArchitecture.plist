@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>nativeMember</key>
+	<string>fetchCheckbox</string>
+	<key>slashPressure</key>
+	<string>overlayHead</string>
+	<key>updatechannel</key>
+	<string>integritySkewX</string>
+</dict>
+</plist>

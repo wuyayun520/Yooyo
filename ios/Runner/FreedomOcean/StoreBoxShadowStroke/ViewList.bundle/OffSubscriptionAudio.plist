@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dispatcherTop</key>
+	<string>buildervelocity</string>
+	<key>distinctionTransparency</key>
+	<string>grayscaleduration</string>
+	<key>notifierMode</key>
+	<string>effectFlags</string>
+	<key>prevEquivalent</key>
+	<string>entityHue</string>
+	<key>shouldRestartHeap</key>
+	<string>configurationMediator</string>
+	<key>standaloneMaster</key>
+	<string>shouldFormatRadio</string>
+</dict>
+</plist>

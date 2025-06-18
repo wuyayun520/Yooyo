@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>invisibleviewedge</key>
+	<string>consumerKind</string>
+	<key>layoutstatepadding</key>
+	<string>sequentialdelegate</string>
+	<key>movementperparameter</key>
+	<string>staticZone</string>
+	<key>projectHue</key>
+	<string>unactivatedLatency</string>
+	<key>protectedRole</key>
+	<string>canDisposeInkWell</string>
+	<key>reducercontexttension</key>
+	<string>shouldBindBuilder</string>
+	<key>shouldDeserializeAlert</key>
+	<string>cupertinoFeedback</string>
+	<key>shouldUnbindChannels</key>
+	<string>shouldEndMatrix</string>
+	<key>specifyConvolution</key>
+	<string>deactivatesession</string>
+</dict>
+</plist>

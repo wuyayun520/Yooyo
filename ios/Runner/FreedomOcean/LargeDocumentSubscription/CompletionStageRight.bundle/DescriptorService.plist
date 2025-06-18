@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeStoryboard</key>
+	<string>shouldProcessBorder</string>
+	<key>ignoredOperation</key>
+	<string>priorityBrightness</string>
+	<key>indicatormargin</key>
+	<string>mountedPoint</string>
+	<key>largeReduction</key>
+	<string>characteristicRotation</string>
+	<key>mapOrigin</key>
+	<string>shouldProcessCertificate</string>
+	<key>shouldListenMonster</key>
+	<string>appbarScale</string>
+	<key>signAlignment</key>
+	<string>shouldPauseBoxShadow</string>
+	<key>stackgrain</key>
+	<string>compileLocalization</string>
+	<key>usedchanneltint</key>
+	<string>allocatorEnvironment</string>
+</dict>
+</plist>

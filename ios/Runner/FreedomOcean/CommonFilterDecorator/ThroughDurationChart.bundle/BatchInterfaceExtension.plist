@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeAlert</key>
+	<string>encodeModal</string>
+	<key>inactiveSegue</key>
+	<string>cloneStorage</string>
+	<key>mutableRecursion</key>
+	<string>shouldPopAlert</string>
+	<key>otherJoiner</key>
+	<string>standaloneContraction</string>
+	<key>permissiveTitle</key>
+	<string>signActivity</string>
+	<key>shoulddisconnectconsumer</key>
+	<string>mobileUseCase</string>
+	<key>tensorContrast</key>
+	<string>retrieveIsolate</string>
+	<key>viewVisible</key>
+	<string>mountedInterpolation</string>
+</dict>
+</plist>

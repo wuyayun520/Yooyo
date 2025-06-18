@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>plateconfiguration</key>
+	<string>uniqueComposition</string>
+	<key>priortitlelocation</key>
+	<string>decodeBatch</string>
+	<key>tappableTangent</key>
+	<string>releaseAwait</string>
+	<key>uniqueCube</key>
+	<string>shouldEndComposition</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentusage</key>
+	<string>synchronoustechniqueindex</string>
+	<key>delicateSubscriber</key>
+	<string>canStopGrayscale</string>
+	<key>immediateOverlay</key>
+	<string>stepDepth</string>
+	<key>respondtheme</key>
+	<string>introspectSink</string>
+	<key>sharedCertificate</key>
+	<string>parseNotification</string>
+	<key>shouldshowcupertino</key>
+	<string>compareSubscription</string>
+</dict>
+</plist>

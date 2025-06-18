@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationbehavior</key>
+	<string>shouldHandleAccessory</string>
+	<key>declarativeSplitter</key>
+	<string>connectreduction</string>
+	<key>geometricProfile</key>
+	<string>injectGraph</string>
+	<key>provideraboutproxy</key>
+	<string>canLoadMedia</string>
+</dict>
+</plist>

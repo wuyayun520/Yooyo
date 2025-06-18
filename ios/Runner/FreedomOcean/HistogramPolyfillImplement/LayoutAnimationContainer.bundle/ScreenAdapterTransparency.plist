@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicTool</key>
+	<string>timerCommand</string>
+	<key>cardForce</key>
+	<string>pinchableResponse</string>
+	<key>dynamicSession</key>
+	<string>confidentialityBound</string>
+	<key>enabledPadding</key>
+	<string>skipinteractor</string>
+	<key>handlerintegrity</key>
+	<string>iterativeFuture</string>
+	<key>mobileTimer</key>
+	<string>momentumShade</string>
+	<key>resolverhue</key>
+	<string>contractionTail</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>emitslash</key>
+	<string>compositionDirection</string>
+	<key>fixedMethod</key>
+	<string>accordionAmortization</string>
+	<key>pivotalVolume</key>
+	<string>singletonTail</string>
+	<key>reconcilestream</key>
+	<string>reusableSensor</string>
+	<key>serializequeue</key>
+	<string>skipWidget</string>
+	<key>shouldDispatchMaterial</key>
+	<string>cubitpicker</string>
+	<key>shouldPaintScale</key>
+	<string>statelessrowkind</string>
+</dict>
+</plist>

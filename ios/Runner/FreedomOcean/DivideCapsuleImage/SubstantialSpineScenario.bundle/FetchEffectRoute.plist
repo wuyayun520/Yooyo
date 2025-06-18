@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activitytolerance</key>
+	<string>provideractionmode</string>
+	<key>arithmeticNib</key>
+	<string>canYieldPet</string>
+	<key>batchBottom</key>
+	<string>buildernotation</string>
+	<key>builderRotation</key>
+	<string>hardPrecision</string>
+	<key>clonemodel</key>
+	<string>loopAdapter</string>
+	<key>detachmodel</key>
+	<string>imperativeRadius</string>
+	<key>graphShade</key>
+	<string>heroDuration</string>
+	<key>navigatoreffect</key>
+	<string>widgetinset</string>
+	<key>performtopic</key>
+	<string>evaluateFactory</string>
+	<key>visibleNotification</key>
+	<string>provisionFlags</string>
+</dict>
+</plist>

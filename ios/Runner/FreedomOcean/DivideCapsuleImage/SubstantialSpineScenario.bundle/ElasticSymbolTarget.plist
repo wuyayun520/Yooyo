@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorContrast</key>
+	<string>operationFrequency</string>
+	<key>completionVisibility</key>
+	<string>containerimage</string>
+	<key>directlySensor</key>
+	<string>standaloneConnector</string>
+	<key>errorstructureskewy</key>
+	<string>originalOffset</string>
+	<key>protectedcontainer</key>
+	<string>detachtexture</string>
+</dict>
+</plist>

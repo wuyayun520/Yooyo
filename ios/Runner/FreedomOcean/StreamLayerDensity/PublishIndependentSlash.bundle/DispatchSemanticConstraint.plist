@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>easyInterpolation</key>
+	<string>canUpdateBorder</string>
+	<key>reducerLocation</key>
+	<string>resourceFacade</string>
+	<key>resilientPadding</key>
+	<string>memberexception</string>
+	<key>scrollableDescent</key>
+	<string>partitionNavigator</string>
+	<key>shouldPopAlert</key>
+	<string>notifyDialogs</string>
+	<key>shouldPublishPet</key>
+	<string>missionanalyzer</string>
+</dict>
+</plist>

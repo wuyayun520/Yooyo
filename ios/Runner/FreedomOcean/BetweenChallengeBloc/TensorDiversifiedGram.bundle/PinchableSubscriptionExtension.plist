@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>intermediateSkin</key>
+	<string>shouldRouteGrayscale</string>
+	<key>mechanismBehavior</key>
+	<string>roleOperation</string>
+	<key>oldprovision</key>
+	<string>apertureTransparency</string>
+	<key>resilientSkin</key>
+	<string>agileTraversal</string>
+	<key>rowlocation</key>
+	<string>inheritedInfo</string>
+	<key>shouldInflateActivity</key>
+	<string>appbarMethod</string>
+	<key>tableAlignment</key>
+	<string>protocolContext</string>
+	<key>tappableTexture</key>
+	<string>ontransitionchanged</string>
+</dict>
+</plist>

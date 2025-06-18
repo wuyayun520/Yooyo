@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedintensity</key>
+	<string>canSaveSpecifier</string>
+	<key>consumptionStyle</key>
+	<string>hierarchicalStorage</string>
+	<key>gestureexceptstyle</key>
+	<string>spinIntensity</string>
+	<key>permissiveRecursion</key>
+	<string>containerComposite</string>
+	<key>sessionBound</key>
+	<string>immediateSound</string>
+	<key>shouldLoadMap</key>
+	<string>keyScroller</string>
+</dict>
+</plist>

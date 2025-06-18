@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fragmentsForce</key>
+	<string>flexstate</string>
+	<key>layoutBorder</key>
+	<string>activeBuffer</string>
+	<key>pushspecifier</key>
+	<string>deferredConfidentiality</string>
+	<key>relationalHash</key>
+	<string>cubeTail</string>
+	<key>shouldBuildKernel</key>
+	<string>canStartBase</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>amortizationFlags</key>
+	<string>pinchableDescent</string>
+	<key>controllerexceptcommand</key>
+	<string>routeSign</string>
+	<key>navigationPadding</key>
+	<string>constructAllocator</string>
+	<key>sequentialTransformer</key>
+	<string>canRestartRoute</string>
+	<key>shouldObservePet</key>
+	<string>modalParameter</string>
+	<key>statelessBottom</key>
+	<string>saveImage</string>
+	<key>subsequentLocalization</key>
+	<string>canProcessTabView</string>
+	<key>unbindscreen</key>
+	<string>shouldAttachScale</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hierarchicalEntropy</key>
+	<string>pinchableResource</string>
+	<key>hierarchicalItem</key>
+	<string>controllerdelay</string>
+	<key>independentcontroller</key>
+	<string>inactivegate</string>
+	<key>rapidStamp</key>
+	<string>canNotifyInstruction</string>
+	<key>routedespitekind</key>
+	<string>declarativenavigatorborder</string>
+	<key>shouldNotifyAspect</key>
+	<string>sessionPattern</string>
+	<key>subscriptionPosition</key>
+	<string>subscribeSkirt</string>
+</dict>
+</plist>

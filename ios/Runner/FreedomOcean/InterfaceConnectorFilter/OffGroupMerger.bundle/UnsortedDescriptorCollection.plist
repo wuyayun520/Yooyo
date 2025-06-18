@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianCustomPaint</key>
+	<string>shouldLayoutReduction</string>
+	<key>normalOffset</key>
+	<string>axisLayer</string>
+	<key>overrideutil</key>
+	<string>shouldMountCharacter</string>
+	<key>rebuildpreview</key>
+	<string>fusedmaterializer</string>
+	<key>remainderBottom</key>
+	<string>pinchableInkWell</string>
+	<key>shouldDeserializeBoxShadow</key>
+	<string>channelsParam</string>
+	<key>shouldYieldSensor</key>
+	<string>encodeview</string>
+	<key>shouldresumespecifier</key>
+	<string>notificationLeft</string>
+</dict>
+</plist>

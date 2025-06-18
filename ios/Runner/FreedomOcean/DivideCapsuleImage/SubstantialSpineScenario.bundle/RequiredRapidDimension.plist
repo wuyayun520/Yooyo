@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxTag</key>
+	<string>rebuildCompletion</string>
+	<key>commonVariant</key>
+	<string>routeTextField</string>
+	<key>denseNotation</key>
+	<string>drawTransition</string>
+	<key>imagemode</key>
+	<string>shouldpresentwidget</string>
+	<key>metricsflags</key>
+	<string>flexEdge</string>
+	<key>shouldMountPoint</key>
+	<string>channelsMethod</string>
+	<key>singletonright</key>
+	<string>eagerRadio</string>
+	<key>transitionslider</key>
+	<string>presenterBehavior</string>
+</dict>
+</plist>

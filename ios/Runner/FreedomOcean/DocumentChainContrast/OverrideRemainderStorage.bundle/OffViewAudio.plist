@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperOpacity</key>
+	<string>canDispatchStateful</string>
+	<key>converterOrigin</key>
+	<string>sinkhue</string>
+	<key>hyperbolicChooser</key>
+	<string>richtextParameter</string>
+	<key>lazyReference</key>
+	<string>resizeEvent</string>
+	<key>webSearcher</key>
+	<string>shouldPrepareCustomPaint</string>
+</dict>
+</plist>

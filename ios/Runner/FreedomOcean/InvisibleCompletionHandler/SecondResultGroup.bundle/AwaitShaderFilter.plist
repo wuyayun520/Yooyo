@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>easySchema</key>
+	<string>consumeSlider</string>
+	<key>exceptionoutsideadapter</key>
+	<string>inheritedStoryboard</string>
+	<key>liteContainer</key>
+	<string>presentercontainlevel</string>
+	<key>sizesearcher</key>
+	<string>discardedwidgetrotation</string>
+	<key>techniquedepth</key>
+	<string>originalCapacity</string>
+	<key>unsortedThreshold</key>
+	<string>directlyTransformer</string>
+</dict>
+</plist>

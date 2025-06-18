@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasFormat</key>
+	<string>shouldUnmountedFlex</string>
+	<key>evolutionType</key>
+	<string>canDetachGestureDetector</string>
+	<key>optimizerAppearance</key>
+	<string>spriteRate</string>
+	<key>provisionShade</key>
+	<string>subsequentSymbol</string>
+</dict>
+</plist>

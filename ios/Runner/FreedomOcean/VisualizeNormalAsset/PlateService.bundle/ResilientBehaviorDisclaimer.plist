@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisspacing</key>
+	<string>optimizerInterval</string>
+	<key>instructionvalidation</key>
+	<string>uniqueMesh</string>
+	<key>intermediatehandler</key>
+	<string>secondLocalization</string>
+	<key>keyinstruction</key>
+	<string>onlabelchanged</string>
+	<key>resourcesingletontail</key>
+	<string>partitionRequest</string>
+	<key>trianglesResponse</key>
+	<string>activenavigation</string>
+</dict>
+</plist>

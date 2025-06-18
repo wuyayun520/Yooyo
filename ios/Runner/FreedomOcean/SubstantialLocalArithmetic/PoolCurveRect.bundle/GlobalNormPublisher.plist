@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalRole</key>
+	<string>mapFunction</string>
+	<key>drawercontrast</key>
+	<string>canContinueStamp</string>
+	<key>invisiblevectorcount</key>
+	<string>logFlyweight</string>
+	<key>materialGraph</key>
+	<string>binaryplatformoffset</string>
+	<key>prismaticCombiner</key>
+	<string>listenReducer</string>
+	<key>relationalProfile</key>
+	<string>roleLayer</string>
+	<key>specifyInterpolation</key>
+	<string>durationFeedback</string>
+	<key>tensorGestureDetector</key>
+	<string>signatureTint</string>
+</dict>
+</plist>

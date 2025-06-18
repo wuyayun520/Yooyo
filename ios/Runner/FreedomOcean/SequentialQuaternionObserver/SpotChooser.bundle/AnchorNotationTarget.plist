@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>architectureinset</key>
+	<string>delicategesturedetectorcount</string>
+	<key>crucialCharacteristic</key>
+	<string>spotviavariable</string>
+	<key>graphicAlignment</key>
+	<string>advancedMaster</string>
+	<key>labelStatus</key>
+	<string>allocatorLayer</string>
+	<key>scaffoldOffset</key>
+	<string>controllerBorder</string>
+	<key>shouldPauseLog</key>
+	<string>resizableDispatcher</string>
+	<key>temporarySubpixel</key>
+	<string>ephemeralSegue</string>
+</dict>
+</plist>

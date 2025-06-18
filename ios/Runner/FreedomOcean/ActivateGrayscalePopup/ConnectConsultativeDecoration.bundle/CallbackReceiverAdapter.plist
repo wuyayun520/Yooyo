@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzerDepth</key>
+	<string>deserializeCanvas</string>
+	<key>observeoperation</key>
+	<string>drawConfiguration</string>
+	<key>pickerInteraction</key>
+	<string>robusttaxonomy</string>
+	<key>protectedtable</key>
+	<string>configureScene</string>
+	<key>shouldstopsignature</key>
+	<string>canSkipPet</string>
+	<key>sortedchannelhue</key>
+	<string>shoulddecodecontraction</string>
+</dict>
+</plist>

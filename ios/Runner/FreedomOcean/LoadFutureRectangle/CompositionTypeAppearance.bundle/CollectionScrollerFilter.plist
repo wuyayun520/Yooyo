@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptorPosition</key>
+	<string>resultlevelcontrast</string>
+	<key>desktopRadius</key>
+	<string>largeAlpha</string>
+	<key>fixedSegment</key>
+	<string>shouldsavearithmetic</string>
+	<key>largeCube</key>
+	<string>zoneRate</string>
+	<key>localcoordinatormode</key>
+	<string>resetEvent</string>
+	<key>movecoordinator</key>
+	<string>associatedNode</string>
+	<key>screenataction</key>
+	<string>sortedutil</string>
+	<key>shoulddetachoperation</key>
+	<string>singletonposition</string>
+	<key>videotransparency</key>
+	<string>platescroller</string>
+</dict>
+</plist>

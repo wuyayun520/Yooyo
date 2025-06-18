@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>attachalpha</key>
+	<string>handlerHead</string>
+	<key>dynamicResource</key>
+	<string>eventVariable</string>
+	<key>equivalentState</key>
+	<string>shouldStopDialogs</string>
+	<key>flexibleHistogram</key>
+	<string>sharedInteger</string>
+	<key>interactivePresenter</key>
+	<string>monsterAppearance</string>
+	<key>lazyLoss</key>
+	<string>refactorHash</string>
+	<key>pivotalDelivery</key>
+	<string>debugController</string>
+	<key>statefulProjection</key>
+	<string>tabbarPhase</string>
+	<key>subsequentInteraction</key>
+	<string>reactiveQuaternion</string>
+	<key>symmetricAwait</key>
+	<string>setstateModulus</string>
+</dict>
+</plist>

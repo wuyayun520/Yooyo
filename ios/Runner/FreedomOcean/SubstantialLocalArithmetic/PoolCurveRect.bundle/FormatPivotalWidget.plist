@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratiooutsidefacade</key>
+	<string>smallAlignment</string>
+	<key>delegateContrast</key>
+	<string>opaqueRange</string>
+	<key>flexibleRestriction</key>
+	<string>hierarchicalDecoration</string>
+	<key>hardListener</key>
+	<string>schedulerDepth</string>
+	<key>notifierOrientation</key>
+	<string>completedAspect</string>
+	<key>opaqueIntegrity</key>
+	<string>moduleTop</string>
+</dict>
+</plist>

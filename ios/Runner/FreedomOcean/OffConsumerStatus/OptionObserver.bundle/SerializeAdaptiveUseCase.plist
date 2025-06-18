@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaforce</key>
+	<string>canBuildExtension</string>
+	<key>clonecubit</key>
+	<string>usedBullet</string>
+	<key>descriptorBrightness</key>
+	<string>shouldPersistMission</string>
+	<key>grayscaleEdge</key>
+	<string>canPopTheme</string>
+	<key>greatSprite</key>
+	<string>consultativeExponent</string>
+	<key>parallelpolyfill</key>
+	<string>displayableStroke</string>
+	<key>promisemodeshape</key>
+	<string>limitResponse</string>
+	<key>shouldMountPageView</key>
+	<string>unmountedCursor</string>
+	<key>shouldRebuildPriority</key>
+	<string>scenarioName</string>
+	<key>shouldbindbitrate</key>
+	<string>mountbehavior</string>
+</dict>
+</plist>

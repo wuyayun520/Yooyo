@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autorect</key>
+	<string>typicalcharacterorigin</string>
+	<key>detectorFrequency</key>
+	<string>catalystAction</string>
+	<key>enabledProfile</key>
+	<string>keyReducer</string>
+	<key>euclideanconstraint</key>
+	<string>litechecklisthue</string>
+	<key>greatchapter</key>
+	<string>standaloneTable</string>
+	<key>nextFuture</key>
+	<string>analogyBorder</string>
+	<key>quitexponent</key>
+	<string>canReplaceMaterial</string>
+	<key>shouldPresentGradient</key>
+	<string>maxConsumer</string>
+	<key>tickerreplica</key>
+	<string>formatVariant</string>
+</dict>
+</plist>

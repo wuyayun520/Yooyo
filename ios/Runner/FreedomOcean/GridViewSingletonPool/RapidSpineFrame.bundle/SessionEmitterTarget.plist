@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengebuffersize</key>
+	<string>shouldPushGraphic</string>
+	<key>continuecubit</key>
+	<string>resizeTimer</string>
+	<key>errortheme</key>
+	<string>mediocreComposition</string>
+	<key>firstPrecision</key>
+	<string>utilFlags</string>
+	<key>imperativeFragments</key>
+	<string>descentInterval</string>
+	<key>permanentBuilder</key>
+	<string>renameRect</string>
+</dict>
+</plist>

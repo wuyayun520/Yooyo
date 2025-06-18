@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardLeft</key>
+	<string>pinchableMap</string>
+	<key>coordinatorstatus</key>
+	<string>shouldTransitionCursor</string>
+	<key>herotask</key>
+	<string>shouldAttachTabView</string>
+	<key>interactiveEmitter</key>
+	<string>observePainter</string>
+	<key>localEvent</key>
+	<string>densePainter</string>
+	<key>ontabletap</key>
+	<string>notationInteraction</string>
+	<key>pickerInterval</key>
+	<string>associatedImpact</string>
+	<key>shouldSerializeView</key>
+	<string>backwardPermutation</string>
+	<key>sustainablebandwidth</key>
+	<string>reactivePosition</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentDependency</key>
+	<string>normalmenu</string>
+	<key>displayablebuilder</key>
+	<string>accessiblePlayback</string>
+	<key>hashopacity</key>
+	<string>associatedlistener</string>
+	<key>intermediateproviderorigin</key>
+	<string>bulletStructure</string>
+	<key>reusablePicker</key>
+	<string>nativecontrollerinset</string>
+</dict>
+</plist>

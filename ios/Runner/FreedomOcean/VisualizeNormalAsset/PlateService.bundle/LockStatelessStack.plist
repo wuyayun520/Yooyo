@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoThroughput</key>
+	<string>shouldpreparenavigation</string>
+	<key>compositionalDuration</key>
+	<string>semanticBitrate</string>
+	<key>firstOperation</key>
+	<string>inactivemend</string>
+	<key>grayscaleBottom</key>
+	<string>crucialbatchalignment</string>
+	<key>mapperDepth</key>
+	<string>materialAwait</string>
+	<key>rectCenter</key>
+	<string>shouldEndGradient</string>
+	<key>shouldConnectTouch</key>
+	<string>positionedPrototype</string>
+	<key>skinsincememento</key>
+	<string>diffableShape</string>
+	<key>smallTween</key>
+	<string>themeSkewX</string>
+</dict>
+</plist>

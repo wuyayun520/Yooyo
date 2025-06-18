@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderDelay</key>
+	<string>themeDuration</string>
+	<key>channelFormat</key>
+	<string>persistentzoneshade</string>
+	<key>clipperRate</key>
+	<string>ignoredbasedepth</string>
+	<key>diffableThreshold</key>
+	<string>cubitpatternorientation</string>
+	<key>graphicperstrategy</key>
+	<string>groupBuffer</string>
+	<key>immutableconverter</key>
+	<string>canDetachGesture</string>
+	<key>inactivedelegatedepth</key>
+	<string>generatescene</string>
+	<key>linkerBottom</key>
+	<string>canRenderGridView</string>
+	<key>resourceTail</key>
+	<string>shouldUpdateModal</string>
+	<key>shouldtransitionstep</key>
+	<string>permanentFinder</string>
+</dict>
+</plist>

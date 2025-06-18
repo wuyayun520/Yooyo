@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoConstraint</key>
+	<string>canShowOverlay</string>
+	<key>eagerOption</key>
+	<string>elasticdescent</string>
+	<key>integrityPressure</key>
+	<string>symmetricInstruction</string>
+	<key>lazyLayer</key>
+	<string>independentFrame</string>
+	<key>navigatorResponse</key>
+	<string>intensityAcceleration</string>
+	<key>responsiveUnary</key>
+	<string>tableBrightness</string>
+	<key>validateskin</key>
+	<string>descriptionInteraction</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>grainName</key>
+	<string>canPrepareSpot</string>
+	<key>holdtween</key>
+	<string>agilemultiplicationleft</string>
+	<key>logcenter</key>
+	<string>moveFactory</string>
+	<key>modaloutsidedecorator</key>
+	<string>backwardBuilder</string>
+	<key>radiusmode</key>
+	<string>advancedloader</string>
+	<key>skinobserver</key>
+	<string>directDistinction</string>
+	<key>subtleanimation</key>
+	<string>canStartPlayback</string>
+	<key>undertakegrid</key>
+	<string>menuFormat</string>
+	<key>variantFrequency</key>
+	<string>canSetStateLayout</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedPreview</key>
+	<string>primaryArchitecture</string>
+	<key>enabledchapter</key>
+	<string>canTrainBox</string>
+	<key>exceptionEdge</key>
+	<string>lossTension</string>
+	<key>integrityVisibility</key>
+	<string>smartButton</string>
+	<key>metadataCenter</key>
+	<string>asyncColor</string>
+	<key>shouldValidateOptimizer</key>
+	<string>elasticButton</string>
+	<key>shouldemitcharacter</key>
+	<string>respectivePlate</string>
+</dict>
+</plist>

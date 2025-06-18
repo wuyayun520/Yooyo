@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completionRate</key>
+	<string>shouldMountBorder</string>
+	<key>concreteNavigation</key>
+	<string>aspectCount</string>
+	<key>localQueue</key>
+	<string>dynamicMenu</string>
+	<key>multiHeap</key>
+	<string>batchOperation</string>
+	<key>parallelSubscriber</key>
+	<string>invisibleTween</string>
+	<key>persistentResponder</key>
+	<string>cubelocation</string>
+</dict>
+</plist>

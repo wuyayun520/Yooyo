@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoSkirt</key>
+	<string>asynchronousConfidentiality</string>
+	<key>displayableUnary</key>
+	<string>requiredImage</string>
+	<key>easyScroll</key>
+	<string>independentBorder</string>
+	<key>greatFormat</key>
+	<string>immutableScope</string>
+	<key>ignoredProgressBar</key>
+	<string>numericalDelegate</string>
+	<key>nextProjection</key>
+	<string>shouldRestartGridView</string>
+	<key>requiredNotifier</key>
+	<string>directInjection</string>
+	<key>requiredSubscription</key>
+	<string>mountHero</string>
+	<key>samplevelocity</key>
+	<string>showInkWell</string>
+	<key>widgetDuration</key>
+	<string>compositionalresultvalidation</string>
+</dict>
+</plist>

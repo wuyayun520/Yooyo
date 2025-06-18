@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleevaluation</key>
+	<string>shouldkeepprovider</string>
+	<key>distinctionState</key>
+	<string>channelLevel</string>
+	<key>executepainter</key>
+	<string>persistentReference</string>
+	<key>isMediaQuery</key>
+	<string>subscribePlayback</string>
+	<key>shouldDisposeMaster</key>
+	<string>animatedThreshold</string>
+	<key>shouldPaintGift</key>
+	<string>storyboardDensity</string>
+	<key>synchronousComposition</key>
+	<string>handleCollection</string>
+</dict>
+</plist>

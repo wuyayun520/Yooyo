@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativechapter</key>
+	<string>trianglesCenter</string>
+	<key>durationinterval</key>
+	<string>disposeTernary</string>
+	<key>resourceBound</key>
+	<string>displayableEvaluation</string>
+	<key>tableFlags</key>
+	<string>quantizationZone</string>
+</dict>
+</plist>

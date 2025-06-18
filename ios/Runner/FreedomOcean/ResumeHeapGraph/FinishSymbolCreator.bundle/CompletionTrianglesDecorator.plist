@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileAnimator</key>
+	<string>alphaDepth</string>
+	<key>allocatorduringjob</key>
+	<string>responsiveScreen</string>
+	<key>certificatevisitorappearance</key>
+	<string>defaultSpecifier</string>
+	<key>oldproviderstatus</key>
+	<string>presentTable</string>
+	<key>sequentialTolerance</key>
+	<string>allocatorSpacing</string>
+	<key>shouldRebuildMultiplication</key>
+	<string>moduleRotation</string>
+	<key>slashpressure</key>
+	<string>sequentialScreen</string>
+	<key>stackspacing</key>
+	<string>dialogsVisible</string>
+	<key>taskvisitorlocation</key>
+	<string>unsortedStroke</string>
+	<key>trianglesLeft</key>
+	<string>displayableStoryboard</string>
+</dict>
+</plist>

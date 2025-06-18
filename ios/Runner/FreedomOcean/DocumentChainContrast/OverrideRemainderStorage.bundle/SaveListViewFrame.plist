@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferinterval</key>
+	<string>showcollection</string>
+	<key>clipperFeedback</key>
+	<string>crucialcatalyst</string>
+	<key>gridviewinadapter</key>
+	<string>logarithmspacing</string>
+	<key>inheritedstorage</key>
+	<string>eagerInteractor</string>
+	<key>reflectplate</key>
+	<string>cubeDistance</string>
+	<key>visibleTraversal</key>
+	<string>tappableConfiguration</string>
+</dict>
+</plist>

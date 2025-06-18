@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchskewy</key>
+	<string>appendFuture</string>
+	<key>collectionTail</key>
+	<string>isolateDistance</string>
+	<key>computedrawer</key>
+	<string>stepcontrast</string>
+	<key>hardDimension</key>
+	<string>handleternary</string>
+	<key>interactiveStateless</key>
+	<string>shouldRestartSegue</string>
+	<key>mainSign</key>
+	<string>synchronousAsync</string>
+	<key>rangehue</key>
+	<string>semanticskindpressure</string>
+	<key>reducerShape</key>
+	<string>transitionrate</string>
+	<key>shouldCreateDescriptor</key>
+	<string>pivotalQueue</string>
+	<key>shouldLayoutUnary</key>
+	<string>shouldSerializeAspectRatio</string>
+</dict>
+</plist>

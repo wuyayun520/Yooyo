@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>attachcanvas</key>
+	<string>shouldhandletask</string>
+	<key>dataOffset</key>
+	<string>cupertinoPet</string>
+	<key>largeDialogs</key>
+	<string>enabledCustomPaint</string>
+	<key>permissiveAsync</key>
+	<string>presenterTransparency</string>
+	<key>pinchableConsumer</key>
+	<string>relationalInteraction</string>
+</dict>
+</plist>

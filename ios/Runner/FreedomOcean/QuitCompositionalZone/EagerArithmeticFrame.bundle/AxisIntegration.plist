@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>intermediateresource</key>
+	<string>handleStateless</string>
+	<key>oldCapsule</key>
+	<string>oldProvision</string>
+	<key>rapidCubit</key>
+	<string>canRestartConstraint</string>
+	<key>shouldDisconnectExponent</key>
+	<string>shouldRouteNib</string>
+	<key>shouldMountTabView</key>
+	<string>triggerSize</string>
+	<key>symmetricConsumer</key>
+	<string>uniformAudio</string>
+	<key>tabviewdelay</key>
+	<string>unactivatedDescent</string>
+</dict>
+</plist>

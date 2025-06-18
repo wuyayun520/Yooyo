@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>efficiencyDistance</key>
+	<string>finishMusic</string>
+	<key>keysound</key>
+	<string>menuAlignment</string>
+	<key>largeSubpixel</key>
+	<string>pinchableSpot</string>
+	<key>petmenu</key>
+	<string>repositorycontextdirection</string>
+	<key>resolverDistance</key>
+	<string>expandedbutton</string>
+	<key>sliderTransparency</key>
+	<string>symbolTemple</string>
+</dict>
+</plist>

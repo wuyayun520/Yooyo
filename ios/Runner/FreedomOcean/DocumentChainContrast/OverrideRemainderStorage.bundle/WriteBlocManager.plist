@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectpressure</key>
+	<string>cacheContrast</string>
+	<key>copymodel</key>
+	<string>canPushColumn</string>
+	<key>sortedFrame</key>
+	<string>creatorfrequency</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseLocalization</key>
+	<string>sophisticatedTheme</string>
+	<key>platedelay</key>
+	<string>shouldSaveImage</string>
+	<key>skirtdistance</key>
+	<string>shouldYieldRichText</string>
+	<key>standaloneTweak</key>
+	<string>observerHead</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeDelegate</key>
+	<string>uniqueSprite</string>
+	<key>assetcenter</key>
+	<string>cupertinoSample</string>
+	<key>callbackfeedback</key>
+	<string>associatedCaption</string>
+	<key>disparateMobile</key>
+	<string>unsortedCoordinator</string>
+	<key>explicitpopupduration</key>
+	<string>petstateformat</string>
+	<key>gesturedetectorDirection</key>
+	<string>singleVector</string>
+	<key>positionedmethodvalidation</key>
+	<string>crudeAscent</string>
+	<key>rectAcceleration</key>
+	<string>histogramframeworkstate</string>
+</dict>
+</plist>

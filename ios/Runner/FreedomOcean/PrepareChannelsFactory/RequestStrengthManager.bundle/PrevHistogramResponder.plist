@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dialogsShade</key>
+	<string>canBindGrayscale</string>
+	<key>enumerateinteractor</key>
+	<string>initializealpha</string>
+	<key>flexiblecurvesize</key>
+	<string>discardedMap</string>
+	<key>roleBrightness</key>
+	<string>onfragmentchanged</string>
+	<key>staticTabView</key>
+	<string>gridskewx</string>
+</dict>
+</plist>

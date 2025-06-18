@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledDelegate</key>
+	<string>shouldShowView</string>
+	<key>lastEvolution</key>
+	<string>iterativeMonster</string>
+	<key>particleTheme</key>
+	<string>formatfragment</string>
+	<key>tentativeValidation</key>
+	<string>canPrepareSemantics</string>
+	<key>toolBound</key>
+	<string>defaultskirt</string>
+	<key>widgetcontextmode</key>
+	<string>commonParticle</string>
+</dict>
+</plist>

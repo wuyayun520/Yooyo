@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedCertificate</key>
+	<string>crudeNib</string>
+	<key>largeMediaQuery</key>
+	<string>uniformGram</string>
+	<key>multimaster</key>
+	<string>largeInteraction</string>
+	<key>pagerContrast</key>
+	<string>arithmetictimer</string>
+	<key>replicaDirection</key>
+	<string>shouldStartHero</string>
+	<key>sophisticatedReplica</key>
+	<string>bitrateBound</string>
+	<key>unaryPosition</key>
+	<string>delicateTask</string>
+</dict>
+</plist>

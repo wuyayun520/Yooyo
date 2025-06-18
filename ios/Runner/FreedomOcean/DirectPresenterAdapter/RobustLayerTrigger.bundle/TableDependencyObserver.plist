@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioactivityspeed</key>
+	<string>shouldUnmountTouch</string>
+	<key>cartesianScene</key>
+	<string>mendpressure</string>
+	<key>certificatetaskalignment</key>
+	<string>protectedMetadata</string>
+	<key>characteristicInteraction</key>
+	<string>intuitiveTraversal</string>
+	<key>discardedState</key>
+	<string>popTool</string>
+	<key>explicitsignappearance</key>
+	<string>segueLayer</string>
+	<key>inactiveColumn</key>
+	<string>animatedIcon</string>
+	<key>replaceaperture</key>
+	<string>cubitAlignment</string>
+	<key>standaloneHistogram</key>
+	<string>tabbarflags</string>
+</dict>
+</plist>

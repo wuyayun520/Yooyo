@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>listviewwithsingleton</key>
+	<string>shouldParseSlash</string>
+	<key>loaderFlags</key>
+	<string>shouldPushAnimatedContainer</string>
+	<key>opaqueSegment</key>
+	<string>canDetachDecoration</string>
+	<key>providerBrightness</key>
+	<string>moveCoordinator</string>
+	<key>shouldTransitionKernel</key>
+	<string>newestCertificate</string>
+	<key>shouldUnmountedLog</key>
+	<string>cancelresult</string>
+	<key>standaloneJoiner</key>
+	<string>sizeRotation</string>
+	<key>taskacceleration</key>
+	<string>keyAnalyzer</string>
+	<key>thresholdOpacity</key>
+	<string>threadComposite</string>
+</dict>
+</plist>

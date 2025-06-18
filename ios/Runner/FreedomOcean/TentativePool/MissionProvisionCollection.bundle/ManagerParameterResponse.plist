@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultVolume</key>
+	<string>canParseThread</string>
+	<key>elasticAlignment</key>
+	<string>floatHash</string>
+	<key>errorDepth</key>
+	<string>deactivatebuffer</string>
+	<key>isolateMargin</key>
+	<string>intermediateFrame</string>
+	<key>persistentResolver</key>
+	<string>subtleRestriction</string>
+	<key>statelesscreator</key>
+	<string>gramhandler</string>
+</dict>
+</plist>

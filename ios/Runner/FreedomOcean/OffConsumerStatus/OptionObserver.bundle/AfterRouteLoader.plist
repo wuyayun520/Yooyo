@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatesine</key>
+	<string>granularMap</string>
+	<key>greatFuture</key>
+	<string>uniformBrush</string>
+	<key>heapcenter</key>
+	<string>mediocreIcon</string>
+	<key>mediaKind</key>
+	<string>agileAnimation</string>
+	<key>relationalNotifier</key>
+	<string>usecaseCount</string>
+	<key>scrollerCount</key>
+	<string>injectCubit</string>
+	<key>shouldMountedBehavior</key>
+	<string>visibleFragments</string>
+	<key>smartConsumer</key>
+	<string>materializerTension</string>
+	<key>typicalTrajectory</key>
+	<string>repositoryFeedback</string>
+</dict>
+</plist>

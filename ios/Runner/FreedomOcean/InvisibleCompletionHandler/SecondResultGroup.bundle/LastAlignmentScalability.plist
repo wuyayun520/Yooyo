@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionsingletontop</key>
+	<string>resultAction</string>
+	<key>interactiveDispatcher</key>
+	<string>ephemeralTable</string>
+	<key>mainCustomPaint</key>
+	<string>isAnchor</string>
+	<key>momentuminlayer</key>
+	<string>synchronousBehavior</string>
+	<key>notificationmatrix</key>
+	<string>canBuildTernary</string>
+	<key>responseKind</key>
+	<string>toolframeworkduration</string>
+	<key>shouldAttachAspectRatio</key>
+	<string>prevTransition</string>
+	<key>signatureTag</key>
+	<string>dropdownbuttontext</string>
+	<key>tappableNotifier</key>
+	<string>storageStructure</string>
+</dict>
+</plist>

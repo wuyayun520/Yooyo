@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveTrajectory</key>
+	<string>canYieldRow</string>
+	<key>independentTopic</key>
+	<string>canStartComposition</string>
+	<key>iterativeconfiguration</key>
+	<string>pushspecifier</string>
+	<key>schedulerFormat</key>
+	<string>materialCube</string>
+	<key>shapeInset</key>
+	<string>graphTask</string>
+	<key>shouldDispatchOverlay</key>
+	<string>shouldTransitionCupertino</string>
+	<key>shouldSerializeGestureDetector</key>
+	<string>eagerLocalization</string>
+	<key>sortedBandwidth</key>
+	<string>geometricScale</string>
+</dict>
+</plist>

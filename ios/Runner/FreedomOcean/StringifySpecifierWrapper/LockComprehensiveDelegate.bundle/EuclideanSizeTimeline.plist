@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buildcolumn</key>
+	<string>makebuilder</string>
+	<key>documentCoord</key>
+	<string>measureSlider</string>
+	<key>elastictransformer</key>
+	<string>shouldDisconnectAccessory</string>
+	<key>materialIntegration</key>
+	<string>spineCommand</string>
+	<key>protectedOperation</key>
+	<string>canMountMaster</string>
+	<key>setstatescaffold</key>
+	<string>defaulthero</string>
+	<key>shouldBuildPoint</key>
+	<string>touchDecoration</string>
+	<key>tappableAnalyzer</key>
+	<string>animatedcontainerBorder</string>
+</dict>
+</plist>

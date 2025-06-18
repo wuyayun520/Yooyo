@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffablesessionresponse</key>
+	<string>equivalentStyle</string>
+	<key>greatPoint</key>
+	<string>canPauseMap</string>
+	<key>replacepoint</key>
+	<string>shouldbuildindicator</string>
+	<key>shouldCreateAppBar</key>
+	<string>overlayappearance</string>
+	<key>shouldDispatchBitrate</key>
+	<string>canPopSkin</string>
+	<key>shouldStopRadio</key>
+	<string>popframe</string>
+	<key>smarttable</key>
+	<string>canSaveTouch</string>
+</dict>
+</plist>

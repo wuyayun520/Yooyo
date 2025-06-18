@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cycleuntilparameter</key>
+	<string>shouldFetchMonster</string>
+	<key>greatdecorationposition</key>
+	<string>standaloneEffect</string>
+	<key>injectionMargin</key>
+	<string>techniqueRight</string>
+	<key>otherParticle</key>
+	<string>activeInteraction</string>
+	<key>radioMargin</key>
+	<string>pointProxy</string>
+	<key>shouldParseMultiplication</key>
+	<string>shouldYieldSymbol</string>
+	<key>substantialGram</key>
+	<string>customizedRestriction</string>
+	<key>thresholdSpacing</key>
+	<string>eventContext</string>
+</dict>
+</plist>

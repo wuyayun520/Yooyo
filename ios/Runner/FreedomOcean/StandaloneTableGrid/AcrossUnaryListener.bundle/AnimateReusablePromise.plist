@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacityBottom</key>
+	<string>canDispatchModulus</string>
+	<key>elementVisible</key>
+	<string>showReference</string>
+	<key>imagetype</key>
+	<string>publicTaxonomy</string>
+	<key>intensityOffset</key>
+	<string>traversalVisibility</string>
+	<key>onlabelchanged</key>
+	<string>constraintRight</string>
+	<key>permanentIntegrity</key>
+	<string>aspectratioHead</string>
+	<key>pivotalSkin</key>
+	<string>rapidScene</string>
+	<key>shouldDisposeDialogs</key>
+	<string>destroyGrid</string>
+	<key>shouldRenderBuilder</key>
+	<string>graphicVisitor</string>
+</dict>
+</plist>

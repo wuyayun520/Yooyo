@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedChapter</key>
+	<string>frameMode</string>
+	<key>cardDepth</key>
+	<string>pointPhase</string>
+	<key>decorationfactory</key>
+	<string>criticalsingletonstyle</string>
+	<key>exceptionCoord</key>
+	<string>shouldDismissBitrate</string>
+	<key>extensionDensity</key>
+	<string>responsiveHash</string>
+	<key>initializesprite</key>
+	<string>interpolationconstraint</string>
+	<key>pinchableSink</key>
+	<string>shouldTrainTextField</string>
+	<key>rowscopeacceleration</key>
+	<string>concatenateFrame</string>
+	<key>seamlessDelivery</key>
+	<string>canPopModal</string>
+</dict>
+</plist>

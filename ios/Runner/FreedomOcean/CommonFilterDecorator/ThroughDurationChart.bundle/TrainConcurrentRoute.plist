@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axismetadata</key>
+	<string>tabbarVariable</string>
+	<key>batchbesidepattern</key>
+	<string>saveLog</string>
+	<key>builddescription</key>
+	<string>compositionacceleration</string>
+	<key>normdecoratorspeed</key>
+	<string>resizableTraversal</string>
+	<key>reactiveLoop</key>
+	<string>hyperbolicCurve</string>
+	<key>shouldStopRole</key>
+	<string>prevChallenge</string>
+</dict>
+</plist>

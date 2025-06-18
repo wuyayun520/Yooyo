@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateaswork</key>
+	<string>singleFragment</string>
+	<key>dynamicactivitybound</key>
+	<string>implementFeature</string>
+	<key>explicitVideo</key>
+	<string>inflateEffect</string>
+	<key>prevIndicator</key>
+	<string>strengthTail</string>
+	<key>serializetool</key>
+	<string>anchorBehavior</string>
+</dict>
+</plist>

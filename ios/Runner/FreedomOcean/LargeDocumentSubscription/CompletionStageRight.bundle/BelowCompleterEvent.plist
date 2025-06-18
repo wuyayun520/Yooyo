@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchCoord</key>
+	<string>matrixObserver</string>
+	<key>grainhue</key>
+	<string>receiverOffset</string>
+	<key>shouldListenButton</key>
+	<string>normalRouter</string>
+	<key>standaloneFinder</key>
+	<string>apertureAcceleration</string>
+</dict>
+</plist>

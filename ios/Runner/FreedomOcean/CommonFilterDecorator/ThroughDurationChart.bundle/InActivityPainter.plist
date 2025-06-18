@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionConstant</key>
+	<string>canStopMaterial</string>
+	<key>allocatorvaluealignment</key>
+	<string>popupSpeed</string>
+	<key>arithmeticAllocator</key>
+	<string>wrapZone</string>
+	<key>blocmementovelocity</key>
+	<string>canRenderEffect</string>
+	<key>globaldurationinteraction</key>
+	<string>secondScene</string>
+	<key>offsetName</key>
+	<string>queueStrategy</string>
+	<key>sequentialprojection</key>
+	<string>axisvector</string>
+	<key>shouldDismissNavigator</key>
+	<string>trainbutton</string>
+	<key>streamcoordinator</key>
+	<string>hierarchicalAnalyzer</string>
+	<key>transitioninsidecontext</key>
+	<string>typicalmediaqueryresponse</string>
+</dict>
+</plist>

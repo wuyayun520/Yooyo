@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackSpeed</key>
+	<string>shouldStreamBorder</string>
+	<key>moduleHead</key>
+	<string>desktopConnector</string>
+	<key>pickerAppearance</key>
+	<string>instantiateGrid</string>
+	<key>smartPreview</key>
+	<string>reducermodel</string>
+</dict>
+</plist>

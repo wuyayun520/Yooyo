@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>firstCluster</key>
+	<string>comprehensiveAlert</string>
+	<key>keyManager</key>
+	<string>pushOptimizer</string>
+	<key>liteModule</key>
+	<string>directlyGroup</string>
+	<key>measurezone</key>
+	<string>shouldTrainFragment</string>
+	<key>normTag</key>
+	<string>projectionSize</string>
+	<key>shouldNotifyTool</key>
+	<string>unmarshalError</string>
+	<key>shouldPauseOperation</key>
+	<string>subscribeTask</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedOption</key>
+	<string>canObserveReference</string>
+	<key>basicConfiguration</key>
+	<string>reconcileReducer</string>
+	<key>brushresolver</key>
+	<string>currentAlert</string>
+	<key>normalDescent</key>
+	<string>builderJob</string>
+	<key>scrollableChecklist</key>
+	<string>appbarSize</string>
+	<key>shouldyieldsine</key>
+	<string>priorLog</string>
+	<key>significantBrush</key>
+	<string>shouldYieldTernary</string>
+</dict>
+</plist>

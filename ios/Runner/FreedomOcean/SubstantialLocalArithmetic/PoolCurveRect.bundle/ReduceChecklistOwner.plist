@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentPrecision</key>
+	<string>obtainWidget</string>
+	<key>cyclePadding</key>
+	<string>canAnimateBrush</string>
+	<key>presenterMomentum</key>
+	<string>mixinConfiguration</string>
+	<key>semanticresolver</key>
+	<string>prismaticRect</string>
+	<key>smallIndicator</key>
+	<string>sortedgesture</string>
+	<key>transposeswitch</key>
+	<string>flexiblelayout</string>
+</dict>
+</plist>

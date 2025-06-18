@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledText</key>
+	<string>shouldtrainexponent</string>
+	<key>euclideanMapper</key>
+	<string>elasticData</string>
+	<key>infoSaturation</key>
+	<string>pinchablestoreedge</string>
+	<key>isolaterotation</key>
+	<string>serializeSine</string>
+	<key>operationdata</key>
+	<string>subsequentResolver</string>
+	<key>priorSkirt</key>
+	<string>permissiveImpression</string>
+	<key>protectedNavigation</key>
+	<string>canLoadPageView</string>
+	<key>providersingletontransparency</key>
+	<string>subscriptionOperation</string>
+	<key>shouldformatpageview</key>
+	<string>concatenateAwait</string>
+</dict>
+</plist>

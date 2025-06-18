@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileRenderer</key>
+	<string>disabledScreen</string>
+	<key>ephemeralEmitter</key>
+	<string>shouldNavigateSymbol</string>
+	<key>ephemeralScenario</key>
+	<string>invokeManager</string>
+	<key>largeConsumer</key>
+	<string>optimizerFramework</string>
+	<key>sensorTag</key>
+	<string>beginnerLogarithm</string>
+	<key>singleStorage</key>
+	<string>oldRole</string>
+	<key>skipmodel</key>
+	<string>nextUseCase</string>
+	<key>sustainablespotorigin</key>
+	<string>lostActivity</string>
+</dict>
+</plist>

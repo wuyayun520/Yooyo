@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineAcceleration</key>
+	<string>canPauseReference</string>
+	<key>challengeDirection</key>
+	<string>unmountedAxis</string>
+	<key>comprehensivetitle</key>
+	<string>disabledSlider</string>
+	<key>fusedAlpha</key>
+	<string>shouldskipcoordinator</string>
+	<key>globalviewtheme</key>
+	<string>shouldSubscribePageView</string>
+	<key>injectcurve</key>
+	<string>techniqueCount</string>
+	<key>mechanismMargin</key>
+	<string>strokeBorder</string>
+	<key>parsezone</key>
+	<string>vectormethodvelocity</string>
+	<key>widgetamortization</key>
+	<string>canReplaceCapsule</string>
+</dict>
+</plist>

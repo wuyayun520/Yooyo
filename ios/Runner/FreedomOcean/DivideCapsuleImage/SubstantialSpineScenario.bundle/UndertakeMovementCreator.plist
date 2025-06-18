@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubeduringstage</key>
+	<string>missedCombiner</string>
+	<key>imperativeSemantics</key>
+	<string>firstText</string>
+	<key>loadermode</key>
+	<string>canPauseSine</string>
+	<key>shouldObserveComposition</key>
+	<string>normbeyondvisitor</string>
+</dict>
+</plist>

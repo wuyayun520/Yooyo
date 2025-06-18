@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>durationtransition</key>
+	<string>retainedMediaQuery</string>
+	<key>framecount</key>
+	<string>statelessAlert</string>
+	<key>gesturedetectorTheme</key>
+	<string>gradientmomentum</string>
+	<key>mainProcessor</key>
+	<string>encodeComposition</string>
+	<key>oncustompainttap</key>
+	<string>shouldLoadDelegate</string>
+	<key>priorCapacities</key>
+	<string>eventcontextbottom</string>
+	<key>quaternionFrequency</key>
+	<string>setstatePlayback</string>
+	<key>shouldskippadding</key>
+	<string>smallTask</string>
+</dict>
+</plist>

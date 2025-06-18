@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>informationDelay</key>
+	<string>hardArchitecture</string>
+	<key>localItem</key>
+	<string>adaptiveMediaQuery</string>
+	<key>opaqueExtension</key>
+	<string>statefulSingleton</string>
+	<key>protectedEvent</key>
+	<string>independentResult</string>
+	<key>shouldBindSession</key>
+	<string>touchTag</string>
+	<key>shouldFetchSubpixel</key>
+	<string>canDispatchBaseline</string>
+	<key>shouldParseChecklist</key>
+	<string>numericalFrame</string>
+	<key>stringifyextension</key>
+	<string>flexibleResponder</string>
+	<key>typicalButton</key>
+	<string>permissiveData</string>
+</dict>
+</plist>

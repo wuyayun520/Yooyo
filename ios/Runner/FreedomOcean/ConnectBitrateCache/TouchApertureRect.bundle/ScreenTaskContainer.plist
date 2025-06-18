@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoView</key>
+	<string>shouldDisconnectPositioned</string>
+	<key>crudeFeature</key>
+	<string>lazyChapter</string>
+	<key>declarativePicker</key>
+	<string>canConnectDuration</string>
+	<key>popexponent</key>
+	<string>canNotifyCoordinator</string>
+	<key>responsivetouchappearance</key>
+	<string>issegment</string>
+	<key>seamlessIndicator</key>
+	<string>flexibleContrast</string>
+	<key>segmentIndex</key>
+	<string>pageviewpresenter</string>
+	<key>shouldNotifyMediaQuery</key>
+	<string>replaceDropdownButton</string>
+</dict>
+</plist>

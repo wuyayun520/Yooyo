@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableMusic</key>
+	<string>inflateStorage</string>
+	<key>customizedUsage</key>
+	<string>completedEqualization</string>
+	<key>discardedInterface</key>
+	<string>statefulparticleinteraction</string>
+	<key>informationPadding</key>
+	<string>encodestate</string>
+	<key>mapperVisibility</key>
+	<string>permutationEdge</string>
+	<key>notifierShape</key>
+	<string>menuOrigin</string>
+	<key>signMomentum</key>
+	<string>shouldDeserializeReference</string>
+	<key>usageTransparency</key>
+	<string>canUnmountedBoxShadow</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hashLocation</key>
+	<string>multiplyText</string>
+	<key>navigationAcceleration</key>
+	<string>standaloneCell</string>
+	<key>offsetVelocity</key>
+	<string>mediocreExponent</string>
+	<key>overridematerial</key>
+	<string>shouldDeserializeCube</string>
+	<key>shouldPushText</key>
+	<string>arithmeticTextField</string>
+	<key>threadmerger</key>
+	<string>defaultCollection</string>
+</dict>
+</plist>

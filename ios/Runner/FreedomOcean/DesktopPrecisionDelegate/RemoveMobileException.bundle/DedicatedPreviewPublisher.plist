@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertEdge</key>
+	<string>orchestrateTween</string>
+	<key>cartesianTweak</key>
+	<string>defaultSkin</string>
+	<key>detectorVelocity</key>
+	<string>pivotalerrorscale</string>
+	<key>euclideantext</key>
+	<string>streamlineRoute</string>
+	<key>lastProgressBar</key>
+	<string>mobileBound</string>
+	<key>segueSpeed</key>
+	<string>completedAnimation</string>
+	<key>shouldParsePadding</key>
+	<string>scheduleRow</string>
+	<key>shouldStopModal</key>
+	<string>playhandler</string>
+	<key>spinmodulus</key>
+	<string>factoryBottom</string>
+	<key>sustainableHero</key>
+	<string>imageTension</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeBase</key>
+	<string>sceneForm</string>
+	<key>listviewCount</key>
+	<string>shouldAnimatePriority</string>
+	<key>parallelEvent</key>
+	<string>shouldcancelnavigator</string>
+	<key>progressbarRotation</key>
+	<string>ignoredDimension</string>
+	<key>promisehead</key>
+	<string>captionOffset</string>
+	<key>segmentopacity</key>
+	<string>shouldRebuildSkin</string>
+	<key>shouldPrepareSkirt</key>
+	<string>localDispatcher</string>
+	<key>trainchart</key>
+	<string>lostMetadata</string>
+</dict>
+</plist>

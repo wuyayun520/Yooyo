@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customAnimator</key>
+	<string>mediasink</string>
+	<key>entropycommandspeed</key>
+	<string>handleNotification</string>
+	<key>imageCoord</key>
+	<string>primaryQueue</string>
+	<key>processorStatus</key>
+	<string>smartborder</string>
+	<key>projectionOffset</key>
+	<string>shouldResumePositioned</string>
+	<key>relationalmenupressure</key>
+	<string>processorEdge</string>
+	<key>restrictionBorder</key>
+	<string>queueBehavior</string>
+	<key>shouldDismissPainter</key>
+	<string>memberTask</string>
+	<key>subtleanimatedcontainerbound</key>
+	<string>modulusPattern</string>
+</dict>
+</plist>

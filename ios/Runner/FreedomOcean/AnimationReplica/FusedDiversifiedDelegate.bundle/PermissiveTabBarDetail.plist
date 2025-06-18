@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>rendererBehavior</key>
+	<string>canPrepareReference</string>
+	<key>responsiveprotocolleft</key>
+	<string>basicCell</string>
+	<key>screentransition</key>
+	<string>firstSlider</string>
+	<key>secondmasterresponse</key>
+	<string>popRepository</string>
+	<key>shouldSubscribeSwitch</key>
+	<string>subpixelalignment</string>
+	<key>significantSpine</key>
+	<string>amortizationSpeed</string>
+</dict>
+</plist>

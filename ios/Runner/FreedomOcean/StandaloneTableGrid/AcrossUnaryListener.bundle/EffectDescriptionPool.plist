@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>intermediateAlert</key>
+	<string>adaptiveState</string>
+	<key>iterativeNib</key>
+	<string>sessionFlyweight</string>
+	<key>lazySubscriber</key>
+	<string>canRouteCustomPaint</string>
+	<key>lostFragments</key>
+	<string>dynamicSplitter</string>
+	<key>materialrowinteraction</key>
+	<string>delegatehead</string>
+	<key>reusableElasticity</key>
+	<string>opaquesignature</string>
+	<key>semanticsShade</key>
+	<string>asynchronousDropdownButton</string>
+	<key>taxonomyTransparency</key>
+	<string>criticalmanager</string>
+</dict>
+</plist>

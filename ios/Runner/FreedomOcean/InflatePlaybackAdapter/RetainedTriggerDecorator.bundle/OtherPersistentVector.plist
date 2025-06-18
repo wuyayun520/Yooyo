@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>densematrix</key>
+	<string>relationalShape</string>
+	<key>greatTouch</key>
+	<string>receivershade</string>
+	<key>hierarchicalmissionname</key>
+	<string>shouldPrepareCapsule</string>
+	<key>particleincludedecorator</key>
+	<string>staticChart</string>
+	<key>shouldlayoutnotifier</key>
+	<string>selectedPet</string>
+	<key>specifyinfrastructure</key>
+	<string>resultMemento</string>
+</dict>
+</plist>

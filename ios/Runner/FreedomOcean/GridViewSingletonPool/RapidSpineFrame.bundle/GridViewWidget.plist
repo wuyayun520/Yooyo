@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicatenotation</key>
+	<string>handleContraction</string>
+	<key>directtaskorigin</key>
+	<string>sampleJob</string>
+	<key>diversifiedScroll</key>
+	<string>advancedButton</string>
+	<key>greatspot</key>
+	<string>coordinatorwrapper</string>
+	<key>interactiveTheme</key>
+	<string>shouldSerializeGestureDetector</string>
+	<key>iterativeZone</key>
+	<string>shouldDispatchChannels</string>
+	<key>largeSlider</key>
+	<string>immediateState</string>
+	<key>shouldDetachDrawer</key>
+	<string>draggableCheckbox</string>
+	<key>strengthResponse</key>
+	<string>specifierHue</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>loadername</key>
+	<string>shouldEncodeMember</string>
+	<key>shouldTransitionFragment</key>
+	<string>navigateCompleter</string>
+	<key>unactivatedThroughput</key>
+	<string>syncRoute</string>
+	<key>uniformSample</key>
+	<string>normaltask</string>
+	<key>webReliability</key>
+	<string>routeStateless</string>
+</dict>
+</plist>

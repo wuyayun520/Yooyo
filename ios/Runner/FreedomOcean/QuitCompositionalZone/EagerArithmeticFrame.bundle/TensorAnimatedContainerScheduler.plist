@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionRadio</key>
+	<string>componentOrigin</string>
+	<key>buildtext</key>
+	<string>sceneacceleration</string>
+	<key>directBinary</key>
+	<string>viewequivalent</string>
+	<key>informationType</key>
+	<string>shouldPersistTool</string>
+	<key>polygonPadding</key>
+	<string>hasproject</string>
+	<key>positionVisible</key>
+	<string>limitTimer</string>
+	<key>publicChannel</key>
+	<string>sizeLevel</string>
+	<key>shouldPauseCard</key>
+	<string>shaderTask</string>
+</dict>
+</plist>

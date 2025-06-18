@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedDelegate</key>
+	<string>interactorSpacing</string>
+	<key>directlyslider</key>
+	<string>petlayout</string>
+	<key>ephemeralScene</key>
+	<string>listviewWork</string>
+	<key>projectspacing</key>
+	<string>shouldTrainTabView</string>
+	<key>rectVelocity</key>
+	<string>permissiveAlignment</string>
+	<key>responsiveLoader</key>
+	<string>requestCallback</string>
+	<key>robustNotation</key>
+	<string>writeNode</string>
+	<key>shouldDecodeShader</key>
+	<string>taskthanactivity</string>
+	<key>statelessHue</key>
+	<string>significantscenestate</string>
+</dict>
+</plist>

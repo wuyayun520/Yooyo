@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascentSkewX</key>
+	<string>maintainfactory</string>
+	<key>brushwidget</key>
+	<string>concurrentVolume</string>
+	<key>marginFeedback</key>
+	<string>declarativeBuilder</string>
+	<key>materialcharacterskewx</key>
+	<string>shouldPublishAnimation</string>
+	<key>mobileRestriction</key>
+	<string>showDelegate</string>
+	<key>opaquesize</key>
+	<string>listenbaseline</string>
+	<key>textbeyondprocess</key>
+	<string>parallelInfo</string>
+</dict>
+</plist>

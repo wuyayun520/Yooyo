@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableslidervisibility</key>
+	<string>appbarrate</string>
+	<key>eventcontainmediator</key>
+	<string>segueBrightness</string>
+	<key>fixedCheckbox</key>
+	<string>cartesianGraph</string>
+	<key>popupBehavior</key>
+	<string>savedependency</string>
+	<key>prismaticScale</key>
+	<string>canSaveNavigation</string>
+	<key>temporaryLoop</key>
+	<string>constraintSpacing</string>
+</dict>
+</plist>

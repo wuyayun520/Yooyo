@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncSaturation</key>
+	<string>reductionTier</string>
+	<key>directextension</key>
+	<string>deserializeCoordinator</string>
+	<key>effectbuilder</key>
+	<string>primaryTicker</string>
+	<key>overlayInteraction</key>
+	<string>newestPadding</string>
+	<key>scrollerDelay</key>
+	<string>largeSample</string>
+	<key>similardropdownbutton</key>
+	<string>normalAppBar</string>
+	<key>sineSkewY</key>
+	<string>beginnerNib</string>
+	<key>subtleClipper</key>
+	<string>vectorVisibility</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentCell</key>
+	<string>moduleFormat</string>
+	<key>matrixmenu</key>
+	<string>profileLocation</string>
+	<key>persistentRange</key>
+	<string>connectCollection</string>
+	<key>similarDropdownButton</key>
+	<string>lazyInteractor</string>
+	<key>stepSpacing</key>
+	<string>customizedAscent</string>
+	<key>subscriptionTail</key>
+	<string>pinchableEquipment</string>
+</dict>
+</plist>

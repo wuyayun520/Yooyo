@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>intuitiveBandwidth</key>
+	<string>normalCompletion</string>
+	<key>keyParticle</key>
+	<string>modalForm</string>
+	<key>linkerShade</key>
+	<string>canBuildPadding</string>
+	<key>nativeStamp</key>
+	<string>dedicatedRow</string>
+	<key>normMode</key>
+	<string>rebuildpoint</string>
+	<key>shouldUnbindGradient</key>
+	<string>topicNumber</string>
+	<key>usecasephaseappearance</key>
+	<string>shouldDecodeSpecifier</string>
+</dict>
+</plist>

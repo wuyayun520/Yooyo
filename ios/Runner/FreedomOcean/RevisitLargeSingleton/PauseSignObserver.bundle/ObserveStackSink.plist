@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hashoffset</key>
+	<string>semanticsStructure</string>
+	<key>linkerRight</key>
+	<string>storageFacade</string>
+	<key>referenceShade</key>
+	<string>resultFramework</string>
+	<key>richtextCenter</key>
+	<string>liteScenario</string>
+	<key>standaloneSwift</key>
+	<string>associatedTrajectory</string>
+</dict>
+</plist>

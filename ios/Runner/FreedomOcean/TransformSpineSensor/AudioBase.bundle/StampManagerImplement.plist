@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>amortizationdistance</key>
+	<string>canLoadPlate</string>
+	<key>otherScaffold</key>
+	<string>interactiveData</string>
+	<key>protectedCursor</key>
+	<string>uniqueHero</string>
+	<key>shouldStartSine</key>
+	<string>materialDelay</string>
+</dict>
+</plist>

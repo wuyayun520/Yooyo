@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedRole</key>
+	<string>eagerRange</string>
+	<key>aspectratioLeft</key>
+	<string>lostStrength</string>
+	<key>certificatemode</key>
+	<string>keepSignature</string>
+	<key>euclideanScroller</key>
+	<string>shouldpreparereduction</string>
+	<key>liteCompletion</key>
+	<string>popupBorder</string>
+	<key>numericalRenderer</key>
+	<string>requiredGesture</string>
+	<key>restartconsumer</key>
+	<string>canLoadEntropy</string>
+	<key>sequentialTable</key>
+	<string>smartBloc</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinocomposition</key>
+	<string>requestValidation</string>
+	<key>directFeature</key>
+	<string>exponentType</string>
+	<key>euclideanrequestscale</key>
+	<string>dismissRichText</string>
+	<key>firstCosine</key>
+	<string>transformPositioned</string>
+	<key>shouldcachewidget</key>
+	<string>previewOffset</string>
+	<key>statelessAlpha</key>
+	<string>updateSample</string>
+</dict>
+</plist>

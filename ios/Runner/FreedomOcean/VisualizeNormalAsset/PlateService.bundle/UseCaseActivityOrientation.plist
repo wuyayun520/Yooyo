@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderRight</key>
+	<string>canContinueTechnique</string>
+	<key>buttonBehavior</key>
+	<string>mutableMenu</string>
+	<key>completerconfidentiality</key>
+	<string>checkboxTop</string>
+	<key>defaultGem</key>
+	<string>typicalCharacteristic</string>
+	<key>previewwithadapter</key>
+	<string>inflateview</string>
+</dict>
+</plist>

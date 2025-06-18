@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>looptypeshade</key>
+	<string>endTransition</string>
+	<key>mediumCapacity</key>
+	<string>buttonthroughfacade</string>
+	<key>rapidRepository</key>
+	<string>canRouteMobile</string>
+	<key>reactiveOverlay</key>
+	<string>sharedconstraint</string>
+	<key>receiverHue</key>
+	<string>localizationComposite</string>
+	<key>shouldDecodeChannels</key>
+	<string>promisepadding</string>
+	<key>shouldPushMaterial</key>
+	<string>inheritedStack</string>
+</dict>
+</plist>

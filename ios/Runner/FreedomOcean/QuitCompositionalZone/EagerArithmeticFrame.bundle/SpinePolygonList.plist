@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bloctag</key>
+	<string>permanentNotification</string>
+	<key>listviewinteraction</key>
+	<string>mountedPositioned</string>
+	<key>missionMode</key>
+	<string>reducertag</string>
+	<key>priorCapacity</key>
+	<string>canPaintMediaQuery</string>
+</dict>
+</plist>

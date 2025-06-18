@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constantScale</key>
+	<string>entropybandwidth</string>
+	<key>mediumAnimation</key>
+	<string>observerTheme</string>
+	<key>primaryAudio</key>
+	<string>discardedGestureDetector</string>
+	<key>sampleallocator</key>
+	<string>menuTop</string>
+	<key>serviceindex</key>
+	<string>liteAperture</string>
+	<key>statelessSubscription</key>
+	<string>intuitiveReceiver</string>
+	<key>widgetinset</key>
+	<string>modelMomentum</string>
+</dict>
+</plist>

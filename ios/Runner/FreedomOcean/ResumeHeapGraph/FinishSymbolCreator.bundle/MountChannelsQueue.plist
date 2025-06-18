@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interfacebound</key>
+	<string>asyncName</string>
+	<key>protectedController</key>
+	<string>asyncOffset</string>
+	<key>renameswift</key>
+	<string>shouldPauseCustomPaint</string>
+	<key>shouldProcessTangent</key>
+	<string>specifierOperation</string>
+	<key>subsequentSound</key>
+	<string>asyncAcceleration</string>
+</dict>
+</plist>

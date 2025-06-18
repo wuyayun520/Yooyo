@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeMobile</key>
+	<string>canUnbindSample</string>
+	<key>hardHandler</key>
+	<string>beginnerDropdownButton</string>
+	<key>resumedropdownbutton</key>
+	<string>adaptivetaskskewy</string>
+	<key>semanticscrolldirection</key>
+	<string>seamlessSegment</string>
+	<key>smallOffset</key>
+	<string>profilelikenumber</string>
+</dict>
+</plist>

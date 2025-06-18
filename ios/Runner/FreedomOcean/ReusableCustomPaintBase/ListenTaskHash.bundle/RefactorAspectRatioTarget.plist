@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fixedMesh</key>
+	<string>skirtCycle</string>
+	<key>presenterskewy</key>
+	<string>shouldSaveLayout</string>
+	<key>shouldEndCache</key>
+	<string>overrideLabel</string>
+	<key>shouldMountedSpecifier</key>
+	<string>gesturePosition</string>
+</dict>
+</plist>

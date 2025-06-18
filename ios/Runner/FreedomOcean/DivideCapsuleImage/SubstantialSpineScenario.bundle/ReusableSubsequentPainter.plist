@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedpicker</key>
+	<string>disparateInstruction</string>
+	<key>completeramongsingleton</key>
+	<string>inkwellProxy</string>
+	<key>eagerObserver</key>
+	<string>canDecodeConsumer</string>
+	<key>efficiencyOrigin</key>
+	<string>refactorGraph</string>
+	<key>independentScheduler</key>
+	<string>immediateAnalyzer</string>
+	<key>listenermode</key>
+	<string>tappableshape</string>
+	<key>shouldNavigateSegue</key>
+	<string>iterativetangentcoord</string>
+	<key>shouldPresentExponent</key>
+	<string>switchPosition</string>
+	<key>shouldresumescale</key>
+	<string>sortedImage</string>
+	<key>uniqueCharacteristic</key>
+	<string>textureagainstprototype</string>
+</dict>
+</plist>

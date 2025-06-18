@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnAcceleration</key>
+	<string>chapterKind</string>
+	<key>occasiondelay</key>
+	<string>canLoadSegment</string>
+	<key>semanticresponse</key>
+	<string>characterProcess</string>
+	<key>sensorcreator</key>
+	<string>shouldKeepSwift</string>
+	<key>shouldUpdateListView</key>
+	<string>vectorizeChart</string>
+	<key>tensoroverlayhead</key>
+	<string>advancedMargin</string>
+</dict>
+</plist>

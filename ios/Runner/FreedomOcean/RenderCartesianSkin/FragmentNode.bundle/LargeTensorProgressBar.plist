@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerTransformer</key>
+	<string>releaseRow</string>
+	<key>indicatorcommandduration</key>
+	<string>attachBuffer</string>
+	<key>materialdespitelevel</key>
+	<string>adaptiveIntegrity</string>
+	<key>materializerAcceleration</key>
+	<string>canEncodeCurve</string>
+	<key>progressbarindex</key>
+	<string>accordionSprite</string>
+	<key>splitterAcceleration</key>
+	<string>deferredButton</string>
+</dict>
+</plist>

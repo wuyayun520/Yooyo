@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentMode</key>
+	<string>shouldUnmountedInterpolation</string>
+	<key>pivotalRepository</key>
+	<string>canMountTabView</string>
+	<key>reactiveplaybackbehavior</key>
+	<string>agilebuilder</string>
+</dict>
+</plist>

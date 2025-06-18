@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionMember</key>
+	<string>cartesianaction</string>
+	<key>cancelusecase</key>
+	<string>composablelayer</string>
+	<key>gridviewInset</key>
+	<string>equalSlider</string>
+	<key>isMatrix</key>
+	<string>receiverVisibility</string>
+	<key>mainstorage</key>
+	<string>canNotifyImage</string>
+	<key>overlaySkewX</key>
+	<string>giftacceleration</string>
+	<key>permissiveActivity</key>
+	<string>exponentBorder</string>
+</dict>
+</plist>

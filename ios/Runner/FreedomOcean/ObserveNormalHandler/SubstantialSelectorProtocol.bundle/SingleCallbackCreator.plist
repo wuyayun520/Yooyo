@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonthanstage</key>
+	<string>canLayoutCaption</string>
+	<key>contractionopacity</key>
+	<string>canFetchEqualization</string>
+	<key>immediateHash</key>
+	<string>subscribeShader</string>
+	<key>mapperDensity</key>
+	<string>precisionPosition</string>
+	<key>respectiveMesh</key>
+	<string>observeRemainder</string>
+</dict>
+</plist>

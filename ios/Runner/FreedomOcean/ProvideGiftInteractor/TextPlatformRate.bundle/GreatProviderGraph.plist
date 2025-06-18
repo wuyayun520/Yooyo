@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>easyPolyfill</key>
+	<string>delicateError</string>
+	<key>permanentappbar</key>
+	<string>lazyLocalization</string>
+	<key>pinchableDialogs</key>
+	<string>shouldFetchLayout</string>
+	<key>sessionHue</key>
+	<string>grayscaleContrast</string>
+	<key>shouldDisposeExpanded</key>
+	<string>graphicInset</string>
+	<key>shouldMountDrawer</key>
+	<string>pauseDrawer</string>
+	<key>statefulTask</key>
+	<string>canContinueFlex</string>
+	<key>traintitle</key>
+	<string>generateRepository</string>
+</dict>
+</plist>

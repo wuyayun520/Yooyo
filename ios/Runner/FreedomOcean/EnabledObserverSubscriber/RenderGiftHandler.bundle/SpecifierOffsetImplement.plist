@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptivebulletresponse</key>
+	<string>extensionForm</string>
+	<key>collectionVelocity</key>
+	<string>concurrentTernary</string>
+	<key>featurecycleskewy</key>
+	<string>mediocreCombiner</string>
+	<key>keyConsumption</key>
+	<string>cancelBinary</string>
+	<key>methodCenter</key>
+	<string>markWidget</string>
+	<key>responsiveLinker</key>
+	<string>shouldNotifyStack</string>
+</dict>
+</plist>

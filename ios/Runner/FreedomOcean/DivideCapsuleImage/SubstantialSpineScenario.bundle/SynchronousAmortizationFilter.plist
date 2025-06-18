@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousBuffer</key>
+	<string>interpolationParam</string>
+	<key>disparateAwait</key>
+	<string>rotateUseCase</string>
+	<key>multiConstraint</key>
+	<string>normalInteractor</string>
+	<key>progressbarstyle</key>
+	<string>subsequentScaffold</string>
+	<key>projectionpressure</key>
+	<string>plateFormat</string>
+	<key>resizableGraph</key>
+	<string>aspectdensity</string>
+	<key>shouldConnectPlate</key>
+	<string>shouldPaintMobile</string>
+	<key>subsequentOption</key>
+	<string>itemFormat</string>
+	<key>topicRate</key>
+	<string>enabledCurve</string>
+</dict>
+</plist>

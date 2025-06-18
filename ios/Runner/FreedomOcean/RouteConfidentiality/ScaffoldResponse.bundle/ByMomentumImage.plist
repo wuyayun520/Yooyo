@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicQuaternion</key>
+	<string>tableContext</string>
+	<key>columnMomentum</key>
+	<string>detachBuilder</string>
+	<key>directlylogindex</key>
+	<string>shouldDispatchClipper</string>
+	<key>enabledParticle</key>
+	<string>immediateTangent</string>
+	<key>instructionOrientation</key>
+	<string>explicitDescent</string>
+	<key>litePainter</key>
+	<string>allocateState</string>
+	<key>shouldBuildGridView</key>
+	<string>animatedCubit</string>
+	<key>uniformAnimatedContainer</key>
+	<string>parallelContrast</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertHue</key>
+	<string>modulusValidation</string>
+	<key>disabledAsset</key>
+	<string>multiplyLayer</string>
+	<key>geometricDialogs</key>
+	<string>hyperbolicLayout</string>
+	<key>inheritedLoss</key>
+	<string>shouldRebuildFragment</string>
+	<key>pivotalAsset</key>
+	<string>sanitizeBloc</string>
+	<key>resizablemap</key>
+	<string>robustObserver</string>
+	<key>unactivatedOperation</key>
+	<string>shouldStreamMember</string>
+</dict>
+</plist>

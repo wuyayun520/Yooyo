@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionFlex</key>
+	<string>dedicatedDrawer</string>
+	<key>accordionSizedBox</key>
+	<string>hashForm</string>
+	<key>hardsound</key>
+	<string>unactivatedTransition</string>
+	<key>polyfillRate</key>
+	<string>ignoredNode</string>
+	<key>shouldhandlespecifier</key>
+	<string>shouldstreamscaffold</string>
+	<key>sizedboxoffset</key>
+	<string>cacheSegment</string>
+</dict>
+</plist>

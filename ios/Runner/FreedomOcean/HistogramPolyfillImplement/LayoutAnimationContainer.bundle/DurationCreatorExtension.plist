@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaAppearance</key>
+	<string>isShader</string>
+	<key>characterValidation</key>
+	<string>concurrentChannel</string>
+	<key>criticalIcon</key>
+	<string>bitrateNumber</string>
+	<key>dedicatedTimer</key>
+	<string>cancelAxis</string>
+	<key>shouldPauseGate</key>
+	<string>canYieldScaffold</string>
+	<key>smallDuration</key>
+	<string>notificationDepth</string>
+	<key>usedcard</key>
+	<string>statefulSprite</string>
+</dict>
+</plist>

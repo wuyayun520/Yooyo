@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>independentThread</key>
+	<string>declarativeConfidentiality</string>
+	<key>logBound</key>
+	<string>checklistinteraction</string>
+	<key>mediocreStrength</key>
+	<string>inflateskin</string>
+	<key>resizableConstant</key>
+	<string>shouldMountNotifier</string>
+	<key>shouldObserveModal</key>
+	<string>shouldPublishRole</string>
+	<key>skinamortization</key>
+	<string>transitionStrategy</string>
+	<key>subtlesignspeed</key>
+	<string>mediapatternkind</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionvisibility</key>
+	<string>shouldStartBehavior</string>
+	<key>directlyJoiner</key>
+	<string>composableListView</string>
+	<key>isspot</key>
+	<string>enumerateSubscription</string>
+	<key>shouldcachestack</key>
+	<string>controllerFramework</string>
+	<key>stampalongtier</key>
+	<string>scenebound</string>
+	<key>temporaryWrapper</key>
+	<string>tensorCollection</string>
+	<key>usagestyleskewy</key>
+	<string>workflowLeft</string>
+</dict>
+</plist>

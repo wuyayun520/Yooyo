@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystPadding</key>
+	<string>mainRequest</string>
+	<key>cupertinoScroller</key>
+	<string>keepcontainer</string>
+	<key>deliverystatus</key>
+	<string>replaceRect</string>
+	<key>gramwithwork</key>
+	<string>requiredWidget</string>
+	<key>queuevisibility</key>
+	<string>eventactionspeed</string>
+	<key>scrollableMatrix</key>
+	<string>canEmitSubpixel</string>
+	<key>titleInterval</key>
+	<string>synchronousAnalogy</string>
+	<key>webconsumption</key>
+	<string>mainGroup</string>
+</dict>
+</plist>

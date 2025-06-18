@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>modulusCenter</key>
+	<string>popMonster</string>
+	<key>resourcetype</key>
+	<string>rebuildRole</string>
+	<key>schemaRight</key>
+	<string>canCreateMatrix</string>
+	<key>statefulanimatedcontainer</key>
+	<string>generateTexture</string>
+	<key>usedmetadatalocation</key>
+	<string>persistentContraction</string>
+</dict>
+</plist>

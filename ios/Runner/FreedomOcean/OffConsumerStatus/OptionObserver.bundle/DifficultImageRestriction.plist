@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>largeIsolate</key>
+	<string>popBuffer</string>
+	<key>missiondescent</key>
+	<string>toolinteraction</string>
+	<key>reusableBinary</key>
+	<string>subsequentBuilder</string>
+	<key>sequentialArchitecture</key>
+	<string>scenestagecount</string>
+	<key>tappablepositionoffset</key>
+	<string>hasresource</string>
+	<key>typicalData</key>
+	<string>masterParameter</string>
+	<key>widgetperstructure</key>
+	<string>visualizemanager</string>
+</dict>
+</plist>

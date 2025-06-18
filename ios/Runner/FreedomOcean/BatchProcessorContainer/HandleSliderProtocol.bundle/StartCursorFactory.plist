@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticinset</key>
+	<string>fixedTrigger</string>
+	<key>aspectContrast</key>
+	<string>lastSpine</string>
+	<key>channelsPressure</key>
+	<string>shouldBindTabBar</string>
+	<key>eventOffset</key>
+	<string>canUnmountedSegment</string>
+	<key>futurespeed</key>
+	<string>shouldFetchSwitch</string>
+	<key>islabel</key>
+	<string>retainProgressBar</string>
+	<key>iterativeBaseline</key>
+	<string>hasStateful</string>
+	<key>shouldYieldEqualization</key>
+	<string>materializeAlignment</string>
+	<key>significantBase</key>
+	<string>immediateTheme</string>
+</dict>
+</plist>

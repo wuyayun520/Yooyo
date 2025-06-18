@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>integrityDelay</key>
+	<string>canContinueCube</string>
+	<key>nextException</key>
+	<string>brushObserver</string>
+	<key>projectionShape</key>
+	<string>sharedPoint</string>
+	<key>schedulerMargin</key>
+	<string>sophisticatedSemantics</string>
+	<key>subtleError</key>
+	<string>accessoryState</string>
+	<key>usedEquipment</key>
+	<string>techniqueShape</string>
+</dict>
+</plist>

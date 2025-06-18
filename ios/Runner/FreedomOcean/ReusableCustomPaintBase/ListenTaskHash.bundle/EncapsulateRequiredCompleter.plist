@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardRestriction</key>
+	<string>keyAlpha</string>
+	<key>brushfrequency</key>
+	<string>shouldResumeStamp</string>
+	<key>compositionsprite</key>
+	<string>cursorTension</string>
+	<key>interactiveFragments</key>
+	<string>crucialConstant</string>
+	<key>labelBorder</key>
+	<string>interactiveReliability</string>
+	<key>playbackIndex</key>
+	<string>dismissStack</string>
+	<key>prismaticResolver</key>
+	<string>shouldRestartThread</string>
+	<key>shouldBindKernel</key>
+	<string>shouldPersistCaption</string>
+	<key>shouldCacheCollection</key>
+	<string>canValidateAnimation</string>
+	<key>staticArchitecture</key>
+	<string>injectionContext</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adjustexception</key>
+	<string>storageVar</string>
+	<key>dimensionOrientation</key>
+	<string>tweakVisible</string>
+	<key>draggableResponse</key>
+	<string>disposeSign</string>
+	<key>easyChecklist</key>
+	<string>requiredImpression</string>
+	<key>entropyscale</key>
+	<string>usedData</string>
+	<key>gestureOpacity</key>
+	<string>statelessGrayscale</string>
+	<key>inactiveResource</key>
+	<string>lazyModel</string>
+	<key>shouldCacheSlash</key>
+	<string>rebuildMediaQuery</string>
+	<key>shouldDeserializeHistogram</key>
+	<string>modelCycle</string>
+	<key>workflowTint</key>
+	<string>metricsScale</string>
+</dict>
+</plist>

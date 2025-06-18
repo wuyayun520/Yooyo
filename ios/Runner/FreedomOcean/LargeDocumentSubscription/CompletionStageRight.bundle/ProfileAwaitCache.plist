@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticMobile</key>
+	<string>renameLocalization</string>
+	<key>geometricScale</key>
+	<string>canResumeDescriptor</string>
+	<key>inactivePresenter</key>
+	<string>pinchableTouch</string>
+	<key>intensitytemplefeedback</key>
+	<string>originalCube</string>
+	<key>nativeOffset</key>
+	<string>expandedColor</string>
+	<key>prismaticInstruction</key>
+	<string>fixedAnimator</string>
+</dict>
+</plist>

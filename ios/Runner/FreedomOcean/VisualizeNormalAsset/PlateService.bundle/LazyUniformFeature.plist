@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bloctypeborder</key>
+	<string>binderInset</string>
+	<key>catalystscheduler</key>
+	<string>activityChain</string>
+	<key>cupertinoWorkflow</key>
+	<string>lazyCache</string>
+	<key>hashformemento</key>
+	<string>stepFormat</string>
+	<key>iterativeGem</key>
+	<string>invisibleScale</string>
+	<key>layerContrast</key>
+	<string>paintConvolution</string>
+	<key>shouldPushCard</key>
+	<string>fusedCombiner</string>
+	<key>shouldYieldAppBar</key>
+	<string>compositionalLogarithm</string>
+	<key>standalonecupertinoappearance</key>
+	<string>updateexception</string>
+	<key>transitioncycle</key>
+	<string>shouldbindappbar</string>
+</dict>
+</plist>

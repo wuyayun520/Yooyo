@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>detectorSize</key>
+	<string>canKeepTabBar</string>
+	<key>elasticCursor</key>
+	<string>architecturefeedback</string>
+	<key>inheritedHistogram</key>
+	<string>canEndLabel</string>
+	<key>kernelhandler</key>
+	<string>canUnmountPainter</string>
+	<key>labelFrequency</key>
+	<string>arithmeticrectangle</string>
+	<key>shouldbuildspine</key>
+	<string>clipperCount</string>
+</dict>
+</plist>

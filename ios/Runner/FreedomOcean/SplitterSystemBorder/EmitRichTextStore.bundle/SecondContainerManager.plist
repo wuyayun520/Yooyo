@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>emitslider</key>
+	<string>hierarchicalView</string>
+	<key>handleranalogy</key>
+	<string>captiontentative</string>
+	<key>multiMap</key>
+	<string>quantizerTween</string>
+	<key>shouldDisposeGem</key>
+	<string>anchorInterpreter</string>
+	<key>standaloneDetector</key>
+	<string>itemOrientation</string>
+	<key>streamstate</key>
+	<string>topiccyclebrightness</string>
+	<key>unsortedcomponent</key>
+	<string>threadBottom</string>
+</dict>
+</plist>

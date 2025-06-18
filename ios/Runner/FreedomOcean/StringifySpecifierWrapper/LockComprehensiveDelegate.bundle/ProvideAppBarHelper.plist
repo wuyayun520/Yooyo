@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorKind</key>
+	<string>timerFunction</string>
+	<key>callbackstatus</key>
+	<string>shouldPublishIcon</string>
+	<key>canvasvalidation</key>
+	<string>specifySpot</string>
+	<key>coordinatorOffset</key>
+	<string>explicitRenderer</string>
+	<key>elasticbehavioroffset</key>
+	<string>audioShape</string>
+	<key>singlePresenter</key>
+	<string>emitResponse</string>
+	<key>specifyrouterposition</key>
+	<string>uniformSingleton</string>
+	<key>tensorRect</key>
+	<string>scopeSkewY</string>
+	<key>transpilearithmetic</key>
+	<string>dependencyCenter</string>
+</dict>
+</plist>

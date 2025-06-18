@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>onactivitytap</key>
+	<string>queueaction</string>
+	<key>semanticmember</key>
+	<string>resetresolver</string>
+	<key>shouldUpdateGate</key>
+	<string>playRadius</string>
+	<key>statusOffset</key>
+	<string>blocbandwidth</string>
+</dict>
+</plist>

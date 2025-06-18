@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardGroup</key>
+	<string>asynchronousCallback</string>
+	<key>currentPlate</key>
+	<string>shouldSaveAperture</string>
+	<key>injectionviaaction</key>
+	<string>shouldUnbindAspect</string>
+	<key>offsetMargin</key>
+	<string>curveBorder</string>
+	<key>pinchableimpression</key>
+	<string>immutableCurve</string>
+	<key>positionedOrigin</key>
+	<string>canDetachDelegate</string>
+	<key>shouldMountOverlay</key>
+	<string>defaultlistview</string>
+	<key>shouldanimategesturedetector</key>
+	<string>shouldStreamBaseline</string>
+	<key>standaloneSkirt</key>
+	<string>taxonomyTag</string>
+</dict>
+</plist>

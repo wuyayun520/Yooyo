@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticinterval</key>
+	<string>graintheme</string>
+	<key>behaviorForce</key>
+	<string>visibleStep</string>
+	<key>compositionalPopup</key>
+	<string>recttransformer</string>
+	<key>mediaquerystatelocation</key>
+	<string>shouldRenderCycle</string>
+	<key>mobileCompletion</key>
+	<string>containerlikeaction</string>
+</dict>
+</plist>

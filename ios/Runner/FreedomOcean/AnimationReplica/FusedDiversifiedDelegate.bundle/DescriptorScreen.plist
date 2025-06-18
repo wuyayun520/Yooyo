@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintpager</key>
+	<string>easyobserver</string>
+	<key>cyclevideo</key>
+	<string>optimizeMethod</string>
+	<key>interactionColor</key>
+	<string>animateManager</string>
+	<key>shouldRestartGridView</key>
+	<string>disparateTopic</string>
+	<key>shouldTransitionGesture</key>
+	<string>denseCapacity</string>
+	<key>staticLoss</key>
+	<string>updateBrush</string>
+	<key>topicSkewX</key>
+	<string>inheritednavigatorbrightness</string>
+</dict>
+</plist>

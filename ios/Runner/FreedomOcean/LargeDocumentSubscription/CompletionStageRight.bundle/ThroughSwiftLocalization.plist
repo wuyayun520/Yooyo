@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzerOrientation</key>
+	<string>giftpresenter</string>
+	<key>currentMonster</key>
+	<string>basicTicker</string>
+	<key>localSegue</key>
+	<string>observerBrightness</string>
+	<key>restartbinary</key>
+	<string>relationalInfo</string>
+	<key>selectedusage</key>
+	<string>stampPlatform</string>
+	<key>shouldUnmountedObserver</key>
+	<string>locatecache</string>
+	<key>storecenter</key>
+	<string>movementAcceleration</string>
+	<key>streammementotag</key>
+	<string>commonGrid</string>
+	<key>tappableMovement</key>
+	<string>canStopNorm</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocmementocolor</key>
+	<string>disparateScreen</string>
+	<key>disparateSample</key>
+	<string>newestMonster</string>
+	<key>dynamicActivity</key>
+	<string>interactiveanimation</string>
+	<key>exponentOrientation</key>
+	<string>pinchableRow</string>
+	<key>vertexDuration</key>
+	<string>temporaryLabel</string>
+</dict>
+</plist>

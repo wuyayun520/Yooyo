@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartstatealignment</key>
+	<string>serializeActivity</string>
+	<key>chooserBehavior</key>
+	<string>textureName</string>
+	<key>columnresource</key>
+	<string>pivotalAscent</string>
+	<key>gemexceptvar</key>
+	<string>stopaccessory</string>
+	<key>prismaticAppBar</key>
+	<string>shouldRestartBitrate</string>
+	<key>triggerSkewX</key>
+	<string>composablelistener</string>
+</dict>
+</plist>

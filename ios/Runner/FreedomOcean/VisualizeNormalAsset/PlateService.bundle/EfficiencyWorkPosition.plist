@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleBrightness</key>
+	<string>smallTabBar</string>
+	<key>globalThroughput</key>
+	<string>serializeDocument</string>
+	<key>inactiveStorage</key>
+	<string>immediateAnchor</string>
+	<key>mediocreThroughput</key>
+	<string>gradientduration</string>
+	<key>scrollerSkewX</key>
+	<string>offsetTemple</string>
+	<key>shouldEncodeCatalyst</key>
+	<string>paddingScale</string>
+</dict>
+</plist>

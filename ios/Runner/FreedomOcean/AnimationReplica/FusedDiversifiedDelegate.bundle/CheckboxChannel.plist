@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileTrigger</key>
+	<string>addTicker</string>
+	<key>dynamicmodalposition</key>
+	<string>materialCosine</string>
+	<key>hierarchicalMethod</key>
+	<string>basicScroll</string>
+	<key>imageOffset</key>
+	<string>prevTable</string>
+	<key>iterativeFragment</key>
+	<string>refreshgradient</string>
+	<key>maketitle</key>
+	<string>navigatorInterval</string>
+	<key>pivotalentropyalignment</key>
+	<string>resizableError</string>
+	<key>resilientPolyfill</key>
+	<string>vectorParam</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedConsumption</key>
+	<string>curveinset</string>
+	<key>explicitRepository</key>
+	<string>shouldEndGate</string>
+	<key>permissiveScope</key>
+	<string>usedMapper</string>
+	<key>singletonpressure</key>
+	<string>exponentStyle</string>
+</dict>
+</plist>

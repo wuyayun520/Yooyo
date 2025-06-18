@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasprototypeindex</key>
+	<string>dedicateddecoration</string>
+	<key>featurePosition</key>
+	<string>parseCube</string>
+	<key>membergrid</key>
+	<string>convertPreview</string>
+	<key>pinchableGestureDetector</key>
+	<string>tensorGraph</string>
+	<key>shouldPauseImage</key>
+	<string>quantizationUseCase</string>
+	<key>shouldReplaceSegue</key>
+	<string>borderSingleton</string>
+	<key>vertexBound</key>
+	<string>handlePageView</string>
+</dict>
+</plist>

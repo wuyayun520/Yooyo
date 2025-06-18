@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitcontainoperation</key>
+	<string>iconValidation</string>
+	<key>dependencyAppearance</key>
+	<string>displayView</string>
+	<key>discardedCache</key>
+	<string>clearTask</string>
+	<key>disparatebloc</key>
+	<string>resilientModal</string>
+	<key>flexibleDimension</key>
+	<string>selectorAlignment</string>
+	<key>grainInterval</key>
+	<string>sampleName</string>
+	<key>nativeNavigator</key>
+	<string>storageincludetype</string>
+	<key>shouldCreateMovement</key>
+	<string>shouldinflateimage</string>
+</dict>
+</plist>

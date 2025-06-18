@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedTransformer</key>
+	<string>stepthanlayer</string>
+	<key>dismisscompleter</key>
+	<string>quaternionTransparency</string>
+	<key>secondwidgetspacing</key>
+	<string>mediumFragment</string>
+	<key>ternaryawaybuffer</key>
+	<string>momentumScale</string>
+</dict>
+</plist>

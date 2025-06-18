@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableBuilder</key>
+	<string>flexibleTexture</string>
+	<key>integerResponse</key>
+	<string>normalMonster</string>
+	<key>musicdirection</key>
+	<string>texturevisibility</string>
+	<key>pinchableScheduler</key>
+	<string>maxFragment</string>
+	<key>responsiveSpecifier</key>
+	<string>lostservice</string>
+	<key>shouldenddocument</key>
+	<string>revisitReducer</string>
+	<key>significantcurve</key>
+	<string>aspectratiocontrast</string>
+	<key>tweenShape</key>
+	<string>renderCycle</string>
+</dict>
+</plist>

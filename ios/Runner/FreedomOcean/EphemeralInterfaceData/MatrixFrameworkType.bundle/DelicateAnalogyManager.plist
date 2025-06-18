@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerEdge</key>
+	<string>gramconverter</string>
+	<key>defaultmaster</key>
+	<string>repositoryFeedback</string>
+	<key>evolutionCoord</key>
+	<string>shouldDisconnectInkWell</string>
+	<key>fixedLifecycle</key>
+	<string>nextBandwidth</string>
+	<key>largeLoader</key>
+	<string>cachestorage</string>
+	<key>lostModel</key>
+	<string>inactiveWidget</string>
+	<key>resilienceVisible</key>
+	<string>backwardsemantics</string>
+	<key>statefulLabel</key>
+	<string>positionedFramework</string>
+	<key>synchronousAwait</key>
+	<string>scrollableHero</string>
+</dict>
+</plist>

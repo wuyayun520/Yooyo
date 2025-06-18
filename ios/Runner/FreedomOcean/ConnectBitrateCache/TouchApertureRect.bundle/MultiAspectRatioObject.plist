@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoInjection</key>
+	<string>asyncKind</string>
+	<key>observerresponder</key>
+	<string>symmetricNib</string>
+	<key>synchronousStamp</key>
+	<string>transformController</string>
+	<key>vectoralignment</key>
+	<string>largeIndicator</string>
+</dict>
+</plist>

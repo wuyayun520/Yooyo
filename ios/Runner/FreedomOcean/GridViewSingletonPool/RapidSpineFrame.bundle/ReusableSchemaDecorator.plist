@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>injectionalongmediator</key>
+	<string>subscriptionreducer</string>
+	<key>navigatorRate</key>
+	<string>interactiveEffect</string>
+	<key>resizableDescriptor</key>
+	<string>shouldPersistModal</string>
+	<key>shouldFormatShader</key>
+	<string>materialLabel</string>
+	<key>shouldNotifyFlex</key>
+	<string>sophisticatedTabBar</string>
+	<key>shouldParseAlpha</key>
+	<string>discoverCompleter</string>
+	<key>validatestore</key>
+	<string>delicateChannel</string>
+</dict>
+</plist>

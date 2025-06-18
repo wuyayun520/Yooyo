@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeerrortag</key>
+	<string>canPushMargin</string>
+	<key>binderCoord</key>
+	<string>restartLog</string>
+	<key>builderBehavior</key>
+	<string>dismissOverlay</string>
+	<key>certificatereceiver</key>
+	<string>rapidSymbol</string>
+	<key>currentscroll</key>
+	<string>seamlessbufferright</string>
+	<key>shouldCacheAspectRatio</key>
+	<string>profileChannel</string>
+	<key>startgrid</key>
+	<string>gradientCoord</string>
+	<key>threadfeedback</key>
+	<string>promisestyle</string>
+	<key>visibleAudio</key>
+	<string>canValidateGestureDetector</string>
+</dict>
+</plist>

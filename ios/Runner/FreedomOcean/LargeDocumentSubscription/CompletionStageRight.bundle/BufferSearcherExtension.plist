@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileMechanism</key>
+	<string>significantwrapper</string>
+	<key>animatedcontainerCoord</key>
+	<string>lazySwitch</string>
+	<key>loaderhue</key>
+	<string>currentBoxShadow</string>
+	<key>nextConfiguration</key>
+	<string>requestCompleter</string>
+	<key>permissiveDetail</key>
+	<string>priorityversusadapter</string>
+	<key>shouldSetStateEqualization</key>
+	<string>overrideRow</string>
+	<key>spineAppearance</key>
+	<string>equivalentmode</string>
+	<key>staticTable</key>
+	<string>advancedQueue</string>
+	<key>uniqueBitrate</key>
+	<string>activateOffset</string>
+</dict>
+</plist>

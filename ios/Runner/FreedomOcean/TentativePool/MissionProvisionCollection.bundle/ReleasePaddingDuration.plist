@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeQuaternion</key>
+	<string>polygonDistance</string>
+	<key>descentTint</key>
+	<string>temporaryLoader</string>
+	<key>largeFlex</key>
+	<string>independentBullet</string>
+	<key>mutableSwitch</key>
+	<string>persistentCycle</string>
+	<key>shouldAnimateDimension</key>
+	<string>globalMenu</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concretePicker</key>
+	<string>errorOffset</string>
+	<key>euclideanSpot</key>
+	<string>refreshsprite</string>
+	<key>localdescription</key>
+	<string>setupConstraint</string>
+	<key>optionofstage</key>
+	<string>shouldDisposeCurve</string>
+	<key>robustCard</key>
+	<string>sortedPlate</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>materialAction</key>
+	<string>mapInterpreter</string>
+	<key>missionstructuretransparency</key>
+	<string>cosineInterpreter</string>
+	<key>objectBorder</key>
+	<string>intuitiveUsage</string>
+	<key>shouldReplaceRole</key>
+	<string>customizedPicker</string>
+</dict>
+</plist>

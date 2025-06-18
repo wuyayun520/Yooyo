@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerrange</key>
+	<string>awaitchaincount</string>
+	<key>backwardMovement</key>
+	<string>tensorTweak</string>
+	<key>buttonoffunction</key>
+	<string>currentExtension</string>
+	<key>currentcharacter</key>
+	<string>functionalUtil</string>
+	<key>operationStyle</key>
+	<string>dismissState</string>
+	<key>resulttierstate</key>
+	<string>cleanReducer</string>
+	<key>shouldSaveLayout</key>
+	<string>displayableShape</string>
+	<key>statelessNotation</key>
+	<string>explicitProcessor</string>
+</dict>
+</plist>

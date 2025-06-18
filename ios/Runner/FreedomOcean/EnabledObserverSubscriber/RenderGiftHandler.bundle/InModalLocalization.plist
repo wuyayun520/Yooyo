@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineType</key>
+	<string>differentiateConstraint</string>
+	<key>configurationResponse</key>
+	<string>localArithmetic</string>
+	<key>explicitasset</key>
+	<string>delegateSkewX</string>
+	<key>lazyAction</key>
+	<string>routeCatalyst</string>
+	<key>vectorspeed</key>
+	<string>nextBullet</string>
+</dict>
+</plist>

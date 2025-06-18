@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileAnimator</key>
+	<string>callbackscroller</string>
+	<key>agileMomentum</key>
+	<string>agileIsolate</string>
+	<key>explicitEntity</key>
+	<string>robustReduction</string>
+	<key>hasScroll</key>
+	<string>reflectRequest</string>
+	<key>multiInteractor</key>
+	<string>deserializeBitrate</string>
+	<key>newestPresenter</key>
+	<string>nativepublisher</string>
+	<key>robustCharacteristic</key>
+	<string>hashchainforce</string>
+	<key>shouldProcessShader</key>
+	<string>divideNode</string>
+</dict>
+</plist>

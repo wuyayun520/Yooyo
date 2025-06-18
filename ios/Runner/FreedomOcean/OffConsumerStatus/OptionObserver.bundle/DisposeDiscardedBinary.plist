@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeSample</key>
+	<string>masterType</string>
+	<key>fetchcursor</key>
+	<string>canReplaceNavigation</string>
+	<key>mapperprototype</key>
+	<string>reliabilityDepth</string>
+	<key>shouldUpdateRow</key>
+	<string>disconnectGrayscale</string>
+	<key>splitterTint</key>
+	<string>mountcontroller</string>
+	<key>statelessConverter</key>
+	<string>decodeWidget</string>
+	<key>switchTag</key>
+	<string>transitionnearaction</string>
+	<key>triggerVisibility</key>
+	<string>metadataMode</string>
+	<key>visibleNotifier</key>
+	<string>resilientSegment</string>
+</dict>
+</plist>

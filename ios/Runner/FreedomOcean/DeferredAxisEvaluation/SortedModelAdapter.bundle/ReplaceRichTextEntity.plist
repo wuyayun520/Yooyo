@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerrecursion</key>
+	<string>parseSemantics</string>
+	<key>consultativeschema</key>
+	<string>discardedCanvas</string>
+	<key>currentcycle</key>
+	<string>draggableExpanded</string>
+	<key>heapformode</key>
+	<string>normVelocity</string>
+	<key>inactiveVideo</key>
+	<string>configureChart</string>
+	<key>isScreen</key>
+	<string>shouldPushGift</string>
+	<key>multiChannels</key>
+	<string>canShowDocument</string>
+	<key>primaryMaterial</key>
+	<string>painterPattern</string>
+	<key>shouldNavigateScreen</key>
+	<string>rebuildNavigator</string>
+	<key>uniqueCharacter</key>
+	<string>pushCaption</string>
+</dict>
+</plist>

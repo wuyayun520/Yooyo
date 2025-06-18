@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyEquivalent</key>
+	<string>criticalModal</string>
+	<key>explicitParticle</key>
+	<string>actionEdge</string>
+	<key>semanticDescriptor</key>
+	<string>shouldTrainCompletion</string>
+	<key>stepsaturation</key>
+	<string>immutableStatus</string>
+</dict>
+</plist>

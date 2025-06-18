@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedTimer</key>
+	<string>traintimer</string>
+	<key>coordinatorsystemdirection</key>
+	<string>keyArithmetic</string>
+	<key>fusedScroller</key>
+	<string>blocbridgedirection</string>
+	<key>navigatorbeyonddecorator</key>
+	<string>controllerkind</string>
+	<key>shouldTransformAlpha</key>
+	<string>cliproute</string>
+	<key>shouldbuildgesture</key>
+	<string>transposeDelegate</string>
+	<key>skinhead</key>
+	<string>hierarchicalMechanism</string>
+</dict>
+</plist>

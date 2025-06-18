@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionCursor</key>
+	<string>tickerHue</string>
+	<key>asyncPosition</key>
+	<string>binaryPhase</string>
+	<key>defaultcaption</key>
+	<string>staticWidget</string>
+	<key>flexibleItem</key>
+	<string>introspectSubscription</string>
+	<key>rapidCallback</key>
+	<string>hasMap</string>
+	<key>shouldSkipCursor</key>
+	<string>sharedHero</string>
+</dict>
+</plist>

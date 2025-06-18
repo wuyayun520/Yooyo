@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardEmitter</key>
+	<string>polygonborder</string>
+	<key>basicTolerance</key>
+	<string>functionalConvolution</string>
+	<key>beginnerOverlay</key>
+	<string>shouldSaveHistogram</string>
+	<key>firstPresenter</key>
+	<string>configurationspacing</string>
+	<key>resilientAscent</key>
+	<string>scrollerIndex</string>
+	<key>temporaryPager</key>
+	<string>reactivemenucolor</string>
+	<key>temporaryTangent</key>
+	<string>addTitle</string>
+</dict>
+</plist>

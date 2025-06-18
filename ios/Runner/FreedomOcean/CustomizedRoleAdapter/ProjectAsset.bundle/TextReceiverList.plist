@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferAcceleration</key>
+	<string>formatResponse</string>
+	<key>concretevectorsize</key>
+	<string>makeHash</string>
+	<key>deferredSubscriber</key>
+	<string>discardedNavigator</string>
+	<key>processcompleter</key>
+	<string>shouldCacheScroll</string>
+</dict>
+</plist>

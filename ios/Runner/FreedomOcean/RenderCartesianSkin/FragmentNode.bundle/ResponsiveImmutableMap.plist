@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedtheme</key>
+	<string>hyperbolicMerger</string>
+	<key>hyperbolicPresenter</key>
+	<string>shouldParseChallenge</string>
+	<key>scrollableevolution</key>
+	<string>remediationHue</string>
+	<key>shouldListenPrecision</key>
+	<string>resilientDescriptor</string>
+	<key>shouldSkipPoint</key>
+	<string>signatureColor</string>
+	<key>textForce</key>
+	<string>shouldDetachExpanded</string>
+</dict>
+</plist>

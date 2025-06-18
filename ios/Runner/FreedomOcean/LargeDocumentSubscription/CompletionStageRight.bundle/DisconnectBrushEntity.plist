@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedGate</key>
+	<string>scrollableSink</string>
+	<key>originalSorter</key>
+	<string>fixedLoss</string>
+	<key>shoulddismissindicator</key>
+	<string>fragmentsVisibility</string>
+	<key>standalonereduction</key>
+	<string>loopsincescope</string>
+	<key>toolpressure</key>
+	<string>canDecodeBoxShadow</string>
+</dict>
+</plist>

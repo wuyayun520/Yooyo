@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>layoutbufferformat</key>
+	<string>registerTexture</string>
+	<key>missedWidget</key>
+	<string>specifyAscent</string>
+	<key>permanentSpecifier</key>
+	<string>missedasset</string>
+	<key>shouldSaveCustomPaint</key>
+	<string>inactiveClipper</string>
+	<key>unactivatedSign</key>
+	<string>directlyRenderer</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equipmentFeedback</key>
+	<string>shouldYieldFragment</string>
+	<key>interactorinterval</key>
+	<string>soundCoord</string>
+	<key>shouldRestartTask</key>
+	<string>usedquaternion</string>
+	<key>streamInset</key>
+	<string>shouldConnectRichText</string>
+</dict>
+</plist>

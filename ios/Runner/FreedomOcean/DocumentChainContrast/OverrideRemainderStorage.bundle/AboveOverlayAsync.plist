@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>connectoption</key>
+	<string>polyfillDelay</string>
+	<key>crucialScroll</key>
+	<string>tabviewVariable</string>
+	<key>obtainusecase</key>
+	<string>reductionEdge</string>
+	<key>shouldMountedHeap</key>
+	<string>responsiveSizedBox</string>
+</dict>
+</plist>

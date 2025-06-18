@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubeRate</key>
+	<string>tweakBottom</string>
+	<key>deferredTween</key>
+	<string>intermediateExtension</string>
+	<key>framekindformat</key>
+	<string>priorityTask</string>
+	<key>heroStyle</key>
+	<string>secondtoolduration</string>
+	<key>movequeue</key>
+	<string>criticalSpine</string>
+	<key>mutablecontractionhead</key>
+	<string>decoupleCompleter</string>
+	<key>protectedGrain</key>
+	<string>encodeNib</string>
+	<key>shouldValidateGestureDetector</key>
+	<string>polygonname</string>
+	<key>shouldanimateusage</key>
+	<string>awaitfromstate</string>
+	<key>widgetLeft</key>
+	<string>cancelNib</string>
+</dict>
+</plist>

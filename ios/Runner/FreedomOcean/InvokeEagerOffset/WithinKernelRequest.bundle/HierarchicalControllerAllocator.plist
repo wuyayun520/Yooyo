@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellHue</key>
+	<string>unaryresponse</string>
+	<key>combinerShade</key>
+	<string>quaternionAppearance</string>
+	<key>responderOrigin</key>
+	<string>respectiveNib</string>
+	<key>sharedMonster</key>
+	<string>disconnectChannel</string>
+	<key>shouldLoadPadding</key>
+	<string>responsiveHandler</string>
+</dict>
+</plist>

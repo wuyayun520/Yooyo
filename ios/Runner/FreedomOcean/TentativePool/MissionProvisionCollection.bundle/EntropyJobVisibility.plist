@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>combinerFlags</key>
+	<string>orchestrateTransformer</string>
+	<key>denseNotifier</key>
+	<string>listviewVelocity</string>
+	<key>elasticNorm</key>
+	<string>tweenalongpattern</string>
+	<key>immutableamortization</key>
+	<string>prevCreator</string>
+	<key>shouldBindCursor</key>
+	<string>setupgrayscale</string>
+	<key>statefulReference</key>
+	<string>mapDuration</string>
+</dict>
+</plist>

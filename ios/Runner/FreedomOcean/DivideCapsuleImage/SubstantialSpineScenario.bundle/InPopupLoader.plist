@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleRectangle</key>
+	<string>sineofmediator</string>
+	<key>asynclocation</key>
+	<string>largeReduction</string>
+	<key>lazyRenderer</key>
+	<string>interactiveInkWell</string>
+	<key>mediumoperation</key>
+	<string>expandedCycle</string>
+	<key>permanentEquipment</key>
+	<string>plateVisible</string>
+	<key>trianglesFlags</key>
+	<string>explicitAnimatedContainer</string>
+	<key>unarySkewY</key>
+	<string>schedulerInteraction</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedChannels</key>
+	<string>associateBuilder</string>
+	<key>cosineshape</key>
+	<string>margindrawer</string>
+	<key>dedicatedtextflags</key>
+	<string>shapeScale</string>
+	<key>delegateamongcomposite</key>
+	<string>heapLayer</string>
+	<key>denselabelspacing</key>
+	<string>firstStatus</string>
+	<key>desktopResource</key>
+	<string>commonSound</string>
+	<key>discardedGem</key>
+	<string>buttonresponse</string>
+	<key>displayableDelivery</key>
+	<string>mobileTangent</string>
+	<key>similarResponder</key>
+	<string>customizedBandwidth</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currenttabbar</key>
+	<string>textfieldlayeropacity</string>
+	<key>dependencymementoforce</key>
+	<string>globalCapacity</string>
+	<key>shouldCreateFragment</key>
+	<string>intuitivestreamedge</string>
+	<key>sortedWorkflow</key>
+	<string>unscheduleState</string>
+	<key>statelessChart</key>
+	<string>shouldLayoutRemainder</string>
+</dict>
+</plist>

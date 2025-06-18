@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicContrast</key>
+	<string>requiredCoordinator</string>
+	<key>diffableLayer</key>
+	<string>keepThread</string>
+	<key>firstArchitecture</key>
+	<string>compileTitle</string>
+	<key>independentRestriction</key>
+	<string>baseDecorator</string>
+	<key>robustGrayscale</key>
+	<string>visibleOffset</string>
+	<key>thresholdStatus</key>
+	<string>textFlags</string>
+</dict>
+</plist>

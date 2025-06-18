@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>holdworkflow</key>
+	<string>metadataCount</string>
+	<key>menumode</key>
+	<string>shouldSavePlate</string>
+	<key>navigatorShape</key>
+	<string>disparateThread</string>
+	<key>relationalsamplevisibility</key>
+	<string>liteScaffold</string>
+	<key>responsiveNorm</key>
+	<string>canMountedMission</string>
+	<key>shouldMountedText</key>
+	<string>canPauseTheme</string>
+	<key>unbindlistener</key>
+	<string>overlaystatus</string>
+</dict>
+</plist>

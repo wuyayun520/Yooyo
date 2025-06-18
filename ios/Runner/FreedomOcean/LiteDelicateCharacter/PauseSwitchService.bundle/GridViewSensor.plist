@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonCosine</key>
+	<string>scaleTag</string>
+	<key>concurrentCurve</key>
+	<string>positioninsidecomposite</string>
+	<key>shouldPauseScreen</key>
+	<string>shapeDirection</string>
+	<key>shouldPauseScroll</key>
+	<string>criticalFrame</string>
+	<key>shouldPrepareCoordinator</key>
+	<string>webProgressBar</string>
+	<key>shouldStreamMember</key>
+	<string>smallRadius</string>
+	<key>shouldshowalpha</key>
+	<string>rotateChannel</string>
+	<key>tabbaragainsttier</key>
+	<string>directSpot</string>
+</dict>
+</plist>

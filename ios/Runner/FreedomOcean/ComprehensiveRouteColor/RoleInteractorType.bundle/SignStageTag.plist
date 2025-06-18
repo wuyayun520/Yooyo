@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeService</key>
+	<string>ignoredBandwidth</string>
+	<key>routeStyle</key>
+	<string>hasstream</string>
+	<key>shouldStopCoordinator</key>
+	<string>customdispatcher</string>
+	<key>statelesscubit</key>
+	<string>quantizationCurve</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushCenter</key>
+	<string>notificationconsumption</string>
+	<key>crucialPoint</key>
+	<string>shouldKeepOperation</string>
+	<key>denseScene</key>
+	<string>aspectBehavior</string>
+	<key>escalatefuture</key>
+	<string>sophisticatedArithmetic</string>
+	<key>interactiveobject</key>
+	<string>shouldFinishCapsule</string>
+	<key>intermediateRouter</key>
+	<string>animateRadius</string>
+	<key>iscaption</key>
+	<string>loopRate</string>
+	<key>positionedLocation</key>
+	<string>colorHue</string>
+	<key>rapidMission</key>
+	<string>titleChain</string>
+	<key>rendercontraction</key>
+	<string>statefulScheduler</string>
+</dict>
+</plist>

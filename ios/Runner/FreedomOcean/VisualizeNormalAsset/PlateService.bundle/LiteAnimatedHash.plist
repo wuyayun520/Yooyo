@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionDescription</key>
+	<string>adaptiveScenario</string>
+	<key>compositionalstroke</key>
+	<string>themeSaturation</string>
+	<key>immediateSprite</key>
+	<string>skipCollection</string>
+	<key>logarithmstate</key>
+	<string>significantContainer</string>
+	<key>petslider</key>
+	<string>specifyPolygon</string>
+	<key>shapeHead</key>
+	<string>canLayoutIndicator</string>
+	<key>shouldUnbindOverlay</key>
+	<string>directNib</string>
+	<key>tensorScale</key>
+	<string>shouldTransformMatrix</string>
+</dict>
+</plist>

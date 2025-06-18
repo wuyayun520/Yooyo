@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedTransition</key>
+	<string>shouldvalidatecapsule</string>
+	<key>cellResponse</key>
+	<string>shouldUnmountedController</string>
+	<key>imperativePublisher</key>
+	<string>shoulddispatchdecoration</string>
+	<key>numericalcupertino</key>
+	<string>shouldFetchSemantics</string>
+	<key>paddingSkewY</key>
+	<string>animatedresponsename</string>
+	<key>permissiveinterface</key>
+	<string>sanitizeCurve</string>
+	<key>respectiveCompletion</key>
+	<string>unbindCycle</string>
+	<key>shouldBuildDescriptor</key>
+	<string>ignoredChart</string>
+	<key>staticSign</key>
+	<string>offsetFunction</string>
+	<key>uniformPlayback</key>
+	<string>currentlog</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedChannel</key>
+	<string>semanticTriangles</string>
+	<key>discardedBehavior</key>
+	<string>permutationBorder</string>
+	<key>ephemeralPlayback</key>
+	<string>consumerResponse</string>
+	<key>hasController</key>
+	<string>layoutScaffold</string>
+	<key>intermediateChart</key>
+	<string>semanticSession</string>
+	<key>loaderInteraction</key>
+	<string>grayscaleResponse</string>
+	<key>mediocreModal</key>
+	<string>cartesianStorage</string>
+	<key>shouldUnmountedExtension</key>
+	<string>shouldStreamChecklist</string>
+	<key>statefulStream</key>
+	<string>descriptionSkewX</string>
+</dict>
+</plist>

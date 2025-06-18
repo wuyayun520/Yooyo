@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>embedframe</key>
+	<string>sineRate</string>
+	<key>fragmentsTail</key>
+	<string>freeAction</string>
+	<key>rowagainstchain</key>
+	<string>prepareMomentum</string>
+	<key>unbindinteractor</key>
+	<string>canProcessSensor</string>
+	<key>updatesubpixel</key>
+	<string>textTint</string>
+</dict>
+</plist>

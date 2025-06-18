@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>nativeTicker</key>
+	<string>fusedImpact</string>
+	<key>providercontextvisibility</key>
+	<string>originalCubit</string>
+	<key>shouldDisconnectPlayback</key>
+	<string>upgradeGrain</string>
+	<key>shouldEncodeGate</key>
+	<string>canStreamGestureDetector</string>
+	<key>sizeduration</key>
+	<string>requiredBitrate</string>
+	<key>themeinset</key>
+	<string>materialContainer</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedAlignment</key>
+	<string>handleInteger</string>
+	<key>activeListView</key>
+	<string>volumeScale</string>
+	<key>expandedsaturation</key>
+	<string>resourceplatformbrightness</string>
+	<key>marginTheme</key>
+	<string>columnamongaction</string>
+	<key>navigatorcontainvisitor</key>
+	<string>shouldFormatCaption</string>
+	<key>permanentEntity</key>
+	<string>canUnmountAxis</string>
+	<key>slashBound</key>
+	<string>attachProtocol</string>
+	<key>toolBrightness</key>
+	<string>buildSlider</string>
+	<key>updateduration</key>
+	<string>presentcallback</string>
+</dict>
+</plist>

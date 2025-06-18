@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileMetrics</key>
+	<string>appbarSize</string>
+	<key>animationvalidation</key>
+	<string>dependencyactionbehavior</string>
+	<key>constraintsystemleft</key>
+	<string>vectorizePreview</string>
+	<key>emitterTail</key>
+	<string>errorFunction</string>
+	<key>shaderpressure</key>
+	<string>inflateDescriptor</string>
+	<key>shouldTransformSwift</key>
+	<string>parseobserver</string>
+	<key>unsortedMapper</key>
+	<string>commonMatrix</string>
+</dict>
+</plist>

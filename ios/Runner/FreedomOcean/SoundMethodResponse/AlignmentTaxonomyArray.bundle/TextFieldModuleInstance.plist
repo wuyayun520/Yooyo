@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>explicitModel</key>
+	<string>marshalzone</string>
+	<key>missedIsolate</key>
+	<string>paintCharacter</string>
+	<key>seconddelegate</key>
+	<string>secondFeature</string>
+	<key>textfieldStyle</key>
+	<string>appbarTemple</string>
+</dict>
+</plist>

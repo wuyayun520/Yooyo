@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentState</key>
+	<string>mediocreDelivery</string>
+	<key>defaultSemantics</key>
+	<string>activateDependency</string>
+	<key>desktopLayer</key>
+	<string>overlayBrightness</string>
+	<key>displayableStorage</key>
+	<string>baselineVisibility</string>
+	<key>pivotalsensor</key>
+	<string>memberPressure</string>
+	<key>publicOverlay</key>
+	<string>shouldValidateMap</string>
+	<key>selecteddocument</key>
+	<string>cachepadding</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesiancharacteristic</key>
+	<string>mediaIndex</string>
+	<key>isolatetop</key>
+	<string>shouldTrainChannels</string>
+	<key>plateRotation</key>
+	<string>hardDecoration</string>
+	<key>positionedmerger</key>
+	<string>shouldCacheRichText</string>
+	<key>reactiveLifecycle</key>
+	<string>signVelocity</string>
+	<key>shouldDisposeCupertino</key>
+	<string>canPrepareGradient</string>
+	<key>sliderSize</key>
+	<string>priorColor</string>
+	<key>utilSkewY</key>
+	<string>viewEdge</string>
+</dict>
+</plist>

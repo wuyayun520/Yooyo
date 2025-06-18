@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseEquipment</key>
+	<string>exitSize</string>
+	<key>extensionHead</key>
+	<string>crudeObject</string>
+	<key>globalTriangles</key>
+	<string>setupstep</string>
+	<key>polygonbottom</key>
+	<string>desktopObserver</string>
+	<key>shouldBindContainer</key>
+	<string>keyLocalization</string>
+	<key>shouldLoadCube</key>
+	<string>transformerOffset</string>
+	<key>shouldSetStateWidget</key>
+	<string>threadFeedback</string>
+	<key>specifyVolume</key>
+	<string>elasticOffset</string>
+</dict>
+</plist>

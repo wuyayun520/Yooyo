@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cachesorter</key>
+	<string>immutableRepository</string>
+	<key>completerhead</key>
+	<string>sequentialArithmetic</string>
+	<key>currentTabBar</key>
+	<string>canFetchScroll</string>
+	<key>functionalCaption</key>
+	<string>projectvalidation</string>
+	<key>gridbridgemargin</key>
+	<string>responsiveDetector</string>
+	<key>liteButton</key>
+	<string>canConnectSlash</string>
+	<key>materialMaterializer</key>
+	<string>refactorController</string>
+	<key>primarySine</key>
+	<string>createTransformer</string>
+	<key>setuplog</key>
+	<string>encodeExponent</string>
+	<key>shouldFormatMission</key>
+	<string>tensorJoiner</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonlistener</key>
+	<string>significantConsumption</string>
+	<key>drawerDelay</key>
+	<string>firstutil</string>
+	<key>drawerPressure</key>
+	<string>pinchableInstruction</string>
+	<key>fixedChooser</key>
+	<string>basicgraph</string>
+	<key>hierarchicalCursor</key>
+	<string>cartesianreducervalidation</string>
+	<key>mainduration</key>
+	<string>canContinueGesture</string>
+	<key>oldcallbackrate</key>
+	<string>canDeserializeStoryboard</string>
+	<key>progressbarstructureoffset</key>
+	<string>markIsolate</string>
+	<key>protectedService</key>
+	<string>directlyClipper</string>
+	<key>remediationHue</key>
+	<string>triggerSaturation</string>
+</dict>
+</plist>

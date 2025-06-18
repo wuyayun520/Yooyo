@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deserializelayout</key>
+	<string>shouldPushSign</string>
+	<key>geometricCosine</key>
+	<string>shouldDismissStack</string>
+	<key>loopvisible</key>
+	<string>receiveState</string>
+	<key>semanticstransparency</key>
+	<string>deprecateRepository</string>
+	<key>shouldDisposeAnimatedContainer</key>
+	<string>saveStateless</string>
+	<key>shouldParsePageView</key>
+	<string>usecasealignment</string>
+	<key>significantView</key>
+	<string>baseDistance</string>
+	<key>typicalColumn</key>
+	<string>providerVelocity</string>
+</dict>
+</plist>

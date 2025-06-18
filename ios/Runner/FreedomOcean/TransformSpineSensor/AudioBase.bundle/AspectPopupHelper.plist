@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableNavigation</key>
+	<string>delicateScale</string>
+	<key>freelayout</key>
+	<string>heapvelocity</string>
+	<key>globalRouter</key>
+	<string>missedView</string>
+	<key>hardSingleton</key>
+	<string>canRenderCompletion</string>
+	<key>ignoredRestriction</key>
+	<string>multiSlider</string>
+	<key>iterativeConfiguration</key>
+	<string>plateobservermomentum</string>
+	<key>shouldUnmountedCollection</key>
+	<string>firstMember</string>
+	<key>shouldbuildaccessory</key>
+	<string>trianglesBehavior</string>
+	<key>storescenario</key>
+	<string>shouldshowstep</string>
+	<key>usedresource</key>
+	<string>canSaveDrawer</string>
+</dict>
+</plist>

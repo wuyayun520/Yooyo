@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviortop</key>
+	<string>lazyTool</string>
+	<key>controllercharacteristic</key>
+	<string>smartProcessor</string>
+	<key>crudePermutation</key>
+	<string>sliderperinterpreter</string>
+	<key>draggableLatency</key>
+	<string>sequentialCatalyst</string>
+	<key>localreferencestatus</key>
+	<string>configureUtil</string>
+	<key>paddingStyle</key>
+	<string>largeStateful</string>
+	<key>shouldPaintButton</key>
+	<string>stepBrightness</string>
+	<key>spritetension</key>
+	<string>materializerichtext</string>
+</dict>
+</plist>

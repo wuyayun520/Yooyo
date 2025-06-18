@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoReliability</key>
+	<string>staticPicker</string>
+	<key>draggableChart</key>
+	<string>directlyReplica</string>
+	<key>embraceloop</key>
+	<string>shouldUnmountedSession</string>
+	<key>invisibleDrawer</key>
+	<string>gemOffset</string>
+	<key>invisibleGestureDetector</key>
+	<string>seamlessQueue</string>
+	<key>otherSprite</key>
+	<string>intuitiveConfidentiality</string>
+	<key>shouldValidateAppBar</key>
+	<string>interceptPopup</string>
+	<key>staticReceiver</key>
+	<string>advancedPopup</string>
+</dict>
+</plist>

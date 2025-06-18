@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleDetector</key>
+	<string>semanticstate</string>
+	<key>axisPressure</key>
+	<string>desktopDescription</string>
+	<key>directlyTaxonomy</key>
+	<string>lastTheme</string>
+	<key>mediocreTrajectory</key>
+	<string>typicalDuration</string>
+	<key>shouldEndEntropy</key>
+	<string>localDescription</string>
+	<key>shouldPresentSpecifier</key>
+	<string>shouldencodeview</string>
+	<key>temporaryconsumerlocation</key>
+	<string>shouldPopMonster</string>
+	<key>unactivatedService</key>
+	<string>numericalProfile</string>
+</dict>
+</plist>

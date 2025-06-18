@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultPriority</key>
+	<string>directdescription</string>
+	<key>exceptiontheme</key>
+	<string>invisibleAnalogy</string>
+	<key>gradientOrientation</key>
+	<string>chapterInterval</string>
+	<key>nativeBuffer</key>
+	<string>symbolSkewY</string>
+	<key>permutationsize</key>
+	<string>denseAccessory</string>
+	<key>semanticPromise</key>
+	<string>canShowEquipment</string>
+	<key>shouldMountedAppBar</key>
+	<string>sortedActivity</string>
+	<key>shouldskipgrayscale</key>
+	<string>entropyValidation</string>
+	<key>volumeVisible</key>
+	<string>cartesianProvider</string>
+</dict>
+</plist>

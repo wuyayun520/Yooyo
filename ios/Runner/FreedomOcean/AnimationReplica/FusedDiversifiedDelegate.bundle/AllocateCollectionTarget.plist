@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperorientation</key>
+	<string>canvasCycle</string>
+	<key>configurationTail</key>
+	<string>processMovement</string>
+	<key>mainCursor</key>
+	<string>tappableHero</string>
+	<key>pinchableChapter</key>
+	<string>sampletransition</string>
+	<key>singleText</key>
+	<string>serviceStage</string>
+	<key>touchRight</key>
+	<string>rectpadding</string>
+</dict>
+</plist>

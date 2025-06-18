@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseListener</key>
+	<string>concreteGrid</string>
+	<key>dispatcherStyle</key>
+	<string>isRole</string>
+	<key>displayableDistinction</key>
+	<string>responselikemode</string>
+	<key>eagerproviderdelay</key>
+	<string>reducermode</string>
+	<key>iterativeIntegration</key>
+	<string>explicitCreator</string>
+	<key>parallelRadio</key>
+	<string>emitSpine</string>
+	<key>sustainableSwift</key>
+	<string>shouldDisposeFlex</string>
+	<key>tappableRenderer</key>
+	<string>isolateValidation</string>
+	<key>visualizeaccessory</key>
+	<string>responsiveMap</string>
+</dict>
+</plist>

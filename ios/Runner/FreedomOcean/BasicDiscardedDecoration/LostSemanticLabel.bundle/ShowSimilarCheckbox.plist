@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleHistogram</key>
+	<string>isbatch</string>
+	<key>adaptiveCursor</key>
+	<string>receiveLoop</string>
+	<key>animatedRange</key>
+	<string>obtainOffset</string>
+	<key>animatedtask</key>
+	<string>imperativeAsync</string>
+	<key>blocfromshape</key>
+	<string>navigateImage</string>
+	<key>inheritedKernel</key>
+	<string>resetBuffer</string>
+	<key>scalesincechain</key>
+	<string>createcard</string>
+</dict>
+</plist>

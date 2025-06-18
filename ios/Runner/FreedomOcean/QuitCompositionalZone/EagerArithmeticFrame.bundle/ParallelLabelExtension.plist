@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentfuture</key>
+	<string>deserializeTask</string>
+	<key>curvepopup</key>
+	<string>arithmeticbuilder</string>
+	<key>deferredCycle</key>
+	<string>shouldPublishFlex</string>
+	<key>liteSlider</key>
+	<string>robustinterface</string>
+	<key>numericalPosition</key>
+	<string>shouldDisposeProvider</string>
+	<key>shouldDisconnectPrecision</key>
+	<string>converterVisibility</string>
+</dict>
+</plist>

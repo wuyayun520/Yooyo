@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedAsset</key>
+	<string>parseHandler</string>
+	<key>flexflags</key>
+	<string>shouldStreamContraction</string>
+	<key>normalCertificate</key>
+	<string>discardedindicatorvisible</string>
+	<key>resilientNotification</key>
+	<string>provideConstraint</string>
+	<key>shouldattachgrayscale</key>
+	<string>canCacheEquipment</string>
+	<key>significantAlert</key>
+	<string>notifyPrecision</string>
+	<key>sophisticatedMission</key>
+	<string>completionrenderer</string>
+	<key>unsortedAnimator</key>
+	<string>accessibleRange</string>
+</dict>
+</plist>

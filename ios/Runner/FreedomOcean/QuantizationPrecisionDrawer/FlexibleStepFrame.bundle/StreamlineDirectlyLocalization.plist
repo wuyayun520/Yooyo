@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousAlpha</key>
+	<string>conformView</string>
+	<key>composableconverter</key>
+	<string>sessionVariable</string>
+	<key>easyReference</key>
+	<string>singletonLayer</string>
+	<key>imageCoord</key>
+	<string>sessionStage</string>
+	<key>keyBaseline</key>
+	<string>shouldHandleBuilder</string>
+	<key>observerfeedback</key>
+	<string>smallSingleton</string>
+</dict>
+</plist>

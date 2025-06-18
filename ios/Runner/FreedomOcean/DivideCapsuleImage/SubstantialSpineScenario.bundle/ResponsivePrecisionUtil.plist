@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autocheckboxorientation</key>
+	<string>histogramInteraction</string>
+	<key>cacheSpacing</key>
+	<string>commonRow</string>
+	<key>pointValidation</key>
+	<string>backwardInteractor</string>
+	<key>prevEffect</key>
+	<string>gridStatus</string>
+	<key>symmetricTimer</key>
+	<string>capsuleTail</string>
+</dict>
+</plist>

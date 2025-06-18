@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationinteraction</key>
+	<string>directlyLocalization</string>
+	<key>customizedTangent</key>
+	<string>baseDistance</string>
+	<key>grayscaleaudio</key>
+	<string>pushCanvas</string>
+	<key>oldThread</key>
+	<string>canFetchMobile</string>
+	<key>shouldPauseCell</key>
+	<string>connectShader</string>
+	<key>shouldRestartPositioned</key>
+	<string>cosineStrategy</string>
+	<key>shoulddismisseffect</key>
+	<string>curveScope</string>
+	<key>variantframeworkstyle</key>
+	<string>mediocreProtocol</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonNavigation</key>
+	<string>largetask</string>
+	<key>disabledEquivalent</key>
+	<string>canDisconnectSemantics</string>
+	<key>draggableTicker</key>
+	<string>durationresponder</string>
+	<key>liteMobile</key>
+	<string>staticScreen</string>
+	<key>otherBitrate</key>
+	<string>newestIntegration</string>
+	<key>persistentPolygon</key>
+	<string>marshalFuture</string>
+	<key>processorScale</key>
+	<string>binaryoperation</string>
+	<key>scrollableMultiplication</key>
+	<string>effectMediator</string>
+</dict>
+</plist>

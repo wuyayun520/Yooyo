@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredsubscriber</key>
+	<string>hardContainer</string>
+	<key>diffableTheme</key>
+	<string>canDismissCycle</string>
+	<key>euclideanIntegration</key>
+	<string>activatedProject</string>
+	<key>joinerFeedback</key>
+	<string>agileProgressBar</string>
+	<key>shouldPauseAxis</key>
+	<string>operationHead</string>
+	<key>shouldPublishCheckbox</key>
+	<string>hardEvolution</string>
+	<key>webbloctint</key>
+	<string>coordinatorsorter</string>
+</dict>
+</plist>

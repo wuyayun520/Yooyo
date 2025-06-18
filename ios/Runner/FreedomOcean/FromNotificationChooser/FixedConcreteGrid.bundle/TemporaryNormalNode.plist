@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>attachmaster</key>
+	<string>formataction</string>
+	<key>composablePager</key>
+	<string>controllermodetag</string>
+	<key>flexibleLayout</key>
+	<string>paddingCoord</string>
+	<key>graphicDistance</key>
+	<string>associatedRequest</string>
+	<key>playbackactivitymargin</key>
+	<string>controllerContext</string>
+	<key>positionacceleration</key>
+	<string>liteRole</string>
+	<key>showscroll</key>
+	<string>viewPressure</string>
+	<key>uniformnodevisible</key>
+	<string>declarativeScalability</string>
+</dict>
+</plist>

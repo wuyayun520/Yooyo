@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>custompaintFlags</key>
+	<string>cancelDelegate</string>
+	<key>discardedGraphic</key>
+	<string>canUnmountedSwitch</string>
+	<key>elasticityFlags</key>
+	<string>tensorNib</string>
+	<key>membermargin</key>
+	<string>canDispatchImage</string>
+	<key>sampleinterpreterinterval</key>
+	<string>constraintstatus</string>
+	<key>shouldCacheOperation</key>
+	<string>rowRotation</string>
+	<key>shouldSerializeInstruction</key>
+	<string>notificationrect</string>
+	<key>splitterSkewY</key>
+	<string>hierarchicalBatch</string>
+</dict>
+</plist>

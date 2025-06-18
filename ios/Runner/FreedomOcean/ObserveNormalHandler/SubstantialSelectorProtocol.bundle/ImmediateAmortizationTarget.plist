@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetstyle</key>
+	<string>optimizeRow</string>
+	<key>channelsconfidentiality</key>
+	<string>singleProtocol</string>
+	<key>shouldFinishBinary</key>
+	<string>multiButton</string>
+	<key>touchfeature</key>
+	<string>nativeNavigator</string>
+	<key>usedFrame</key>
+	<string>formatasset</string>
+</dict>
+</plist>

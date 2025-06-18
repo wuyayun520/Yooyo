@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionchannel</key>
+	<string>enabledMechanism</string>
+	<key>animationVisible</key>
+	<string>polygonAppearance</string>
+	<key>autoUnary</key>
+	<string>activatedMechanism</string>
+	<key>bulletframeworkbound</key>
+	<string>canRouteOperation</string>
+	<key>intuitiveEquivalent</key>
+	<string>concurrentChannels</string>
+	<key>isolatealignment</key>
+	<string>fusedObserver</string>
+	<key>rapidSubscriber</key>
+	<string>cupertinoStamp</string>
+	<key>shouldBindBrush</key>
+	<string>pauseTool</string>
+	<key>spriteworkvisibility</key>
+	<string>errortransformer</string>
+</dict>
+</plist>

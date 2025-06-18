@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>pageviewLeft</key>
+	<string>canNavigateStateless</string>
+	<key>persistentOffset</key>
+	<string>createMusic</string>
+	<key>stackScale</key>
+	<string>updatetransformer</string>
+	<key>texturefrequency</key>
+	<string>shouldMountClipper</string>
+</dict>
+</plist>

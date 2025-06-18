@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopStore</key>
+	<string>unactivatedCoordinator</string>
+	<key>dialogsphasevisible</key>
+	<string>checklistStatus</string>
+	<key>explicitSize</key>
+	<string>pausebatch</string>
+	<key>movementInterval</key>
+	<string>asyncmetrics</string>
+	<key>originalCursor</key>
+	<string>shouldparseradio</string>
+	<key>tweenplatformtag</key>
+	<string>pivotalDuration</string>
+</dict>
+</plist>

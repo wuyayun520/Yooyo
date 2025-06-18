@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencyaspect</key>
+	<string>canDecodeBullet</string>
+	<key>geometricCard</key>
+	<string>shouldInflateSymbol</string>
+	<key>particleTheme</key>
+	<string>shouldrebuildaspectratio</string>
+	<key>responsiveScroller</key>
+	<string>analyzervelocity</string>
+	<key>shouldPersistOptimizer</key>
+	<string>secondResolver</string>
+	<key>skirtnumbervisible</key>
+	<string>largeUsage</string>
+</dict>
+</plist>

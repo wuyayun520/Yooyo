@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnDelay</key>
+	<string>appendstorage</string>
+	<key>comprehensiveNib</key>
+	<string>graphTail</string>
+	<key>fragmentsCount</key>
+	<string>assetposition</string>
+	<key>mediaquerywithoutjob</key>
+	<string>asynchronousAllocator</string>
+	<key>multiInterpolation</key>
+	<string>originalCollection</string>
+	<key>onmoduluschanged</key>
+	<string>canStartCosine</string>
+	<key>shouldBuildOperation</key>
+	<string>reducerplatformhue</string>
+	<key>shouldListenCache</key>
+	<string>griddelivery</string>
+	<key>shouldNotifyCustomPaint</key>
+	<string>shaderInteraction</string>
+	<key>tensorSession</key>
+	<string>localHeap</string>
+</dict>
+</plist>

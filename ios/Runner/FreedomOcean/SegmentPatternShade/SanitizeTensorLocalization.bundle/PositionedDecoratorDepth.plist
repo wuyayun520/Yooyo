@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directChart</key>
+	<string>converthistogram</string>
+	<key>embracebutton</key>
+	<string>analogyContrast</string>
+	<key>formatsegment</key>
+	<string>encodeIsolate</string>
+	<key>largemetadata</key>
+	<string>mediocreTopic</string>
+	<key>petborder</key>
+	<string>skingrid</string>
+	<key>shouldAnimateNavigator</key>
+	<string>fillError</string>
+	<key>techniquedetail</key>
+	<string>ephemeralSubscription</string>
+</dict>
+</plist>

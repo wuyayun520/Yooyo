@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedremediation</key>
+	<string>originalTransition</string>
+	<key>characterbuffer</key>
+	<string>specifyInstruction</string>
+	<key>hierarchicalallocator</key>
+	<string>flexibleMapper</string>
+	<key>iterativeLoop</key>
+	<string>custompaintTheme</string>
+	<key>musiccycleskewy</key>
+	<string>diffableMend</string>
+	<key>queueflyweightappearance</key>
+	<string>imageframeworkduration</string>
+	<key>secondbase</key>
+	<string>lostChannels</string>
+	<key>shouldPrepareSegue</key>
+	<string>prevfactory</string>
+	<key>shouldUnmountRow</key>
+	<string>schedulerCount</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeScroller</key>
+	<string>batchBottom</string>
+	<key>curvetension</key>
+	<string>contractionAcceleration</string>
+	<key>customizedtitle</key>
+	<string>intensityType</string>
+	<key>diffableTime</key>
+	<string>normBottom</string>
+	<key>interactorBehavior</key>
+	<string>typicalAnimation</string>
+	<key>originalstoresize</key>
+	<string>cacheAnimatedContainer</string>
+	<key>priorPet</key>
+	<string>substantialjoiner</string>
+</dict>
+</plist>

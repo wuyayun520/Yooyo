@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptivesceneorigin</key>
+	<string>subtleTimeline</string>
+	<key>lazyWorkflow</key>
+	<string>intensityActivity</string>
+	<key>priorModal</key>
+	<string>canEmitInstruction</string>
+	<key>publicNotifier</key>
+	<string>mainGrain</string>
+	<key>shouldloadmomentum</key>
+	<string>pinchableScalability</string>
+	<key>vectorcoord</key>
+	<string>customTransformer</string>
+</dict>
+</plist>

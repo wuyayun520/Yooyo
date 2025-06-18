@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardMediaQuery</key>
+	<string>commonStorage</string>
+	<key>composableVideo</key>
+	<string>checklistInset</string>
+	<key>desktopTolerance</key>
+	<string>animatedcontainerComposite</string>
+	<key>disparateBehavior</key>
+	<string>capsuleLayer</string>
+	<key>ignoredChooser</key>
+	<string>transformerperobserver</string>
+	<key>opaqueTouch</key>
+	<string>previewPrototype</string>
+	<key>shouldAttachClipper</key>
+	<string>loopFramework</string>
+	<key>shouldBuildAccessory</key>
+	<string>maxShader</string>
+	<key>shouldmountconvolution</key>
+	<string>widgetStage</string>
+</dict>
+</plist>

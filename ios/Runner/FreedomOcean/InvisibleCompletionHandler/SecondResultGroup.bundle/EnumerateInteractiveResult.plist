@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledModulus</key>
+	<string>disparateReplica</string>
+	<key>priorGraph</key>
+	<string>multiBitrate</string>
+	<key>projectshape</key>
+	<string>multiplicationCount</string>
+	<key>resolverShape</key>
+	<string>tappableDelivery</string>
+	<key>shouldCacheCatalyst</key>
+	<string>pivotalCreator</string>
+	<key>shouldContinuePainter</key>
+	<string>primaryStep</string>
+	<key>sortedcoordinatoralignment</key>
+	<string>routeIndicator</string>
+</dict>
+</plist>

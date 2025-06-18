@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionInset</key>
+	<string>activateTransition</string>
+	<key>explicitContainer</key>
+	<string>cancelSign</string>
+	<key>lossTail</key>
+	<string>traversalScale</string>
+	<key>prevInteractor</key>
+	<string>volumeMomentum</string>
+</dict>
+</plist>

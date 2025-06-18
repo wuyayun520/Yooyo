@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianHero</key>
+	<string>menuValue</string>
+	<key>cubitValidation</key>
+	<string>cubitcombiner</string>
+	<key>dedicatedbinary</key>
+	<string>unmountOverlay</string>
+	<key>firstElasticity</key>
+	<string>symbolBuffer</string>
+	<key>introspectscreen</key>
+	<string>shouldReplaceCertificate</string>
+	<key>robustblocscale</key>
+	<string>eagerListener</string>
+	<key>shouldSaveInterpolation</key>
+	<string>canMountSegue</string>
+	<key>sizedboxtransparency</key>
+	<string>accessibleMend</string>
+</dict>
+</plist>

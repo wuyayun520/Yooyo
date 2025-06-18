@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderFeedback</key>
+	<string>resetService</string>
+	<key>custompaintRotation</key>
+	<string>chartValidation</string>
+	<key>exceptionsystemorigin</key>
+	<string>handlePromise</string>
+	<key>multiplicationCount</key>
+	<string>filtermode</string>
+	<key>normalSink</key>
+	<string>activityinset</string>
+	<key>shouldYieldMediaQuery</key>
+	<string>operationtop</string>
+	<key>taskshape</key>
+	<string>metadataFacade</string>
+</dict>
+</plist>

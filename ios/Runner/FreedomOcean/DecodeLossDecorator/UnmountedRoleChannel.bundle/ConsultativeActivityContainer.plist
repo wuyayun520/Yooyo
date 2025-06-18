@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegatetint</key>
+	<string>aspectrow</string>
+	<key>eagerAscent</key>
+	<string>immediatePopup</string>
+	<key>eagerHash</key>
+	<string>loopvisibility</string>
+	<key>loopRotation</key>
+	<string>crudeLoader</string>
+	<key>plateSize</key>
+	<string>modulusshape</string>
+	<key>shouldProcessLayout</key>
+	<string>deserializeSkin</string>
+	<key>stackDistance</key>
+	<string>modelduration</string>
+</dict>
+</plist>

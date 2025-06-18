@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioVelocity</key>
+	<string>playbackscopebound</string>
+	<key>bufferwithoutfacade</key>
+	<string>borderParameter</string>
+	<key>dropouthistogram</key>
+	<string>textfieldorigin</string>
+	<key>opaquePrecision</key>
+	<string>customLayout</string>
+	<key>shouldemitgesture</key>
+	<string>desktopEmitter</string>
+	<key>synchronousChapter</key>
+	<string>confidentialityLocation</string>
+</dict>
+</plist>

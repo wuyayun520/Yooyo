@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entitytolerance</key>
+	<string>shouldStopUsage</string>
+	<key>explicitReducer</key>
+	<string>shouldResumeBase</string>
+	<key>metadatacenter</key>
+	<string>radiusFlags</string>
+	<key>requiredflexpressure</key>
+	<string>canDisconnectCupertino</string>
+	<key>sceneprototypeshape</key>
+	<string>unactivatedListView</string>
+	<key>stepCenter</key>
+	<string>concurrentDrawer</string>
+	<key>visibleContraction</key>
+	<string>consultativeDelegate</string>
+</dict>
+</plist>

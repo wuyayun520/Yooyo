@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonRenderer</key>
+	<string>tabviewOffset</string>
+	<key>cupertinoMaster</key>
+	<string>unmountMonster</string>
+	<key>draggableHandler</key>
+	<string>currentTabBar</string>
+	<key>globalAsync</key>
+	<string>checklistoffset</string>
+	<key>skirtvaluemode</key>
+	<string>euclideanpointvisible</string>
+	<key>statelessVisible</key>
+	<string>canTransformCanvas</string>
+</dict>
+</plist>

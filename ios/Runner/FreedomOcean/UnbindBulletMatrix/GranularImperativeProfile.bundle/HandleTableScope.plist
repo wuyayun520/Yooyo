@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartstatetheme</key>
+	<string>asynchronoussymbolsize</string>
+	<key>confidentialityAppearance</key>
+	<string>commonScalability</string>
+	<key>easyResponder</key>
+	<string>activatedNotifier</string>
+	<key>lazyData</key>
+	<string>connectorRate</string>
+	<key>mountbehavior</key>
+	<string>textfieldLocation</string>
+	<key>publicIcon</key>
+	<string>processPainter</string>
+	<key>rapidfuture</key>
+	<string>persistGift</string>
+	<key>remainderRate</key>
+	<string>nativeCanvas</string>
+	<key>standaloneGrayscale</key>
+	<string>nibHead</string>
+</dict>
+</plist>

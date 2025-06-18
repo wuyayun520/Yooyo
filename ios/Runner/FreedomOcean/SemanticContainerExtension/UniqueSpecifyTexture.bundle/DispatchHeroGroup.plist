@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedNavigator</key>
+	<string>tabviewFrequency</string>
+	<key>dimensionIndex</key>
+	<string>shouldEmitInterpolation</string>
+	<key>firstRoute</key>
+	<string>responsetop</string>
+	<key>liteActivity</key>
+	<string>checklistState</string>
+	<key>nodesystemdepth</key>
+	<string>streamfromstrategy</string>
+	<key>unactivatedListener</key>
+	<string>channelsTail</string>
+</dict>
+</plist>

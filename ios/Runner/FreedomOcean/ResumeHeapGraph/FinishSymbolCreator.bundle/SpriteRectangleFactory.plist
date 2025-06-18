@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeSwift</key>
+	<string>accordionSound</string>
+	<key>draggableAppBar</key>
+	<string>itemCount</string>
+	<key>eagerscalefeedback</key>
+	<string>gridDistance</string>
+	<key>elasticTransformer</key>
+	<string>respondgrayscale</string>
+	<key>inheritedDuration</key>
+	<string>opaqueThroughput</string>
+	<key>iterativeChecklist</key>
+	<string>hardThreshold</string>
+	<key>musicHue</key>
+	<string>disconnectmodulus</string>
+	<key>shouldDeserializeDocument</key>
+	<string>canHandleCell</string>
+	<key>shouldUnbindView</key>
+	<string>sliderDirection</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ephemeralAlert</key>
+	<string>indicatorTransparency</string>
+	<key>oldScaffold</key>
+	<string>ephemeralGestureDetector</string>
+	<key>scopeMargin</key>
+	<string>hasAperture</string>
+	<key>sensorshape</key>
+	<string>localConsumer</string>
+	<key>serializescale</key>
+	<string>primarySubscriber</string>
+	<key>shouldBuildGestureDetector</key>
+	<string>tableVelocity</string>
+	<key>specifyBloc</key>
+	<string>diversifiedSensor</string>
+	<key>streamthanmediator</key>
+	<string>chartconnector</string>
+</dict>
+</plist>

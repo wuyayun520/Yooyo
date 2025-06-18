@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationKind</key>
+	<string>permissiveAllocator</string>
+	<key>constraintRotation</key>
+	<string>shouldShowModal</string>
+	<key>cupertinoAccessory</key>
+	<string>enabledDescription</string>
+	<key>disparateSemantics</key>
+	<string>shouldLayoutLog</string>
+	<key>finderCenter</key>
+	<string>animatedEquipment</string>
+	<key>otherExponent</key>
+	<string>dissociateconstraint</string>
+	<key>shouldUnmountController</key>
+	<string>materializerSaturation</string>
+</dict>
+</plist>

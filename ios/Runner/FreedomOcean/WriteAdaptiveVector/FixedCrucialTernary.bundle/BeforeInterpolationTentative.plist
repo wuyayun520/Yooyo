@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptorType</key>
+	<string>normfrommode</string>
+	<key>durationStyle</key>
+	<string>prismaticGraphic</string>
+	<key>replicateresponse</key>
+	<string>skipstep</string>
+	<key>requiredAnalogy</key>
+	<string>shouldsavepositioned</string>
+	<key>resumeposition</key>
+	<string>stepBottom</string>
+	<key>shouldReplaceBoxShadow</key>
+	<string>priorParticle</string>
+	<key>skirtDuration</key>
+	<string>shouldContinueKernel</string>
+	<key>unaryopacity</key>
+	<string>pageviewwithwork</string>
+</dict>
+</plist>

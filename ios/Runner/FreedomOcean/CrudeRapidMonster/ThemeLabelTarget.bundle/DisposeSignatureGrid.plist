@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveMobile</key>
+	<string>shouldUnbindLayout</string>
+	<key>canvasslider</key>
+	<string>registerResolver</string>
+	<key>masterIndex</key>
+	<string>prevReplica</string>
+	<key>shouldLayoutMultiplication</key>
+	<string>consumerStyle</string>
+	<key>shouldMountTouch</key>
+	<string>trainPositioned</string>
+	<key>shouldSerializePadding</key>
+	<string>agileGram</string>
+	<key>stateScale</key>
+	<string>responsiveIsolate</string>
+</dict>
+</plist>

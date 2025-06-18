@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mapValidation</key>
+	<string>resolveTask</string>
+	<key>unactivatedtransformertype</key>
+	<string>largeSample</string>
+	<key>uniformrect</key>
+	<string>shouldCreateScaffold</string>
+	<key>usedRect</key>
+	<string>standaloneRole</string>
+</dict>
+</plist>

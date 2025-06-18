@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicTexture</key>
+	<string>capsuleOperation</string>
+	<key>completionkind</key>
+	<string>multiplygrid</string>
+	<key>convolutionbottom</key>
+	<string>uniqueSizedBox</string>
+	<key>invisibleMethod</key>
+	<string>shouldDeserializeComposition</string>
+	<key>positionTension</key>
+	<string>semanticsHead</string>
+	<key>shouldStopExtension</key>
+	<string>finishRoute</string>
+	<key>specifierSkewY</key>
+	<string>associatedclipperresponse</string>
+</dict>
+</plist>

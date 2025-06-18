@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerSlider</key>
+	<string>shouldLayoutMomentum</string>
+	<key>shouldPauseColumn</key>
+	<string>invisibleLayout</string>
+	<key>shouldProcessTouch</key>
+	<string>observeLayout</string>
+	<key>temporaryTask</key>
+	<string>combineView</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlybrushcontrast</key>
+	<string>seekTransformer</string>
+	<key>granularDelivery</key>
+	<string>shouldInflateChecklist</string>
+	<key>hierarchicalProvider</key>
+	<string>chartSpeed</string>
+	<key>opaqueAction</key>
+	<string>mutableNavigation</string>
+	<key>richtextincludeparam</key>
+	<string>createMedia</string>
+	<key>shouldRouteRole</key>
+	<string>protectedChannels</string>
+	<key>shouldTrainRow</key>
+	<string>missioninteraction</string>
+	<key>smartascent</key>
+	<string>itemsaturation</string>
+</dict>
+</plist>

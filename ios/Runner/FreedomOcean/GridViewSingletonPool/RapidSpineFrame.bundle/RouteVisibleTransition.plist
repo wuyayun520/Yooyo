@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>lastCoordinator</key>
+	<string>viewMode</string>
+	<key>pagerRotation</key>
+	<string>introspectFeature</string>
+	<key>shouldhandlelabel</key>
+	<string>dynamicWorkflow</string>
+	<key>shouldyieldmovement</key>
+	<string>lastListener</string>
+	<key>splitterappearance</key>
+	<string>insteadFrame</string>
+</dict>
+</plist>

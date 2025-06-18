@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appendmenu</key>
+	<string>persistentschema</string>
+	<key>explicitScroller</key>
+	<string>similarBorder</string>
+	<key>inheritedDelivery</key>
+	<string>maxInterpolation</string>
+	<key>interpolationFormat</key>
+	<string>canDetachUsage</string>
+	<key>priorFragment</key>
+	<string>largeAllocator</string>
+	<key>shouldPopContraction</key>
+	<string>shouldCreateTernary</string>
+	<key>shouldPublishGrayscale</key>
+	<string>searchResolver</string>
+	<key>staticTween</key>
+	<string>documentbound</string>
+	<key>tappableInteraction</key>
+	<string>precisionAcceleration</string>
+	<key>tappableVolume</key>
+	<string>typicalVariant</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>attachbutton</key>
+	<string>textstrategyshade</string>
+	<key>desktopRange</key>
+	<string>canBuildCharacter</string>
+	<key>greatRecursion</key>
+	<string>animatedTentative</string>
+	<key>hierarchicalConfidentiality</key>
+	<string>canPersistExpanded</string>
+	<key>requiredContrast</key>
+	<string>gridCount</string>
+	<key>shouldDecodeCosine</key>
+	<string>activeNotation</string>
+</dict>
+</plist>

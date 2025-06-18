@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionInset</key>
+	<string>commonPainter</string>
+	<key>constraintkindvisible</key>
+	<string>modalCoord</string>
+	<key>deferredClipper</key>
+	<string>publicInfo</string>
+	<key>radiuspolyfill</key>
+	<string>grainPrototype</string>
+	<key>retainfactory</key>
+	<string>extensiontype</string>
+	<key>sharedNorm</key>
+	<string>modulusstate</string>
+	<key>shouldSkipMember</key>
+	<string>dismissNavigator</string>
+	<key>sizetheme</key>
+	<string>enumerateWidget</string>
+	<key>standaloneNavigator</key>
+	<string>durationindex</string>
+	<key>textureInset</key>
+	<string>mapObserver</string>
+</dict>
+</plist>

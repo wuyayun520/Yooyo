@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheName</key>
+	<string>marshalsprite</string>
+	<key>ephemeralInjection</key>
+	<string>draggableAudio</string>
+	<key>rowTransparency</key>
+	<string>cachelabel</string>
+	<key>shouldStartReference</key>
+	<string>nativeScalability</string>
+	<key>tensorRect</key>
+	<string>originalscalability</string>
+</dict>
+</plist>

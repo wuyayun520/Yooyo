@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousRadius</key>
+	<string>standaloneRichText</string>
+	<key>customRouter</key>
+	<string>updateSign</string>
+	<key>customticker</key>
+	<string>imperativeProject</string>
+	<key>disabledArithmetic</key>
+	<string>interpolatethread</string>
+	<key>shouldlistenbutton</key>
+	<string>holdbloc</string>
+</dict>
+</plist>

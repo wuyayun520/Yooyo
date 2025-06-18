@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeDropdownButton</key>
+	<string>consumptionPadding</string>
+	<key>assetpertemple</key>
+	<string>restartSkin</string>
+	<key>crucialAnimator</key>
+	<string>wrapinjection</string>
+	<key>customPopup</key>
+	<string>shouldRenderBox</string>
+	<key>fillcontroller</key>
+	<string>hardtransitionformat</string>
+	<key>shouldCancelIndicator</key>
+	<string>playbackthroughscope</string>
+	<key>shouldDismissSample</key>
+	<string>handlerleft</string>
+	<key>synchronousListView</key>
+	<string>similarSlider</string>
+	<key>ternaryBrightness</key>
+	<string>canDisposeMaster</string>
+</dict>
+</plist>

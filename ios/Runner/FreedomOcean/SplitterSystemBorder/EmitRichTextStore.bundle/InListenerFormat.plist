@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoReference</key>
+	<string>oldmusic</string>
+	<key>bordertail</key>
+	<string>mutablehash</string>
+	<key>boxstageleft</key>
+	<string>basicSpine</string>
+	<key>cupertinointerval</key>
+	<string>connectorSpacing</string>
+	<key>directConstant</key>
+	<string>timerinsidebuffer</string>
+	<key>dropdownbuttonDistance</key>
+	<string>unsortedInterpolation</string>
+	<key>equalizationspacing</key>
+	<string>compositionalstroke</string>
+	<key>radiusjoiner</key>
+	<string>disabledAnimation</string>
+	<key>resizemusic</key>
+	<string>provideFeature</string>
+</dict>
+</plist>

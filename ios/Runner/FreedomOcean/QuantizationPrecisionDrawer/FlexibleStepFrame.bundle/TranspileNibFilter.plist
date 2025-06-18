@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerTransition</key>
+	<string>compileSingleton</string>
+	<key>detectorMode</key>
+	<string>rapidPreview</string>
+	<key>extensionBound</key>
+	<string>rendererCoord</string>
+	<key>flexibleConverter</key>
+	<string>clusterState</string>
+	<key>mutableNotifier</key>
+	<string>similarCycle</string>
+	<key>protectedAsync</key>
+	<string>metricstension</string>
+	<key>referenceHue</key>
+	<string>reducermechanism</string>
+	<key>skirtStatus</key>
+	<string>canInflateCompletion</string>
+</dict>
+</plist>

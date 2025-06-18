@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselinetop</key>
+	<string>iconDepth</string>
+	<key>coordinatorSpeed</key>
+	<string>serializeFeature</string>
+	<key>dropdownbuttonHead</key>
+	<string>marginvalidation</string>
+	<key>intermediateMatrix</key>
+	<string>unsortedcallback</string>
+	<key>persistentThroughput</key>
+	<string>resultTag</string>
+	<key>prevMobile</key>
+	<string>utilkindhue</string>
+	<key>shouldAttachGesture</key>
+	<string>switchPadding</string>
+	<key>spotthanaction</key>
+	<string>imageTag</string>
+	<key>triggerType</key>
+	<string>subtleLoader</string>
+</dict>
+</plist>

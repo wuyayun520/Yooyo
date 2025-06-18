@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticIcon</key>
+	<string>checkLoop</string>
+	<key>builderfrequency</key>
+	<string>eventCenter</string>
+	<key>cachestate</key>
+	<string>lazyCaption</string>
+	<key>immutableMapper</key>
+	<string>curveworkinterval</string>
+	<key>modalcontextvisibility</key>
+	<string>robustAnchor</string>
+	<key>respectiveMediaQuery</key>
+	<string>pausechannel</string>
+	<key>statefulImage</key>
+	<string>shouldDispatchCompletion</string>
+</dict>
+</plist>

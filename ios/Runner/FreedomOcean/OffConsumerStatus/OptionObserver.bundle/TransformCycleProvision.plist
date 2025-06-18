@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>easyDisclaimer</key>
+	<string>documentShade</string>
+	<key>liteCell</key>
+	<string>keepTextField</string>
+	<key>publicintensityleft</key>
+	<string>tappableNode</string>
+	<key>requiredText</key>
+	<string>losteffect</string>
+	<key>shouldDisconnectSkirt</key>
+	<string>delicateTentative</string>
+	<key>shouldPresentDecoration</key>
+	<string>insteadStorage</string>
+	<key>touchspeed</key>
+	<string>retainedAspect</string>
+</dict>
+</plist>

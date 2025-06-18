@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellVisibility</key>
+	<string>canAttachNavigation</string>
+	<key>intermediateShader</key>
+	<string>progressbarCenter</string>
+	<key>localsampleappearance</key>
+	<string>canDisconnectGraphic</string>
+	<key>sessionDensity</key>
+	<string>memberMomentum</string>
+	<key>shouldListenAperture</key>
+	<string>switchOrigin</string>
+</dict>
+</plist>

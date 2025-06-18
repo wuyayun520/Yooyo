@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexibleAnimator</key>
+	<string>dispatchMonster</string>
+	<key>flexvalidation</key>
+	<string>richtextFramework</string>
+	<key>impactCenter</key>
+	<string>buttonpolyfill</string>
+	<key>relationalReplica</key>
+	<string>referenceParameter</string>
+	<key>scrollableService</key>
+	<string>dynamicdecorationfrequency</string>
+	<key>semanticinstructiontheme</key>
+	<string>shouldpresententropy</string>
+	<key>shouldbuildoptimizer</key>
+	<string>matrixState</string>
+	<key>titleName</key>
+	<string>callbackcolor</string>
+</dict>
+</plist>

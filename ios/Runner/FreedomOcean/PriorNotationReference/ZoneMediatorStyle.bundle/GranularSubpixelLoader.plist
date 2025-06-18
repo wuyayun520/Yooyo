@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticcompletion</key>
+	<string>materialTransformer</string>
+	<key>mediumconstraint</key>
+	<string>activatedevolution</string>
+	<key>nativePromise</key>
+	<string>entityBorder</string>
+	<key>shouldUnmountedEffect</key>
+	<string>shouldSerializeWorkflow</string>
+	<key>webNib</key>
+	<string>lastZone</string>
+</dict>
+</plist>

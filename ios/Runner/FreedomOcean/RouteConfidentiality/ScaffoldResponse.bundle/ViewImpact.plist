@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorForce</key>
+	<string>sizeInterpreter</string>
+	<key>crucialUsage</key>
+	<string>interactiveMaster</string>
+	<key>declarativeInterpolation</key>
+	<string>explicitManager</string>
+	<key>delegateScale</key>
+	<string>convertScene</string>
+	<key>delicateIntegrity</key>
+	<string>unactivatedSwift</string>
+	<key>originalReference</key>
+	<string>converterFeedback</string>
+	<key>scalestatus</key>
+	<string>resizableScale</string>
+	<key>selectedTabView</key>
+	<string>continueTransition</string>
+</dict>
+</plist>

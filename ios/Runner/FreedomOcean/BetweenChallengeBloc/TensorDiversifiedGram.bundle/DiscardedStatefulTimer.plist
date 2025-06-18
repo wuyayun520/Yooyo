@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultMap</key>
+	<string>statelessSignature</string>
+	<key>inheritedExtension</key>
+	<string>intensitystateforce</string>
+	<key>persistentModule</key>
+	<string>displayablecurvetheme</string>
+	<key>positioncenter</key>
+	<string>repositoryAction</string>
+	<key>subscriptionName</key>
+	<string>stepDepth</string>
+</dict>
+</plist>

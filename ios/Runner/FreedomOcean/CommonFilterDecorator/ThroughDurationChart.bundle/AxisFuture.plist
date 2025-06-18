@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileConstant</key>
+	<string>canConnectRow</string>
+	<key>animatorValidation</key>
+	<string>animatordirection</string>
+	<key>basicEmitter</key>
+	<string>configureTransformer</string>
+	<key>grainOrigin</key>
+	<string>storeTension</string>
+	<key>gramPadding</key>
+	<string>shouldLayoutStamp</string>
+	<key>keyTween</key>
+	<string>allocateresolver</string>
+	<key>shouldDispatchAxis</key>
+	<string>singleChooser</string>
+	<key>shouldDisposeCube</key>
+	<string>persistCharacter</string>
+</dict>
+</plist>

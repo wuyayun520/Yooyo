@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleConfiguration</key>
+	<string>shareddetector</string>
+	<key>bordermethod</key>
+	<string>moduleTint</string>
+	<key>mobileNavigator</key>
+	<string>rapidSelector</string>
+	<key>nodecommandtop</key>
+	<string>hyperbolicSlider</string>
+	<key>shouldPaintCollection</key>
+	<string>liteallocator</string>
+	<key>shouldStreamFlex</key>
+	<string>cacheCustomPaint</string>
+	<key>stepMomentum</key>
+	<string>featureEdge</string>
+	<key>subtleMatrix</key>
+	<string>relationalAxis</string>
+	<key>temporaryBox</key>
+	<string>rebuildNib</string>
+	<key>writeoffset</key>
+	<string>persistentGrain</string>
+</dict>
+</plist>

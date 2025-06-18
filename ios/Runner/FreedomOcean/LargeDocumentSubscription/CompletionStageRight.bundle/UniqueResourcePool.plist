@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderName</key>
+	<string>combineZone</string>
+	<key>challengeOrientation</key>
+	<string>concreteSingleton</string>
+	<key>completionTransparency</key>
+	<string>clearBuilder</string>
+	<key>connecttextfield</key>
+	<string>responseDelay</string>
+	<key>customColumn</key>
+	<string>materializeFuture</string>
+	<key>herodistance</key>
+	<string>shouldParseExpanded</string>
+</dict>
+</plist>

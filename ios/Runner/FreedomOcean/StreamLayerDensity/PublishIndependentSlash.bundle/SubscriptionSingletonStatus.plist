@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkresource</key>
+	<string>materialMenu</string>
+	<key>disabledElement</key>
+	<string>globalCapsule</string>
+	<key>hashPressure</key>
+	<string>streamResponse</string>
+	<key>scenarioLeft</key>
+	<string>allocatorreliability</string>
+	<key>shouldSavePriority</key>
+	<string>fillAction</string>
+	<key>smallmethodsize</key>
+	<string>schemaSpacing</string>
+	<key>triggerOrientation</key>
+	<string>canTransitionExponent</string>
+</dict>
+</plist>

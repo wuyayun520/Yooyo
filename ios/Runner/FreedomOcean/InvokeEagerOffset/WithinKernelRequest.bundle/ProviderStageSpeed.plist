@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonModulus</key>
+	<string>synchronousAperture</string>
+	<key>functionalOverlay</key>
+	<string>descriptionCoord</string>
+	<key>localInjection</key>
+	<string>greatUsage</string>
+	<key>matrixFrequency</key>
+	<string>tensorData</string>
+	<key>methodBehavior</key>
+	<string>shouldTransformAxis</string>
+	<key>shouldDismissSession</key>
+	<string>shouldValidateCanvas</string>
+	<key>shouldNavigateGridView</key>
+	<string>customtriangles</string>
+	<key>shouldSetStateCycle</key>
+	<string>streamScaffold</string>
+</dict>
+</plist>

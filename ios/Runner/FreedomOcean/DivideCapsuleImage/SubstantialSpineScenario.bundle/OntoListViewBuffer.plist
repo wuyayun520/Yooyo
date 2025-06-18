@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardRight</key>
+	<string>symmetricLoader</string>
+	<key>discardedTitle</key>
+	<string>accessibleTexture</string>
+	<key>entropyHead</key>
+	<string>measurecallback</string>
+	<key>largeTitle</key>
+	<string>otherConstant</string>
+	<key>offsetoffset</key>
+	<string>switchOperation</string>
+	<key>otherNavigator</key>
+	<string>unmountedCurve</string>
+	<key>positionascomposite</key>
+	<string>stateinlevel</string>
+	<key>requestoptimizer</key>
+	<string>marshalTopic</string>
+	<key>resilientResult</key>
+	<string>computeAnimation</string>
+</dict>
+</plist>

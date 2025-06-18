@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonModule</key>
+	<string>canObserveLayout</string>
+	<key>nativeAnalyzer</key>
+	<string>utilHue</string>
+	<key>reliabilityLeft</key>
+	<string>missedChallenge</string>
+	<key>screenLeft</key>
+	<string>statefulConfidentiality</string>
+	<key>shouldPauseLoss</key>
+	<string>concreteExtension</string>
+	<key>standaloneProgressBar</key>
+	<string>effectChain</string>
+	<key>streampadding</key>
+	<string>shouldPopTernary</string>
+	<key>ternaryparamacceleration</key>
+	<string>builderbandwidth</string>
+	<key>uniqueEffect</key>
+	<string>tensorAnimatedContainer</string>
+</dict>
+</plist>

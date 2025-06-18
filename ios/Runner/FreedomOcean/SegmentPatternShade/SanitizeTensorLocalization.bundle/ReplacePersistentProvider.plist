@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composablePolyfill</key>
+	<string>customizedChannels</string>
+	<key>materializerBehavior</key>
+	<string>smallSession</string>
+	<key>nativesizebottom</key>
+	<string>shouldFinishProfile</string>
+	<key>normalTimer</key>
+	<string>canLayoutTextField</string>
+	<key>retainedSlash</key>
+	<string>topicNumber</string>
+	<key>shouldProcessProject</key>
+	<string>permanentZone</string>
+	<key>ternaryIndex</key>
+	<string>matrixPlatform</string>
+</dict>
+</plist>

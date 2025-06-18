@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatewidget</key>
+	<string>reflectScene</string>
+	<key>denseSwitch</key>
+	<string>robustBinder</string>
+	<key>informationDirection</key>
+	<string>canStopTask</string>
+	<key>shouldCancelAnimation</key>
+	<string>keyTitle</string>
+	<key>sliderborder</key>
+	<string>nodeMargin</string>
+	<key>standalonelabelstate</key>
+	<string>thresholddensity</string>
+</dict>
+</plist>

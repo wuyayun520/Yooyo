@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesFrequency</key>
+	<string>partitionUseCase</string>
+	<key>composableCompletion</key>
+	<string>binaryShade</string>
+	<key>concurrentcycleinterval</key>
+	<string>canHandleSwift</string>
+	<key>configurationBrightness</key>
+	<string>regulateSprite</string>
+	<key>immediateExtension</key>
+	<string>reliabilityTop</string>
+	<key>nodeSize</key>
+	<string>iskernel</string>
+	<key>shouldStreamCatalyst</key>
+	<string>requestRect</string>
+	<key>shouldendspot</key>
+	<string>permissiveDescription</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleConnector</key>
+	<string>bundlegraph</string>
+	<key>missedNode</key>
+	<string>iterativeException</string>
+	<key>optimizerplatformforce</key>
+	<string>partitionDuration</string>
+	<key>paddingSize</key>
+	<string>dimensionFlags</string>
+	<key>permissiveDisclaimer</key>
+	<string>utilPrototype</string>
+	<key>providerrotation</key>
+	<string>animatedcontainerAdapter</string>
+	<key>shouldPauseBaseline</key>
+	<string>disposeOverlay</string>
+	<key>shouldbindscaffold</key>
+	<string>robustConsumer</string>
+	<key>sizedboxpatterntag</key>
+	<string>sharedTrigger</string>
+	<key>symmetricBox</key>
+	<string>swiftVar</string>
+</dict>
+</plist>

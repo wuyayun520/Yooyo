@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedCallback</key>
+	<string>stepCycle</string>
+	<key>deploybehavior</key>
+	<string>observeractionvelocity</string>
+	<key>fixedSpot</key>
+	<string>buttonValue</string>
+	<key>grainOffset</key>
+	<string>oldException</string>
+	<key>granularTouch</key>
+	<string>canSaveModal</string>
+	<key>heapResponse</key>
+	<string>volumemode</string>
+	<key>managerDuration</key>
+	<string>interactorCycle</string>
+	<key>observesingleton</key>
+	<string>symmetricBatch</string>
+	<key>onaspecttap</key>
+	<string>respectiveAlert</string>
+	<key>temporaryGridView</key>
+	<string>refreshResource</string>
+</dict>
+</plist>

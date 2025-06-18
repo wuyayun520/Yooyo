@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aggregatehistogram</key>
+	<string>custompaintSkewY</string>
+	<key>mapColor</key>
+	<string>sharedExpanded</string>
+	<key>otherStatus</key>
+	<string>backwardAspect</string>
+	<key>resilientDescriptor</key>
+	<string>defaultCycle</string>
+	<key>shouldBindInteger</key>
+	<string>shouldformatcursor</string>
+</dict>
+</plist>

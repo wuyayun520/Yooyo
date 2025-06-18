@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>iterativeanimation</key>
+	<string>tweakinset</string>
+	<key>nativeScenario</key>
+	<string>canStreamSizedBox</string>
+	<key>otherDependency</key>
+	<string>composableScroll</string>
+	<key>radioContrast</key>
+	<string>validateVariant</string>
+	<key>secondCatalyst</key>
+	<string>canLayoutActivity</string>
+	<key>secondPositioned</key>
+	<string>animateternary</string>
+	<key>semanticsShade</key>
+	<string>statelessInfo</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicMediaQuery</key>
+	<string>dependencyFunction</string>
+	<key>currenttouch</key>
+	<string>smallMission</string>
+	<key>relationalFragments</key>
+	<string>receiveUseCase</string>
+	<key>serviceRate</key>
+	<string>activeRenderer</string>
+	<key>shouldHandleGate</key>
+	<string>alignmentIndex</string>
+	<key>skipbehavior</key>
+	<string>schemaPadding</string>
+	<key>usecaseSpeed</key>
+	<string>singleDetector</string>
+</dict>
+</plist>

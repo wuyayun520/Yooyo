@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableChannels</key>
+	<string>shouldFetchOverlay</string>
+	<key>dialogsPressure</key>
+	<string>storevisitorvisibility</string>
+	<key>disparateSlider</key>
+	<string>callbackframe</string>
+	<key>intuitiveRecursion</key>
+	<string>graphthroughput</string>
+	<key>semanticFlex</key>
+	<string>utilActivity</string>
+	<key>shouldConnectBuilder</key>
+	<string>yieldThread</string>
+	<key>subtleCache</key>
+	<string>wrapTween</string>
+</dict>
+</plist>

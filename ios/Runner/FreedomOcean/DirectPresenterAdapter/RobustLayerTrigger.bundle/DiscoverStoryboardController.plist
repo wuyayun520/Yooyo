@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatortypelocation</key>
+	<string>canRouteButton</string>
+	<key>extendalignment</key>
+	<string>immediateEvent</string>
+	<key>mediumScroller</key>
+	<string>mutableAccessory</string>
+	<key>relationalLocalization</key>
+	<string>createGrayscale</string>
+	<key>shouldCacheSpecifier</key>
+	<string>modallayerbound</string>
+	<key>shouldValidateSegment</key>
+	<string>textbottom</string>
+</dict>
+</plist>

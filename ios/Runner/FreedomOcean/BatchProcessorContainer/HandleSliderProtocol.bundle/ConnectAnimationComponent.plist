@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customGrain</key>
+	<string>pushPoint</string>
+	<key>momentumtemplevisible</key>
+	<string>offsetsegment</string>
+	<key>multimodule</key>
+	<string>readTransformer</string>
+	<key>shouldroutefragment</key>
+	<string>semanticFragments</string>
+	<key>uniformTopic</key>
+	<string>publicStep</string>
+</dict>
+</plist>

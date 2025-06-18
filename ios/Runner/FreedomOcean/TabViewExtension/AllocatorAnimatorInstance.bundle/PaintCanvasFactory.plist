@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerCursor</key>
+	<string>responsiveKernel</string>
+	<key>customizedMechanism</key>
+	<string>pinchableLoop</string>
+	<key>equipmentResponse</key>
+	<string>missedBuffer</string>
+	<key>localizationValidation</key>
+	<string>createCustomPaint</string>
+	<key>shouldStreamMap</key>
+	<string>shouldCancelBuilder</string>
+	<key>similarshape</key>
+	<string>staticIsolate</string>
+	<key>statefultransformer</key>
+	<string>oldDecoration</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptivePriority</key>
+	<string>lazyCapsule</string>
+	<key>compositionalPriority</key>
+	<string>dismissPositioned</string>
+	<key>cupertinoBaseline</key>
+	<string>stateperaction</string>
+	<key>newestinformation</key>
+	<string>endSkin</string>
+	<key>responsiveMargin</key>
+	<string>decorationComposite</string>
+	<key>shouldEndStack</key>
+	<string>formatEntropy</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredConsumer</key>
+	<string>shouldTransformHeap</string>
+	<key>grayscaleSize</key>
+	<string>lostDispatcher</string>
+	<key>loopactionname</key>
+	<string>listenRow</string>
+	<key>nativeImpression</key>
+	<string>autoFragment</string>
+	<key>notifiershape</key>
+	<string>shouldpersistmediaquery</string>
+	<key>popupalignment</key>
+	<string>customizedProjection</string>
+	<key>shouldFetchCapsule</key>
+	<string>baselineLocation</string>
+	<key>smartDialogs</key>
+	<string>canParseNavigation</string>
+	<key>synchronousStream</key>
+	<string>sharedUnary</string>
+</dict>
+</plist>

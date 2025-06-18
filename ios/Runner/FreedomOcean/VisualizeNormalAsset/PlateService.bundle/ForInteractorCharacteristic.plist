@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticExtension</key>
+	<string>directlyProject</string>
+	<key>contractionForce</key>
+	<string>blocRotation</string>
+	<key>crucialSwitch</key>
+	<string>reflectReducer</string>
+	<key>deferredPriority</key>
+	<string>publishAnchor</string>
+	<key>delicateAnimation</key>
+	<string>queuenumberedge</string>
+	<key>discardedDispatcher</key>
+	<string>profileDelay</string>
+	<key>labelexceptsystem</key>
+	<string>serializeEntity</string>
+	<key>numericalLayer</key>
+	<string>mediumMetrics</string>
+	<key>sortedRemainder</key>
+	<string>respectiveBrush</string>
+	<key>subtleSlider</key>
+	<string>shouldRouteBoxShadow</string>
+</dict>
+</plist>

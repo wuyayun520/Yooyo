@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbardescription</key>
+	<string>handlebuilder</string>
+	<key>associatedDetail</key>
+	<string>hardPlayback</string>
+	<key>graphAcceleration</key>
+	<string>connectPet</string>
+	<key>mediaAppearance</key>
+	<string>uniqueTime</string>
+	<key>significantScroller</key>
+	<string>resizeDuration</string>
+	<key>singleMenu</key>
+	<string>activeLoader</string>
+</dict>
+</plist>

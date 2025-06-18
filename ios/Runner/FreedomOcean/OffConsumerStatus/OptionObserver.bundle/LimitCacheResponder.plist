@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedTransition</key>
+	<string>stopSpine</string>
+	<key>difficultSink</key>
+	<string>persistentview</string>
+	<key>euclideanframe</key>
+	<string>singlearithmetic</string>
+	<key>mainLinker</key>
+	<string>observePoint</string>
+	<key>radiusoffset</key>
+	<string>tabbarTail</string>
+	<key>shouldConnectLayout</key>
+	<string>sineType</string>
+	<key>shouldpausebutton</key>
+	<string>advancedLocalization</string>
+	<key>substantialRequest</key>
+	<string>listenProjection</string>
+	<key>tappableDistinction</key>
+	<string>directlyNavigator</string>
+	<key>uniqueCursor</key>
+	<string>giftBridge</string>
+</dict>
+</plist>

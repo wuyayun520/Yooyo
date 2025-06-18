@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hardContrast</key>
+	<string>rendererTension</string>
+	<key>mediocrethreshold</key>
+	<string>intermediateImage</string>
+	<key>nextcomponent</key>
+	<string>customCell</string>
+	<key>tappableRadio</key>
+	<string>otherCharacteristic</string>
+</dict>
+</plist>

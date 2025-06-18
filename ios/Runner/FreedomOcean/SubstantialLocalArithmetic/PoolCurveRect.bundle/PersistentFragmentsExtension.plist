@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousPopup</key>
+	<string>usedGradient</string>
+	<key>chartHead</key>
+	<string>baseProcess</string>
+	<key>clusterSkewY</key>
+	<string>temporarySizedBox</string>
+	<key>encodeconsumer</key>
+	<string>aspecttransition</string>
+	<key>graphStyle</key>
+	<string>canRestartAlert</string>
+	<key>primaryTimer</key>
+	<string>singletonframeworkcount</string>
+	<key>retainedRectangle</key>
+	<string>resizableProfile</string>
+	<key>semanticRole</key>
+	<string>canPopInteger</string>
+	<key>shouldInflateDialogs</key>
+	<string>associateresponse</string>
+</dict>
+</plist>

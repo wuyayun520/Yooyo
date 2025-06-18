@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoScroller</key>
+	<string>tweakMargin</string>
+	<key>bandwidthAcceleration</key>
+	<string>publishTechnique</string>
+	<key>cursorDensity</key>
+	<string>normPosition</string>
+	<key>customMechanism</key>
+	<string>shouldMountOperation</string>
+	<key>shaderconfiguration</key>
+	<string>restartMonster</string>
+	<key>shouldShowCapacities</key>
+	<string>transformTimer</string>
+	<key>timelineRotation</key>
+	<string>ephemeralPublisher</string>
+</dict>
+</plist>

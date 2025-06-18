@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedSegment</key>
+	<string>persistentStateless</string>
+	<key>associatedHash</key>
+	<string>hasMember</string>
+	<key>commonScenario</key>
+	<string>elasticGesture</string>
+	<key>publicbufferinteraction</key>
+	<string>numericalSelector</string>
+	<key>shouldPopMatrix</key>
+	<string>nextView</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedInjection</key>
+	<string>beginnerGrain</string>
+	<key>canvasFrequency</key>
+	<string>layoutRight</string>
+	<key>injectionFrequency</key>
+	<string>mediocreFlex</string>
+	<key>staticNorm</key>
+	<string>greatMaterializer</string>
+	<key>uniformDetail</key>
+	<string>hardTexture</string>
+</dict>
+</plist>

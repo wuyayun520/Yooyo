@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>featureimage</key>
+	<string>imageEdge</string>
+	<key>globalsegue</key>
+	<string>detachTexture</string>
+	<key>rectangleMomentum</key>
+	<string>mediumSearcher</string>
+	<key>standaloneScope</key>
+	<string>scrollerIndex</string>
+	<key>streamviajob</key>
+	<string>delegateChannel</string>
+</dict>
+</plist>

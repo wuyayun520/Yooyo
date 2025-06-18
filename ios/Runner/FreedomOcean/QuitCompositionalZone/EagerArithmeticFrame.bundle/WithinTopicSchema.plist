@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedpadding</key>
+	<string>unsortedConsumer</string>
+	<key>awaitTop</key>
+	<string>provideTimer</string>
+	<key>cartesianMobile</key>
+	<string>immediateTexture</string>
+	<key>destroyresource</key>
+	<string>chartLocation</string>
+	<key>responderType</key>
+	<string>accordionresolver</string>
+	<key>shouldDisposeBinary</key>
+	<string>directlyFilter</string>
+	<key>usedRichText</key>
+	<string>accessoryDuration</string>
+</dict>
+</plist>

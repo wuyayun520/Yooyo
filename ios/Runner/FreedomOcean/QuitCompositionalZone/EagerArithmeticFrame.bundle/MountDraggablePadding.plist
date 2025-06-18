@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedNavigation</key>
+	<string>shouldPopLayout</string>
+	<key>animateprogressbar</key>
+	<string>shouldPushReduction</string>
+	<key>associatedHeap</key>
+	<string>shouldencodeanimatedcontainer</string>
+	<key>elementdensity</key>
+	<string>independentScaffold</string>
+	<key>equivalentEdge</key>
+	<string>oldAwait</string>
+	<key>refactorfactory</key>
+	<string>catalystBuffer</string>
+	<key>shouldObserveTernary</key>
+	<string>inactiveStateless</string>
+	<key>specifyMomentum</key>
+	<string>constraintInterval</string>
+	<key>triggerKind</key>
+	<string>baselineFramework</string>
+</dict>
+</plist>

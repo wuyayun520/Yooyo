@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableInteractor</key>
+	<string>shouldRebuildDecoration</string>
+	<key>expandedbandwidth</key>
+	<string>agileBase</string>
+	<key>popupprovider</key>
+	<string>undertakeLayout</string>
+	<key>requiredTween</key>
+	<string>partitionTween</string>
+	<key>shouldDisposeAccessory</key>
+	<string>drawerbloc</string>
+	<key>shouldResumeExtension</key>
+	<string>logarithmAcceleration</string>
+	<key>sizeDistance</key>
+	<string>completionloop</string>
+	<key>tangenttransparency</key>
+	<string>radiostate</string>
+	<key>themehandler</key>
+	<string>canListenMaster</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisLeft</key>
+	<string>disparateAppBar</string>
+	<key>comprehensiveFormat</key>
+	<string>shouldRestartAlpha</string>
+	<key>cubitResponse</key>
+	<string>opaqueFactory</string>
+	<key>fragmentsStatus</key>
+	<string>shouldLayoutFlex</string>
+	<key>permissiveLatency</key>
+	<string>cursorLocation</string>
+	<key>queueduringmediator</key>
+	<string>spinUtil</string>
+	<key>similarFinder</key>
+	<string>publicunary</string>
+	<key>substantialParticle</key>
+	<string>presenterVisibility</string>
+</dict>
+</plist>

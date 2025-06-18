@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customResolver</key>
+	<string>uniqueFactory</string>
+	<key>customlistviewoffset</key>
+	<string>resizableAnalogy</string>
+	<key>defaultaspectratio</key>
+	<string>mainvectordirection</string>
+	<key>immediateFragment</key>
+	<string>limitgridview</string>
+	<key>mediocrestateopacity</key>
+	<string>imageinteraction</string>
+	<key>paddingTransparency</key>
+	<string>shouldLoadProtocol</string>
+	<key>sizetint</key>
+	<string>tangentFacade</string>
+	<key>spotduration</key>
+	<string>prepareIndicator</string>
+	<key>tableAlignment</key>
+	<string>logarithmForce</string>
+</dict>
+</plist>

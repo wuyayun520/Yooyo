@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureFormat</key>
+	<string>shaderasvalue</string>
+	<key>cardmesh</key>
+	<string>mainAnimator</string>
+	<key>challengecapacity</key>
+	<string>replicateTitle</string>
+	<key>formattask</key>
+	<string>canStartMediaQuery</string>
+	<key>resolverDensity</key>
+	<string>priortimerhue</string>
+</dict>
+</plist>

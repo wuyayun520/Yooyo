@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>parallelFactory</key>
+	<string>updateScene</string>
+	<key>pivotalEntropy</key>
+	<string>awaitAcceleration</string>
+	<key>positionedcoord</key>
+	<string>composableDescriptor</string>
+	<key>prismaticLoss</key>
+	<string>chapterStrategy</string>
+	<key>secondinjection</key>
+	<string>creatorInteraction</string>
+	<key>shouldDisconnectGradient</key>
+	<string>immediateTask</string>
+</dict>
+</plist>

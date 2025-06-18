@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>moduleBottom</key>
+	<string>shouldEncodeNavigator</string>
+	<key>optimizersubscriber</key>
+	<string>unregisterText</string>
+	<key>scrollableentitystate</key>
+	<string>shouldDetachAppBar</string>
+	<key>seamlessController</key>
+	<string>shouldFormatWidget</string>
+	<key>shouldFetchBorder</key>
+	<string>certificateVariable</string>
+	<key>shouldMountedRichText</key>
+	<string>completionCount</string>
+	<key>shouldSaveKernel</key>
+	<string>roleEnvironment</string>
+	<key>stopfragment</key>
+	<string>progressbarAdapter</string>
+	<key>subsequentBinder</key>
+	<string>eraseFeature</string>
+	<key>unsortedSlash</key>
+	<string>queueDistance</string>
+</dict>
+</plist>

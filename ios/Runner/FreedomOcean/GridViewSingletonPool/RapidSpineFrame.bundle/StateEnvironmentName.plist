@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystorparameter</key>
+	<string>difficultintensitydelay</string>
+	<key>dropdownbuttonInterval</key>
+	<string>baselineFeedback</string>
+	<key>gradientdistance</key>
+	<string>draggablePopup</string>
+	<key>shouldSetStateDescriptor</key>
+	<string>immediateSize</string>
+	<key>synchronousComponent</key>
+	<string>crucialMusic</string>
+	<key>temporarypositiontheme</key>
+	<string>visibleVector</string>
+</dict>
+</plist>

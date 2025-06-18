@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggablealphatail</key>
+	<string>baselineHue</string>
+	<key>invisibleKernel</key>
+	<string>assetInterval</string>
+	<key>lazyBinder</key>
+	<string>easyDispatcher</string>
+	<key>margininterpretercoord</key>
+	<string>positionskewx</string>
+	<key>offsetcycledelay</key>
+	<string>streamScope</string>
+	<key>robustEntropy</key>
+	<string>computeConfiguration</string>
+	<key>shouldRouteMap</key>
+	<string>shouldMountAccessory</string>
+	<key>tabviewOrientation</key>
+	<string>symbolSaturation</string>
+</dict>
+</plist>

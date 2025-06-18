@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerhead</key>
+	<string>shouldNotifyGate</string>
+	<key>deferredMethod</key>
+	<string>augmentResolver</string>
+	<key>lastComponent</key>
+	<string>shouldFetchSine</string>
+	<key>polyfillTension</key>
+	<string>layoutStack</string>
+	<key>routeattype</key>
+	<string>deployUtil</string>
+	<key>sharedFormat</key>
+	<string>discardedText</string>
+	<key>shouldPushStack</key>
+	<string>bufferType</string>
+	<key>singleRect</key>
+	<string>canShowAppBar</string>
+</dict>
+</plist>

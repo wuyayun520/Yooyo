@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cachewrapper</key>
+	<string>canCancelOption</string>
+	<key>dynamicTopic</key>
+	<string>stepHue</string>
+	<key>mediumCursor</key>
+	<string>masterForm</string>
+	<key>nodeSaturation</key>
+	<string>opaqueimage</string>
+	<key>presentscroll</key>
+	<string>makeHandler</string>
+	<key>shouldBuildLabel</key>
+	<string>difficultTabView</string>
+	<key>shouldPushSlash</key>
+	<string>shouldMountedCapsule</string>
+	<key>symmetricResponse</key>
+	<string>firstScaffold</string>
+</dict>
+</plist>

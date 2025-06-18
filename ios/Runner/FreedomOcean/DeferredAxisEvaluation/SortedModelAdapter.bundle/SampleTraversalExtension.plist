@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityevent</key>
+	<string>lazyOverlay</string>
+	<key>collectionlocation</key>
+	<string>certificateAppearance</string>
+	<key>layervalidation</key>
+	<string>newestLatency</string>
+	<key>otherCapsule</key>
+	<string>disposeRole</string>
+	<key>otherGradient</key>
+	<string>composableMetadata</string>
+	<key>shouldDetachSlider</key>
+	<string>typicalinformation</string>
+	<key>symmetricBrush</key>
+	<string>calculateInterface</string>
+	<key>toolMode</key>
+	<string>routermediatorduration</string>
+</dict>
+</plist>

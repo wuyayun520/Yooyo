@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicateSubpixel</key>
+	<string>shouldLoadSlash</string>
+	<key>directScale</key>
+	<string>collectionEdge</string>
+	<key>integerobserver</key>
+	<string>selectedChannels</string>
+	<key>pinchableFeature</key>
+	<string>validateInkWell</string>
+	<key>processbloc</key>
+	<string>immutableHeap</string>
+	<key>storeformat</key>
+	<string>routerActivity</string>
+	<key>unactivatedInteraction</key>
+	<string>roleloop</string>
+	<key>viewdespitemode</key>
+	<string>vectorCount</string>
+</dict>
+</plist>

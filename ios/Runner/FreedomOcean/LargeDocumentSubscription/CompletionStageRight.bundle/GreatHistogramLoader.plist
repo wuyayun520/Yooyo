@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animateborder</key>
+	<string>allocatorpolygon</string>
+	<key>animatedExtension</key>
+	<string>arithmeticDistinction</string>
+	<key>callbackAcceleration</key>
+	<string>shouldStartSensor</string>
+	<key>shouldRestartTangent</key>
+	<string>shouldNotifySemantics</string>
+</dict>
+</plist>

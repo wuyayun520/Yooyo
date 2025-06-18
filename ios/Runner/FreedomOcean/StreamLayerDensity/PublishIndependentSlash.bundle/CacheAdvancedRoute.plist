@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianDetector</key>
+	<string>compositionalConverter</string>
+	<key>comprehensivehandlerstate</key>
+	<string>cupertinoRectangle</string>
+	<key>concurrentAllocator</key>
+	<string>shouldValidateScaffold</string>
+	<key>curveframeworkshape</key>
+	<string>swiftbound</string>
+	<key>prevOptimizer</key>
+	<string>cartesianNavigator</string>
+	<key>receiverFrequency</key>
+	<string>canEndDescriptor</string>
+	<key>widgetduringparam</key>
+	<string>serializeProtocol</string>
+</dict>
+</plist>

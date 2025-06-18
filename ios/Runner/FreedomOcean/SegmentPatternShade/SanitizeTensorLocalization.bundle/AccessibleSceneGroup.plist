@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>firstOptimizer</key>
+	<string>uniqueLatency</string>
+	<key>normalKernel</key>
+	<string>canDecodeGridView</string>
+	<key>sizedboxtension</key>
+	<string>shouldBindVariant</string>
+	<key>streamtrajectory</key>
+	<string>shouldEmitOption</string>
+	<key>symmetricAlpha</key>
+	<string>statefulQueue</string>
+	<key>uniformlosstail</key>
+	<string>inflateSession</string>
+	<key>zoneContrast</key>
+	<string>immediateIntegrity</string>
+</dict>
+</plist>

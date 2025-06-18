@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticGesture</key>
+	<string>canPersistNavigator</string>
+	<key>filterHue</key>
+	<string>scaffoldRate</string>
+	<key>graphicMode</key>
+	<string>equalContainer</string>
+	<key>informationPadding</key>
+	<string>canLoadBase</string>
+	<key>inheritedGraphic</key>
+	<string>sequentialDetail</string>
+	<key>layoutbrightness</key>
+	<string>infoTag</string>
+	<key>publisherrotation</key>
+	<string>statelessEmitter</string>
+	<key>smallTriangles</key>
+	<string>criticalInterpolation</string>
+</dict>
+</plist>

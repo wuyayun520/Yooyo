@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionInterval</key>
+	<string>deployRoute</string>
+	<key>draggablePoint</key>
+	<string>tweenCoord</string>
+	<key>listenerBound</key>
+	<string>completedBaseline</string>
+	<key>observeintensity</key>
+	<string>shouldRebuildSpot</string>
+	<key>presentmaterial</key>
+	<string>permissiveAspectRatio</string>
+	<key>protectedInteger</key>
+	<string>embraceDuration</string>
+	<key>resizableParticle</key>
+	<string>accessibleCapacity</string>
+	<key>serviceFeedback</key>
+	<string>shouldLayoutMatrix</string>
+	<key>sortedBatch</key>
+	<string>resolverAppearance</string>
+</dict>
+</plist>

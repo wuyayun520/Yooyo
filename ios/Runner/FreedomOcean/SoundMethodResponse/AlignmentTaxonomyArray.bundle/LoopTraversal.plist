@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptorStyle</key>
+	<string>shouldPersistBitrate</string>
+	<key>immediateDialogs</key>
+	<string>basicScale</string>
+	<key>matrixbehavior</key>
+	<string>sequentialReducer</string>
+	<key>navigationacceleration</key>
+	<string>shouldpopprofile</string>
+	<key>originalSpot</key>
+	<string>sineEnvironment</string>
+	<key>shouldEmitFlex</key>
+	<string>staticSizedBox</string>
+	<key>shouldObserveFragment</key>
+	<string>canSubscribeAppBar</string>
+</dict>
+</plist>

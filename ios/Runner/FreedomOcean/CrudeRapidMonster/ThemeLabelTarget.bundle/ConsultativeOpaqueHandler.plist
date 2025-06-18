@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushStatus</key>
+	<string>canDecodeIcon</string>
+	<key>mendcoord</key>
+	<string>canUnbindCell</string>
+	<key>permanentEntity</key>
+	<string>gesturedetectorPhase</string>
+	<key>uniformDelegate</key>
+	<string>nativeResult</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitpervisitor</key>
+	<string>shouldUnmountCatalyst</string>
+	<key>densebuttonrate</key>
+	<string>endPoint</string>
+	<key>desktopExtension</key>
+	<string>multiplicationAlignment</string>
+	<key>discardedGrid</key>
+	<string>shouldEndCupertino</string>
+	<key>onbinarychanged</key>
+	<string>cacheGram</string>
+	<key>primaryNib</key>
+	<string>shouldLoadBloc</string>
+	<key>shouldDispatchMediaQuery</key>
+	<string>shouldtraincurve</string>
+	<key>shouldRestartNotifier</key>
+	<string>hasBinary</string>
+	<key>titleTheme</key>
+	<string>resourceOpacity</string>
+	<key>unactivatedStateless</key>
+	<string>webResponder</string>
+</dict>
+</plist>

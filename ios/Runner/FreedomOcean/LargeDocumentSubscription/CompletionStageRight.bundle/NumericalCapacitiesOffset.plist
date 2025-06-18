@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decouplestream</key>
+	<string>reconcilePresenter</string>
+	<key>localInformation</key>
+	<string>smartOption</string>
+	<key>positionedOrientation</key>
+	<string>shouldEndTool</string>
+	<key>shouldFinishSegment</key>
+	<string>comprehensiveMetadata</string>
+	<key>temporaryAsync</key>
+	<string>binaryforjob</string>
+</dict>
+</plist>

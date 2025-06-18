@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>combinecapacities</key>
+	<string>navigatepopup</string>
+	<key>grambridgetail</key>
+	<string>canPauseChannels</string>
+	<key>graphictype</key>
+	<string>notifyStateless</string>
+	<key>rectangleFrequency</key>
+	<string>retainedFilter</string>
+	<key>shouldBuildIndicator</key>
+	<string>disposeListView</string>
+	<key>shouldinflatestream</key>
+	<string>boxVisitor</string>
+	<key>substantialSegment</key>
+	<string>canShowAspectRatio</string>
+</dict>
+</plist>

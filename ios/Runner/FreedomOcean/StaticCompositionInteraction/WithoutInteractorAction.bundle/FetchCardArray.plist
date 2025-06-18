@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveaspectratio</key>
+	<string>executeSingleton</string>
+	<key>beginnercosineduration</key>
+	<string>playbackForm</string>
+	<key>commonElasticity</key>
+	<string>animatedRouter</string>
+	<key>converterBehavior</key>
+	<string>euclideanHero</string>
+	<key>defaultscreen</key>
+	<string>crudeBloc</string>
+	<key>denseboxvisible</key>
+	<string>entropypadding</string>
+	<key>easyGesture</key>
+	<string>canNavigateBrush</string>
+	<key>listviewevent</key>
+	<string>staticplayback</string>
+	<key>progressbarsaturation</key>
+	<string>parallelChannel</string>
+	<key>topicworkposition</key>
+	<string>bufferSize</string>
+</dict>
+</plist>

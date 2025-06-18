@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedSelector</key>
+	<string>quantizerOffset</string>
+	<key>nextPreview</key>
+	<string>equalizationShape</string>
+	<key>responsiveAnimatedContainer</key>
+	<string>sizefeedback</string>
+	<key>statefulExponent</key>
+	<string>canParseMultiplication</string>
+	<key>staticaction</key>
+	<string>concatenateModel</string>
+</dict>
+</plist>

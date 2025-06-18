@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatordetail</key>
+	<string>synchronousConstant</string>
+	<key>binaryHead</key>
+	<string>playInteractor</string>
+	<key>completionasset</key>
+	<string>beginnerFrame</string>
+	<key>materialReceiver</key>
+	<string>spotStatus</string>
+</dict>
+</plist>

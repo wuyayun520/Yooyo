@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>nibAppearance</key>
+	<string>liteScale</string>
+	<key>responsiveGroup</key>
+	<string>annotategesture</string>
+	<key>shouldPaintChecklist</key>
+	<string>transitionsingleton</string>
+	<key>shouldmountplate</key>
+	<string>smartImage</string>
+	<key>signaturescroller</key>
+	<string>composableSplitter</string>
+</dict>
+</plist>

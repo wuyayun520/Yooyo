@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionForce</key>
+	<string>popMember</string>
+	<key>desktopQueue</key>
+	<string>consumepopup</string>
+	<key>directReceiver</key>
+	<string>similarFinder</string>
+	<key>responsiveError</key>
+	<string>methoduntilvar</string>
+	<key>shouldKeepSemantics</key>
+	<string>disparaterowtag</string>
+	<key>standaloneimageposition</key>
+	<string>dedicatedPositioned</string>
+</dict>
+</plist>

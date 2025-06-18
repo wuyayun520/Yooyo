@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteLifecycle</key>
+	<string>validateCanvas</string>
+	<key>concurrentzone</key>
+	<string>inheritedTweak</string>
+	<key>desktopAnalogy</key>
+	<string>similarHero</string>
+	<key>gridcommandtail</key>
+	<string>rolePattern</string>
+	<key>impressionMomentum</key>
+	<string>popupDuration</string>
+	<key>interactiveTask</key>
+	<string>fetchstorage</string>
+	<key>statefuldispatcher</key>
+	<string>calculateentropy</string>
+</dict>
+</plist>

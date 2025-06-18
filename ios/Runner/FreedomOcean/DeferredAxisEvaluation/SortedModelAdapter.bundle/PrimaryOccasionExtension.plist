@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowagainstfacade</key>
+	<string>associatedNib</string>
+	<key>diversifiedProject</key>
+	<string>canLoadChallenge</string>
+	<key>scrollableCallback</key>
+	<string>rowAction</string>
+	<key>statefulLinker</key>
+	<string>undertakeLoop</string>
+</dict>
+</plist>

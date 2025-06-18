@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveComponent</key>
+	<string>boxVisibility</string>
+	<key>gramSkewX</key>
+	<string>relationalTimer</string>
+	<key>ignoredoffsettheme</key>
+	<string>touchPresenter</string>
+	<key>persistentProgressBar</key>
+	<string>requiredfilter</string>
+	<key>responseVelocity</key>
+	<string>animatedradioorientation</string>
+	<key>threadvelocity</key>
+	<string>specifyTextField</string>
+</dict>
+</plist>

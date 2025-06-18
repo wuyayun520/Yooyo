@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentSplitter</key>
+	<string>substantialAlignment</string>
+	<key>flexibleAperture</key>
+	<string>listenerSaturation</string>
+	<key>keyNode</key>
+	<string>lazyNotification</string>
+	<key>shouldDisposeNorm</key>
+	<string>fragmentMemento</string>
+	<key>strokeLocation</key>
+	<string>alphaPadding</string>
+</dict>
+</plist>

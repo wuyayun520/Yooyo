@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleOperation</key>
+	<string>injectionValue</string>
+	<key>adaptiveScope</key>
+	<string>cartesianGradient</string>
+	<key>containeramortization</key>
+	<string>lazyCompletion</string>
+	<key>permissiveMonster</key>
+	<string>directlyMesh</string>
+</dict>
+</plist>

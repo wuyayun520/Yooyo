@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardLatency</key>
+	<string>canAttachRemainder</string>
+	<key>gemSkewX</key>
+	<string>resilienceRight</string>
+	<key>isTechnique</key>
+	<string>axisSkewY</string>
+	<key>mediumSession</key>
+	<string>taskmend</string>
+	<key>nextBaseline</key>
+	<string>staticModule</string>
+	<key>semanticsSaturation</key>
+	<string>missedDisclaimer</string>
+	<key>shouldLayoutHistogram</key>
+	<string>vectorlocation</string>
+	<key>visibleStateless</key>
+	<string>controllerbuilder</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentimageformat</key>
+	<string>sessionProxy</string>
+	<key>enabledStoryboard</key>
+	<string>shouldSubscribeThread</string>
+	<key>ignoredslider</key>
+	<string>servicesearcher</string>
+	<key>immutableCell</key>
+	<string>brushPlatform</string>
+	<key>imperativeCharacteristic</key>
+	<string>intermediateModule</string>
+	<key>latencyBottom</key>
+	<string>shouldCreatePoint</string>
+	<key>localPublisher</key>
+	<string>createDialogs</string>
+	<key>navigatorhash</key>
+	<string>symmetricCompletion</string>
+	<key>providerpublisher</key>
+	<string>continuePrecision</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bundlerepository</key>
+	<string>canNavigateExtension</string>
+	<key>denseException</key>
+	<string>cacheresource</string>
+	<key>difficultTask</key>
+	<string>usedOperation</string>
+	<key>dispatchmediaquery</key>
+	<string>buttonappearance</string>
+	<key>masterthroughput</key>
+	<string>activatedModulus</string>
+	<key>shouldstreamtechnique</key>
+	<string>deserializeRoute</string>
+	<key>sinkmerger</key>
+	<string>originalCombiner</string>
+</dict>
+</plist>

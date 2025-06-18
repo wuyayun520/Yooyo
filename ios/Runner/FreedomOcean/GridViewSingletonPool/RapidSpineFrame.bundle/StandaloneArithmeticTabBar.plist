@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicateGraph</key>
+	<string>pageviewTransparency</string>
+	<key>difficultSkirt</key>
+	<string>alertflags</string>
+	<key>discardedstateful</key>
+	<string>transformIntensity</string>
+	<key>dropdownbuttonContrast</key>
+	<string>transformerContrast</string>
+	<key>shouldValidateTextField</key>
+	<string>alignmentFramework</string>
+	<key>volumePosition</key>
+	<string>requiredSchema</string>
+</dict>
+</plist>

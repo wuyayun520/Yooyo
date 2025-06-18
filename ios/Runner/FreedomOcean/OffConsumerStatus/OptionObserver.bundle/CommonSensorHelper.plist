@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>grayscaleframe</key>
+	<string>operationLocation</string>
+	<key>loaderCoord</key>
+	<string>observemanager</string>
+	<key>materialState</key>
+	<string>singlePager</string>
+	<key>mobileCertificate</key>
+	<string>iterativePoint</string>
+	<key>providerFrequency</key>
+	<string>hashDistance</string>
+	<key>searcherBehavior</key>
+	<string>canDisconnectProfile</string>
+	<key>stampFormat</key>
+	<string>canSerializeDrawer</string>
+</dict>
+</plist>

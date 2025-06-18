@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chooserHue</key>
+	<string>hierarchicalStack</string>
+	<key>disabledSearcher</key>
+	<string>globalCluster</string>
+	<key>easyInterpolation</key>
+	<string>videoSkewX</string>
+	<key>shouldRestartSpot</key>
+	<string>canSaveGift</string>
+	<key>shouldUnbindSubpixel</key>
+	<string>augmentBloc</string>
+</dict>
+</plist>

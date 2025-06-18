@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>exceptionfeedback</key>
+	<string>positionvalidation</string>
+	<key>mobileConstraint</key>
+	<string>updatePreview</string>
+	<key>requesthead</key>
+	<string>mediaOpacity</string>
+	<key>resolverOffset</key>
+	<string>rectMediator</string>
+	<key>restartmodel</key>
+	<string>shouldFormatPoint</string>
+	<key>shouldUnbindBitrate</key>
+	<string>euclideanGem</string>
+</dict>
+</plist>

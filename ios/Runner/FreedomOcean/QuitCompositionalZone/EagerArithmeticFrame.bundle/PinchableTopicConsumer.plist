@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticskewy</key>
+	<string>streamCycle</string>
+	<key>customArithmetic</key>
+	<string>dismissSingleton</string>
+	<key>customScope</key>
+	<string>canUnmountBorder</string>
+	<key>normhash</key>
+	<string>shouldReplaceTouch</string>
+	<key>selectorState</key>
+	<string>canAttachEquipment</string>
+	<key>shouldReplaceCycle</key>
+	<string>draggableSelector</string>
+	<key>uniformextension</key>
+	<string>asynchronousSample</string>
+</dict>
+</plist>

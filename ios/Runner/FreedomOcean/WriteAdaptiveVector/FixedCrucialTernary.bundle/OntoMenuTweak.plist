@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledAnalyzer</key>
+	<string>unsortedManager</string>
+	<key>globalChooser</key>
+	<string>advancedAllocator</string>
+	<key>logincommand</key>
+	<string>nextStatus</string>
+	<key>newestposition</key>
+	<string>baseHue</string>
+	<key>sharedascent</key>
+	<string>executeTopic</string>
+	<key>shouldSaveAppBar</key>
+	<string>graphicKind</string>
+	<key>touchTag</key>
+	<string>metadataCommand</string>
+</dict>
+</plist>

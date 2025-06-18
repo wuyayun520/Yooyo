@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentpromise</key>
+	<string>shouldPaintStateless</string>
+	<key>delicateGate</key>
+	<string>tappableInterface</string>
+	<key>entityBound</key>
+	<string>locateDuration</string>
+	<key>immutableItem</key>
+	<string>alertlatency</string>
+	<key>intuitiveStateless</key>
+	<string>scrollerTheme</string>
+	<key>segueSkewY</key>
+	<string>taskTint</string>
+	<key>shouldSerializeHeap</key>
+	<string>aggregateAsync</string>
+	<key>specifyconstant</key>
+	<string>resizableAlignment</string>
+	<key>textFeedback</key>
+	<string>subtleTweak</string>
+</dict>
+</plist>

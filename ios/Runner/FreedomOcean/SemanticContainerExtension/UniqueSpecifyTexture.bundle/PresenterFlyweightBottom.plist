@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxTail</key>
+	<string>keyRequest</string>
+	<key>cupertinoProjection</key>
+	<string>arithmeticShade</string>
+	<key>onboxtap</key>
+	<string>canBuildGem</string>
+	<key>opaqueconstant</key>
+	<string>shouldRenderGradient</string>
+	<key>scalabilityBorder</key>
+	<string>exponentstageoffset</string>
+	<key>shouldCancelSlider</key>
+	<string>buttonstructurestate</string>
+	<key>shouldobservetabview</key>
+	<string>fixedCubit</string>
+	<key>stoptween</key>
+	<string>requiredgrid</string>
+</dict>
+</plist>

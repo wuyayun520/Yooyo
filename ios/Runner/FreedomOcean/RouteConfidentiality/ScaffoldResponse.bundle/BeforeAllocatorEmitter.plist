@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveAlert</key>
+	<string>subscribescroll</string>
+	<key>firstPresenter</key>
+	<string>tweenRight</string>
+	<key>fixedproject</key>
+	<string>undertakeGrain</string>
+	<key>nextSymbol</key>
+	<string>clipperOffset</string>
+	<key>responsedescription</key>
+	<string>shouldValidateLoss</string>
+	<key>shouldNavigateCapsule</key>
+	<string>disconnectCache</string>
+	<key>shouldPaintPageView</key>
+	<string>shouldSubscribeInteger</string>
+	<key>shouldPrepareScreen</key>
+	<string>elasticElement</string>
+	<key>temporaryTrajectory</key>
+	<string>routerOffset</string>
+	<key>trianglesFormat</key>
+	<string>interactiveSubscriber</string>
+</dict>
+</plist>

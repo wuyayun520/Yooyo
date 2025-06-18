@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticFilter</key>
+	<string>materialmember</string>
+	<key>eventInterval</key>
+	<string>accessibleIntensity</string>
+	<key>functionalScope</key>
+	<string>cursorResponse</string>
+	<key>momentumsize</key>
+	<string>shouldskipsample</string>
+	<key>normalCompletion</key>
+	<string>smallAspectRatio</string>
+	<key>segmentsplitter</key>
+	<string>ignoredExpanded</string>
+	<key>shouldPersistAxis</key>
+	<string>opaqueFuture</string>
+	<key>tappablecolor</key>
+	<string>touchbridgelocation</string>
+	<key>webDescent</key>
+	<string>formatLoss</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionIntensity</key>
+	<string>coordinatorSkewY</string>
+	<key>delegateisolate</key>
+	<string>canParseBox</string>
+	<key>eagerStorage</key>
+	<string>canPrepareScroll</string>
+	<key>intensityobserver</key>
+	<string>euclideanDistinction</string>
+	<key>iterativeSkirt</key>
+	<string>canBindNib</string>
+	<key>priorutiltag</key>
+	<string>allocatorSpeed</string>
+	<key>shouldEndLayout</key>
+	<string>captureLayer</string>
+	<key>shouldUpdateCache</key>
+	<string>numericalmethod</string>
+	<key>substantialSizedBox</key>
+	<string>canProcessInteger</string>
+	<key>unsortedSkirt</key>
+	<string>reactiveNavigation</string>
+</dict>
+</plist>

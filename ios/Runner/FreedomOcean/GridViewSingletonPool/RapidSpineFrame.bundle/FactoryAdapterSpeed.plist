@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateternary</key>
+	<string>graphShade</string>
+	<key>functionalLifecycle</key>
+	<string>shouldParseSpot</string>
+	<key>gridviewOrientation</key>
+	<string>positionStrategy</string>
+	<key>limitpopup</key>
+	<string>similarSign</string>
+	<key>previewbehavior</key>
+	<string>shouldSubscribeBehavior</string>
+	<key>shouldDismissMonster</key>
+	<string>textureMemento</string>
+	<key>shouldProcessCache</key>
+	<string>gridevent</string>
+</dict>
+</plist>

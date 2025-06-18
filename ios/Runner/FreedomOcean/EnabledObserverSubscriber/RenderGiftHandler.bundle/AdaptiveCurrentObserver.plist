@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customLoader</key>
+	<string>scaffoldtype</string>
+	<key>dimensionappearance</key>
+	<string>currentIntensity</string>
+	<key>emitresult</key>
+	<string>endcomposition</string>
+	<key>filterpadding</key>
+	<string>canTransitionOverlay</string>
+	<key>ignoredFinder</key>
+	<string>aspectratioagainstcomposite</string>
+	<key>imperativeArithmetic</key>
+	<string>cubeDepth</string>
+	<key>listviewreliability</key>
+	<string>ephemeralWrapper</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>instructionOffset</key>
+	<string>revisitSize</string>
+	<key>lastBaseline</key>
+	<string>processstack</string>
+	<key>onbuttonchanged</key>
+	<string>shouldEndConsumer</string>
+	<key>shouldEmitCupertino</key>
+	<string>spottexture</string>
+	<key>statefulpriorityindex</key>
+	<string>resizableSwitch</string>
+	<key>textfieldintensity</key>
+	<string>pointPressure</string>
+</dict>
+</plist>

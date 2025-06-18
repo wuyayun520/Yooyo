@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>geometricResponder</key>
+	<string>navigatorBound</string>
+	<key>hasCurve</key>
+	<string>agileReplica</string>
+	<key>keyGem</key>
+	<string>keyRouter</string>
+	<key>nativeProfile</key>
+	<string>sampleRight</string>
+	<key>normalPainter</key>
+	<string>capsuleDecorator</string>
+	<key>normalSchema</key>
+	<string>keepStamp</string>
+	<key>streamtable</key>
+	<string>stopDuration</string>
+	<key>textShape</key>
+	<string>chapterHue</string>
+	<key>workflowfeature</key>
+	<string>sensorCoord</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicSizedBox</key>
+	<string>shouldCacheContainer</string>
+	<key>cellbyenvironment</key>
+	<string>pinchableLayout</string>
+	<key>composableMedia</key>
+	<string>protectedProjection</string>
+	<key>cupertinostrategyinteraction</key>
+	<string>updateSubpixel</string>
+	<key>granularSemantics</key>
+	<string>shouldReplaceGridView</string>
+	<key>liteButton</key>
+	<string>prismaticModule</string>
+	<key>scrollableAccessory</key>
+	<string>baselineTransparency</string>
+	<key>subsequentflex</key>
+	<string>loopTail</string>
+</dict>
+</plist>

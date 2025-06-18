@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationHead</key>
+	<string>elasticReducer</string>
+	<key>giftSpacing</key>
+	<string>dynamicSwitch</string>
+	<key>graphacceleration</key>
+	<string>localizationSaturation</string>
+	<key>remediationtint</key>
+	<string>capsuleParam</string>
+	<key>rowinset</key>
+	<string>ignoredDimension</string>
+	<key>sharedAspectRatio</key>
+	<string>canHandleCupertino</string>
+	<key>sharedSpecifier</key>
+	<string>streamoftype</string>
+	<key>shouldRebuildPoint</key>
+	<string>enhanceSink</string>
+	<key>usecaseKind</key>
+	<string>oninstructionchanged</string>
+</dict>
+</plist>

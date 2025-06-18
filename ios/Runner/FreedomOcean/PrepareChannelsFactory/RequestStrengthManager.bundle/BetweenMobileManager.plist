@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cycleMode</key>
+	<string>associatedFilter</string>
+	<key>publicPadding</key>
+	<string>alignmentvardistance</string>
+	<key>scaffoldscenario</key>
+	<string>isprofile</string>
+	<key>shouldFormatBatch</key>
+	<string>extensionHead</string>
+</dict>
+</plist>

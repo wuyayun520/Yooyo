@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedContainer</key>
+	<string>shouldMountAlpha</string>
+	<key>grainType</key>
+	<string>scopeEdge</string>
+	<key>scrollableRenderer</key>
+	<string>continueStack</string>
+	<key>significantShader</key>
+	<string>declarativetransitiontint</string>
+	<key>sorterTint</key>
+	<string>primaryConverter</string>
+	<key>sustainablequaternion</key>
+	<string>actionleft</string>
+</dict>
+</plist>

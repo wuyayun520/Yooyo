@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledMobile</key>
+	<string>shouldConnectDimension</string>
+	<key>immutableModulus</key>
+	<string>expandedTheme</string>
+	<key>mechanismBehavior</key>
+	<string>shouldBuildBloc</string>
+	<key>richtextResponse</key>
+	<string>tabbarObserver</string>
+	<key>shouldCreateTask</key>
+	<string>lazydelegatename</string>
+	<key>sineOffset</key>
+	<string>relationalComposition</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonCallback</key>
+	<string>delegatepainter</string>
+	<key>compositionalBuilder</key>
+	<string>disparateSymbol</string>
+	<key>detachlabel</key>
+	<string>eagerhandlerleft</string>
+	<key>embraceduration</key>
+	<string>persistentModel</string>
+	<key>interfaceDelay</key>
+	<string>shouldConnectNotification</string>
+	<key>lazyScroller</key>
+	<string>histogramscopedelay</string>
+	<key>mediumSubscription</key>
+	<string>sizeHue</string>
+	<key>relationalAnimator</key>
+	<string>shouldYieldBoxShadow</string>
+	<key>shouldbindstateful</key>
+	<string>priorExpanded</string>
+	<key>shouldskipstateful</key>
+	<string>subtleresult</string>
+</dict>
+</plist>

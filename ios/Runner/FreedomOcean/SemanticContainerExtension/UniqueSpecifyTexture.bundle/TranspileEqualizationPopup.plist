@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containermechanism</key>
+	<string>liteBehavior</string>
+	<key>effectStyle</key>
+	<string>declarativeMapper</string>
+	<key>entityFeedback</key>
+	<string>webGrain</string>
+	<key>ephemeralFrame</key>
+	<string>subpixelDensity</string>
+	<key>newestappbar</key>
+	<string>shouldPrepareMonster</string>
+	<key>notifieruntilscope</key>
+	<string>ignoredTechnique</string>
+	<key>otherMusic</key>
+	<string>indicatorCount</string>
+	<key>requiredManager</key>
+	<string>toolDensity</string>
+	<key>scaffoldPressure</key>
+	<string>radioFramework</string>
+	<key>statefulcanvasforce</key>
+	<string>notifierEnvironment</string>
+</dict>
+</plist>

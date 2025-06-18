@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerBottom</key>
+	<string>findtabbar</string>
+	<key>gateColor</key>
+	<string>listviewedge</string>
+	<key>imageCenter</key>
+	<string>validateCatalyst</string>
+	<key>lostCapacity</key>
+	<string>pushGridView</string>
+	<key>otherWrapper</key>
+	<string>rapidDependency</string>
+	<key>shouldPresentActivity</key>
+	<string>canUnmountedMember</string>
+	<key>statefulTransition</key>
+	<string>channelsStrategy</string>
+	<key>storechainvisibility</key>
+	<string>filterSkewX</string>
+	<key>unsortedobserver</key>
+	<string>responsiveIsolate</string>
+</dict>
+</plist>

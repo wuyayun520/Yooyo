@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalPainter</key>
+	<string>canRenderModulus</string>
+	<key>elasticGroup</key>
+	<string>sliderResponse</string>
+	<key>granularEntity</key>
+	<string>processorRate</string>
+	<key>shouldUnmountSample</key>
+	<string>labelkind</string>
+	<key>stackTag</key>
+	<string>roleRight</string>
+</dict>
+</plist>

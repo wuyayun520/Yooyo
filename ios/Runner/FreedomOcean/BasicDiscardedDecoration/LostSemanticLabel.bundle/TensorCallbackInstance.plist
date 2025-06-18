@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionloop</key>
+	<string>hierarchicalIntensity</string>
+	<key>commonGesture</key>
+	<string>switchTask</string>
+	<key>cupertinoGroup</key>
+	<string>notificationShape</string>
+	<key>matrixcontrast</key>
+	<string>permanentEvolution</string>
+	<key>oldProject</key>
+	<string>parseChapter</string>
+	<key>primaryTimer</key>
+	<string>attachTechnique</string>
+	<key>shouldParseBox</key>
+	<string>detachCycle</string>
+	<key>shouldReplaceExtension</key>
+	<string>greatStep</string>
+	<key>temporaryCupertino</key>
+	<string>shouldshowtangent</string>
+	<key>viewFrequency</key>
+	<string>compareService</string>
+</dict>
+</plist>

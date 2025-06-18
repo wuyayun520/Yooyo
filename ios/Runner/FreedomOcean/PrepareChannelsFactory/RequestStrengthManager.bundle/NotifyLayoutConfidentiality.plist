@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocflags</key>
+	<string>featuremodule</string>
+	<key>cartesianFeature</key>
+	<string>deployGraph</string>
+	<key>customizedBrush</key>
+	<string>shouldResumeConsumer</string>
+	<key>fusedStatus</key>
+	<string>shouldyieldlayout</string>
+	<key>labelformat</key>
+	<string>disparateLocalization</string>
+	<key>shouldResumeDrawer</key>
+	<string>interpolationVelocity</string>
+</dict>
+</plist>

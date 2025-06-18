@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoNorm</key>
+	<string>immutableController</string>
+	<key>dedicatedLoop</key>
+	<string>aggregateTransition</string>
+	<key>mediocreOccasion</key>
+	<string>clipperOffset</string>
+	<key>offsetDuration</key>
+	<string>clipTask</string>
+	<key>pivotalGradient</key>
+	<string>latencyBehavior</string>
+	<key>tensorColor</key>
+	<string>gradientcolor</string>
+	<key>uniformUsage</key>
+	<string>handlerOperation</string>
+	<key>usageeffect</key>
+	<string>hyperbolicIntegrity</string>
+	<key>utilFrequency</key>
+	<string>opaqueHash</string>
+</dict>
+</plist>

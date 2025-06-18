@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customPlayback</key>
+	<string>oldSwitch</string>
+	<key>destroyparticle</key>
+	<string>delegatestrategyinterval</string>
+	<key>inactivestorevalidation</key>
+	<string>subtleTable</string>
+	<key>labelfromform</key>
+	<string>canParseCheckbox</string>
+	<key>meshSpacing</key>
+	<string>optimizerName</string>
+	<key>polyfillDensity</key>
+	<string>semanticLoader</string>
+</dict>
+</plist>

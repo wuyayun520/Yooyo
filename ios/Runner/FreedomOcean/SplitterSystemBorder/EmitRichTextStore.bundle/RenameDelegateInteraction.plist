@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerSizedBox</key>
+	<string>evolutionOrientation</string>
+	<key>builderVisibility</key>
+	<string>shouldStreamCoordinator</string>
+	<key>consultativeListView</key>
+	<string>shouldDecodeDialogs</string>
+	<key>mediocreMargin</key>
+	<string>integrityPosition</string>
+	<key>persistentEmitter</key>
+	<string>canKeepDescriptor</string>
+	<key>secondDelegate</key>
+	<string>canDisposeShader</string>
+	<key>tabviewStyle</key>
+	<string>freetask</string>
+</dict>
+</plist>

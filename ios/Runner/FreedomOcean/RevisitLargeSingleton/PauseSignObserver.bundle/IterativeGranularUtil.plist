@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticStore</key>
+	<string>listenerrecursion</string>
+	<key>painterAppearance</key>
+	<string>canTransformCaption</string>
+	<key>positionname</key>
+	<string>shouldMountedVariant</string>
+	<key>profileOrigin</key>
+	<string>factoryincludebridge</string>
+	<key>resilientCube</key>
+	<string>immutableAspect</string>
+	<key>shouldMountedScroll</key>
+	<string>synchronousImpression</string>
+	<key>sizedboxincludebridge</key>
+	<string>shouldDisconnectNavigator</string>
+	<key>uniqueHeap</key>
+	<string>ignoredTextField</string>
+</dict>
+</plist>

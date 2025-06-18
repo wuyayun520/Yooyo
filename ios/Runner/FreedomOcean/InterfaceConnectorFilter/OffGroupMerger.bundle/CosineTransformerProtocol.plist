@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicConsumer</key>
+	<string>decoupletexture</string>
+	<key>latencyTag</key>
+	<string>animatedSign</string>
+	<key>rapidNode</key>
+	<string>concreteConstant</string>
+	<key>recursionDepth</key>
+	<string>asynchronousInteraction</string>
+	<key>shouldBindProfile</key>
+	<string>unmountedCard</string>
+	<key>shouldProcessSwitch</key>
+	<string>routecompositetop</string>
+	<key>shouldSerializeMovement</key>
+	<string>scheduleConfiguration</string>
+	<key>showfeature</key>
+	<string>protectedOperation</string>
+	<key>storageskewx</key>
+	<string>canUnmountObserver</string>
+</dict>
+</plist>

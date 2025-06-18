@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>acceleratebullet</key>
+	<string>performNavigator</string>
+	<key>actionforce</key>
+	<string>dataBehavior</string>
+	<key>animationkind</key>
+	<string>canDisconnectMargin</string>
+	<key>crudeNotification</key>
+	<string>sustainableslider</string>
+	<key>disparatePadding</key>
+	<string>richtextEdge</string>
+	<key>mediocreIndicator</key>
+	<string>intermediatelayervisible</string>
+	<key>routedespitework</key>
+	<string>hierarchicalactivityforce</string>
+	<key>shouldDismissBullet</key>
+	<string>mediumRect</string>
+	<key>spritecoord</key>
+	<string>mediumAwait</string>
+	<key>usecasesize</key>
+	<string>boxTask</string>
+</dict>
+</plist>

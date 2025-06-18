@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileShape</key>
+	<string>stackAcceleration</string>
+	<key>documentobserver</key>
+	<string>permanentArithmetic</string>
+	<key>localDescription</key>
+	<string>routeBatch</string>
+	<key>mediaqueryisolate</key>
+	<string>destroyConstraint</string>
+	<key>priorSensor</key>
+	<string>processStamp</string>
+	<key>singleMatrix</key>
+	<string>symbolObserver</string>
+	<key>splitterFormat</key>
+	<string>denseDelivery</string>
+	<key>tableFeedback</key>
+	<string>uniqueActivity</string>
+	<key>transformercreator</key>
+	<string>customInfrastructure</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedinteractordistance</key>
+	<string>labelTier</string>
+	<key>draggableDetector</key>
+	<string>startBehavior</string>
+	<key>equivalentDistance</key>
+	<string>shouldsavenotifier</string>
+	<key>numericalPainter</key>
+	<string>intensityStrategy</string>
+	<key>requiredComponent</key>
+	<string>inactiveProfile</string>
+	<key>segmentinteraction</key>
+	<string>retainedhashbehavior</string>
+	<key>shouldNotifyUnary</key>
+	<string>futureappearance</string>
+	<key>shouldRebuildExponent</key>
+	<string>scrollableClipper</string>
+</dict>
+</plist>

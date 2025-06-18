@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerEffect</key>
+	<string>transformindicator</string>
+	<key>euclideanrestriction</key>
+	<string>commonMatrix</string>
+	<key>flexibleactiondistance</key>
+	<string>setstateDuration</string>
+	<key>iconstructurefeedback</key>
+	<string>numericaltransformer</string>
+	<key>pivotalFormat</key>
+	<string>nextShape</string>
+	<key>primaryDescriptor</key>
+	<string>typicalHistogram</string>
+</dict>
+</plist>

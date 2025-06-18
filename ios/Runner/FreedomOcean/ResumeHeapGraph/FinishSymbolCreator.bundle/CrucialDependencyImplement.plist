@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>layercontextbehavior</key>
+	<string>normalLayer</string>
+	<key>mapOpacity</key>
+	<string>retainZone</string>
+	<key>observespine</key>
+	<string>actionFramework</string>
+	<key>oldcontainertop</key>
+	<string>connectmaster</string>
+	<key>pinchableModal</key>
+	<string>fixedProvider</string>
+	<key>publishusecase</key>
+	<string>sophisticatedInfrastructure</string>
+	<key>startchecklist</key>
+	<string>emitsubpixel</string>
+</dict>
+</plist>

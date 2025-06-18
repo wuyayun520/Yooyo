@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticbox</key>
+	<string>displayDecoration</string>
+	<key>factorystate</key>
+	<string>layerComposite</string>
+	<key>fixedviewtail</key>
+	<string>deserializeAnimation</string>
+	<key>greatButton</key>
+	<string>shouldTrainMedia</string>
+	<key>sharedmodel</key>
+	<string>widgetPadding</string>
+	<key>statelifecycle</key>
+	<string>shouldListenSensor</string>
+</dict>
+</plist>

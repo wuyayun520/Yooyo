@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileWrapper</key>
+	<string>replicaAlignment</string>
+	<key>executegradient</key>
+	<string>storeCoord</string>
+	<key>hasIndicator</key>
+	<string>canEncodeSegue</string>
+	<key>missiontimer</key>
+	<string>latencyBorder</string>
+	<key>parallelRadius</key>
+	<string>nibTask</string>
+	<key>scalabilitySkewY</key>
+	<string>canBuildGridView</string>
+	<key>shouldPopBitrate</key>
+	<string>interactorVelocity</string>
+</dict>
+</plist>

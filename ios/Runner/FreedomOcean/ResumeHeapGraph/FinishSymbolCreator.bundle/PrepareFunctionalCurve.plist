@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityvalidation</key>
+	<string>indicatorEdge</string>
+	<key>collectionbeyondfunction</key>
+	<string>exitProgressBar</string>
+	<key>connectdelegate</key>
+	<string>shouldBuildAnimatedContainer</string>
+	<key>histogramdensity</key>
+	<string>graphictransformer</string>
+	<key>inheritedbandwidth</key>
+	<string>shouldSetStateTouch</string>
+	<key>mutabledescription</key>
+	<string>positionneartask</string>
+	<key>staticRect</key>
+	<string>usedLocalization</string>
+</dict>
+</plist>

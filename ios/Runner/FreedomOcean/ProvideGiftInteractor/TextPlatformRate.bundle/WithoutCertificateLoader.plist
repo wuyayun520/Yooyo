@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoCompleter</key>
+	<string>kernelorientation</string>
+	<key>denseMaterializer</key>
+	<string>optimizerStage</string>
+	<key>disabledController</key>
+	<string>canEncodeNib</string>
+	<key>euclideanRepository</key>
+	<string>variantprovider</string>
+	<key>hyperbolicLayout</key>
+	<string>largeHeap</string>
+	<key>mediaqueryFrequency</key>
+	<string>fixedFilter</string>
+	<key>permissivePlayback</key>
+	<string>draweractioninteraction</string>
+	<key>retainedNib</key>
+	<string>shouldFetchInkWell</string>
+	<key>robustThread</key>
+	<string>prevSpine</string>
+</dict>
+</plist>

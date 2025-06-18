@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ignoredArithmetic</key>
+	<string>startOperation</string>
+	<key>modalSaturation</key>
+	<string>partitionQueue</string>
+	<key>persistentAperture</key>
+	<string>equivalentSpeed</string>
+	<key>seamlessGate</key>
+	<string>deferredLoader</string>
+	<key>vectorAppearance</key>
+	<string>hasproject</string>
+</dict>
+</plist>

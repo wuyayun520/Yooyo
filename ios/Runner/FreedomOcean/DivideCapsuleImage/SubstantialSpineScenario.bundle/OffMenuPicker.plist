@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileMaterial</key>
+	<string>inactiveMonster</string>
+	<key>checkboxOrientation</key>
+	<string>scheduleBloc</string>
+	<key>enabledoperation</key>
+	<string>pinchableBitrate</string>
+	<key>mergeredge</key>
+	<string>newestContrast</string>
+	<key>projectappearance</key>
+	<string>loaderorigin</string>
+	<key>reactiveCurve</key>
+	<string>logarithmprovider</string>
+	<key>statefulnotifier</key>
+	<string>injectBuilder</string>
+	<key>themetaxonomy</key>
+	<string>lastWrapper</string>
+</dict>
+</plist>

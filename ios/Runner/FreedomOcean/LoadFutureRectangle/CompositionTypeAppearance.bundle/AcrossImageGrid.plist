@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agilePlayback</key>
+	<string>canListenWorkflow</string>
+	<key>concreteReplica</key>
+	<string>canPauseSemantics</string>
+	<key>inkwellHue</key>
+	<string>canRebuildMaterial</string>
+	<key>iterativeInformation</key>
+	<string>hashstyle</string>
+	<key>materialScene</key>
+	<string>accordionStateless</string>
+	<key>modalState</key>
+	<string>missedbinarycolor</string>
+	<key>shouldpresentdelegate</key>
+	<string>canRenderMaster</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocTag</key>
+	<string>receiveRow</string>
+	<key>declarativeModulus</key>
+	<string>certificateacceleration</string>
+	<key>optimizerStyle</key>
+	<string>connectSpecifier</string>
+	<key>shouldDismissSign</key>
+	<string>activePopup</string>
+	<key>shouldPublishStateful</key>
+	<string>sensorObserver</string>
+	<key>shouldpaintbaseline</key>
+	<string>pivotalhandler</string>
+	<key>specifyResource</key>
+	<string>canUpdateCollection</string>
+</dict>
+</plist>

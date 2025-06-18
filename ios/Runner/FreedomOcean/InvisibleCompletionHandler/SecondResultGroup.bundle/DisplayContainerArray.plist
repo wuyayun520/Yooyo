@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>metadataTail</key>
+	<string>immutableVector</string>
+	<key>pageviewvelocity</key>
+	<string>dropoutRoute</string>
+	<key>robustMapper</key>
+	<string>backwardNotifier</string>
+	<key>searcherTop</key>
+	<string>shouldMountedCollection</string>
+	<key>shouldCreateGridView</key>
+	<string>canReplaceSegue</string>
+	<key>shouldTrainDimension</key>
+	<string>transformerInset</string>
+</dict>
+</plist>

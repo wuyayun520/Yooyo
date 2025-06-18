@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedComponent</key>
+	<string>boxpreview</string>
+	<key>channelCoord</key>
+	<string>temporaryScroller</string>
+	<key>chapterstructureborder</key>
+	<string>intermediateWidget</string>
+	<key>composableTimeline</key>
+	<string>eraseListener</string>
+	<key>globalEvaluation</key>
+	<string>mainDecoration</string>
+	<key>holdactivity</key>
+	<string>segmentFormat</string>
+	<key>mediumPadding</key>
+	<string>ternaryOffset</string>
+	<key>reactiveReduction</key>
+	<string>subpixelBottom</string>
+	<key>semanticPresenter</key>
+	<string>arithmeticSystem</string>
+	<key>smallsamplestyle</key>
+	<string>canRouteBorder</string>
+</dict>
+</plist>

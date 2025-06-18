@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bandwidthSkewX</key>
+	<string>eagerDependency</string>
+	<key>normalSlider</key>
+	<string>presenterDistance</string>
+	<key>responsivegroupappearance</key>
+	<string>symbolRate</string>
+	<key>shouldCreateBloc</key>
+	<string>refreshcharacter</string>
+</dict>
+</plist>

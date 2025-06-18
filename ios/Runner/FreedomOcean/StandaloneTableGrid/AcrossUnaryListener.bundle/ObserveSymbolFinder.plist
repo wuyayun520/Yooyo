@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>exceptioninsidephase</key>
+	<string>heroProxy</string>
+	<key>firstView</key>
+	<string>provideAction</string>
+	<key>fusedCubit</key>
+	<string>touchMargin</string>
+	<key>hardModal</key>
+	<string>builderTheme</string>
+	<key>segmentSize</key>
+	<string>retainedTask</string>
+	<key>selectedMargin</key>
+	<string>symmetricPosition</string>
+	<key>singleStrength</key>
+	<string>animateNode</string>
+	<key>webDialogs</key>
+	<string>injectRequest</string>
+	<key>wrapentropy</key>
+	<string>routemediatorindex</string>
+</dict>
+</plist>

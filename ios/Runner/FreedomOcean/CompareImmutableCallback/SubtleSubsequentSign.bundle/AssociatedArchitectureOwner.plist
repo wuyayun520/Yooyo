@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>resourcerouter</key>
+	<string>shouldFormatCustomPaint</string>
+	<key>sceneenvironmenttail</key>
+	<string>standaloneUseCase</string>
+	<key>tweenKind</key>
+	<string>delicatetransformervalidation</string>
+	<key>usecasereliability</key>
+	<string>interactiveVolume</string>
+	<key>widgetBorder</key>
+	<string>modulusOpacity</string>
+</dict>
+</plist>

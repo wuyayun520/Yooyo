@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>benchmarkdescription</key>
+	<string>tabviewSkewX</string>
+	<key>disclaimerShade</key>
+	<string>vectorCommand</string>
+	<key>explicitSegment</key>
+	<string>canMountInterpolation</string>
+	<key>keyReliability</key>
+	<string>calculateHash</string>
+	<key>secondtime</key>
+	<string>sustainablelayout</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialcachefrequency</key>
+	<string>rendererBrightness</string>
+	<key>directAnalyzer</key>
+	<string>publishChecklist</string>
+	<key>interactivenavigatormode</key>
+	<string>benchmarkResponse</string>
+	<key>keyEvolution</key>
+	<string>intensityBrightness</string>
+	<key>shouldEmitShader</key>
+	<string>canLoadChallenge</string>
+	<key>shouldHandleCapacities</key>
+	<string>draggableNavigation</string>
+	<key>threadName</key>
+	<string>popupFormat</string>
+</dict>
+</plist>

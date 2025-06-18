@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>architectureTheme</key>
+	<string>concurrentAlpha</string>
+	<key>intensitystatus</key>
+	<string>displayzone</string>
+	<key>scrollableFactory</key>
+	<string>texturerange</string>
+	<key>sharedSkirt</key>
+	<string>pausePageView</string>
+</dict>
+</plist>

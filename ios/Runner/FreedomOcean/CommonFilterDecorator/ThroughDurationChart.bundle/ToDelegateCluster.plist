@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardShader</key>
+	<string>shouldDisconnectRoute</string>
+	<key>bulletIndex</key>
+	<string>canEndMomentum</string>
+	<key>containerandvariable</key>
+	<string>mediaTheme</string>
+	<key>gesturedetectorenvironmentdensity</key>
+	<string>intuitiveStoryboard</string>
+	<key>harddetector</key>
+	<string>subsequentExponent</string>
+	<key>storyboardOrientation</key>
+	<string>aspectgraph</string>
+	<key>tickerandproxy</key>
+	<string>firstScene</string>
+</dict>
+</plist>

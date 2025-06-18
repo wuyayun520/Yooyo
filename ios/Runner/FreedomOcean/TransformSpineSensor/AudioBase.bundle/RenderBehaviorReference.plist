@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintmediatorcoord</key>
+	<string>blocBridge</string>
+	<key>diversifiedTool</key>
+	<string>cleanRouter</string>
+	<key>geometricSensor</key>
+	<string>setupgridview</string>
+	<key>gesturedetectorColor</key>
+	<string>imperativeIntegration</string>
+	<key>granularAwait</key>
+	<string>canRestartRoute</string>
+	<key>rowformdelay</key>
+	<string>attachResult</string>
+	<key>significantEmitter</key>
+	<string>adaptivehandlercoord</string>
+	<key>toolState</key>
+	<string>multiplicationDuration</string>
+</dict>
+</plist>

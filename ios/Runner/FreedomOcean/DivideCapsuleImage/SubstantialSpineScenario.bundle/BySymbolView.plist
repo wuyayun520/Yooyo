@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentInstruction</key>
+	<string>channelappearance</string>
+	<key>poolstream</key>
+	<string>semanticScroll</string>
+	<key>retainedasyncbottom</key>
+	<string>canSubscribeAspectRatio</string>
+	<key>sortedMaster</key>
+	<string>navigateContraction</string>
+	<key>specifyTouch</key>
+	<string>traversalSpeed</string>
+</dict>
+</plist>

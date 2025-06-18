@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedPriority</key>
+	<string>convertButton</string>
+	<key>animationpertemple</key>
+	<string>activeAllocator</string>
+	<key>bindrequest</key>
+	<string>disposeAnimatedContainer</string>
+	<key>easyVertex</key>
+	<string>shouldPaintSensor</string>
+	<key>prismaticProfile</key>
+	<string>eagerProvider</string>
+</dict>
+</plist>

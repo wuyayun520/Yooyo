@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectOpacity</key>
+	<string>numericalEvolution</string>
+	<key>inheritedConstant</key>
+	<string>layoutsingleton</string>
+	<key>missedcanvastail</key>
+	<string>currentAspectRatio</string>
+	<key>otherFormat</key>
+	<string>pushSign</string>
+	<key>presenterthanfunction</key>
+	<string>shouldPreparePadding</string>
+	<key>retainedDisclaimer</key>
+	<string>sequentialScroll</string>
+	<key>singleRenderer</key>
+	<string>usecaseBridge</string>
+</dict>
+</plist>

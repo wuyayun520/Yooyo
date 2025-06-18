@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonScalability</key>
+	<string>onsubpixeltap</string>
+	<key>consumercenter</key>
+	<string>decodeConsumer</string>
+	<key>euclideanCursor</key>
+	<string>prismaticComposition</string>
+	<key>interactivepolyfill</key>
+	<string>accordionPromise</string>
+	<key>sampleinformation</key>
+	<string>elasticReceiver</string>
+</dict>
+</plist>

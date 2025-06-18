@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackcontextstatus</key>
+	<string>consumerScope</string>
+	<key>checkboxdepth</key>
+	<string>canDismissNotification</string>
+	<key>eagerCapacities</key>
+	<string>sensorchapter</string>
+	<key>greatManager</key>
+	<string>mainScale</string>
+	<key>intuitiveHero</key>
+	<string>displayAwait</string>
+	<key>shouldShowMatrix</key>
+	<string>implementMenu</string>
+	<key>significantDescriptor</key>
+	<string>formatEntropy</string>
+</dict>
+</plist>

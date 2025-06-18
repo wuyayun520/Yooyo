@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineconsumer</key>
+	<string>tableForce</string>
+	<key>captionSaturation</key>
+	<string>shouldanimateshader</string>
+	<key>eagerImpact</key>
+	<string>smartElement</string>
+	<key>intensityRate</key>
+	<string>newestReplica</string>
+	<key>queuebyfunction</key>
+	<string>canCancelRemainder</string>
+	<key>spriteimage</key>
+	<string>tensorStoryboard</string>
+	<key>uniformLog</key>
+	<string>standaloneequipmenttype</string>
+	<key>validateconfiguration</key>
+	<string>writeRow</string>
+	<key>webView</key>
+	<string>provisionVisible</string>
+</dict>
+</plist>

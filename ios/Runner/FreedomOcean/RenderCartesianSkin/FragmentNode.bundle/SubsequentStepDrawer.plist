@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>benchmarkframe</key>
+	<string>hierarchicalProvider</string>
+	<key>cardOrigin</key>
+	<string>relationalanimator</string>
+	<key>cartesianPermutation</key>
+	<string>inkwellcombiner</string>
+	<key>discardedWrapper</key>
+	<string>deserializeEvent</string>
+	<key>fixedImpact</key>
+	<string>canValidateGraphic</string>
+	<key>loophead</key>
+	<string>shouldMountedNotification</string>
+	<key>opaqueAspect</key>
+	<string>deliveryContrast</string>
+	<key>painterinterpreterpadding</key>
+	<string>overrideError</string>
+	<key>specifyTransformer</key>
+	<string>cloneService</string>
+	<key>subscriptionTension</key>
+	<string>shouldShowNavigator</string>
+</dict>
+</plist>

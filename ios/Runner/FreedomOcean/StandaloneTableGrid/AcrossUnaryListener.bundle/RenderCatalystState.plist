@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushlevelleft</key>
+	<string>cursorHue</string>
+	<key>difficultTextField</key>
+	<string>criticalQuaternion</string>
+	<key>executerepository</key>
+	<string>constructAnimation</string>
+	<key>transformerCenter</key>
+	<string>singleVertex</string>
+</dict>
+</plist>

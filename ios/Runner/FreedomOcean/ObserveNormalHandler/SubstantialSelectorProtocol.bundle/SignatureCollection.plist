@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianSwitch</key>
+	<string>canDismissText</string>
+	<key>cubitright</key>
+	<string>detectorVisibility</string>
+	<key>displayablesymbol</key>
+	<string>denseGraph</string>
+	<key>diversifiedInjection</key>
+	<string>canNotifyConstraint</string>
+	<key>futureadaptertop</key>
+	<string>animationLeft</string>
+	<key>instructionHue</key>
+	<string>writeBloc</string>
+	<key>pageviewTint</key>
+	<string>canShowOptimizer</string>
+</dict>
+</plist>

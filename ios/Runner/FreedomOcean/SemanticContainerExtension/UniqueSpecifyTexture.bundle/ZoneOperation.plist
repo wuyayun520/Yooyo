@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectDuration</key>
+	<string>startaccessory</string>
+	<key>immediateMovement</key>
+	<string>resolverKind</string>
+	<key>intuitiveTabView</key>
+	<string>aggregateBuffer</string>
+	<key>resolverInset</key>
+	<string>shouldDispatchChecklist</string>
+	<key>robustIcon</key>
+	<string>scenarioSpacing</string>
+	<key>smallDropdownButton</key>
+	<string>accessoryKind</string>
+</dict>
+</plist>

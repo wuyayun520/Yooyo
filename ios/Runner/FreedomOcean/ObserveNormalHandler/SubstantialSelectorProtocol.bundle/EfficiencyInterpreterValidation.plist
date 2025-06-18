@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>attachspot</key>
+	<string>copyResult</string>
+	<key>discardedLayout</key>
+	<string>shouldRebuildPoint</string>
+	<key>diversifiedTimer</key>
+	<string>reducesprite</string>
+	<key>documentCoord</key>
+	<string>sizedboxSpeed</string>
+	<key>gradientRate</key>
+	<string>shouldResumeStamp</string>
+	<key>interpolationtrigger</key>
+	<string>canTrainGestureDetector</string>
+	<key>lostScheduler</key>
+	<string>reconcileDuration</string>
+	<key>mechanismmode</key>
+	<string>emitlayer</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bandwidthOffset</key>
+	<string>pauseCube</string>
+	<key>commonLayer</key>
+	<string>dimensionSpeed</string>
+	<key>secondviewacceleration</key>
+	<string>difficultconfiguration</string>
+	<key>sequentialTweak</key>
+	<string>renderCollection</string>
+	<key>shouldPushMonster</key>
+	<string>immutableConstraint</string>
+	<key>shouldPushView</key>
+	<string>routeFunction</string>
+	<key>spotOrientation</key>
+	<string>convolutionResponse</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fusedRemediation</key>
+	<string>firstmanager</string>
+	<key>mainTransition</key>
+	<string>baseRate</string>
+	<key>playbackLeft</key>
+	<string>parallelDecoration</string>
+	<key>segueInset</key>
+	<string>evaluateInterface</string>
+	<key>semanticSpine</key>
+	<string>canReplaceFragment</string>
+	<key>semanticdurationbehavior</key>
+	<string>controllerobserveredge</string>
+	<key>shouldsaverole</key>
+	<string>vectorfacadecenter</string>
+	<key>symmetricTechnique</key>
+	<string>staticSingleton</string>
+</dict>
+</plist>

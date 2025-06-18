@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeBehavior</key>
+	<string>shouldTransformPageView</string>
+	<key>desktopProfile</key>
+	<string>normalQuaternion</string>
+	<key>dynamicNode</key>
+	<string>updateLogarithm</string>
+	<key>greatBloc</key>
+	<string>clipVector</string>
+	<key>normalEmitter</key>
+	<string>transformDropdownButton</string>
+	<key>provideinterpolation</key>
+	<string>displayableLabel</string>
+	<key>statefulFlags</key>
+	<string>sinkprocessopacity</string>
+	<key>yieldnib</key>
+	<string>locateSlider</string>
+</dict>
+</plist>

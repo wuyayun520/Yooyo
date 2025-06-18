@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>modelstatus</key>
+	<string>intermediateDecoration</string>
+	<key>operationOrigin</key>
+	<string>taskbehavior</string>
+	<key>scrollableService</key>
+	<string>unscheduleStream</string>
+	<key>shouldCancelBuilder</key>
+	<string>ternaryasset</string>
+	<key>shouldEndText</key>
+	<string>inheritedStack</string>
+	<key>shouldRouteBatch</key>
+	<string>frameSpacing</string>
+	<key>shouldSaveGridView</key>
+	<string>divideTween</string>
+</dict>
+</plist>

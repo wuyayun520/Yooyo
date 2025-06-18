@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveDistance</key>
+	<string>storyboardindex</string>
+	<key>easyCurve</key>
+	<string>tabviewtriangles</string>
+	<key>hierarchicalmetadata</key>
+	<string>completedAlert</string>
+	<key>publishmanager</key>
+	<string>quantizerDependency</string>
+	<key>radiusformat</key>
+	<string>shouldEmitBinary</string>
+	<key>shouldPauseAlpha</key>
+	<string>intermediateEquivalent</string>
+</dict>
+</plist>

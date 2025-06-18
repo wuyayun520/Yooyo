@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessiblePolygon</key>
+	<string>expandedContrast</string>
+	<key>blocFormat</key>
+	<string>flexContext</string>
+	<key>completerTag</key>
+	<string>originalScene</string>
+	<key>elasticConnector</key>
+	<string>audiopressure</string>
+	<key>featureType</key>
+	<string>activatedMediaQuery</string>
+	<key>inheritedNotifier</key>
+	<string>exitrouter</string>
+	<key>normalRadius</key>
+	<string>retainGroup</string>
+	<key>shouldProcessMomentum</key>
+	<string>subsequentVariant</string>
+	<key>shouldSerializeFragment</key>
+	<string>slashVar</string>
+</dict>
+</plist>

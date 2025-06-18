@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleClipper</key>
+	<string>accessibleAsync</string>
+	<key>asynchronousQuaternion</key>
+	<string>concurrentSlash</string>
+	<key>concreteevolution</key>
+	<string>unregisterrepository</string>
+	<key>resourceStyle</key>
+	<string>deserializePromise</string>
+	<key>shouldSkipTask</key>
+	<string>resolverVisitor</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardSearcher</key>
+	<string>shouldprocesstangent</string>
+	<key>evaluationStyle</key>
+	<string>setstatePet</string>
+	<key>exceptiondistance</key>
+	<string>processIsolate</string>
+	<key>imperativeAudio</key>
+	<string>handlerAdapter</string>
+	<key>numericalsingletonvalidation</key>
+	<string>shouldDispatchTouch</string>
+	<key>shouldKeepCanvas</key>
+	<string>backwardDetector</string>
+</dict>
+</plist>

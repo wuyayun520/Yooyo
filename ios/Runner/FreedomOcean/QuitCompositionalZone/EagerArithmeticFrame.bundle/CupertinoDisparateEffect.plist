@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activePicker</key>
+	<string>priorSession</string>
+	<key>checkboxrestriction</key>
+	<string>copyCallback</string>
+	<key>disparateGesture</key>
+	<string>associatemultiplication</string>
+	<key>intermediateMedia</key>
+	<string>flexOrigin</string>
+	<key>promisejoiner</key>
+	<string>metadataParam</string>
+	<key>shouldDecodeHeap</key>
+	<string>shouldPauseSlider</string>
+	<key>statelessConfidentiality</key>
+	<string>presenterProcess</string>
+	<key>unactivateddialogs</key>
+	<string>accessibleTangent</string>
+</dict>
+</plist>

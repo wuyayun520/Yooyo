@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>computeboxshadow</key>
+	<string>similarAnalyzer</string>
+	<key>cupertinoMapper</key>
+	<string>moveWidget</string>
+	<key>mediumQueue</key>
+	<string>resumeConsumer</string>
+	<key>protectedProjection</key>
+	<string>canPaintDialogs</string>
+	<key>scaleDepth</key>
+	<string>diffableDispatcher</string>
+	<key>semanticstint</key>
+	<string>robustUsage</string>
+	<key>shouldStopMedia</key>
+	<string>othergate</string>
+	<key>sinkdensity</key>
+	<string>shouldMountDrawer</string>
+	<key>statelessanchormargin</key>
+	<string>shouldEncodeMatrix</string>
+</dict>
+</plist>

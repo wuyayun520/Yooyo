@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzerForce</key>
+	<string>draggableCapacity</string>
+	<key>cartesianPopup</key>
+	<string>switchValidation</string>
+	<key>dynamicEmitter</key>
+	<string>shouldUnbindDropdownButton</string>
+	<key>giftamongstructure</key>
+	<string>shouldFetchText</string>
+	<key>semanticdescent</key>
+	<string>decorationAdapter</string>
+	<key>shapeFormat</key>
+	<string>optionFrequency</string>
+	<key>shoulddispatchscale</key>
+	<string>firstTernary</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appendcursor</key>
+	<string>bundleentropy</string>
+	<key>colortype</key>
+	<string>disparateRestriction</string>
+	<key>desktopElasticity</key>
+	<string>statelessChannel</string>
+	<key>layoutflags</key>
+	<string>requiredFrame</string>
+	<key>metadataoutsidevisitor</key>
+	<string>pauseDescriptor</string>
+	<key>retainedGrayscale</key>
+	<string>canDisconnectBox</string>
+	<key>specifyGrayscale</key>
+	<string>modelShape</string>
+	<key>trianglesTop</key>
+	<string>canSkipThread</string>
+	<key>typicalParticle</key>
+	<string>itemAcceleration</string>
+</dict>
+</plist>

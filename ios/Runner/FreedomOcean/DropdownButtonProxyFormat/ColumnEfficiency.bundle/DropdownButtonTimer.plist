@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsShade</key>
+	<string>navigatePainter</string>
+	<key>composableRadius</key>
+	<string>missedTextField</string>
+	<key>firstrect</key>
+	<string>visitlistener</string>
+	<key>hardVertex</key>
+	<string>resizeZone</string>
+</dict>
+</plist>

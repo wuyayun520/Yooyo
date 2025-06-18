@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorIndex</key>
+	<string>shouldDeserializeRow</string>
+	<key>geometricKernel</key>
+	<string>dropoutLayer</string>
+	<key>grayscaleInterval</key>
+	<string>gridviewBorder</string>
+	<key>keyAspectRatio</key>
+	<string>keyMetrics</string>
+	<key>renameequipment</key>
+	<string>formatbloc</string>
+	<key>routeropacity</key>
+	<string>hierarchicalInfrastructure</string>
+	<key>subscriberOffset</key>
+	<string>borderAdapter</string>
+	<key>subtleProcessor</key>
+	<string>normalEffect</string>
+	<key>touchLocation</key>
+	<string>seamlessMaterializer</string>
+</dict>
+</plist>

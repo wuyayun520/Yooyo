@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedTheme</key>
+	<string>firsttolerance</string>
+	<key>documentAlignment</key>
+	<string>bufferBridge</string>
+	<key>immutableGrid</key>
+	<string>stepTop</string>
+	<key>mixinaccessory</key>
+	<string>streamChallenge</string>
+	<key>radiusStatus</key>
+	<string>customizedInterpolation</string>
+	<key>shouldUnbindPlayback</key>
+	<string>customAction</string>
+</dict>
+</plist>

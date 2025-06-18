@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionValidation</key>
+	<string>decodeChannels</string>
+	<key>adaptiveColor</key>
+	<string>dismissMonster</string>
+	<key>commonInfrastructure</key>
+	<string>callbackNumber</string>
+	<key>mediaquerychaintheme</key>
+	<string>connectorSize</string>
+	<key>pinchableAudio</key>
+	<string>shouldprocesscard</string>
+	<key>popupskewx</key>
+	<string>publicDrawer</string>
+</dict>
+</plist>

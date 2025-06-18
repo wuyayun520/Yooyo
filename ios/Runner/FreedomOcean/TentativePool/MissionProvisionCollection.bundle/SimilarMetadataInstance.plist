@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eventenvironmentsize</key>
+	<string>uniformInteractor</string>
+	<key>evolutionSkewX</key>
+	<string>searcherDistance</string>
+	<key>functionalStep</key>
+	<string>canSetStateRoute</string>
+	<key>largeresolver</key>
+	<string>discardedLayout</string>
+	<key>mutableDetector</key>
+	<string>immediateCallback</string>
+	<key>prevFlex</key>
+	<string>currentDescriptor</string>
+</dict>
+</plist>

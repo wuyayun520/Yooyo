@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characteristicOrigin</key>
+	<string>mediaqueryofnumber</string>
+	<key>cupertinocoordinatormode</key>
+	<string>draggableLayer</string>
+	<key>draggableSign</key>
+	<string>iterativeError</string>
+	<key>durationFlags</key>
+	<string>notificationLayer</string>
+	<key>evaluationPosition</key>
+	<string>shouldTrainListView</string>
+	<key>secondLoss</key>
+	<string>shouldTransformEntropy</string>
+	<key>semanticRoute</key>
+	<string>shouldEmitPet</string>
+	<key>shouldLayoutLogarithm</key>
+	<string>aspectmetadata</string>
+	<key>shouldYieldModulus</key>
+	<string>specifystatus</string>
+	<key>tableType</key>
+	<string>shouldListenOption</string>
+</dict>
+</plist>

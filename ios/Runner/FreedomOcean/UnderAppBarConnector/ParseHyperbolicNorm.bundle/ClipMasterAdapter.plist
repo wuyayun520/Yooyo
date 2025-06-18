@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>imageforstate</key>
+	<string>missionconstraint</string>
+	<key>newestEntropy</key>
+	<string>configureAlignment</string>
+	<key>publicPosition</key>
+	<string>schedulerIndex</string>
+	<key>resizableTitle</key>
+	<string>customUnary</string>
+	<key>robustConstant</key>
+	<string>destroybase</string>
+	<key>sizeoutsidelevel</key>
+	<string>canCachePlate</string>
+	<key>subtleasyncborder</key>
+	<string>iterativeSizedBox</string>
+	<key>tableInterval</key>
+	<string>resilientDisclaimer</string>
+	<key>upgradesprite</key>
+	<string>routeState</string>
+</dict>
+</plist>

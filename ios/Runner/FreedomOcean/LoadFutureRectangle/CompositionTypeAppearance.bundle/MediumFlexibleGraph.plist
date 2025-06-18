@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardinjection</key>
+	<string>alphawithoutform</string>
+	<key>denseIntegration</key>
+	<string>notifycursor</string>
+	<key>draggableutil</key>
+	<string>layerEnvironment</string>
+	<key>grayscaleproxysize</key>
+	<string>replaceevent</string>
+	<key>informationValidation</key>
+	<string>mediocreMetadata</string>
+	<key>robustResponse</key>
+	<string>celldistance</string>
+	<key>routerpadding</key>
+	<string>architectureScale</string>
+	<key>sequentialdispatcher</key>
+	<string>storageInteraction</string>
+	<key>subtleTrajectory</key>
+	<string>viewindex</string>
+	<key>symbolPressure</key>
+	<string>fixedClipper</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customplatetint</key>
+	<string>descriptionStyle</string>
+	<key>mobileVector</key>
+	<string>storyboardBound</string>
+	<key>originalIntegration</key>
+	<string>standaloneDrawer</string>
+	<key>semanticpresenter</key>
+	<string>transformIndicator</string>
+	<key>shouldConnectTabBar</key>
+	<string>checkboxsprite</string>
+	<key>sophisticatedDrawer</key>
+	<string>resilientReducer</string>
+</dict>
+</plist>

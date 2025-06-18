@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaittype</key>
+	<string>scrollableOffset</string>
+	<key>eagerMenu</key>
+	<string>unsortedStorage</string>
+	<key>enabledAnalyzer</key>
+	<string>adaptiveAscent</string>
+	<key>frameawaylayer</key>
+	<string>flexiblecubit</string>
+	<key>sharedAppBar</key>
+	<string>transpileLayout</string>
+	<key>storageAcceleration</key>
+	<string>canListenBase</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationalongactivity</key>
+	<string>graphBottom</string>
+	<key>directSingleton</key>
+	<string>canReplaceBoxShadow</string>
+	<key>primaryAxis</key>
+	<string>momentumorobserver</string>
+	<key>selectedEntropy</key>
+	<string>switchkind</string>
+	<key>tabbarSkewY</key>
+	<string>anchorVelocity</string>
+	<key>unsortedHistogram</key>
+	<string>permanentTime</string>
+</dict>
+</plist>

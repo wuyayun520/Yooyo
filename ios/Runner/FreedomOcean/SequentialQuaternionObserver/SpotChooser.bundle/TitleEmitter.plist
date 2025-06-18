@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellleft</key>
+	<string>poolEntity</string>
+	<key>descentVisible</key>
+	<string>createOperation</string>
+	<key>gesturemediatoropacity</key>
+	<string>radioVisibility</string>
+	<key>isChannels</key>
+	<string>projectbrightness</string>
+	<key>pickerBorder</key>
+	<string>statefulPoint</string>
+	<key>sortedFragments</key>
+	<string>responsiveRadius</string>
+	<key>taskcontrast</key>
+	<string>boxshadowPattern</string>
+</dict>
+</plist>

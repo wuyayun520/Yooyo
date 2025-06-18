@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dialogsIndex</key>
+	<string>mendtag</string>
+	<key>durationchapter</key>
+	<string>enabledChart</string>
+	<key>gramsincestyle</key>
+	<string>skipModulus</string>
+	<key>listviewedge</key>
+	<string>shouldPrepareScale</string>
+	<key>progressbarColor</key>
+	<string>pageviewfrequency</string>
+	<key>shouldFetchCoordinator</key>
+	<string>layoutSkewY</string>
+	<key>usageMargin</key>
+	<string>activenavigator</string>
+	<key>viewshapeskewx</key>
+	<string>permutationDensity</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureHue</key>
+	<string>iconPosition</string>
+	<key>cellsensor</key>
+	<string>receiverSkewY</string>
+	<key>customizedChannels</key>
+	<string>cosineForm</string>
+	<key>drawerBorder</key>
+	<string>interceptaction</string>
+	<key>effectTransparency</key>
+	<string>canLayoutInteger</string>
+	<key>originalAwait</key>
+	<string>defaultmodulus</string>
+	<key>prevMaterial</key>
+	<string>processView</string>
+	<key>secondChannel</key>
+	<string>canHandleMomentum</string>
+	<key>titleBorder</key>
+	<string>canYieldGrayscale</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackkind</key>
+	<string>presentAppBar</string>
+	<key>capsuleBottom</key>
+	<string>graphdecoratortheme</string>
+	<key>clipperskewx</key>
+	<string>toolHead</string>
+	<key>flexibleResolver</key>
+	<string>formatSession</string>
+	<key>responsefeedback</key>
+	<string>quitRadius</string>
+	<key>shouldPersistMomentum</key>
+	<string>borderMode</string>
+</dict>
+</plist>

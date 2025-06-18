@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopLabel</key>
+	<string>crucialRepository</string>
+	<key>explicitWidget</key>
+	<string>adjustRow</string>
+	<key>geometrichistogram</key>
+	<string>animationName</string>
+	<key>playsignature</key>
+	<string>effectDecorator</string>
+	<key>precisiongrid</key>
+	<string>canPopPrecision</string>
+	<key>restrictionInset</key>
+	<string>canPresentPadding</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocworkpressure</key>
+	<string>beginnerSkin</string>
+	<key>concurrentStorage</key>
+	<string>shouldEncodeCompletion</string>
+	<key>createanimation</key>
+	<string>taxonomyBrightness</string>
+	<key>indicatorgraph</key>
+	<string>metricsFlags</string>
+	<key>mapcount</key>
+	<string>intensityTension</string>
+	<key>mutableOverlay</key>
+	<string>pushBorder</string>
+	<key>shouldBuildConstraint</key>
+	<string>pushBoxShadow</string>
+	<key>shouldInflateScale</key>
+	<string>substantialcompositioncount</string>
+</dict>
+</plist>

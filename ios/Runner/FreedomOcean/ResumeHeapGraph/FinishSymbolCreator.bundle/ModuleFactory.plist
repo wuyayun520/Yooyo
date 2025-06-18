@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedchannel</key>
+	<string>shouldSetStateIcon</string>
+	<key>customcharacteristic</key>
+	<string>directDispatcher</string>
+	<key>encodetween</key>
+	<string>shouldHandleMusic</string>
+	<key>evaluatesample</key>
+	<string>signatureScope</string>
+	<key>flexibleModal</key>
+	<string>positionInterpreter</string>
+	<key>nativeInteractor</key>
+	<string>hierarchicalresolver</string>
+	<key>shouldDismissStep</key>
+	<string>canContinueSlider</string>
+	<key>shouldlayoutusage</key>
+	<string>canSubscribeAnchor</string>
+	<key>stateright</key>
+	<string>interactiveAscent</string>
+</dict>
+</plist>

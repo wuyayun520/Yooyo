@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedLayout</key>
+	<string>entropyVisibility</string>
+	<key>crucialListener</key>
+	<string>shouldnotifybullet</string>
+	<key>imagecount</key>
+	<string>analyzeObserver</string>
+	<key>intuitiveAllocator</key>
+	<string>canEncodeStateful</string>
+	<key>largeImage</key>
+	<string>findBloc</string>
+	<key>routerAppearance</key>
+	<string>disparateTouch</string>
+	<key>scrollableQueue</key>
+	<string>shouldPauseInterpolation</string>
+	<key>shouldSaveMargin</key>
+	<string>streamworktransparency</string>
+	<key>unaryvalidation</key>
+	<string>disposeText</string>
+</dict>
+</plist>

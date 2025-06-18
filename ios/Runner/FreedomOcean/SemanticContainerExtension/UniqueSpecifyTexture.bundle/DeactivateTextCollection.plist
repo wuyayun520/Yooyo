@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleScene</key>
+	<string>canObserveDelegate</string>
+	<key>descriptioninset</key>
+	<string>locateScene</string>
+	<key>layertweak</key>
+	<string>beginnerPriority</string>
+	<key>pinchableBinder</key>
+	<string>stopSegue</string>
+	<key>profileswitch</key>
+	<string>chartparametermomentum</string>
+	<key>resilientgridviewmargin</key>
+	<string>iterativelayoutshade</string>
+	<key>retainedFinder</key>
+	<string>retainedImpact</string>
+</dict>
+</plist>

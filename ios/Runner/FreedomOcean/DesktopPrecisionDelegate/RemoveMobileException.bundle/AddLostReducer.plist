@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autozonerotation</key>
+	<string>criticalBuilder</string>
+	<key>channelIndex</key>
+	<string>mainColor</string>
+	<key>completerColor</key>
+	<string>fusedPreview</string>
+	<key>compositionalGradient</key>
+	<string>lockContainer</string>
+	<key>gridvelocity</key>
+	<string>interpolateProgressBar</string>
+	<key>ignoredCapacities</key>
+	<string>musicformlocation</string>
+	<key>isolatebuilder</key>
+	<string>presenterProxy</string>
+	<key>shouldDetachRow</key>
+	<string>disparatePager</string>
+	<key>shouldfinishdrawer</key>
+	<string>canKeepConsumer</string>
+</dict>
+</plist>

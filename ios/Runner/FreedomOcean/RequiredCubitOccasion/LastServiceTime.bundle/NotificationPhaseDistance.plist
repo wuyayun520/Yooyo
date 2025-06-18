@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncchainappearance</key>
+	<string>specifyMobile</string>
+	<key>inactiveInterface</key>
+	<string>permanentBullet</string>
+	<key>otherInterpolation</key>
+	<string>enhanceInjection</string>
+	<key>shouldEmitAnchor</key>
+	<string>signStage</string>
+	<key>singleGradient</key>
+	<string>skipStateful</string>
+	<key>temporaryPainter</key>
+	<string>endCharacter</string>
+</dict>
+</plist>

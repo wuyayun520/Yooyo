@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convolutionTheme</key>
+	<string>propagateScene</string>
+	<key>cupertinolevelrate</key>
+	<string>oldBase</string>
+	<key>ephemeralModal</key>
+	<string>accessibleInformation</string>
+	<key>findnode</key>
+	<string>advancedPicker</string>
+	<key>granularReplica</key>
+	<string>readstore</string>
+	<key>listenswitch</key>
+	<string>canInflateMargin</string>
+	<key>shouldDecodeHistogram</key>
+	<string>shouldSubscribeInteger</string>
+	<key>shouldDeserializeBox</key>
+	<string>layoutStamp</string>
+</dict>
+</plist>

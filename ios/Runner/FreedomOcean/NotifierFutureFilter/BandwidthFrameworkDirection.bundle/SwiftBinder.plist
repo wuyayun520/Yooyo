@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>confidentialitytheme</key>
+	<string>currentpet</string>
+	<key>crucialprovider</key>
+	<string>tappablePainter</string>
+	<key>interfaceconverter</key>
+	<string>hyperbolicAllocator</string>
+	<key>normalBrush</key>
+	<string>currentData</string>
+	<key>publicMovement</key>
+	<string>standalonestatefulscale</string>
+</dict>
+</plist>

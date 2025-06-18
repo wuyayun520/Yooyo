@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directresultrotation</key>
+	<string>granularIndicator</string>
+	<key>embedhash</key>
+	<string>chartFeedback</string>
+	<key>inactiveGridView</key>
+	<string>resilientLinker</string>
+	<key>reflectradio</key>
+	<string>vectorizeHash</string>
+	<key>resizableNode</key>
+	<string>disabledEmitter</string>
+</dict>
+</plist>

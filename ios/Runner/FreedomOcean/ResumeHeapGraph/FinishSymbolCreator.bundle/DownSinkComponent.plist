@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousView</key>
+	<string>canHandleConsumer</string>
+	<key>relationalmission</key>
+	<string>bundleallocator</string>
+	<key>responsiveStoryboard</key>
+	<string>chartPattern</string>
+	<key>singleEntropy</key>
+	<string>routerAdapter</string>
+	<key>smartCache</key>
+	<string>executeSprite</string>
+</dict>
+</plist>

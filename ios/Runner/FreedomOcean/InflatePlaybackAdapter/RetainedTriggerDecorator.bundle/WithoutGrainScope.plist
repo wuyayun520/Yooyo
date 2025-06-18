@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedUnary</key>
+	<string>subscriptionStyle</string>
+	<key>diffableBitrate</key>
+	<string>imperativeInteger</string>
+	<key>pivotalModule</key>
+	<string>curveContext</string>
+	<key>selectedCurve</key>
+	<string>parseInjection</string>
+	<key>shouldUpdateAlpha</key>
+	<string>toleranceColor</string>
+</dict>
+</plist>

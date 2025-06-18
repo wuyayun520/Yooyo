@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferreddocumentvalidation</key>
+	<string>cubitmode</string>
+	<key>densePolygon</key>
+	<string>interceptProgressBar</string>
+	<key>gridmementomode</key>
+	<string>shouldMountGrayscale</string>
+	<key>hasScroll</key>
+	<string>deprecateScene</string>
+	<key>nativeData</key>
+	<string>refactorUtil</string>
+	<key>playbackSize</key>
+	<string>shouldSubscribeConstraint</string>
+	<key>routeactionpadding</key>
+	<string>sinkbottom</string>
+	<key>shouldCreateStep</key>
+	<string>subscriptionOrigin</string>
+	<key>swiftSaturation</key>
+	<string>featureframe</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerEvolution</key>
+	<string>resumeasync</string>
+	<key>denseTentative</key>
+	<string>resizableChart</string>
+	<key>dynamicOffset</key>
+	<string>minDimension</string>
+	<key>intuitiveSample</key>
+	<string>shouldPushCycle</string>
+	<key>mapdetail</key>
+	<string>interpolationPosition</string>
+	<key>pivotalService</key>
+	<string>smallConfiguration</string>
+	<key>responderFrequency</key>
+	<string>metadataperflyweight</string>
+	<key>shouldEmitAnchor</key>
+	<string>touchposition</string>
+	<key>shouldLoadCache</key>
+	<string>nativeblocdirection</string>
+	<key>usecasefeedback</key>
+	<string>shouldPopScroll</string>
+</dict>
+</plist>

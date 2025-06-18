@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchMode</key>
+	<string>titleMethod</string>
+	<key>eagerSound</key>
+	<string>flexibleAnimation</string>
+	<key>iterativeLifecycle</key>
+	<string>vectorVisibility</string>
+	<key>movementAppearance</key>
+	<string>cycleoperationtransparency</string>
+	<key>newestLatency</key>
+	<string>sustainableContrast</string>
+	<key>prismaticSession</key>
+	<string>interpolationTier</string>
+	<key>timerOpacity</key>
+	<string>constantDistance</string>
+</dict>
+</plist>

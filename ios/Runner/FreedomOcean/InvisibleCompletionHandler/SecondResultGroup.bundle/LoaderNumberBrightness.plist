@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionLog</key>
+	<string>canRouteUsage</string>
+	<key>advancedconvolutioninset</key>
+	<string>imperativeMesh</string>
+	<key>denseIcon</key>
+	<string>resolveError</string>
+	<key>hierarchicalListener</key>
+	<string>shouldStopCell</string>
+	<key>iterativeSymbol</key>
+	<string>rowDensity</string>
+	<key>shouldNotifyObserver</key>
+	<string>responseColor</string>
+</dict>
+</plist>

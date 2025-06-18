@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buffersaturation</key>
+	<string>yieldController</string>
+	<key>crucialmediaquery</key>
+	<string>canLayoutRichText</string>
+	<key>hierarchicalText</key>
+	<string>modalsaturation</string>
+	<key>reflectsink</key>
+	<string>touchoperationstate</string>
+	<key>roleparamrate</key>
+	<string>shouldbuilddropdownbutton</string>
+	<key>shouldbindduration</key>
+	<string>grainitem</string>
+	<key>substantialGridView</key>
+	<string>layoutPriority</string>
+	<key>validatevector</key>
+	<string>resizeMethod</string>
+</dict>
+</plist>

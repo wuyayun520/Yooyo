@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>movementframeworkforce</key>
+	<string>mainPositioned</string>
+	<key>reconcilesign</key>
+	<string>integrityTint</string>
+	<key>requiredHistogram</key>
+	<string>mountSlash</string>
+	<key>synchronousCell</key>
+	<string>continueGate</string>
+</dict>
+</plist>

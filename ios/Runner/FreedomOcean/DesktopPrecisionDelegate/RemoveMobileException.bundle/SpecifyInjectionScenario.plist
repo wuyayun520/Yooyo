@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionGridView</key>
+	<string>logtheme</string>
+	<key>flexibleVertex</key>
+	<string>geometricIsolate</string>
+	<key>inactiveMobile</key>
+	<string>shouldpublishview</string>
+	<key>intuitivetabviewcoord</key>
+	<string>componentType</string>
+	<key>shouldSerializeScreen</key>
+	<string>offsetFrequency</string>
+	<key>shouldUnbindSegment</key>
+	<string>histogramShade</string>
+	<key>smalldescription</key>
+	<string>inheritedExponent</string>
+	<key>textrange</key>
+	<string>trianglesVelocity</string>
+</dict>
+</plist>

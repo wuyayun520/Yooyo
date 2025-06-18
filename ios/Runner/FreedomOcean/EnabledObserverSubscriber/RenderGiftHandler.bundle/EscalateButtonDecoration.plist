@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fixedCapsule</key>
+	<string>concurrentHash</string>
+	<key>inkwelloutsidescope</key>
+	<string>diversifiedPriority</string>
+	<key>respectiverowskewx</key>
+	<string>layoutVelocity</string>
+	<key>responderSkewX</key>
+	<string>temporaryScroll</string>
+	<key>shouldStopIcon</key>
+	<string>subscriptionStructure</string>
+	<key>sortedScale</key>
+	<string>canNotifyOption</string>
+	<key>unbindtechnique</key>
+	<string>largemobile</string>
+</dict>
+</plist>

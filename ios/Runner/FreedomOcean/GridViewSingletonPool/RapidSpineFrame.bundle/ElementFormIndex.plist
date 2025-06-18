@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>colorDepth</key>
+	<string>mediaSpeed</string>
+	<key>diversifiedDocument</key>
+	<string>segmentCount</string>
+	<key>greatExponent</key>
+	<string>diffableReplica</string>
+	<key>indicatorstyle</key>
+	<string>shouldEncodeProfile</string>
+	<key>navigateindicator</key>
+	<string>shouldCachePlayback</string>
+	<key>radiuspager</key>
+	<string>specifystateful</string>
+</dict>
+</plist>

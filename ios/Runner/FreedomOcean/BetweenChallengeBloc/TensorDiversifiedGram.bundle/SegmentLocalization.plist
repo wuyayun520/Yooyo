@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileInfo</key>
+	<string>relationalCheckbox</string>
+	<key>debugrichtext</key>
+	<string>enabledBinder</string>
+	<key>impressionOpacity</key>
+	<string>finderVisibility</string>
+	<key>mountedradius</key>
+	<string>canSaveObserver</string>
+	<key>permissiveScreen</key>
+	<string>concurrentWrapper</string>
+	<key>shouldDismissCoordinator</key>
+	<string>disparatePosition</string>
+</dict>
+</plist>

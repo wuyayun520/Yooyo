@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bundlegraphic</key>
+	<string>skipAnimation</string>
+	<key>buttonCoord</key>
+	<string>mechanismSkewY</string>
+	<key>hardtolerance</key>
+	<string>shouldUnmountedRichText</string>
+	<key>relationalIsolate</key>
+	<string>statefulSpacing</string>
+	<key>timerColor</key>
+	<string>modulusshade</string>
+</dict>
+</plist>

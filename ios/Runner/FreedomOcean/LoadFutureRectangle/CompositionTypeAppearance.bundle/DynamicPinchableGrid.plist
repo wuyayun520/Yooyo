@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultGram</key>
+	<string>matrixBottom</string>
+	<key>elasticityDensity</key>
+	<string>similarScroll</string>
+	<key>emitterTheme</key>
+	<string>playbackSpeed</string>
+	<key>matrixacceleration</key>
+	<string>blocStrategy</string>
+	<key>newestDelegate</key>
+	<string>descentOrientation</string>
+	<key>normalMedia</key>
+	<string>singletonselector</string>
+	<key>shouldStopEffect</key>
+	<string>heapMomentum</string>
+	<key>storyboardOffset</key>
+	<string>offsetForce</string>
+	<key>titlefeedback</key>
+	<string>shouldBuildMaster</string>
+</dict>
+</plist>

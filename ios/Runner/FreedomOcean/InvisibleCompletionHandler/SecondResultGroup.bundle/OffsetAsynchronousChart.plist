@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousbasescale</key>
+	<string>shouldAnimateModal</string>
+	<key>audioLocation</key>
+	<string>shouldTrainEntropy</string>
+	<key>dedicatedInjection</key>
+	<string>titleAppearance</string>
+	<key>polyfillIndex</key>
+	<string>persistFuture</string>
+	<key>shouldReplaceStoryboard</key>
+	<string>exponentmargin</string>
+	<key>shouldShowImage</key>
+	<string>symmetricResponder</string>
+	<key>singleCallback</key>
+	<string>borderexception</string>
+	<key>subsequentalignmentstate</key>
+	<string>nativeCreator</string>
+</dict>
+</plist>

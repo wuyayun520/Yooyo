@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousaspect</key>
+	<string>dedicatedPermutation</string>
+	<key>disabledCertificate</key>
+	<string>inactiveAsync</string>
+	<key>listenerpadding</key>
+	<string>behaviorFormat</string>
+	<key>localizationphaseshape</key>
+	<string>shaderspeed</string>
+	<key>webpresenterdensity</key>
+	<string>materializeNavigator</string>
+</dict>
+</plist>

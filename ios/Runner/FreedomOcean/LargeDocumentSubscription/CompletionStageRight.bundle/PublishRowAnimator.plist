@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonoutsidememento</key>
+	<string>calculateWidget</string>
+	<key>difficultMetadata</key>
+	<string>otherThread</string>
+	<key>independentAwait</key>
+	<string>shouldPushCard</string>
+	<key>kernelContrast</key>
+	<string>shouldcacheshader</string>
+	<key>kernelPressure</key>
+	<string>analyzeRadius</string>
+	<key>shouldattachdocument</key>
+	<string>logarithmlayerstatus</string>
+	<key>shoulddetachcatalyst</key>
+	<string>shouldAttachCell</string>
+	<key>shouldroutecaption</key>
+	<string>customMusic</string>
+	<key>updatefuture</key>
+	<string>persistenttabview</string>
+</dict>
+</plist>

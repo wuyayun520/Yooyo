@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bandwidthflags</key>
+	<string>filterDelay</string>
+	<key>harddispatcher</key>
+	<string>canNavigateAnchor</string>
+	<key>shouldAttachStream</key>
+	<string>featurethansingleton</string>
+	<key>shouldpresentcertificate</key>
+	<string>marshalentropy</string>
+	<key>standaloneMaster</key>
+	<string>visibleEquivalent</string>
+</dict>
+</plist>

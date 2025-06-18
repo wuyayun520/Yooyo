@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonResponse</key>
+	<string>retainedSorter</string>
+	<key>observerinkind</key>
+	<string>pinchableSwitch</string>
+	<key>shouldObserveProfile</key>
+	<string>canUnbindVariant</string>
+	<key>usecaseVisibility</key>
+	<string>batchTask</string>
+</dict>
+</plist>

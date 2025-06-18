@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>grayscaleShade</key>
+	<string>typicalTweak</string>
+	<key>inactiveCube</key>
+	<string>disconnectArithmetic</string>
+	<key>progressbarType</key>
+	<string>unbindGate</string>
+	<key>quantizerspecifier</key>
+	<string>audioName</string>
+	<key>storageName</key>
+	<string>shouldFinishCollection</string>
+	<key>webDimension</key>
+	<string>shouldpushreference</string>
+</dict>
+</plist>

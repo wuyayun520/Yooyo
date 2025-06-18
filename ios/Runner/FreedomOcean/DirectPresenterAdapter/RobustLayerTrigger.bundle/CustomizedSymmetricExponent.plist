@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityInteraction</key>
+	<string>benchmarkFactory</string>
+	<key>allocatorDelay</key>
+	<string>crudeNavigator</string>
+	<key>emitterDuration</key>
+	<string>globalSubpixel</string>
+	<key>iterativeQueue</key>
+	<string>priorityContext</string>
+	<key>lostRadius</key>
+	<string>sessionValue</string>
+	<key>modulusBorder</key>
+	<string>canLoadTask</string>
+	<key>tickerinaction</key>
+	<string>mediocrecontroller</string>
+</dict>
+</plist>

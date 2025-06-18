@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerPosition</key>
+	<string>dispatchPositioned</string>
+	<key>keyprogressbar</key>
+	<string>fixedcache</string>
+	<key>nativeInteractor</key>
+	<string>shouldSkipRemainder</string>
+	<key>newestSingleton</key>
+	<string>mutableColor</string>
+	<key>rapidPrecision</key>
+	<string>unsortedSensor</string>
+	<key>usedConstraint</key>
+	<string>dismissStamp</string>
+</dict>
+</plist>

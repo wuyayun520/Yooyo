@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedBinder</key>
+	<string>variantSystem</string>
+	<key>awaitreceiver</key>
+	<string>secondExponent</string>
+	<key>dedicateddetail</key>
+	<string>autoAwait</string>
+	<key>immediateScene</key>
+	<string>agileReliability</string>
+	<key>onprojectchanged</key>
+	<string>primaryGesture</string>
+	<key>shouldParseHeap</key>
+	<string>mediumTween</string>
+	<key>shouldPushHistogram</key>
+	<string>shouldDetachRadio</string>
+	<key>shouldStreamTransition</key>
+	<string>canParseTernary</string>
+	<key>stampfeedback</key>
+	<string>similarSubpixel</string>
+	<key>uniformTween</key>
+	<string>seamlessModulus</string>
+</dict>
+</plist>

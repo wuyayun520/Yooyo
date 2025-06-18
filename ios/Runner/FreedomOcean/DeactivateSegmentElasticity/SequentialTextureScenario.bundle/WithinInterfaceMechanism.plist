@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileImpact</key>
+	<string>renderPrecision</string>
+	<key>keyTentative</key>
+	<string>encodeView</string>
+	<key>layoutshape</key>
+	<string>shouldConnectObserver</string>
+	<key>shouldSkipSemantics</key>
+	<string>visualizecompletion</string>
+	<key>symmetricLayout</key>
+	<string>shouldEndComposition</string>
+	<key>traversaldensity</key>
+	<string>shouldSerializePlayback</string>
+</dict>
+</plist>

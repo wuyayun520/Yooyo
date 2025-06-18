@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonPicker</key>
+	<string>attachSemantics</string>
+	<key>containerneartier</key>
+	<string>canTransformGrayscale</string>
+	<key>immediateDescent</key>
+	<string>robustEmitter</string>
+	<key>instantiatedescription</key>
+	<string>canKeepSizedBox</string>
+	<key>observershapeborder</key>
+	<string>canCreateTabBar</string>
+	<key>originalChart</key>
+	<string>allocatorBound</string>
+	<key>shouldInflateNavigator</key>
+	<string>criticaltangentsize</string>
+	<key>shouldObserveEquipment</key>
+	<string>connectorShape</string>
+	<key>shouldUpdateOption</key>
+	<string>tickerformdelay</string>
+	<key>taxonomyMode</key>
+	<string>revisitSingleton</string>
+</dict>
+</plist>

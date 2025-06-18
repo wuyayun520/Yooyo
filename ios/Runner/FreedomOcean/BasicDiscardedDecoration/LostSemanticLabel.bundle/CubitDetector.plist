@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentConstraint</key>
+	<string>canFormatSign</string>
+	<key>difficultMechanism</key>
+	<string>progressbarnearstrategy</string>
+	<key>diversifiedmatrix</key>
+	<string>resilientStoryboard</string>
+	<key>masterType</key>
+	<string>detachSession</string>
+	<key>scenarioStatus</key>
+	<string>transitionNib</string>
+	<key>singleStack</key>
+	<string>parallelDialogs</string>
+	<key>storeColor</key>
+	<string>resizableDistinction</string>
+</dict>
+</plist>

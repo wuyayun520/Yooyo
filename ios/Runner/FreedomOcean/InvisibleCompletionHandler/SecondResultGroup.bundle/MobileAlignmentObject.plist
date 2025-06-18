@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dataOrigin</key>
+	<string>mutableFeature</string>
+	<key>decorationfilter</key>
+	<string>shouldProcessPet</string>
+	<key>globalPainter</key>
+	<string>notificationfacadedistance</string>
+	<key>isolateSaturation</key>
+	<string>histogramOrigin</string>
+	<key>multiBorder</key>
+	<string>lostScheduler</string>
+	<key>prismaticAmortization</key>
+	<string>skipInteger</string>
+	<key>shouldlistencosine</key>
+	<string>errorVar</string>
+	<key>singletonmode</key>
+	<string>composableCertificate</string>
+	<key>statefulAppBar</key>
+	<string>paddingOffset</string>
+	<key>subscriptionOrigin</key>
+	<string>audioRate</string>
+</dict>
+</plist>

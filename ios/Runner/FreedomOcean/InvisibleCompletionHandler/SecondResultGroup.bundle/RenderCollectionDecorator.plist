@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionSkin</key>
+	<string>gemState</string>
+	<key>combinemethod</key>
+	<string>persistentHash</string>
+	<key>nativeChallenge</key>
+	<string>discoverService</string>
+	<key>pushinteger</key>
+	<string>semanticDetector</string>
+	<key>seamlessSearcher</key>
+	<string>grainobserverpressure</string>
+	<key>specifiertask</key>
+	<string>resumeFragment</string>
+	<key>stackResponse</key>
+	<string>shouldLoadSubpixel</string>
+	<key>stepviatemple</key>
+	<string>canRouteAppBar</string>
+</dict>
+</plist>

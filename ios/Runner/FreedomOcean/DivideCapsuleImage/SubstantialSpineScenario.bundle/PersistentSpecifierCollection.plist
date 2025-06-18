@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>drawerhead</key>
+	<string>occasionMode</string>
+	<key>multiplicationforshape</key>
+	<string>cubeformat</string>
+	<key>reductionStyle</key>
+	<string>customTexture</string>
+	<key>shouldRouteBox</key>
+	<string>shouldPauseSubpixel</string>
+	<key>shouldpaintcell</key>
+	<string>cupertinoSaturation</string>
+	<key>zoneResponse</key>
+	<string>poolSize</string>
+</dict>
+</plist>

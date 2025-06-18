@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderresilience</key>
+	<string>pendingBox</string>
+	<key>disabledMend</key>
+	<string>lostQuaternion</string>
+	<key>notificationcommandtheme</key>
+	<string>painttween</string>
+	<key>shouldMountScaffold</key>
+	<string>binderShape</string>
+	<key>threadCoord</key>
+	<string>publishSpecifier</string>
+</dict>
+</plist>

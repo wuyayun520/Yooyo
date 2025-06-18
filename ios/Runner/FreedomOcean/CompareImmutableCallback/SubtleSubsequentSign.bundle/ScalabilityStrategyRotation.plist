@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationinterval</key>
+	<string>serializecontroller</string>
+	<key>beginnerInjection</key>
+	<string>canEndImage</string>
+	<key>delicateTrajectory</key>
+	<string>navigateRichText</string>
+	<key>displayablePadding</key>
+	<string>batchagainstvisitor</string>
+	<key>durationversuscommand</key>
+	<string>activityStrategy</string>
+	<key>shouldValidateCheckbox</key>
+	<string>currentRoute</string>
+</dict>
+</plist>

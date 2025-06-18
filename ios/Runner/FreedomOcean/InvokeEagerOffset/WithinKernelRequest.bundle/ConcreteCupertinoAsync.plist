@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentIntensity</key>
+	<string>keyMusic</string>
+	<key>semanticConvolution</key>
+	<string>ascentAcceleration</string>
+	<key>shouldPauseEntropy</key>
+	<string>singleLatency</string>
+	<key>shouldUpdateHistogram</key>
+	<string>saveCaption</string>
+	<key>skipmission</key>
+	<string>strokeInterval</string>
+	<key>unaryDistance</key>
+	<string>executeLoop</string>
+</dict>
+</plist>

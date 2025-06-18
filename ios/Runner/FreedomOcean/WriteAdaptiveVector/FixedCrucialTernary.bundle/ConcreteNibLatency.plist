@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gestureHead</key>
+	<string>advancedboxscale</string>
+	<key>localAppBar</key>
+	<string>regulateUtil</string>
+	<key>newestLabel</key>
+	<string>dynamicchartinteraction</string>
+	<key>similarButton</key>
+	<string>persistentSink</string>
+	<key>smallgradientvisible</key>
+	<string>axisStrategy</string>
+	<key>toolflyweightskewy</key>
+	<string>disconnectRichText</string>
+	<key>transitionanimation</key>
+	<string>uniformCharacteristic</string>
+</dict>
+</plist>

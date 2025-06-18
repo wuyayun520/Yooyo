@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableColumn</key>
+	<string>techniqueMemento</string>
+	<key>independentScale</key>
+	<string>alignmentLocation</string>
+	<key>interactormatrix</key>
+	<string>decouplematerial</string>
+	<key>reactiveRequest</key>
+	<string>shouldSaveModal</string>
+	<key>texturepressure</key>
+	<string>brushlistener</string>
+	<key>unsortedchapteracceleration</key>
+	<string>parseUsage</string>
+</dict>
+</plist>

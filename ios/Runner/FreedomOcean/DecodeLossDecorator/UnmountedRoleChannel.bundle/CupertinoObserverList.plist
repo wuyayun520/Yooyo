@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerVariant</key>
+	<string>specifyschema</string>
+	<key>effectduringvalue</key>
+	<string>coordinatorValidation</string>
+	<key>petDensity</key>
+	<string>interactiveInterpolation</string>
+	<key>protocolcontroller</key>
+	<string>cycleValidation</string>
+	<key>wrapsine</key>
+	<string>disabledState</string>
+</dict>
+</plist>

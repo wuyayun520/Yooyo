@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeRole</key>
+	<string>symbolPattern</string>
+	<key>associatedtransformer</key>
+	<string>adjustAnimation</string>
+	<key>convertfactory</key>
+	<string>documentnearsystem</string>
+	<key>currentgate</key>
+	<string>canStreamOptimizer</string>
+	<key>eagerGrain</key>
+	<string>anchorframe</string>
+	<key>seamlessReplica</key>
+	<string>composablePosition</string>
+	<key>shouldAnimateGraphic</key>
+	<string>significantgrain</string>
+	<key>sineShape</key>
+	<string>unbindCaption</string>
+	<key>synchronouslayoutstatus</key>
+	<string>pickerEdge</string>
+</dict>
+</plist>

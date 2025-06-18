@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cyclevariablespeed</key>
+	<string>routeStage</string>
+	<key>entropyDirection</key>
+	<string>integerdetail</string>
+	<key>integrationFormat</key>
+	<string>sharedCapacity</string>
+	<key>missedSign</key>
+	<string>unactivatedInformation</string>
+	<key>mutableLatency</key>
+	<string>protectedDescent</string>
+	<key>tangentBehavior</key>
+	<string>canCreateNorm</string>
+</dict>
+</plist>

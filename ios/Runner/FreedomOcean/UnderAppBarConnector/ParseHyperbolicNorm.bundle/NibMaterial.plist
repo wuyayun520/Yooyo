@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelDelay</key>
+	<string>routeIndicator</string>
+	<key>consultativeWorkflow</key>
+	<string>statelessGesture</string>
+	<key>delegateDelay</key>
+	<string>cartesianTangent</string>
+	<key>dependencyvisitorkind</key>
+	<string>shouldAnimateCustomPaint</string>
+	<key>integerSkewX</key>
+	<string>debugNode</string>
+	<key>rectFrequency</key>
+	<string>heapstate</string>
+	<key>shouldUnbindListView</key>
+	<string>behavioramongactivity</string>
+	<key>stackTheme</key>
+	<string>offsetawayinterpreter</string>
+	<key>temporarynotifierbrightness</key>
+	<string>inflateAperture</string>
+</dict>
+</plist>

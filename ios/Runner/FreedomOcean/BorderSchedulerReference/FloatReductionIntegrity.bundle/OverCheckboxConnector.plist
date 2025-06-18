@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contrastDirection</key>
+	<string>baseVisitor</string>
+	<key>modulusmargin</key>
+	<string>resilienceTop</string>
+	<key>persistentOperation</key>
+	<string>skinProcess</string>
+	<key>requiredContraction</key>
+	<string>missedMobile</string>
+	<key>retainedBullet</key>
+	<string>movementEnvironment</string>
+	<key>richtextbound</key>
+	<string>sequentialTentative</string>
+	<key>semanticProvider</key>
+	<string>skipModulus</string>
+	<key>singletoncoord</key>
+	<string>significantPosition</string>
+	<key>triggerTag</key>
+	<string>pickerkind</string>
+</dict>
+</plist>

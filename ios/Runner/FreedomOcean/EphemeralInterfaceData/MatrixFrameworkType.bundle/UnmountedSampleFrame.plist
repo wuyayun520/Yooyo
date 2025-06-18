@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basepatternsaturation</key>
+	<string>canStopBase</string>
+	<key>challengetop</key>
+	<string>navigateLayout</string>
+	<key>fusedTechnique</key>
+	<string>activatedMonster</string>
+	<key>overlaycolor</key>
+	<string>volumeValidation</string>
+	<key>seamlessDialogs</key>
+	<string>ephemeralRepository</string>
+	<key>signatureStatus</key>
+	<string>sharedSkin</string>
+</dict>
+</plist>

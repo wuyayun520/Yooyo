@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>meshBrightness</key>
+	<string>tappableRole</string>
+	<key>positionfromfunction</key>
+	<string>uniformBehavior</string>
+	<key>previewState</key>
+	<string>copyInteractor</string>
+	<key>sortedScenario</key>
+	<string>resetNavigator</string>
+	<key>unsortedImpression</key>
+	<string>buttonTask</string>
+</dict>
+</plist>

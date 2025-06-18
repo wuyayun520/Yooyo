@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonDescription</key>
+	<string>priorityPlatform</string>
+	<key>greatIsolate</key>
+	<string>discardedDelivery</string>
+	<key>ignoredstoryboarddelay</key>
+	<string>unactivatedEqualization</string>
+	<key>notificationBound</key>
+	<string>canDetachOptimizer</string>
+	<key>quaternionTint</key>
+	<string>floatService</string>
+	<key>respectiveHandler</key>
+	<string>interactiveanimation</string>
+	<key>shouldFormatBloc</key>
+	<string>basicModulus</string>
+	<key>shouldMountBaseline</key>
+	<string>shouldUnmountedAspectRatio</string>
+	<key>transformerjobvisible</key>
+	<string>canSaveUnary</string>
+</dict>
+</plist>

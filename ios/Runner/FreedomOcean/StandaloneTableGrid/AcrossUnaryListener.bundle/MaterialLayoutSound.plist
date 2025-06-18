@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleLocation</key>
+	<string>unsortedInteractor</string>
+	<key>disabledeffecttail</key>
+	<string>axisvolume</string>
+	<key>functionalTicker</key>
+	<string>propagateDescription</string>
+	<key>materialpadding</key>
+	<string>basicScalability</string>
+	<key>mutableUtil</key>
+	<string>confidentialityVisibility</string>
+	<key>repositoryinset</key>
+	<string>shouldBindCube</string>
+	<key>responseName</key>
+	<string>colorEdge</string>
+	<key>secondCallback</key>
+	<string>shouldProcessNotification</string>
+	<key>shouldPrepareStream</key>
+	<string>comprehensiveformat</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialsingleton</key>
+	<string>tweenSkewY</string>
+	<key>shouldStartBatch</key>
+	<string>unmountedMap</string>
+	<key>shouldStreamDescriptor</key>
+	<string>menuinvariable</string>
+</dict>
+</plist>

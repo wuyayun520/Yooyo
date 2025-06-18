@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>missedRect</key>
+	<string>hardDimension</string>
+	<key>robustTangent</key>
+	<string>largeController</string>
+	<key>shouldCancelBoxShadow</key>
+	<string>registerPreview</string>
+	<key>shouldTransformScroll</key>
+	<string>detachAsync</string>
+	<key>spriteviaparameter</key>
+	<string>directlySkin</string>
+	<key>trajectorySkewX</key>
+	<string>globalListView</string>
+</dict>
+</plist>

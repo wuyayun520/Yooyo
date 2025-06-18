@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianConfidentiality</key>
+	<string>oldChapter</string>
+	<key>concreteHandler</key>
+	<string>composableCreator</string>
+	<key>hierarchicalTable</key>
+	<string>gridCoord</string>
+	<key>listenerDuration</key>
+	<string>loadticker</string>
+	<key>shouldUnbindProject</key>
+	<string>storyboardRotation</string>
+</dict>
+</plist>

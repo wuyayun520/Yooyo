@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>metadataHead</key>
+	<string>analyzecallback</string>
+	<key>opaqueTransition</key>
+	<string>equipmentLevel</string>
+	<key>primaryNavigator</key>
+	<string>ignoredPermutation</string>
+	<key>shouldpersistwidget</key>
+	<string>batchPattern</string>
+	<key>visibleListener</key>
+	<string>obtaincurve</string>
+</dict>
+</plist>

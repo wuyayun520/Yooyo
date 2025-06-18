@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperappearance</key>
+	<string>themebutton</string>
+	<key>crucialAnchor</key>
+	<string>currentLogarithm</string>
+	<key>customizedAlert</key>
+	<string>protectedGraph</string>
+	<key>gestureTop</key>
+	<string>canEncodeTheme</string>
+	<key>musicFlags</key>
+	<string>quitRouter</string>
+	<key>newestQueue</key>
+	<string>multiplicationPosition</string>
+	<key>responseBrightness</key>
+	<string>tappableClipper</string>
+	<key>spotlevelinterval</key>
+	<string>disabledDescriptor</string>
+	<key>sustainableFinder</key>
+	<string>shouldConnectMultiplication</string>
+</dict>
+</plist>

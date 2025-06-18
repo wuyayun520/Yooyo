@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerbrightness</key>
+	<string>canDetachScale</string>
+	<key>notifygradient</key>
+	<string>removecupertino</string>
+	<key>shouldBuildGestureDetector</key>
+	<string>metadataHue</string>
+	<key>skinOrientation</key>
+	<string>shouldLoadPlate</string>
+</dict>
+</plist>

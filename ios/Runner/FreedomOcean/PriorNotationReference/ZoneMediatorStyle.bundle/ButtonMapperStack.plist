@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedAsync</key>
+	<string>shouldEndSegue</string>
+	<key>callbackbesidechain</key>
+	<string>interactiveAccessory</string>
+	<key>chooserOffset</key>
+	<string>customizedAnalogy</string>
+	<key>declarativeScenario</key>
+	<string>builderRate</string>
+	<key>dependencyType</key>
+	<string>enabledPermutation</string>
+	<key>dimensionHue</key>
+	<string>thresholdBottom</string>
+	<key>pickerSpacing</key>
+	<string>clusterDensity</string>
+	<key>respectiveProjection</key>
+	<string>usageWork</string>
+	<key>routerTag</key>
+	<string>interfaceanalogy</string>
+	<key>scrollBehavior</key>
+	<string>mediaqueryBuffer</string>
+</dict>
+</plist>

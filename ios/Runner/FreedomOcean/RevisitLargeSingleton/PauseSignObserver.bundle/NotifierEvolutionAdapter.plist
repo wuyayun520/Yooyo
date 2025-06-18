@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directGram</key>
+	<string>gestureObserver</string>
+	<key>displayableConfiguration</key>
+	<string>activityVariable</string>
+	<key>fragmentStatus</key>
+	<string>bulletRotation</string>
+	<key>imageSaturation</key>
+	<string>shouldUnbindPriority</string>
+	<key>lostSubscription</key>
+	<string>pointShade</string>
+	<key>opaqueEqualization</key>
+	<string>challengeforce</string>
+	<key>rapidIntegration</key>
+	<string>scaffoldParam</string>
+	<key>shouldContinueMaster</key>
+	<string>shouldShowChannels</string>
+	<key>subtleTouch</key>
+	<string>storeParticle</string>
+</dict>
+</plist>

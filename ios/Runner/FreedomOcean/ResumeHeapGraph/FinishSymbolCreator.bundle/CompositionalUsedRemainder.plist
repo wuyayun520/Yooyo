@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dissociateevent</key>
+	<string>enabledArithmetic</string>
+	<key>embedroute</key>
+	<string>rotateradio</string>
+	<key>fuseddistinction</key>
+	<string>subscriptionFrequency</string>
+	<key>kernelsubscription</key>
+	<string>pointbyplatform</string>
+	<key>materialPreview</key>
+	<string>canPersistSlash</string>
+	<key>momentumName</key>
+	<string>baseSpacing</string>
+	<key>permissiveLayout</key>
+	<string>performDelegate</string>
+	<key>prismaticUsage</key>
+	<string>particleTransparency</string>
+	<key>shouldMountedHeap</key>
+	<string>canSkipScale</string>
+</dict>
+</plist>

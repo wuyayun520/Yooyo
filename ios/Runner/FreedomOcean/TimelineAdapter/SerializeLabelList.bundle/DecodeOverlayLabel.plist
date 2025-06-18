@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>annotateequipment</key>
+	<string>fixedSingleton</string>
+	<key>crudeProgressBar</key>
+	<string>handleService</string>
+	<key>frametail</key>
+	<string>receiverDistance</string>
+	<key>futureflags</key>
+	<string>activatedReference</string>
+	<key>localizationLocation</key>
+	<string>renderDecoration</string>
+	<key>remediationInset</key>
+	<string>rectInterval</string>
+	<key>shouldLayoutExponent</key>
+	<string>canPaintAlpha</string>
+	<key>shouldTransformTouch</key>
+	<string>disparateAmortization</string>
+	<key>significantTransformer</key>
+	<string>transitionforvalue</string>
+	<key>subtleCurve</key>
+	<string>propagatelistener</string>
+</dict>
+</plist>

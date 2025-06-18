@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultstateful</key>
+	<string>disposeDelegate</string>
+	<key>eagerExpanded</key>
+	<string>primarySkin</string>
+	<key>imperativeManager</key>
+	<string>globalSorter</string>
+	<key>introspectinjection</key>
+	<string>resizableinteractor</string>
+	<key>lastFeature</key>
+	<string>canTrainSign</string>
+</dict>
+</plist>

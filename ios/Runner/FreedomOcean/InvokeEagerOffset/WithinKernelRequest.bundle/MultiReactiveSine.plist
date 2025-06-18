@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerSaturation</key>
+	<string>clusterMargin</string>
+	<key>reusableSingleton</key>
+	<string>radiussize</string>
+	<key>shouldtrainanimation</key>
+	<string>completionComposite</string>
+	<key>tabviewbound</key>
+	<string>curveCommand</string>
+</dict>
+</plist>

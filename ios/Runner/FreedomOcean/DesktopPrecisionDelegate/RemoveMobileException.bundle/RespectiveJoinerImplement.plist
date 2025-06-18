@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesparamtop</key>
+	<string>replaceAlert</string>
+	<key>oldMenu</key>
+	<string>shouldUnmountedChecklist</string>
+	<key>responsebandwidth</key>
+	<string>shouldPauseCoordinator</string>
+	<key>responsiveLocalization</key>
+	<string>diversifiedGradient</string>
+	<key>shouldDisposeBinary</key>
+	<string>elasticSkin</string>
+	<key>shouldYieldScaffold</key>
+	<string>explicitLatency</string>
+</dict>
+</plist>

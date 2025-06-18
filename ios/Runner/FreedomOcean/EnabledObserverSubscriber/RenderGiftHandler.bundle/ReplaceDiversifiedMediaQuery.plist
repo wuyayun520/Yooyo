@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderFeedback</key>
+	<string>minCheckbox</string>
+	<key>commonFragments</key>
+	<string>iterativeStorage</string>
+	<key>iterativeChooser</key>
+	<string>concurrentMember</string>
+	<key>localmend</key>
+	<string>respondercenter</string>
+	<key>logOffset</key>
+	<string>originalCard</string>
+	<key>modelmode</key>
+	<string>cellLocation</string>
+	<key>parallelFeature</key>
+	<string>catalystvariablevelocity</string>
+	<key>shouldSetStateTransition</key>
+	<string>criticalStamp</string>
+	<key>temporaryClipper</key>
+	<string>canHandleNotifier</string>
+</dict>
+</plist>

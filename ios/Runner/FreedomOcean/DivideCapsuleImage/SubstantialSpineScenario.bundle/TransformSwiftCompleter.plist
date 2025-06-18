@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedInformation</key>
+	<string>curveInterpreter</string>
+	<key>elementDensity</key>
+	<string>shouldPaintEqualization</string>
+	<key>enabledIcon</key>
+	<string>mediumIndicator</string>
+	<key>entityexceptcycle</key>
+	<string>routeinsidecycle</string>
+	<key>gateinteraction</key>
+	<string>chartDensity</string>
+	<key>objectTail</key>
+	<string>resilientReceiver</string>
+	<key>parselistener</key>
+	<string>inactiveSpecifier</string>
+	<key>shouldStopStack</key>
+	<string>flexibleusecase</string>
+</dict>
+</plist>

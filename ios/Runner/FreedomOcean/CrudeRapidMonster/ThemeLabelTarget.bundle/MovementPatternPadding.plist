@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>drawerAcceleration</key>
+	<string>firstRenderer</string>
+	<key>enabledLoss</key>
+	<string>cardNumber</string>
+	<key>latencyTheme</key>
+	<string>ignoredPreview</string>
+	<key>relationalbaseline</key>
+	<string>explicitGroup</string>
+</dict>
+</plist>

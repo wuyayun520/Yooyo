@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableslashright</key>
+	<string>traversalbound</string>
+	<key>consumeramortization</key>
+	<string>shouldProcessCharacter</string>
+	<key>elementShape</key>
+	<string>lastcapacities</string>
+	<key>grayscalecontainadapter</key>
+	<string>infoRotation</string>
+	<key>metadataefficiency</key>
+	<string>cartesianPositioned</string>
+	<key>shoulddisconnectinterpolation</key>
+	<string>declarativeObject</string>
+</dict>
+</plist>

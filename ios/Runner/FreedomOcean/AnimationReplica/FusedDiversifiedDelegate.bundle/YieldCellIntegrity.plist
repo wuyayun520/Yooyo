@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardSink</key>
+	<string>canCacheCupertino</string>
+	<key>geometricDelivery</key>
+	<string>clipperskewx</string>
+	<key>insteadhash</key>
+	<string>canPersistProfile</string>
+	<key>instructionHead</key>
+	<string>poptexture</string>
+	<key>numericalPager</key>
+	<string>integercallback</string>
+	<key>originalEmitter</key>
+	<string>animatedDelegate</string>
+	<key>providerIndex</key>
+	<string>textfieldforobserver</string>
+	<key>robustLabel</key>
+	<string>roleFlags</string>
+</dict>
+</plist>

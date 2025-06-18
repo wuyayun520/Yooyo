@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderbesidestate</key>
+	<string>vectorbehavior</string>
+	<key>normalModulus</key>
+	<string>ondescriptortap</string>
+	<key>reductionRight</key>
+	<string>crudePresenter</string>
+	<key>requiredInkWell</key>
+	<string>shouldSubscribeCustomPaint</string>
+	<key>schemalocation</key>
+	<string>shouldInflateBatch</string>
+</dict>
+</plist>

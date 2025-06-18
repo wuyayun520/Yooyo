@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>isFlex</key>
+	<string>floatHandler</string>
+	<key>labelduration</key>
+	<string>sampleinfrastructure</string>
+	<key>mediumNib</key>
+	<string>handleAspect</string>
+	<key>reactiveIcon</key>
+	<string>crudeCache</string>
+	<key>shouldSubscribeAxis</key>
+	<string>descriptorpublisher</string>
+	<key>unactivatedCluster</key>
+	<string>shouldPublishSlash</string>
+	<key>visibleMaterializer</key>
+	<string>clearLabel</string>
+</dict>
+</plist>

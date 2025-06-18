@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionVisibility</key>
+	<string>routegrid</string>
+	<key>euclideanLoss</key>
+	<string>shouldReplaceSpecifier</string>
+	<key>fusedCache</key>
+	<string>canBindArithmetic</string>
+	<key>nativePriority</key>
+	<string>fusedFinder</string>
+	<key>nodewithoutadapter</key>
+	<string>uniformTask</string>
+	<key>numericalSink</key>
+	<string>standaloneStateful</string>
+	<key>singlePet</key>
+	<string>undertakeTexture</string>
+	<key>webSearcher</key>
+	<string>mountoffset</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>immediateScreen</key>
+	<string>animationdelay</string>
+	<key>navigatematrix</key>
+	<string>variantVisibility</string>
+	<key>responderTheme</key>
+	<string>finderVisible</string>
+	<key>shouldSaveBullet</key>
+	<string>materialRadio</string>
+	<key>shoulddisposeunary</key>
+	<string>gateShade</string>
+	<key>significantgridview</key>
+	<string>logarithmgraph</string>
+	<key>splitterInteraction</key>
+	<string>integervalidation</string>
+	<key>switchShape</key>
+	<string>polyfillTail</string>
+	<key>typicalWrapper</key>
+	<string>smartTangent</string>
+</dict>
+</plist>

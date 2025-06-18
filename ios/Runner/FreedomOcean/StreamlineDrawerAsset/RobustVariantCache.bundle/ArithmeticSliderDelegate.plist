@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>easylistenerorientation</key>
+	<string>shouldValidateInteger</string>
+	<key>intermediateDetector</key>
+	<string>mobileReceiver</string>
+	<key>playbackSpacing</key>
+	<string>shouldInflatePageView</string>
+	<key>projectlatency</key>
+	<string>floatstamp</string>
+	<key>specifyCompleter</key>
+	<string>replacebutton</string>
+	<key>tabviewLeft</key>
+	<string>analyzemenu</string>
+	<key>tickeremitter</key>
+	<string>handleTitle</string>
+</dict>
+</plist>

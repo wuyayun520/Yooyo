@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>detailName</key>
+	<string>combinerShade</string>
+	<key>effectloop</key>
+	<string>canDismissLayout</string>
+	<key>navigatesingleton</key>
+	<string>canRebuildSwitch</string>
+	<key>staticAsset</key>
+	<string>createChannel</string>
+	<key>tensorcosine</key>
+	<string>interactorhue</string>
+</dict>
+</plist>

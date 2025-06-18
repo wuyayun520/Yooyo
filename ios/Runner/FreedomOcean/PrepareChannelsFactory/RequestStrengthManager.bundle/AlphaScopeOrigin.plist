@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonSize</key>
+	<string>chartVisibility</string>
+	<key>cachepoint</key>
+	<string>graphSpacing</string>
+	<key>impactBrightness</key>
+	<string>shouldRenderNavigator</string>
+	<key>inflateinterpolation</key>
+	<string>mediumSchema</string>
+	<key>invisibleUsage</key>
+	<string>canCreateIcon</string>
+	<key>movementresilience</key>
+	<string>spotValue</string>
+	<key>navigationInteraction</key>
+	<string>specifyMenu</string>
+	<key>renderactivity</key>
+	<string>shouldconnectswift</string>
+	<key>resizablePosition</key>
+	<string>inactiveGroup</string>
+	<key>variantShade</key>
+	<string>stampscheduler</string>
+</dict>
+</plist>

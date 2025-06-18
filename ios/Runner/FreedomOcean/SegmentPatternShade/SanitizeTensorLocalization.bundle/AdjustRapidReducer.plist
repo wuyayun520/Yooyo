@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeTime</key>
+	<string>segmentVariable</string>
+	<key>asyncMode</key>
+	<string>denseRadio</string>
+	<key>composabletimerspeed</key>
+	<string>createTransformer</string>
+	<key>desktopTolerance</key>
+	<string>sortedGrain</string>
+	<key>discardedRichText</key>
+	<string>logarithmMargin</string>
+	<key>eagerDescription</key>
+	<string>displayCompleter</string>
+	<key>firstHandler</key>
+	<string>reductionFramework</string>
+	<key>mutableTabView</key>
+	<string>disabledSpine</string>
+	<key>tabbarmargin</key>
+	<string>finderTension</string>
+</dict>
+</plist>

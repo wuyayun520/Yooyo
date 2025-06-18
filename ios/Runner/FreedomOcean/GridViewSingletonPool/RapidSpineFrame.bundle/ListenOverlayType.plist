@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedConstant</key>
+	<string>shouldbindcycle</string>
+	<key>hasContraction</key>
+	<string>erasealert</string>
+	<key>hyperbolicObserver</key>
+	<string>lazyStream</string>
+	<key>lazyBullet</key>
+	<string>aspectFlyweight</string>
+	<key>metadatacoord</key>
+	<string>smartPager</string>
+	<key>obtainvector</key>
+	<string>shouldSkipRow</string>
+	<key>semanticScaffold</key>
+	<string>textfieldTheme</string>
+	<key>shouldEndBox</key>
+	<string>custompaintPadding</string>
+	<key>shouldlayoutresource</key>
+	<string>measureSize</string>
+	<key>transitiondetail</key>
+	<string>reliabilityrotation</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxBottom</key>
+	<string>firstTriangles</string>
+	<key>durationhue</key>
+	<string>previewinterval</string>
+	<key>labelRotation</key>
+	<string>handlerstyle</string>
+	<key>paddingRight</key>
+	<string>priorInterface</string>
+	<key>sharedReducer</key>
+	<string>marshalZone</string>
+	<key>shouldUnmountRow</key>
+	<string>seamlessCreator</string>
+	<key>tappableNotation</key>
+	<string>singletonedge</string>
+	<key>unactivatedBloc</key>
+	<string>alertOrientation</string>
+</dict>
+</plist>

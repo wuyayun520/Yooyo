@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedReliability</key>
+	<string>shouldMountedTable</string>
+	<key>autoprovision</key>
+	<string>shouldTrainTabView</string>
+	<key>clipperrouter</key>
+	<string>combinerHead</string>
+	<key>cupertinotabbarstatus</key>
+	<string>sequentialSymbol</string>
+	<key>provisionShade</key>
+	<string>skipEqualization</string>
+	<key>queueLeft</key>
+	<string>mutableChart</string>
+	<key>typicalExponent</key>
+	<string>lostPolyfill</string>
+	<key>typicalModulus</key>
+	<string>rangeHead</string>
+</dict>
+</plist>

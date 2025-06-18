@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binderPosition</key>
+	<string>sinksound</string>
+	<key>impactCount</key>
+	<string>listenerContext</string>
+	<key>shouldReplaceAccessory</key>
+	<string>draggableSwift</string>
+	<key>usedOffset</key>
+	<string>shouldKeepMaster</string>
+</dict>
+</plist>

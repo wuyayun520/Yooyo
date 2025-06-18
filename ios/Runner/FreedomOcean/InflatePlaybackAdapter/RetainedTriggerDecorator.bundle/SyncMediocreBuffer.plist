@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clearzone</key>
+	<string>canStopAnimatedContainer</string>
+	<key>cursorlatency</key>
+	<string>sharedRemediation</string>
+	<key>dynamicShape</key>
+	<string>shouldShowCollection</string>
+	<key>ephemeralCapacities</key>
+	<string>exitroute</string>
+	<key>reusabledelegateskewy</key>
+	<string>accordionRange</string>
+	<key>shouldStopSkin</key>
+	<string>routeSizedBox</string>
+</dict>
+</plist>

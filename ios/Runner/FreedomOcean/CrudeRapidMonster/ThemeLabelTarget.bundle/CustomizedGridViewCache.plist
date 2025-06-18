@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directproject</key>
+	<string>mediocreRenderer</string>
+	<key>extensiondespitecontext</key>
+	<string>robustScroller</string>
+	<key>gradientobserver</key>
+	<string>receiverouter</string>
+	<key>routeBehavior</key>
+	<string>sequentialSprite</string>
+	<key>shouldEndClipper</key>
+	<string>showresponse</string>
+	<key>subscriptionpressure</key>
+	<string>deserializeStateless</string>
+</dict>
+</plist>

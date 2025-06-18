@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchmomentum</key>
+	<string>contractionCenter</string>
+	<key>injectionStatus</key>
+	<string>parseLayer</string>
+	<key>polyfillState</key>
+	<string>desktopExpanded</string>
+	<key>resizableemitter</key>
+	<string>elasticSlash</string>
+	<key>restrictionRight</key>
+	<string>encapsulateQueue</string>
+	<key>semanticWidget</key>
+	<string>sorterTag</string>
+	<key>shouldserializebase</key>
+	<string>canTransformStateless</string>
+</dict>
+</plist>

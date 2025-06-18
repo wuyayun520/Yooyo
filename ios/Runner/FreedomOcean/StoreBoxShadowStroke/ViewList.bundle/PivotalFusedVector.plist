@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianIcon</key>
+	<string>bindSpecifier</string>
+	<key>constraintTag</key>
+	<string>dynamicTransition</string>
+	<key>entropyobject</key>
+	<string>granularStoryboard</string>
+	<key>sortedDetector</key>
+	<string>canCreateMonster</string>
+</dict>
+</plist>

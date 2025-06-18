@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineinterval</key>
+	<string>bindSlash</string>
+	<key>boxshadowPadding</key>
+	<string>resolveusage</string>
+	<key>confidentialityDelay</key>
+	<string>architectureBehavior</string>
+	<key>delicateProcessor</key>
+	<string>persistentInkWell</string>
+	<key>exponentMargin</key>
+	<string>shouldanimatelistview</string>
+	<key>heapinset</key>
+	<string>sceneDistance</string>
+	<key>opaquePreview</key>
+	<string>normShade</string>
+	<key>shouldPrepareSpot</key>
+	<string>respectiveGrid</string>
+	<key>zoneBorder</key>
+	<string>sharedPublisher</string>
+</dict>
+</plist>

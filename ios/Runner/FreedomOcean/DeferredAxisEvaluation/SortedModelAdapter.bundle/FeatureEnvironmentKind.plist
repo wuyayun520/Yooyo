@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocduration</key>
+	<string>selectedLayout</string>
+	<key>concurrentRectangle</key>
+	<string>customJoiner</string>
+	<key>rapidInterpolation</key>
+	<string>visitpadding</string>
+	<key>techniqueValidation</key>
+	<string>synchronousDropdownButton</string>
+	<key>usedAwait</key>
+	<string>associatedNode</string>
+</dict>
+</plist>

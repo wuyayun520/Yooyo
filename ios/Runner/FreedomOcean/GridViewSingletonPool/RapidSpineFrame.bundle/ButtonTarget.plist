@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>colortransparency</key>
+	<string>mountedresource</string>
+	<key>customStateless</key>
+	<string>pivotalTimeline</string>
+	<key>enabledReceiver</key>
+	<string>promiseStage</string>
+	<key>frameForce</key>
+	<string>signatureShape</string>
+	<key>gridviewevaluation</key>
+	<string>logarithmPattern</string>
+	<key>interfacerate</key>
+	<string>restrictionfrequency</string>
+	<key>scrollableRemainder</key>
+	<string>richtextinsidetask</string>
+	<key>shouldDeserializePoint</key>
+	<string>canStartKernel</string>
+	<key>vectorchainmargin</key>
+	<string>nextmomentummargin</string>
+</dict>
+</plist>

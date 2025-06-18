@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateoperationbrightness</key>
+	<string>routeWidget</string>
+	<key>materialCollection</key>
+	<string>sustainableDropdownButton</string>
+	<key>modalVisible</key>
+	<string>semanticspressure</string>
+	<key>persisttheme</key>
+	<string>hasgesturedetector</string>
+	<key>selectedprovider</key>
+	<string>criticalReliability</string>
+	<key>shouldtransitionchallenge</key>
+	<string>elasticityCount</string>
+	<key>splitterDensity</key>
+	<string>interpolateBuffer</string>
+	<key>storepressure</key>
+	<string>shouldDecodeCube</string>
+	<key>tweenEdge</key>
+	<string>canProcessSlash</string>
+</dict>
+</plist>

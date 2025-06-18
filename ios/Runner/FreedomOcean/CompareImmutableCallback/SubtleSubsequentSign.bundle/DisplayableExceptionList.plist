@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeLocalization</key>
+	<string>boxSystem</string>
+	<key>draggablemetadatafrequency</key>
+	<string>constraintevolution</string>
+	<key>responsePadding</key>
+	<string>characterFlags</string>
+	<key>subtlebox</key>
+	<string>promiseWork</string>
+</dict>
+</plist>

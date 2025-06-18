@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentinterpolation</key>
+	<string>statemementoscale</string>
+	<key>hyperbolicmodel</key>
+	<string>canPersistListView</string>
+	<key>lostEvent</key>
+	<string>shouldValidateResource</string>
+	<key>mechanismcenter</key>
+	<string>mainTexture</string>
+	<key>normalconstraintalignment</key>
+	<string>handleCharacter</string>
+	<key>operationpadding</key>
+	<string>typicalSingleton</string>
+	<key>shouldSaveFuture</key>
+	<string>schemaTint</string>
+	<key>subscribescroll</key>
+	<string>modelmediatorinset</string>
+	<key>typicalPolyfill</key>
+	<string>refactorAnimation</string>
+</dict>
+</plist>

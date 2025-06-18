@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autocanvaspadding</key>
+	<string>shouldLoadRole</string>
+	<key>fixedTable</key>
+	<string>firstprovider</string>
+	<key>frameright</key>
+	<string>symbolLevel</string>
+	<key>lazystateful</key>
+	<string>cosineIndex</string>
+	<key>memberSpeed</key>
+	<string>dependencyposition</string>
+	<key>reliabilityskewy</key>
+	<string>shouldPopPromise</string>
+	<key>shouldDisconnectRichText</key>
+	<string>sequentialEqualization</string>
+	<key>sorterBorder</key>
+	<string>serializePosition</string>
+</dict>
+</plist>

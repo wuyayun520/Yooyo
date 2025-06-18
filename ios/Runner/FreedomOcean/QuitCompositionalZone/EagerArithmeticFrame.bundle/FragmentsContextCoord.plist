@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cosineexceptoperation</key>
+	<string>respondtween</string>
+	<key>customAnimatedContainer</key>
+	<string>curvestyleposition</string>
+	<key>discardedVariant</key>
+	<string>particleLocation</string>
+	<key>instantiatedropdownbutton</key>
+	<string>searchTween</string>
+	<key>localizationrate</key>
+	<string>renderArithmetic</string>
+	<key>nextSize</key>
+	<string>stepname</string>
+	<key>numericalSingleton</key>
+	<string>hardQueue</string>
+	<key>sequentialTabView</key>
+	<string>tabbartransition</string>
+	<key>shouldSetStateInstruction</key>
+	<string>isolateVisibility</string>
+</dict>
+</plist>

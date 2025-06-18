@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>injectionmomentum</key>
+	<string>arithmeticEffect</string>
+	<key>retainedVideo</key>
+	<string>onsessionchanged</string>
+	<key>screenmanager</key>
+	<string>amortizationInteraction</string>
+	<key>seamlesssessioninteraction</key>
+	<string>replicateResponse</string>
+	<key>shouldstartimage</key>
+	<string>canInflateModal</string>
+	<key>unschedulechannel</key>
+	<string>configurationcontainmode</string>
+</dict>
+</plist>

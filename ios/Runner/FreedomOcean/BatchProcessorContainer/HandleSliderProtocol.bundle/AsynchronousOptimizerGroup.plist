@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedSlider</key>
+	<string>criticalAlpha</string>
+	<key>descriptorfacadeopacity</key>
+	<string>loaderStatus</string>
+	<key>globalSkirt</key>
+	<string>protectedAlignment</string>
+	<key>previewHue</key>
+	<string>shouldUnmountedStep</string>
+	<key>shouldPopImage</key>
+	<string>sensorFlyweight</string>
+	<key>specifyPromise</key>
+	<string>disconnectSemantics</string>
+</dict>
+</plist>

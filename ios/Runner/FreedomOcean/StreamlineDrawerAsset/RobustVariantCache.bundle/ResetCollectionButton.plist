@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitchooser</key>
+	<string>popNode</string>
+	<key>diversifiedNib</key>
+	<string>titleFormat</string>
+	<key>dynamicFeature</key>
+	<string>shouldDisconnectCanvas</string>
+	<key>hasmap</key>
+	<string>responseSingleton</string>
+	<key>prevAnimation</key>
+	<string>sortedTolerance</string>
+	<key>resilientMaster</key>
+	<string>buttonParam</string>
+	<key>sortercolor</key>
+	<string>opaqueNavigator</string>
+	<key>streamAppearance</key>
+	<string>selectedBase</string>
+	<key>temporaryArchitecture</key>
+	<string>canDecodeMultiplication</string>
+</dict>
+</plist>

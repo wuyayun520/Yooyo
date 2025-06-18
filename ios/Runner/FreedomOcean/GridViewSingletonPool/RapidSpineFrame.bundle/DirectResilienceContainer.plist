@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultelasticity</key>
+	<string>widgetcenter</string>
+	<key>mediaqueryfactory</key>
+	<string>saveSlash</string>
+	<key>requiredThroughput</key>
+	<string>accessorydelegate</string>
+	<key>scrollableContainer</key>
+	<string>shouldStopNavigator</string>
+	<key>semanticpresenter</key>
+	<string>directRenderer</string>
+	<key>sustainableHash</key>
+	<string>confidentialityColor</string>
+</dict>
+</plist>

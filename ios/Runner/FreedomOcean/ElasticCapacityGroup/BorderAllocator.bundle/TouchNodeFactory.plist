@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionRotation</key>
+	<string>shouldDisposeSemantics</string>
+	<key>awaitworktail</key>
+	<string>shouldPersistEqualization</string>
+	<key>customizedBehavior</key>
+	<string>canCreateNavigation</string>
+	<key>hierarchicalTheme</key>
+	<string>cartesianDecoration</string>
+	<key>largeProject</key>
+	<string>delegateStream</string>
+	<key>notificationlayer</key>
+	<string>opaqueObserver</string>
+	<key>pivotalSelector</key>
+	<string>heapPosition</string>
+	<key>shouldBuildSpot</key>
+	<string>dropdownbuttoninsidephase</string>
+	<key>threadnearadapter</key>
+	<string>robustElasticity</string>
+	<key>transitionValidation</key>
+	<string>granularSpot</string>
+</dict>
+</plist>

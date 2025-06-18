@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzerVisible</key>
+	<string>decodeInstruction</string>
+	<key>exponentrate</key>
+	<string>normalLatency</string>
+	<key>significantImpact</key>
+	<string>membertheme</string>
+	<key>synchronousTexture</key>
+	<string>shouldPopOverlay</string>
+	<key>tappableTweak</key>
+	<string>arithmeticTexture</string>
+</dict>
+</plist>

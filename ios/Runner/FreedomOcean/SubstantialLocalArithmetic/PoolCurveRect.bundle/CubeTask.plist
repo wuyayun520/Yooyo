@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseContrast</key>
+	<string>canMountedConvolution</string>
+	<key>handlermode</key>
+	<string>pauseSwitch</string>
+	<key>publicFragments</key>
+	<string>coordinatorLayer</string>
+	<key>resilientReducer</key>
+	<string>scenarioName</string>
+	<key>sharedInteger</key>
+	<string>maintainCubit</string>
+	<key>shouldPauseAppBar</key>
+	<string>statelessMemento</string>
+	<key>shouldUnmountMonster</key>
+	<string>greatFlex</string>
+	<key>visibleGrid</key>
+	<string>currentIntegration</string>
+	<key>zoneCenter</key>
+	<string>shouldNotifyCollection</string>
+</dict>
+</plist>

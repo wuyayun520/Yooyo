@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedresource</key>
+	<string>debugCoordinator</string>
+	<key>delegateforcommand</key>
+	<string>intuitivebitrateorientation</string>
+	<key>documentrate</key>
+	<string>hasResource</string>
+	<key>enabledDetail</key>
+	<string>plateDelay</string>
+	<key>newestRepository</key>
+	<string>mountAnchor</string>
+	<key>signatureBound</key>
+	<string>similarAsset</string>
+	<key>trajectorytint</key>
+	<string>transitionbinary</string>
+</dict>
+</plist>

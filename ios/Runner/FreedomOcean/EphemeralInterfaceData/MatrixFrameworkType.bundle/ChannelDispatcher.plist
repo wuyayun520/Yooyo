@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionFragments</key>
+	<string>differentiaterow</string>
+	<key>immutableLinker</key>
+	<string>setstatesubscription</string>
+	<key>lazyCheckbox</key>
+	<string>stopawait</string>
+	<key>mediaalongvar</key>
+	<string>presentMap</string>
+	<key>normaldistinction</key>
+	<string>synchronizeConfiguration</string>
+	<key>priorService</key>
+	<string>mountedExtension</string>
+	<key>shouldNavigateContainer</key>
+	<string>scenarioAppearance</string>
+	<key>singleLinker</key>
+	<string>shouldBuildDimension</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableScaffold</key>
+	<string>screenmanager</string>
+	<key>hardConverter</key>
+	<string>dedicatedError</string>
+	<key>previewBehavior</key>
+	<string>serializedescription</string>
+	<key>prismaticComposition</key>
+	<string>quantizationLayout</string>
+	<key>shouldTrainInkWell</key>
+	<string>provisionDensity</string>
+	<key>shouldTrainLoss</key>
+	<string>selectorSpacing</string>
+	<key>sizedboxjoiner</key>
+	<string>parseDecoration</string>
+</dict>
+</plist>

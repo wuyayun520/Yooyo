@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eventshape</key>
+	<string>factoryhead</string>
+	<key>resultaspect</key>
+	<string>largeData</string>
+	<key>scaffoldalignment</key>
+	<string>smartSubscription</string>
+	<key>staticCharacteristic</key>
+	<string>frameStyle</string>
+</dict>
+</plist>

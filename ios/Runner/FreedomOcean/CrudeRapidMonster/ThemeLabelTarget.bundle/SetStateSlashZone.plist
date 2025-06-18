@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gridviewevent</key>
+	<string>resumeallocator</string>
+	<key>integrationSpeed</key>
+	<string>shouldYieldConstraint</string>
+	<key>routeColor</key>
+	<string>linkerFlags</string>
+	<key>smartSubscription</key>
+	<string>modelForm</string>
+</dict>
+</plist>

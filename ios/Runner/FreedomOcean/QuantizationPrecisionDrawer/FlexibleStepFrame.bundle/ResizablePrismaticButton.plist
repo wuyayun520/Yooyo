@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>augmentextension</key>
+	<string>smartColumn</string>
+	<key>controllerFeedback</key>
+	<string>maintainParticle</string>
+	<key>dedicatedQueue</key>
+	<string>originalBase</string>
+	<key>detectorbehavior</key>
+	<string>independentSizedBox</string>
+	<key>diversifiedReducer</key>
+	<string>shouldLoadNotification</string>
+	<key>histograminformation</key>
+	<string>animatedPublisher</string>
+	<key>infoContrast</key>
+	<string>resultappearance</string>
+	<key>scenarioTheme</key>
+	<string>projectwithoutcomposite</string>
+	<key>usecaseInset</key>
+	<string>protectedTime</string>
+</dict>
+</plist>

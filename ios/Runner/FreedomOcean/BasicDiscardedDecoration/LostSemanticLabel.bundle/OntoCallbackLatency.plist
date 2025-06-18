@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorskewy</key>
+	<string>unsortedSegment</string>
+	<key>discardedBaseline</key>
+	<string>grambutton</string>
+	<key>fixedSubscriber</key>
+	<string>respectiveQueue</string>
+	<key>grayscaleSkewY</key>
+	<string>layoutCube</string>
+	<key>intuitiveState</key>
+	<string>mendVisibility</string>
+	<key>materializeintensity</key>
+	<string>materialScale</string>
+	<key>observerinset</key>
+	<string>shouldobservedescriptor</string>
+	<key>provideaxis</key>
+	<string>inactiveKernel</string>
+	<key>shouldRestartCosine</key>
+	<string>pendingGrayscale</string>
+	<key>trajectoryPadding</key>
+	<string>temporaryCosine</string>
+</dict>
+</plist>

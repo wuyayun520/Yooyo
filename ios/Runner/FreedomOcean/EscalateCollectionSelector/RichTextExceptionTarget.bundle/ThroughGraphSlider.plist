@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>oldArithmetic</key>
+	<string>architectureAppearance</string>
+	<key>permanentCell</key>
+	<string>basicEntity</string>
+	<key>semanticsineduration</key>
+	<string>heapPosition</string>
+</dict>
+</plist>

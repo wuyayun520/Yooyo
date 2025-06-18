@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activePriority</key>
+	<string>cancelDialogs</string>
+	<key>addhash</key>
+	<string>canObserveRole</string>
+	<key>clipsegment</key>
+	<string>materialFramework</string>
+	<key>commonParticle</key>
+	<string>protocolPrototype</string>
+	<key>commonSingleton</key>
+	<string>imperativeLinker</string>
+	<key>firsttentative</key>
+	<string>loadchapter</string>
+	<key>singleObject</key>
+	<string>hierarchicalrequest</string>
+	<key>usecaseFrequency</key>
+	<string>canPauseOptimizer</string>
+</dict>
+</plist>

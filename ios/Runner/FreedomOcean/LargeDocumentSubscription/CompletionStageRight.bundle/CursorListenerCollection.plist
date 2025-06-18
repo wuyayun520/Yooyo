@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionPolyfill</key>
+	<string>stopBatch</string>
+	<key>animatenode</key>
+	<string>symmetricCoordinator</string>
+	<key>arithmeticVolume</key>
+	<string>instructionSize</string>
+	<key>evaluationPressure</key>
+	<string>mediaqueryState</string>
+	<key>intuitiveEvent</key>
+	<string>showScroll</string>
+	<key>mediaLocation</key>
+	<string>retainedLayer</string>
+	<key>parsecache</key>
+	<string>decorationLeft</string>
+	<key>routercontrast</key>
+	<string>unmountConsumer</string>
+	<key>shouldUnbindLayout</key>
+	<string>interpolateIsolate</string>
+	<key>topicRate</key>
+	<string>encapsulateBuilder</string>
+</dict>
+</plist>

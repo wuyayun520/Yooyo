@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedframevisibility</key>
+	<string>movementSaturation</string>
+	<key>builderdelay</key>
+	<string>visualizeactivity</string>
+	<key>discardedGrid</key>
+	<string>prismaticTolerance</string>
+	<key>fusedmap</key>
+	<string>concurrentCoordinator</string>
+	<key>segmentPosition</key>
+	<string>canDecodeOptimizer</string>
+	<key>skinLocation</key>
+	<string>listviewObserver</string>
+</dict>
+</plist>

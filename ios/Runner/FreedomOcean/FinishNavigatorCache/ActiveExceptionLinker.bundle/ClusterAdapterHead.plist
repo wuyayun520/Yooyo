@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetCenter</key>
+	<string>provideLabel</string>
+	<key>binaryAlignment</key>
+	<string>asynchronousassetindex</string>
+	<key>cubitCenter</key>
+	<string>canConnectDecoration</string>
+	<key>primarySpecifier</key>
+	<string>notifierStyle</string>
+	<key>resilientConfidentiality</key>
+	<string>profileFlyweight</string>
+	<key>scrollableWidget</key>
+	<string>canTransformClipper</string>
+	<key>shouldRestartGraphic</key>
+	<string>usedSkirt</string>
+	<key>uniqueService</key>
+	<string>permissiveEquivalent</string>
+</dict>
+</plist>

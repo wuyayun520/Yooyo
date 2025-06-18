@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedDisclaimer</key>
+	<string>sortedExpanded</string>
+	<key>defaultbinary</key>
+	<string>canCancelArithmetic</string>
+	<key>extensionshape</key>
+	<string>eagersignaturebrightness</string>
+	<key>functionalSlash</key>
+	<string>declarativeSubpixel</string>
+	<key>fusedLatency</key>
+	<string>transformerMode</string>
+	<key>statelessNib</key>
+	<string>canPrepareStateful</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledGridView</key>
+	<string>shouldhandlewidget</string>
+	<key>shouldDisconnectHeap</key>
+	<string>immutableInjection</string>
+	<key>stackKind</key>
+	<string>handlerKind</string>
+	<key>statelesswithoutcommand</key>
+	<string>visibleIsolate</string>
+	<key>unactivatedlogarithm</key>
+	<string>dedicatedAnimator</string>
+</dict>
+</plist>

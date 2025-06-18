@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>graphicjobtransparency</key>
+	<string>responsiveOffset</string>
+	<key>hasDialogs</key>
+	<string>canListenVariant</string>
+	<key>localizationTail</key>
+	<string>renderContainer</string>
+	<key>providerAlignment</key>
+	<string>canAttachSlider</string>
+	<key>scrollableCosine</key>
+	<string>temporaryMethod</string>
+	<key>shouldPauseRichText</key>
+	<string>canRestartTool</string>
+	<key>textureBottom</key>
+	<string>sensorComposite</string>
+	<key>timelinecolor</key>
+	<string>notificationScope</string>
+	<key>toleranceState</key>
+	<string>pickerBound</string>
+</dict>
+</plist>

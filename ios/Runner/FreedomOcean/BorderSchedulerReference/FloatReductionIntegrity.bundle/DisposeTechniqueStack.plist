@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionSound</key>
+	<string>connectbutton</string>
+	<key>amortizationBottom</key>
+	<string>permanentPager</string>
+	<key>challengemediatorvisible</key>
+	<string>sessionMemento</string>
+	<key>exponentDensity</key>
+	<string>independentPositioned</string>
+	<key>hyperbolicScalability</key>
+	<string>routeLeft</string>
+	<key>normalMaterializer</key>
+	<string>dimensionRate</string>
+	<key>profileRate</key>
+	<string>shouldDismissTransition</string>
+	<key>sortedFormat</key>
+	<string>statefuldecorationformat</string>
+	<key>tabledecoration</key>
+	<string>strokeDirection</string>
+	<key>webOverlay</key>
+	<string>integerFacade</string>
+</dict>
+</plist>

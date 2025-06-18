@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aperturetierspacing</key>
+	<string>writeCompleter</string>
+	<key>dialogsBehavior</key>
+	<string>mediaNumber</string>
+	<key>finderleft</key>
+	<string>inheritedTime</string>
+	<key>functionalChannels</key>
+	<string>denseanalyzer</string>
+	<key>functionalMobile</key>
+	<string>allocatorwithoutstage</string>
+	<key>loopbuilder</key>
+	<string>accordionNotation</string>
+	<key>similarSlider</key>
+	<string>pushModulus</string>
+	<key>tensorLog</key>
+	<string>localDisclaimer</string>
+</dict>
+</plist>

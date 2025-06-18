@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianReduction</key>
+	<string>statusDuration</string>
+	<key>commonNotification</key>
+	<string>emitPlayback</string>
+	<key>currentSlash</key>
+	<string>segueActivity</string>
+	<key>graphicrouter</key>
+	<string>functionalConfiguration</string>
+	<key>intuitiveMesh</key>
+	<string>streamgrain</string>
+	<key>mediaqueryofmode</key>
+	<string>normParameter</string>
+	<key>mediumLayout</key>
+	<string>statefulWrapper</string>
+	<key>robustresponder</key>
+	<string>sinkVisitor</string>
+	<key>shouldmountedplayback</key>
+	<string>dispatchAnimatedContainer</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>greatStream</key>
+	<string>groupPadding</string>
+	<key>isbloc</key>
+	<string>primarySegment</string>
+	<key>reactivesearcher</key>
+	<string>shouldResumeSpecifier</string>
+	<key>requiredPriority</key>
+	<string>directnotification</string>
+	<key>scrollablePlate</key>
+	<string>notifyzone</string>
+	<key>seamlessTraversal</key>
+	<string>optimizeDuration</string>
+	<key>shouldBuildCertificate</key>
+	<string>densemodulus</string>
+	<key>standaloneArithmetic</key>
+	<string>hyperbolicKernel</string>
+	<key>statelessAsync</key>
+	<string>backwardRoute</string>
+</dict>
+</plist>

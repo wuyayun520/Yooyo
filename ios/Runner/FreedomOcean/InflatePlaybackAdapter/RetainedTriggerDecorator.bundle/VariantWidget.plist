@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticValidation</key>
+	<string>indicatorAdapter</string>
+	<key>dataTop</key>
+	<string>cupertinoPopup</string>
+	<key>dedicatedStroke</key>
+	<string>stopStamp</string>
+	<key>keeppoint</key>
+	<string>emitPosition</string>
+	<key>orchestratemission</key>
+	<string>accordionMaterializer</string>
+	<key>positioncenter</key>
+	<string>declarativeOccasion</string>
+	<key>shouldFetchReference</key>
+	<string>visibleAspect</string>
+	<key>shouldPrepareRow</key>
+	<string>rectMediator</string>
+	<key>statefulnodecenter</key>
+	<string>serializeTextField</string>
+</dict>
+</plist>

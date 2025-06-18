@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>annotatemodulus</key>
+	<string>finishExtension</string>
+	<key>axisworkvisible</key>
+	<string>localMetrics</string>
+	<key>callbackTint</key>
+	<string>dialogsInterpreter</string>
+	<key>keepinterface</key>
+	<string>euclideanScroller</string>
+	<key>navigationskewy</key>
+	<string>canListenNavigation</string>
+	<key>priorStateless</key>
+	<string>canNotifyProtocol</string>
+	<key>shouldLoadMargin</key>
+	<string>originalSwitch</string>
+	<key>unaryinset</key>
+	<string>asynchronousCollection</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoMusic</key>
+	<string>deserializeCupertino</string>
+	<key>gateservice</key>
+	<string>marginDelay</string>
+	<key>greatLoader</key>
+	<string>canvasinterpreterright</string>
+	<key>infoHue</key>
+	<string>emitSession</string>
+	<key>persistentUsage</key>
+	<string>layoutNavigator</string>
+	<key>projectionDelay</key>
+	<string>paintNavigation</string>
+	<key>reusablerestriction</key>
+	<string>enabledAudio</string>
+</dict>
+</plist>

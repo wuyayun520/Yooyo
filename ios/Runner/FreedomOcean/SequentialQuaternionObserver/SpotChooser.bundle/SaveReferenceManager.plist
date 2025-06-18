@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bandwidthType</key>
+	<string>sustainableProgressBar</string>
+	<key>grainuntilobserver</key>
+	<string>mixinWidget</string>
+	<key>newestRequest</key>
+	<string>connectScene</string>
+	<key>petName</key>
+	<string>delegateHash</string>
+</dict>
+</plist>

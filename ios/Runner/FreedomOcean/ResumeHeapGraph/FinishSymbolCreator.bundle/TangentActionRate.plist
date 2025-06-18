@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiverowlocation</key>
+	<string>restorestream</string>
+	<key>commonScroll</key>
+	<string>wrapInjection</string>
+	<key>fragmentsVisible</key>
+	<string>invisibleNavigator</string>
+	<key>multiScene</key>
+	<string>detailFeedback</string>
+</dict>
+</plist>

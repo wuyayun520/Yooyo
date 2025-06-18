@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableNode</key>
+	<string>keyModule</string>
+	<key>fragmentTheme</key>
+	<string>listviewMomentum</string>
+	<key>fragmentsOpacity</key>
+	<string>canDismissPositioned</string>
+	<key>navigateview</key>
+	<string>typicalDimension</string>
+	<key>sharedSizedBox</key>
+	<string>renderUnary</string>
+	<key>signatureOffset</key>
+	<string>matrixSkewY</string>
+	<key>usedSubscriber</key>
+	<string>sortedAlpha</string>
+</dict>
+</plist>

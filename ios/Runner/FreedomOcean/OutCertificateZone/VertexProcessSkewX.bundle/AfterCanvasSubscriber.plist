@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeRecursion</key>
+	<string>onchallengechanged</string>
+	<key>encodenavigation</key>
+	<string>accordionCaption</string>
+	<key>inactiveEntity</key>
+	<string>boxmode</string>
+	<key>mapValidation</key>
+	<string>injectionedge</string>
+	<key>navigatorparameterhead</key>
+	<string>arithmeticBehavior</string>
+	<key>retainedMember</key>
+	<string>transposeasync</string>
+	<key>routeasset</key>
+	<string>opaqueProtocol</string>
+	<key>setstatedialogs</key>
+	<string>shouldSubscribeSymbol</string>
+	<key>shouldDeserializeCompletion</key>
+	<string>sequentialLifecycle</string>
+	<key>transformerstageborder</key>
+	<string>mediocreMatrix</string>
+</dict>
+</plist>

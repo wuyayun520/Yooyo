@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectassystem</key>
+	<string>sequentialSlider</string>
+	<key>cartesianTicker</key>
+	<string>relationalRow</string>
+	<key>cupertinoTouch</key>
+	<string>elasticnode</string>
+	<key>gemShape</key>
+	<string>graphTop</string>
+	<key>interfacevaluesaturation</key>
+	<string>mobileDropdownButton</string>
+	<key>shouldMountCurve</key>
+	<string>disabledRequest</string>
+	<key>shouldPaintBorder</key>
+	<string>specifyProcessor</string>
+	<key>traversalHead</key>
+	<string>benchmarkcursor</string>
+	<key>unactivatedTime</key>
+	<string>strengthHead</string>
+	<key>vertexDirection</key>
+	<string>canPrepareResource</string>
+</dict>
+</plist>

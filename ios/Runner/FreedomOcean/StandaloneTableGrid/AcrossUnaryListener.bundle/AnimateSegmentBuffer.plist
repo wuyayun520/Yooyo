@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseSkirt</key>
+	<string>cancelDialogs</string>
+	<key>difficultSprite</key>
+	<string>interactiveTicker</string>
+	<key>lostsizedboxtint</key>
+	<string>shouldBindTask</string>
+	<key>positionbeyondshape</key>
+	<string>shouldRestartContainer</string>
+	<key>promiseVisibility</key>
+	<string>scrollableTernary</string>
+	<key>shouldCreateAnchor</key>
+	<string>setstateSwift</string>
+	<key>shouldPresentRadio</key>
+	<string>canRouteComposition</string>
+</dict>
+</plist>

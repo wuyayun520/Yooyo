@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoScene</key>
+	<string>tableContext</string>
+	<key>binarySkewX</key>
+	<string>pageviewName</string>
+	<key>immutableStateful</key>
+	<string>shouldConnectProfile</string>
+	<key>isConvolution</key>
+	<string>connectUtil</string>
+	<key>mediaIndex</key>
+	<string>canPopStateless</string>
+	<key>radioMode</key>
+	<string>serializeNavigation</string>
+	<key>switchstate</key>
+	<string>lastElasticity</string>
+</dict>
+</plist>

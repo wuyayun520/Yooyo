@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>converterDelay</key>
+	<string>difficultTraversal</string>
+	<key>deferredComposition</key>
+	<string>transitionthroughplatform</string>
+	<key>retainedscrollleft</key>
+	<string>shouldNavigateMonster</string>
+	<key>shouldDeserializeController</key>
+	<string>compositionallabel</string>
+	<key>shouldPrepareCoordinator</key>
+	<string>shouldInflateSignature</string>
+	<key>shouldsetstatecanvas</key>
+	<string>shouldObserveTangent</string>
+	<key>staticCoordinator</key>
+	<string>coordinatorOpacity</string>
+	<key>symmetricDisclaimer</key>
+	<string>criticalChannel</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerResilience</key>
+	<string>dissociateNode</string>
+	<key>flexibleAwait</key>
+	<string>shouldCreateOperation</string>
+	<key>hardFilter</key>
+	<string>retainedSingleton</string>
+	<key>immutableAxis</key>
+	<string>listenSwift</string>
+	<key>modulustheme</key>
+	<string>shouldShowSlash</string>
+	<key>publicMethod</key>
+	<string>shouldValidateAlert</string>
+	<key>seamlessMetadata</key>
+	<string>canTransformScale</string>
+	<key>shoulddismissmodulus</key>
+	<string>prismaticSegue</string>
+	<key>sophisticatedEntropy</key>
+	<string>criticalAspect</string>
+	<key>unactivatedAnimatedContainer</key>
+	<string>canUpdatePrecision</string>
+</dict>
+</plist>

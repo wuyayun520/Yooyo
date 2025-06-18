@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>geometricUsage</key>
+	<string>gridviewState</string>
+	<key>ismap</key>
+	<string>canPersistSubpixel</string>
+	<key>resilientanimator</key>
+	<string>sessionthanfacade</string>
+	<key>shouldConnectSemantics</key>
+	<string>largeSprite</string>
+	<key>shouldObserveCoordinator</key>
+	<string>persistentDispatcher</string>
+	<key>substantialSemantics</key>
+	<string>pauseAnimatedContainer</string>
+	<key>uniqueoverlayshape</key>
+	<string>shouldDeserializeDescriptor</string>
+	<key>webReference</key>
+	<string>canSerializeStateless</string>
+	<key>wrapperInset</key>
+	<string>shouldPaintPlate</string>
+</dict>
+</plist>

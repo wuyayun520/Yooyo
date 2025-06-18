@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedmetadata</key>
+	<string>shouldnotifycatalyst</string>
+	<key>behaviorAcceleration</key>
+	<string>diversifiedArchitecture</string>
+	<key>disabledRange</key>
+	<string>fusedScene</string>
+	<key>equalizationAlignment</key>
+	<string>encapsulateStorage</string>
+	<key>mainMesh</key>
+	<string>modelquaternion</string>
+	<key>retainlabel</key>
+	<string>pophash</string>
+	<key>scopeSpeed</key>
+	<string>rectCycle</string>
+	<key>shouldListenListView</key>
+	<string>graphicProcess</string>
+	<key>shouldtransitionconsumer</key>
+	<string>sequentialTrajectory</string>
+</dict>
+</plist>

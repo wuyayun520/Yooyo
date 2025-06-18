@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalNorm</key>
+	<string>certificateDirection</string>
+	<key>constraintcreator</key>
+	<string>canStopBuilder</string>
+	<key>currentnorm</key>
+	<string>nextDescriptor</string>
+	<key>mediaShape</key>
+	<string>objectColor</string>
+	<key>navigationtail</key>
+	<string>statefulTail</string>
+	<key>substantialScroll</key>
+	<string>scaleAction</string>
+</dict>
+</plist>

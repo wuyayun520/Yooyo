@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>detectorRate</key>
+	<string>actioninstage</string>
+	<key>independentResource</key>
+	<string>standaloneSensor</string>
+	<key>independentdropdownbuttondelay</key>
+	<string>collectionmodeformat</string>
+	<key>schedulerRate</key>
+	<string>collectionintegrity</string>
+	<key>secondScope</key>
+	<string>topicLocation</string>
+</dict>
+</plist>

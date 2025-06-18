@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianResilience</key>
+	<string>canBuildScreen</string>
+	<key>disabledKernel</key>
+	<string>compareSlider</string>
+	<key>ignoredElement</key>
+	<string>effectOperation</string>
+	<key>oldConstraint</key>
+	<string>storeModel</string>
+	<key>reflecttext</key>
+	<string>subsequentAperture</string>
+	<key>responsiveFinder</key>
+	<string>selectedmediaquery</string>
+	<key>shouldBuildComposition</key>
+	<string>operationTask</string>
+	<key>storyboardoffset</key>
+	<string>prevEvolution</string>
+	<key>substantialScale</key>
+	<string>cartesianImage</string>
+	<key>updateoverlay</key>
+	<string>mobileprovision</string>
+</dict>
+</plist>

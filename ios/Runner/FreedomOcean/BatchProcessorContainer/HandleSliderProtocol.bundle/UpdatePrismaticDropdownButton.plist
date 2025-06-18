@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ignoredSchema</key>
+	<string>enabledBorder</string>
+	<key>nodeoperationoffset</key>
+	<string>autoProject</string>
+	<key>numericalText</key>
+	<string>layoutFlex</string>
+	<key>requiredSkirt</key>
+	<string>desktopChecklist</string>
+	<key>sequentialSound</key>
+	<string>largeView</string>
+	<key>sinkTop</key>
+	<string>multiMechanism</string>
+	<key>sortedChapter</key>
+	<string>parallelTicker</string>
+</dict>
+</plist>

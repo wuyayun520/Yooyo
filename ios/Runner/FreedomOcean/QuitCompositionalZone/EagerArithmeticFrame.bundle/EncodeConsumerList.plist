@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ephemeralmediaacceleration</key>
+	<string>sharedSwitch</string>
+	<key>futureMargin</key>
+	<string>painteroutsideform</string>
+	<key>keycontractiontype</key>
+	<string>shouldEmitStamp</string>
+	<key>numericalMatrix</key>
+	<string>interactoruntilparam</string>
+	<key>numericalPainter</key>
+	<string>lifecycleOpacity</string>
+	<key>resizableSorter</key>
+	<string>stringifyTexture</string>
+	<key>subsequentClipper</key>
+	<string>decoupleTimer</string>
+	<key>tickermode</key>
+	<string>loadasset</string>
+	<key>variantType</key>
+	<string>canTransformGestureDetector</string>
+</dict>
+</plist>

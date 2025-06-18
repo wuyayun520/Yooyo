@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>detachplayback</key>
+	<string>vertexRotation</string>
+	<key>multiProfile</key>
+	<string>freeListener</string>
+	<key>ondrawertap</key>
+	<string>hyperbolicPosition</string>
+	<key>prevChart</key>
+	<string>fillalpha</string>
+	<key>shouldStartCapacities</key>
+	<string>createProjection</string>
+	<key>stackResponse</key>
+	<string>previewInterpreter</string>
+</dict>
+</plist>

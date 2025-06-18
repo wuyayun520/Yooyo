@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableModulus</key>
+	<string>spinTransition</string>
+	<key>disconnectmaster</key>
+	<string>interactiveResolver</string>
+	<key>lazyInformation</key>
+	<string>defaultWidget</string>
+	<key>navigatoramongform</key>
+	<string>persistentEfficiency</string>
+	<key>popupIndex</key>
+	<string>shouldRebuildSign</string>
+	<key>signinjection</key>
+	<string>restrictionvisible</string>
+</dict>
+</plist>

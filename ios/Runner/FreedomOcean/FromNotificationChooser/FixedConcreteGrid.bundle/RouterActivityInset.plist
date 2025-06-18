@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionStateless</key>
+	<string>descriptionDistance</string>
+	<key>copycontainer</key>
+	<string>shouldInflateDecoration</string>
+	<key>equalsize</key>
+	<string>missionsearcher</string>
+	<key>marginstatus</key>
+	<string>connectFlex</string>
+	<key>positionskewy</key>
+	<string>curveHead</string>
+	<key>scrollabletext</key>
+	<string>componentCount</string>
+	<key>shouldYieldSession</key>
+	<string>canContinueScroll</string>
+	<key>spriteName</key>
+	<string>canStopInteger</string>
+	<key>textureLocation</key>
+	<string>permanentParticle</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousChooser</key>
+	<string>parallelpositionsize</string>
+	<key>bandwidthValidation</key>
+	<string>deserializeKernel</string>
+	<key>diffableTask</key>
+	<string>nextThroughput</string>
+	<key>discardedrectangle</key>
+	<string>completerVisitor</string>
+	<key>operationpermutation</key>
+	<string>custompaintloop</string>
+	<key>unsortedSink</key>
+	<string>aggregateQueue</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>audioContrast</key>
+	<string>crudeRect</string>
+	<key>fragmentedge</key>
+	<string>keyGrain</string>
+	<key>invisibleLifecycle</key>
+	<string>inheritedReducer</string>
+	<key>prismaticFuture</key>
+	<string>autoEquivalent</string>
+	<key>viewValidation</key>
+	<string>baseFrequency</string>
+</dict>
+</plist>

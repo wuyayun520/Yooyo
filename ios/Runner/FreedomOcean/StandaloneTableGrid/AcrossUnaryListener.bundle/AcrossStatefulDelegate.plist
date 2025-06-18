@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveResolver</key>
+	<string>skinaboutchain</string>
+	<key>composableEntity</key>
+	<string>publicStamp</string>
+	<key>directMediaQuery</key>
+	<string>exceptionmediatorskewy</string>
+	<key>gateTheme</key>
+	<string>mainAxis</string>
+	<key>ignoredLatency</key>
+	<string>canEndShader</string>
+	<key>iterativeDescriptor</key>
+	<string>criticalDependency</string>
+	<key>momentumMargin</key>
+	<string>draggableDecoration</string>
+	<key>stackvalidation</key>
+	<string>criticalCustomPaint</string>
+	<key>visibleLog</key>
+	<string>endobserver</string>
+</dict>
+</plist>

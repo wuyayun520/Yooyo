@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryprototypeforce</key>
+	<string>enabledGrayscale</string>
+	<key>evaluationDensity</key>
+	<string>navigatorTint</string>
+	<key>iterativeSorter</key>
+	<string>storageMediator</string>
+	<key>nativeScope</key>
+	<string>deliveryShade</string>
+	<key>permissiveBandwidth</key>
+	<string>canDismissExtension</string>
+	<key>persistentGrayscale</key>
+	<string>capacitiesKind</string>
+	<key>resolveruntilbridge</key>
+	<string>originalAllocator</string>
+	<key>sliderfactory</key>
+	<string>resumeGraphic</string>
+</dict>
+</plist>

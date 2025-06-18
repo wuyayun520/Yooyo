@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumerSkewY</key>
+	<string>otherProcessor</string>
+	<key>independentPainter</key>
+	<string>touchBridge</string>
+	<key>protectedvector</key>
+	<string>screenAppearance</string>
+	<key>spriteoutsidetier</key>
+	<string>pushMap</string>
+</dict>
+</plist>

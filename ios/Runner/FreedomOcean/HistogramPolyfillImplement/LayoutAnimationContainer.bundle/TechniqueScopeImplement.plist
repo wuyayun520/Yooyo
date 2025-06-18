@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeAppBar</key>
+	<string>unmountedListView</string>
+	<key>histogramTheme</key>
+	<string>shouldBuildSine</string>
+	<key>intermediateTweak</key>
+	<string>desktopStateful</string>
+	<key>iterativeText</key>
+	<string>colorPosition</string>
+	<key>petnotation</key>
+	<string>delegatecontroller</string>
+	<key>rapidSensor</key>
+	<string>backwardCompleter</string>
+	<key>selectorBottom</key>
+	<string>consultativemarginbottom</string>
+	<key>sensorMode</key>
+	<string>shouldPushTool</string>
+	<key>sequentialScheduler</key>
+	<string>animatecanvas</string>
+	<key>slashlinker</key>
+	<string>entropyLocation</string>
+</dict>
+</plist>

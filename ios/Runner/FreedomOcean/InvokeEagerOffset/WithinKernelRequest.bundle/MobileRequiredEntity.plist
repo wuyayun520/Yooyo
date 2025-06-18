@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveStatus</key>
+	<string>mediocreAnalogy</string>
+	<key>connectanimation</key>
+	<string>uniqueCursor</string>
+	<key>extensionTail</key>
+	<string>shouldDisconnectSwift</string>
+	<key>shouldProcessRole</key>
+	<string>musicFlyweight</string>
+	<key>shouldRebuildSegment</key>
+	<string>independentPoint</string>
+</dict>
+</plist>

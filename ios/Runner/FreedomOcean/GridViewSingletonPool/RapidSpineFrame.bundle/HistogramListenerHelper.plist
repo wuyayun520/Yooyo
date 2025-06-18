@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultanalyzer</key>
+	<string>shouldStreamProfile</string>
+	<key>interfacecommandstatus</key>
+	<string>canvasOrientation</string>
+	<key>specifierimage</key>
+	<string>canPushLabel</string>
+	<key>typicalVideo</key>
+	<string>shouldPopComposition</string>
+	<key>unregisteranchor</key>
+	<string>specifierBrightness</string>
+</dict>
+</plist>

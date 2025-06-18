@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>geometricInteger</key>
+	<string>shouldPrepareNib</string>
+	<key>scopeAppearance</key>
+	<string>diversifiedOverlay</string>
+	<key>stateDirection</key>
+	<string>similarProjection</string>
+	<key>unarypermutation</key>
+	<string>descriptioncolor</string>
+</dict>
+</plist>

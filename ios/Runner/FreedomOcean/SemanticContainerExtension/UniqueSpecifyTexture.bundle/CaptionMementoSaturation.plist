@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>popbrush</key>
+	<string>canAnimateChecklist</string>
+	<key>temporaryEffect</key>
+	<string>shouldPopBehavior</string>
+	<key>timelineOrigin</key>
+	<string>functionalLinker</string>
+	<key>topicplatformleft</key>
+	<string>canConnectGestureDetector</string>
+</dict>
+</plist>

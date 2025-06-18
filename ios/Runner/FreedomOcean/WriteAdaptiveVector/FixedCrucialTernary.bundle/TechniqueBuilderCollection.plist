@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderTension</key>
+	<string>easyNavigation</string>
+	<key>displayableImage</key>
+	<string>introspectInteractor</string>
+	<key>gemtexture</key>
+	<string>combinerShade</string>
+	<key>shouldDismissTask</key>
+	<string>tweakColor</string>
+	<key>shouldProcessTangent</key>
+	<string>shouldKeepGradient</string>
+	<key>synchronousPager</key>
+	<string>statelessPresenter</string>
+	<key>tappableText</key>
+	<string>impressionEdge</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchSize</key>
+	<string>opaqueReceiver</string>
+	<key>declarativeInteraction</key>
+	<string>canRenderChallenge</string>
+	<key>diffablePermutation</key>
+	<string>adaptiveAsync</string>
+	<key>gateBottom</key>
+	<string>sophisticatednotifierskewy</string>
+	<key>geometricConfidentiality</key>
+	<string>defaultmodulus</string>
+	<key>seamlessContrast</key>
+	<string>canReplaceNib</string>
+	<key>sharedArchitecture</key>
+	<string>checkFrame</string>
+	<key>temporaryMenu</key>
+	<string>shouldDisconnectImage</string>
+</dict>
+</plist>

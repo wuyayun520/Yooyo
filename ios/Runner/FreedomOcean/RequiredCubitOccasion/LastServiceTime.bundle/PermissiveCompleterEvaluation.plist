@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>amortizationFeedback</key>
+	<string>shouldConnectInteger</string>
+	<key>callbackvideo</key>
+	<string>navigateSign</string>
+	<key>mapFrequency</key>
+	<string>listenerscope</string>
+	<key>smartMediaQuery</key>
+	<string>usageprovider</string>
+	<key>smartbuilder</key>
+	<string>popTabView</string>
+	<key>storepressure</key>
+	<string>constraintthancycle</string>
+	<key>toolevent</key>
+	<string>creatorVisibility</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorcontextbehavior</key>
+	<string>canAnimateCoordinator</string>
+	<key>borderDelay</key>
+	<string>equivalentOpacity</string>
+	<key>consultativeFinder</key>
+	<string>shouldformatcomposition</string>
+	<key>customizedTriangles</key>
+	<string>canDisposeEqualization</string>
+	<key>desktopInfrastructure</key>
+	<string>specifyClipper</string>
+	<key>directlyRemediation</key>
+	<string>cardFeedback</string>
+	<key>documentlayerorientation</key>
+	<string>pushCurve</string>
+	<key>thresholdAlignment</key>
+	<string>nibincludelevel</string>
+	<key>visibleAspectRatio</key>
+	<string>immutableOverlay</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentbesidetype</key>
+	<string>compareusecase</string>
+	<key>cellBottom</key>
+	<string>expandedofobserver</string>
+	<key>gestureatpattern</key>
+	<string>iterativeplaybackoffset</string>
+	<key>observerstyleoffset</key>
+	<string>canFinishCapsule</string>
+	<key>quitradius</key>
+	<string>shouldMountedActivity</string>
+	<key>recursioncolor</key>
+	<string>maxCustomPaint</string>
+	<key>shouldDismissImage</key>
+	<string>instructionvalidation</string>
+	<key>shouldPauseInterpolation</key>
+	<string>bulletcompositepressure</string>
+</dict>
+</plist>

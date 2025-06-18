@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>marginSkewX</key>
+	<string>controlleraroundenvironment</string>
+	<key>mountfactory</key>
+	<string>standaloneException</string>
+	<key>repositoryResponse</key>
+	<string>renderProtocol</string>
+	<key>shouldBuildStamp</key>
+	<string>shouldReplaceSegment</string>
+</dict>
+</plist>

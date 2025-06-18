@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselinedensity</key>
+	<string>arithmeticseguetag</string>
+	<key>bulletformdirection</key>
+	<string>mediumSemantics</string>
+	<key>mediaqueryamortization</key>
+	<string>creatorShape</string>
+	<key>particleinsidevalue</key>
+	<string>textfieldShape</string>
+	<key>sharedSemantics</key>
+	<string>prevRadio</string>
+	<key>tableBorder</key>
+	<string>shouldReplaceStream</string>
+	<key>visibleCompleter</key>
+	<string>deflateEntity</string>
+</dict>
+</plist>

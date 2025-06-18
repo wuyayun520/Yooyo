@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicLoop</key>
+	<string>basicroute</string>
+	<key>cleanskin</key>
+	<string>vectoroperationbehavior</string>
+	<key>controllervisible</key>
+	<string>paintpoint</string>
+	<key>createframe</key>
+	<string>routerBridge</string>
+	<key>independentgate</key>
+	<string>shouldEmitProfile</string>
+	<key>shouldSerializePlate</key>
+	<string>commonResilience</string>
+	<key>synchronousRadius</key>
+	<string>rapidResponse</string>
+	<key>temporaryCard</key>
+	<string>boxshadowMargin</string>
+</dict>
+</plist>

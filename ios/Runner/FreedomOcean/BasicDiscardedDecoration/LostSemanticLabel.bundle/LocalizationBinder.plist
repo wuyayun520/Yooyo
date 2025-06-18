@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoReduction</key>
+	<string>resultFlags</string>
+	<key>clippercontainvar</key>
+	<string>missionscalability</string>
+	<key>componentCenter</key>
+	<string>shouldMountTransition</string>
+	<key>controlleratstructure</key>
+	<string>poolInjection</string>
+	<key>displayablelocalizationrotation</key>
+	<string>workflowHue</string>
+	<key>enabledAnimator</key>
+	<string>provisionFrequency</string>
+	<key>lastDropdownButton</key>
+	<string>pageviewmargin</string>
+	<key>localMember</key>
+	<string>granularbloc</string>
+	<key>symbolacceleration</key>
+	<string>screenerror</string>
+	<key>symmetricmenu</key>
+	<string>displayableNavigation</string>
+</dict>
+</plist>

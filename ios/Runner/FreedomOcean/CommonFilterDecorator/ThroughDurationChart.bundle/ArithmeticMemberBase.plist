@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diversifiedTask</key>
+	<string>keyCompletion</string>
+	<key>hasAnchor</key>
+	<string>newestCluster</string>
+	<key>polygonAcceleration</key>
+	<string>musicInterval</string>
+	<key>processnorm</key>
+	<string>refreshGroup</string>
+	<key>shouldProcessRadio</key>
+	<string>interactiveDistinction</string>
+	<key>shouldStopMaterial</key>
+	<string>indicatorindex</string>
+	<key>smartConverter</key>
+	<string>invokeAlignment</string>
+</dict>
+</plist>

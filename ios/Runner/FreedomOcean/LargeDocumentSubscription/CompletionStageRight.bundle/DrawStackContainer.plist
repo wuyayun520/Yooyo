@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>giftcluster</key>
+	<string>opaqueContainer</string>
+	<key>hasRichText</key>
+	<string>canPopDelegate</string>
+	<key>materialpicker</key>
+	<string>canEndConvolution</string>
+	<key>menuprovision</key>
+	<string>canBuildSine</string>
+	<key>parallelThreshold</key>
+	<string>sophisticatedexception</string>
+	<key>resilientBuffer</key>
+	<string>ischannels</string>
+	<key>responsiveDistinction</key>
+	<string>granularStep</string>
+	<key>sharedGraph</key>
+	<string>latencyAcceleration</string>
+	<key>storeanalyzer</key>
+	<string>consumptionAlignment</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>densetool</key>
+	<string>routerOperation</string>
+	<key>displayableMission</key>
+	<string>staticRouter</string>
+	<key>draggablePolyfill</key>
+	<string>dispatchSegment</string>
+	<key>exponentSkewY</key>
+	<string>intuitiveTabView</string>
+	<key>liteTrigger</key>
+	<string>islogarithm</string>
+	<key>modalMomentum</key>
+	<string>alertSpacing</string>
+	<key>pointfrominterpreter</key>
+	<string>flexibleThreshold</string>
+</dict>
+</plist>

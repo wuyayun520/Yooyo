@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardorientation</key>
+	<string>desktopalpha</string>
+	<key>entityuntilprototype</key>
+	<string>formatVisibility</string>
+	<key>fusedinfrastructure</key>
+	<string>inactivecollectioncolor</string>
+	<key>intensityMode</key>
+	<string>ascentOrientation</string>
+	<key>shouldAttachNorm</key>
+	<string>responsedensity</string>
+	<key>shouldDismissAccessory</key>
+	<string>flexibleNavigation</string>
+	<key>shouldDismissBaseline</key>
+	<string>nodeprototypebound</string>
+	<key>shouldLoadTouch</key>
+	<string>numericalInteger</string>
+	<key>shouldroutedialogs</key>
+	<string>typicalPageView</string>
+</dict>
+</plist>

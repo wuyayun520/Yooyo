@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationdepth</key>
+	<string>componentTint</string>
+	<key>eagerstatus</key>
+	<string>inheritedLoader</string>
+	<key>liteComponent</key>
+	<string>uniqueProcessor</string>
+	<key>modelTransparency</key>
+	<string>cupertinoSubscription</string>
+	<key>protectedTernary</key>
+	<string>replaceOption</string>
+	<key>shouldLayoutUsage</key>
+	<string>regulateTicker</string>
+	<key>shouldNotifyMember</key>
+	<string>activatedStack</string>
+	<key>shouldroutechannels</key>
+	<string>embedGroup</string>
+	<key>sortedSearcher</key>
+	<string>viewBridge</string>
+</dict>
+</plist>

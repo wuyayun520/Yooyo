@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorBottom</key>
+	<string>flexflags</string>
+	<key>enabledAudio</key>
+	<string>uniformInkWell</string>
+	<key>nodeTag</key>
+	<string>pauseExtension</string>
+	<key>resolvertaskspacing</key>
+	<string>completerforce</string>
+	<key>uniqueTriangles</key>
+	<string>smartintegration</string>
+</dict>
+</plist>

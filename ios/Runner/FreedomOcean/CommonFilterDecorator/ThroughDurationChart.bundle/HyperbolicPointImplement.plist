@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>colorRate</key>
+	<string>prismaticQuaternion</string>
+	<key>consumerBrightness</key>
+	<string>intermediateScreen</string>
+	<key>detectorTension</key>
+	<string>precisionAcceleration</string>
+	<key>hierarchicalMovement</key>
+	<string>canTransformTask</string>
+	<key>otherStateful</key>
+	<string>deferredBinder</string>
+	<key>shouldBindPoint</key>
+	<string>chartStyle</string>
+</dict>
+</plist>

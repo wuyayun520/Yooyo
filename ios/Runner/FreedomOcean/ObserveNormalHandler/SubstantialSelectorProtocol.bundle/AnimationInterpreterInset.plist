@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelcontainer</key>
+	<string>shouldRouteLog</string>
+	<key>clusterDuration</key>
+	<string>smallcertificatetail</string>
+	<key>entropyanalyzer</key>
+	<string>painterasstage</string>
+	<key>flexibleDropdownButton</key>
+	<string>buildersize</string>
+	<key>interactiveLinker</key>
+	<string>retainResponse</string>
+	<key>notationValidation</key>
+	<string>shouldRoutePoint</string>
+	<key>shouldSkipTabBar</key>
+	<string>intermediateBase</string>
+</dict>
+</plist>

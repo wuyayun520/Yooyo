@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>extensionpressure</key>
+	<string>entityTheme</string>
+	<key>sequentialStroke</key>
+	<string>lazyNotifier</string>
+	<key>shapeInteraction</key>
+	<string>multiMesh</string>
+	<key>shouldRenderView</key>
+	<string>freeMethod</string>
+</dict>
+</plist>

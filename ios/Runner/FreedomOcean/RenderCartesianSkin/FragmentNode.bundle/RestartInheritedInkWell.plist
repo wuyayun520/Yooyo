@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aperturebandwidth</key>
+	<string>ephemeralNotifier</string>
+	<key>backwardResilience</key>
+	<string>autoFuture</string>
+	<key>buttonindex</key>
+	<string>emittext</string>
+	<key>calculatebatch</key>
+	<string>shouldencodeflex</string>
+	<key>intuitiveBatch</key>
+	<string>keytaskopacity</string>
+	<key>shouldPrepareHeap</key>
+	<string>maintainRadius</string>
+	<key>shouldbuildgesturedetector</key>
+	<string>visibleSlash</string>
+	<key>sineLeft</key>
+	<string>shouldBuildGem</string>
+	<key>workflowStatus</key>
+	<string>tappableReference</string>
+</dict>
+</plist>

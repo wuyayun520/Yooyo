@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>audioInteraction</key>
+	<string>keyTriangles</string>
+	<key>concreteSemantics</key>
+	<string>spotBehavior</string>
+	<key>rectSaturation</key>
+	<string>displayableRepository</string>
+	<key>reliabilityScale</key>
+	<string>anchorTransparency</string>
+	<key>smallScaffold</key>
+	<string>significantOptimizer</string>
+</dict>
+</plist>

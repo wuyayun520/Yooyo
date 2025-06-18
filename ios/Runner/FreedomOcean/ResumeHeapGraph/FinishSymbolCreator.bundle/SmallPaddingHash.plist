@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorasfacade</key>
+	<string>menuMediator</string>
+	<key>connectorState</key>
+	<string>gridParameter</string>
+	<key>durationLeft</key>
+	<string>retainConstraint</string>
+	<key>sharedPresenter</key>
+	<string>liteCursor</string>
+	<key>temporaryProvision</key>
+	<string>popTexture</string>
+</dict>
+</plist>

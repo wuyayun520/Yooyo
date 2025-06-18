@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackContrast</key>
+	<string>specifyAnimator</string>
+	<key>inheritedWorkflow</key>
+	<string>actionBorder</string>
+	<key>intermediateTrajectory</key>
+	<string>canPushProtocol</string>
+	<key>lazyReducer</key>
+	<string>handleEqualization</string>
+	<key>mainPadding</key>
+	<string>interactorParam</string>
+	<key>polyfillPressure</key>
+	<string>shouldskipdelegate</string>
+	<key>resizableAlignment</key>
+	<string>rapidSize</string>
+	<key>shouldParseRow</key>
+	<string>singleChapter</string>
+	<key>shouldmountvariant</key>
+	<string>synchronousQuaternion</string>
+</dict>
+</plist>

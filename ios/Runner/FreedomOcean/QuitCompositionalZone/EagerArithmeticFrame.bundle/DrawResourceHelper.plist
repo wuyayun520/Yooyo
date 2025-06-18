@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggablecubit</key>
+	<string>prepareSample</string>
+	<key>integermargin</key>
+	<string>nativeAspect</string>
+	<key>notifierduringstate</key>
+	<string>firstrepositorylocation</string>
+	<key>pushscene</key>
+	<string>sortederrorinteraction</string>
+	<key>restrictionContrast</key>
+	<string>animateBuffer</string>
+	<key>stampmesh</key>
+	<string>adaptiveAllocator</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensivecurve</key>
+	<string>navigatorrate</string>
+	<key>keyVolume</key>
+	<string>canSerializeSwift</string>
+	<key>notifymovement</key>
+	<string>subscribeSign</string>
+	<key>offsetdecoration</key>
+	<string>canObserveMember</string>
+	<key>persisttransition</key>
+	<string>shouldFormatTask</string>
+	<key>resilientResource</key>
+	<string>mapgroup</string>
+	<key>similarSchema</key>
+	<string>deprecateFrame</string>
+	<key>taskstyleleft</key>
+	<string>shouldSkipStack</string>
+	<key>temporaryEmitter</key>
+	<string>resilientUtil</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>attachshader</key>
+	<string>enumerateAsset</string>
+	<key>cacheinterval</key>
+	<string>publicAppBar</string>
+	<key>customspotduration</key>
+	<string>customfuture</string>
+	<key>enabledMaster</key>
+	<string>finishsizedbox</string>
+	<key>factoryDistance</key>
+	<string>dropoutProvider</string>
+	<key>graphmethoddepth</key>
+	<string>canCancelBullet</string>
+	<key>interactiveSearcher</key>
+	<string>observeSwitch</string>
+	<key>pointPressure</key>
+	<string>gridcoord</string>
+	<key>shouldAttachCursor</key>
+	<string>shouldPushRole</string>
+	<key>shouldPauseMaterial</key>
+	<string>animatorCenter</string>
+</dict>
+</plist>

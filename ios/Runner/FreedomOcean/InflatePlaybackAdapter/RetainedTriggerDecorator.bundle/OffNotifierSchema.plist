@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedKernel</key>
+	<string>dismissModel</string>
+	<key>crudeSchema</key>
+	<string>subsequentConstant</string>
+	<key>inactiveResponder</key>
+	<string>optionTransparency</string>
+	<key>shoulddetachtable</key>
+	<string>ephemeralClipper</string>
+</dict>
+</plist>

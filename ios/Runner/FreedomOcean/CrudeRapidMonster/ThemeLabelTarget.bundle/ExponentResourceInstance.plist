@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeStep</key>
+	<string>canListenChecklist</string>
+	<key>decorationFeedback</key>
+	<string>popupRotation</string>
+	<key>hardNotation</key>
+	<string>materialStrategy</string>
+	<key>nibVisibility</key>
+	<string>shouldPersistSensor</string>
+	<key>sliderShape</key>
+	<string>remainderValue</string>
+</dict>
+</plist>

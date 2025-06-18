@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fusedSemantics</key>
+	<string>triggerOrientation</string>
+	<key>shouldCacheMember</key>
+	<string>shouldStopGradient</string>
+	<key>shouldProcessController</key>
+	<string>shouldAttachDocument</string>
+	<key>smartRadius</key>
+	<string>draggableScalability</string>
+	<key>temporaryBuilder</key>
+	<string>shouldPreparePadding</string>
+	<key>titletriangles</key>
+	<string>shouldBindCheckbox</string>
+	<key>trianglesDensity</key>
+	<string>animationMargin</string>
+	<key>usageDirection</key>
+	<string>singleReliability</string>
+</dict>
+</plist>

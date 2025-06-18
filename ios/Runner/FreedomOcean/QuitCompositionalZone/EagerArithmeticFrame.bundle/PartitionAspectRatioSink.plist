@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalMend</key>
+	<string>accordionSlider</string>
+	<key>customIndicator</key>
+	<string>defaultbutton</string>
+	<key>cycleprovision</key>
+	<string>touchEdge</string>
+	<key>geometricnibdepth</key>
+	<string>inactivetable</string>
+	<key>listengrain</key>
+	<string>unmarshalCurve</string>
+	<key>shouldUnmountedNavigation</key>
+	<string>quantizerAlignment</string>
+	<key>tensorFeature</key>
+	<string>diffableContraction</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directstate</key>
+	<string>dedicatedBuffer</string>
+	<key>errorTail</key>
+	<string>captionOrientation</string>
+	<key>flexiblemovementdensity</key>
+	<string>canTransformPriority</string>
+	<key>granularsubpixel</key>
+	<string>shouldEmitTransition</string>
+	<key>prismaticCupertino</key>
+	<string>denseGram</string>
+	<key>shouldUnmountedComposition</key>
+	<string>uniformColumn</string>
+	<key>tensorVariant</key>
+	<string>shouldInflateChecklist</string>
+</dict>
+</plist>

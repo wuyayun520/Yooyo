@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedTextField</key>
+	<string>canRenderTabView</string>
+	<key>intensityscenario</key>
+	<string>beginnerSubpixel</string>
+	<key>interactiveDetector</key>
+	<string>toleranceSize</string>
+	<key>opaqueColor</key>
+	<string>icondensity</string>
+	<key>permanentAnalyzer</key>
+	<string>synchronouslinker</string>
+	<key>rowview</key>
+	<string>captureResolver</string>
+	<key>sinktimeline</key>
+	<string>draggableHistogram</string>
+	<key>unactivatedGram</key>
+	<string>startBase</string>
+</dict>
+</plist>

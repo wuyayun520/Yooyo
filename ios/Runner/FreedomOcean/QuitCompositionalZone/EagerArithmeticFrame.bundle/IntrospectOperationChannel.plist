@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>matrixcoordinator</key>
+	<string>processorPosition</string>
+	<key>shouldDeserializeInstruction</key>
+	<string>globalFuture</string>
+	<key>shouldKeepTool</key>
+	<string>analyzerBrightness</string>
+	<key>storeAppearance</key>
+	<string>associatedContrast</string>
+	<key>visibleWrapper</key>
+	<string>newestSpecifier</string>
+</dict>
+</plist>

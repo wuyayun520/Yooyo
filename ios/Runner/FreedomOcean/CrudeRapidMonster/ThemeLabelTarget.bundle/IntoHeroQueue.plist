@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalAspect</key>
+	<string>divideService</string>
+	<key>fragmentright</key>
+	<string>sizedboxName</string>
+	<key>histogramLocation</key>
+	<string>persistTangent</string>
+	<key>moveallocator</key>
+	<string>canBuildDialogs</string>
+	<key>semanticProgressBar</key>
+	<string>canBuildTechnique</string>
+	<key>shouldBuildStack</key>
+	<string>shouldKeepFlex</string>
+</dict>
+</plist>

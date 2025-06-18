@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gestureVelocity</key>
+	<string>uniformTabView</string>
+	<key>injectionparamtheme</key>
+	<string>shouldKeepSample</string>
+	<key>nextScaffold</key>
+	<string>priorchannelsmargin</string>
+	<key>sequentialObject</key>
+	<string>confidentialityColor</string>
+	<key>shouldRouteDrawer</key>
+	<string>globalProcessor</string>
+	<key>shouldSubscribeContainer</key>
+	<string>shouldInflateStateful</string>
+	<key>temporaryCallback</key>
+	<string>rotateEvent</string>
+</dict>
+</plist>

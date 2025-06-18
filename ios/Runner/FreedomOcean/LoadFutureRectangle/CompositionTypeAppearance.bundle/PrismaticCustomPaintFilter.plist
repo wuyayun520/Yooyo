@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterMode</key>
+	<string>requiredCanvas</string>
+	<key>combinerCount</key>
+	<string>decodeTernary</string>
+	<key>configurationMomentum</key>
+	<string>iterativeOptimizer</string>
+	<key>configurationinset</key>
+	<string>numericalCombiner</string>
+	<key>denseSingleton</key>
+	<string>aperturemetadata</string>
+	<key>responderinterval</key>
+	<string>remainderIndex</string>
+	<key>tweakState</key>
+	<string>sampleTail</string>
+</dict>
+</plist>

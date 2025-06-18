@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineresponse</key>
+	<string>localSprite</string>
+	<key>enabledReduction</key>
+	<string>smallSprite</string>
+	<key>enabledequalizationresponse</key>
+	<string>trainNorm</string>
+	<key>mobileKind</key>
+	<string>animatedSample</string>
+	<key>multiInteger</key>
+	<string>reusableStrength</string>
+	<key>secondStore</key>
+	<string>finderTint</string>
+</dict>
+</plist>

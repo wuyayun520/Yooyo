@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedSegue</key>
+	<string>resolverbuffercontrast</string>
+	<key>combinerLeft</key>
+	<string>statelessstateless</string>
+	<key>customizedAction</key>
+	<string>readzone</string>
+	<key>customizedScope</key>
+	<string>serviceState</string>
+	<key>disablednotifierpressure</key>
+	<string>shouldConnectBorder</string>
+	<key>documentCount</key>
+	<string>controllerStyle</string>
+	<key>shouldTrainMap</key>
+	<string>defaultSymbol</string>
+	<key>visibleGridView</key>
+	<string>prepareCheckbox</string>
+	<key>widgetTheme</key>
+	<string>semanticMovement</string>
+</dict>
+</plist>

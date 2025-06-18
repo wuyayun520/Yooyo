@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedMomentum</key>
+	<string>marshalRepository</string>
+	<key>emithistogram</key>
+	<string>showFrame</string>
+	<key>interactiveDrawer</key>
+	<string>layoutTable</string>
+	<key>missedCubit</key>
+	<string>sequentialCaption</string>
+	<key>permutationBehavior</key>
+	<string>unmountedCaption</string>
+	<key>shoulddisposesignature</key>
+	<string>managerMargin</string>
+	<key>timebound</key>
+	<string>canNotifyDecoration</string>
+</dict>
+</plist>

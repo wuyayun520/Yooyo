@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activedisclaimer</key>
+	<string>agileSubscriber</string>
+	<key>backwardSingleton</key>
+	<string>composableprovider</string>
+	<key>diffableSession</key>
+	<string>dimensionFeedback</string>
+	<key>gesturedetectorrestriction</key>
+	<string>tensorPublisher</string>
+	<key>immutableQuaternion</key>
+	<string>upgradeInteractor</string>
+	<key>localizationTheme</key>
+	<string>visualizeRequest</string>
+	<key>mutablebaseline</key>
+	<string>methodFacade</string>
+	<key>pivotalFinder</key>
+	<string>delegateimpact</string>
+	<key>tabviewResponse</key>
+	<string>canNotifyRemainder</string>
+	<key>trianglesTransparency</key>
+	<string>selectedindicator</string>
+</dict>
+</plist>

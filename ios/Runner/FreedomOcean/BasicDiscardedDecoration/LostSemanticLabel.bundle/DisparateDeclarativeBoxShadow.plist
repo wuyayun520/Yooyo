@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerrotation</key>
+	<string>shouldmountmember</string>
+	<key>eagerDecoration</key>
+	<string>canObservePet</string>
+	<key>functionalGraph</key>
+	<string>preparebehavior</string>
+	<key>intermediategram</key>
+	<string>completionconstant</string>
+	<key>objectMargin</key>
+	<string>restoreNavigator</string>
+	<key>seamlessChallenge</key>
+	<string>shouldRebuildBaseline</string>
+	<key>shouldYieldGrayscale</key>
+	<string>sharedreliability</string>
+	<key>tablebridgecount</key>
+	<string>temporaryOperation</string>
+</dict>
+</plist>

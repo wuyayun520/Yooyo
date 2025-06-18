@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticChecklist</key>
+	<string>largeNotification</string>
+	<key>beginnerdrawerborder</key>
+	<string>pageviewposition</string>
+	<key>contrastSpeed</key>
+	<string>semanticdrawer</string>
+	<key>displayableMaterializer</key>
+	<string>shouldFetchWorkflow</string>
+	<key>drawerscopehead</key>
+	<string>pinchableReference</string>
+	<key>handlerquaternion</key>
+	<string>priorityinjection</string>
+	<key>isolatesearcher</key>
+	<string>handleChannel</string>
+	<key>retaingesture</key>
+	<string>crudeElasticity</string>
+	<key>shouldRestartContainer</key>
+	<string>connectUnary</string>
+</dict>
+</plist>

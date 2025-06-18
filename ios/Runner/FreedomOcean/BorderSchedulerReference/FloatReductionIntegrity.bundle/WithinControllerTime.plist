@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedShape</key>
+	<string>masteroccasion</string>
+	<key>asynchronousAsset</key>
+	<string>contractiontweak</string>
+	<key>dedicatedTweak</key>
+	<string>activeoccasion</string>
+	<key>indicatordepth</key>
+	<string>dependencydensity</string>
+	<key>mobileRange</key>
+	<string>shouldLayoutImage</string>
+	<key>resilienceSkewX</key>
+	<string>permissivePositioned</string>
+	<key>scalabilitycontrast</key>
+	<string>iconPhase</string>
+	<key>shouldTransformLabel</key>
+	<string>canDisposeIndicator</string>
+	<key>uniqueRemainder</key>
+	<string>shouldYieldScaffold</string>
+</dict>
+</plist>

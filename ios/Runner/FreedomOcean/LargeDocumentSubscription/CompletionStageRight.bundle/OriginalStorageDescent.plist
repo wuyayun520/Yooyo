@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleCupertino</key>
+	<string>resizeReducer</string>
+	<key>arithmeticresource</key>
+	<string>firstvector</string>
+	<key>fixedThreshold</key>
+	<string>responsivetexture</string>
+	<key>nextItem</key>
+	<string>robustTolerance</string>
+	<key>nextTopic</key>
+	<string>sliderContrast</string>
+	<key>optionTint</key>
+	<string>canShowSwitch</string>
+	<key>soundVisibility</key>
+	<string>shouldStartText</string>
+</dict>
+</plist>

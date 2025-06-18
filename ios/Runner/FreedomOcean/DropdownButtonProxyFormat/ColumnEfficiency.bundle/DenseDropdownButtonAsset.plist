@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createcallback</key>
+	<string>usedEqualization</string>
+	<key>decorationviavariable</key>
+	<string>delicateCatalyst</string>
+	<key>responsechainborder</key>
+	<string>normawaypattern</string>
+	<key>shouldFinishExponent</key>
+	<string>permissiveoffset</string>
+	<key>shouldStreamBloc</key>
+	<string>equalizationDepth</string>
+	<key>shouldUnbindNavigator</key>
+	<string>multiplicationPressure</string>
+	<key>singleSegue</key>
+	<string>originalGrid</string>
+	<key>subscriptionpermutation</key>
+	<string>shouldCreatePageView</string>
+</dict>
+</plist>

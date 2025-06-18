@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>durationuntilvariable</key>
+	<string>interpolationcolor</string>
+	<key>grainscopecount</key>
+	<string>segmentSkewY</string>
+	<key>immutablegridview</key>
+	<string>createContainer</string>
+	<key>sequentialTransition</key>
+	<string>hierarchicalLatency</string>
+	<key>shouldSubscribeSkirt</key>
+	<string>shouldConnectTask</string>
+	<key>singlecell</key>
+	<string>directlybuilder</string>
+</dict>
+</plist>

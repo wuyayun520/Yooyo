@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>detachsegue</key>
+	<string>canDecodeCharacter</string>
+	<key>imperativeState</key>
+	<string>clipEvent</string>
+	<key>permanentscenario</key>
+	<string>crudeSegue</string>
+	<key>shouldHandleTabBar</key>
+	<string>canUnmountedTheme</string>
+	<key>shouldloadexpanded</key>
+	<string>cupertinosink</string>
+</dict>
+</plist>

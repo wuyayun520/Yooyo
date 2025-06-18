@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialTriangles</key>
+	<string>encodepadding</string>
+	<key>discoverzone</key>
+	<string>canRouteBitrate</string>
+	<key>lifecycleinterval</key>
+	<string>unactivatedResource</string>
+	<key>nextFrame</key>
+	<string>deprecateEvent</string>
+	<key>quaternionEdge</key>
+	<string>transpileCoordinator</string>
+</dict>
+</plist>

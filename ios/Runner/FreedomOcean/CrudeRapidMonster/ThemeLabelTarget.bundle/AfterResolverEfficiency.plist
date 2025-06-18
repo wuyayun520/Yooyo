@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composablesession</key>
+	<string>composableReliability</string>
+	<key>concreteZone</key>
+	<string>ongraphicchanged</string>
+	<key>difficultTransition</key>
+	<string>diffableReplica</string>
+	<key>disparateLoader</key>
+	<string>deactivateStorage</string>
+	<key>executewidget</key>
+	<string>createDimension</string>
+</dict>
+</plist>

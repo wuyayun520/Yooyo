@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardModulus</key>
+	<string>shouldPushPlayback</string>
+	<key>consultativeSorter</key>
+	<string>canAnimateRichText</string>
+	<key>entropyDensity</key>
+	<string>cacheHeap</string>
+	<key>managerleft</key>
+	<string>amortizationCenter</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enddimension</key>
+	<string>canFormatChallenge</string>
+	<key>issensor</key>
+	<string>bloclikefunction</string>
+	<key>methodRotation</key>
+	<string>canShowTable</string>
+	<key>missedEntity</key>
+	<string>lazyoffset</string>
+	<key>prismaticEfficiency</key>
+	<string>chapterTop</string>
+	<key>unactivatedequipment</key>
+	<string>localOptimizer</string>
+</dict>
+</plist>

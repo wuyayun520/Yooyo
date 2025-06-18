@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>efficiencySkewY</key>
+	<string>statelessBehavior</string>
+	<key>ephemeralchart</key>
+	<string>custompaintlatency</string>
+	<key>matrixdisclaimer</key>
+	<string>canRebuildOverlay</string>
+	<key>providedelegate</key>
+	<string>replaceTheme</string>
+	<key>sustainableCoordinator</key>
+	<string>viewmend</string>
+	<key>typicalPadding</key>
+	<string>enumerateSize</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characteristicdelay</key>
+	<string>delicatePreview</string>
+	<key>scaleinsideframework</key>
+	<string>tableActivity</string>
+	<key>sequentialDescriptor</key>
+	<string>subsequentPromise</string>
+	<key>shouldLoadSegue</key>
+	<string>presentSensor</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinovolume</key>
+	<string>zoneIndex</string>
+	<key>inheritedProfile</key>
+	<string>canDecodeRadio</string>
+	<key>normalPoint</key>
+	<string>interactorCoord</string>
+	<key>plateMargin</key>
+	<string>canHandleTool</string>
+	<key>radiusandtask</key>
+	<string>resultorientation</string>
+	<key>resilientNode</key>
+	<string>missedEvaluation</string>
+	<key>subtlefeature</key>
+	<string>flexibleDistinction</string>
+	<key>unactivatedMetrics</key>
+	<string>respondCompleter</string>
+</dict>
+</plist>

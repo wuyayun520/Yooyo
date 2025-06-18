@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actioninparameter</key>
+	<string>shouldParseSemantics</string>
+	<key>immutableOverlay</key>
+	<string>handleTask</string>
+	<key>lazyLocalization</key>
+	<string>activeTween</string>
+	<key>robustModal</key>
+	<string>transformanimatedcontainer</string>
+	<key>shouldFormatMusic</key>
+	<string>denseInformation</string>
+</dict>
+</plist>

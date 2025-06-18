@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorInset</key>
+	<string>prismaticStateful</string>
+	<key>basicalphafeedback</key>
+	<string>latencycount</string>
+	<key>enabledstate</key>
+	<string>singletonVelocity</string>
+	<key>materialvector</key>
+	<string>spineMargin</string>
+	<key>oldOptimizer</key>
+	<string>unbinddescription</string>
+	<key>prepareboxshadow</key>
+	<string>amortizationTag</string>
+	<key>respectiveWrapper</key>
+	<string>localScene</string>
+	<key>shouldpauselogarithm</key>
+	<string>priorNotifier</string>
+	<key>typicalDependency</key>
+	<string>fixedfragment</string>
+</dict>
+</plist>

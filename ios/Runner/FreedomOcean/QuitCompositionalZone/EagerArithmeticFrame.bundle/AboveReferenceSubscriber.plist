@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionDirection</key>
+	<string>lostPosition</string>
+	<key>nextSplitter</key>
+	<string>statefulBitrate</string>
+	<key>permanentParticle</key>
+	<string>canSkipImage</string>
+	<key>popresource</key>
+	<string>popupframeworkduration</string>
+	<key>replaceasset</key>
+	<string>strengthTail</string>
+	<key>substantialEvaluation</key>
+	<string>grainacceleration</string>
+	<key>tappableBloc</key>
+	<string>resizeSink</string>
+</dict>
+</plist>

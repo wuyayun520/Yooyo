@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerLoader</key>
+	<string>canSubscribeDuration</string>
+	<key>geometricInterpolation</key>
+	<string>behaviortierorigin</string>
+	<key>granularPublisher</key>
+	<string>shouldResumeConsumer</string>
+	<key>nativeoptimizer</key>
+	<string>constraintinformation</string>
+	<key>permissiveTable</key>
+	<string>shouldTrainStamp</string>
+	<key>refreshcupertino</key>
+	<string>referencerepository</string>
+	<key>swiftexceptinterpreter</key>
+	<string>associatedVariant</string>
+	<key>uniformVolume</key>
+	<string>concurrentMend</string>
+</dict>
+</plist>

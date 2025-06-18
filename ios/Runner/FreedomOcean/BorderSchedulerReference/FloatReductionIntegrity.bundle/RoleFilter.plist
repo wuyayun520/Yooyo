@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>positionagainstflyweight</key>
+	<string>adaptiveStateless</string>
+	<key>responsiveMethod</key>
+	<string>moveObserver</string>
+	<key>responsiveResult</key>
+	<string>canBuildBorder</string>
+	<key>secondInterpolation</key>
+	<string>shouldSerializePadding</string>
+</dict>
+</plist>

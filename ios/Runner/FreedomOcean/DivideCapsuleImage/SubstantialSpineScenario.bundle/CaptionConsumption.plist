@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>invisibleCapacity</key>
+	<string>listenService</string>
+	<key>mediocreCurve</key>
+	<string>descriptorLevel</string>
+	<key>singleCycle</key>
+	<string>composableLoader</string>
+	<key>spottransparency</key>
+	<string>resourceMargin</string>
+</dict>
+</plist>

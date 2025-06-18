@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionofplatform</key>
+	<string>pinchabletexture</string>
+	<key>handlebehavior</key>
+	<string>consumptionInteraction</string>
+	<key>integrityFormat</key>
+	<string>asyncBrightness</string>
+	<key>protectedRepository</key>
+	<string>tappableContraction</string>
+	<key>protocolsprite</key>
+	<string>enabledaxisposition</string>
+	<key>smallcompleter</key>
+	<string>videoInterval</string>
+	<key>tappableReplica</key>
+	<string>projectPosition</string>
+	<key>visibleReduction</key>
+	<string>apertureSingleton</string>
+</dict>
+</plist>

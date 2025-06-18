@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicPager</key>
+	<string>newestCapacities</string>
+	<key>layouterror</key>
+	<string>responsiveProvision</string>
+	<key>methodTag</key>
+	<string>opaqueprovider</string>
+	<key>processorShade</key>
+	<string>vectorizeLabel</string>
+	<key>switchSpeed</key>
+	<string>referenceuntilnumber</string>
+</dict>
+</plist>

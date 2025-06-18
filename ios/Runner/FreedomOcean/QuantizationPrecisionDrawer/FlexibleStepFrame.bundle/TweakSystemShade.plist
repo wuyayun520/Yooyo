@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>intuitivecallbackflags</key>
+	<string>labelCoord</string>
+	<key>prismaticmedia</key>
+	<string>clipperduringinterpreter</string>
+	<key>sensorintensity</key>
+	<string>canUnbindDimension</string>
+	<key>shouldUpdateMediaQuery</key>
+	<string>shouldCreateEquipment</string>
+	<key>statefulConfidentiality</key>
+	<string>unmountedPadding</string>
+</dict>
+</plist>

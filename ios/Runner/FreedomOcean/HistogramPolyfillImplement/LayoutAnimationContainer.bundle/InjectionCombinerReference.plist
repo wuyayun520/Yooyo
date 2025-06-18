@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedsize</key>
+	<string>routeasmediator</string>
+	<key>conformrichtext</key>
+	<string>scaffoldtraversal</string>
+	<key>hyperbolicSorter</key>
+	<string>flexFormat</string>
+	<key>parallelevaluation</key>
+	<string>otherFormat</string>
+	<key>shouldInflateBase</key>
+	<string>checklistconstraint</string>
+	<key>shouldPaintAnimation</key>
+	<string>usecasedistinction</string>
+	<key>storageShade</key>
+	<string>visitNode</string>
+</dict>
+</plist>

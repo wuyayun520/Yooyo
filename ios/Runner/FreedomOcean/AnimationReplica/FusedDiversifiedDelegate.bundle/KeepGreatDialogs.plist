@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticaloptimizer</key>
+	<string>setstategroup</string>
+	<key>iterativeMethod</key>
+	<string>equalizationContext</string>
+	<key>kernelinteraction</key>
+	<string>adjusttextfield</string>
+	<key>lossslider</key>
+	<string>shouldUpdateSubpixel</string>
+	<key>seekaspectratio</key>
+	<string>playbackComposite</string>
+	<key>soundFlags</key>
+	<string>connectDrawer</string>
+	<key>titlekind</key>
+	<string>unaryhandler</string>
+	<key>unactivatedAlignment</key>
+	<string>shouldRestartGrayscale</string>
+	<key>usedNavigation</key>
+	<string>heapPhase</string>
+</dict>
+</plist>

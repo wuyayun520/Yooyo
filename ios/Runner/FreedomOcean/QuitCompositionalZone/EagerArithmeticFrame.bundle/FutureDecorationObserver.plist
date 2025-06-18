@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectHue</key>
+	<string>canDisconnectNotification</string>
+	<key>backwardOverlay</key>
+	<string>displayPresenter</string>
+	<key>compositionalUsage</key>
+	<string>prismaticTransformer</string>
+	<key>directTitle</key>
+	<string>zoneSystem</string>
+	<key>movementlistener</key>
+	<string>denseChart</string>
+	<key>polygonOffset</key>
+	<string>diversifiedError</string>
+	<key>resizableReliability</key>
+	<string>responsiveTabBar</string>
+	<key>singleCaption</key>
+	<string>eventVelocity</string>
+	<key>statelessSession</key>
+	<string>isDropdownButton</string>
+</dict>
+</plist>

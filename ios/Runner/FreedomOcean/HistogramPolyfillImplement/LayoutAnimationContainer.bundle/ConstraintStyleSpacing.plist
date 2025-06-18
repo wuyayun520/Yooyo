@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeDecoration</key>
+	<string>singlesineforce</string>
+	<key>adaptiveLayer</key>
+	<string>decodeListener</string>
+	<key>gateawait</key>
+	<string>shouldEncodeEquipment</string>
+	<key>groupbridgehue</key>
+	<string>lastroutefrequency</string>
+	<key>layoutdelay</key>
+	<string>shouldUnbindIndicator</string>
+</dict>
+</plist>

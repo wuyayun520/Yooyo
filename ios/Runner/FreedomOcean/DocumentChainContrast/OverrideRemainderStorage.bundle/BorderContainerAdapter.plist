@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>calculateobserver</key>
+	<string>expandedSaturation</string>
+	<key>interactorInset</key>
+	<string>curvethroughcommand</string>
+	<key>iterativeFactory</key>
+	<string>replicaStyle</string>
+	<key>nibFlags</key>
+	<string>vectorizeMetadata</string>
+	<key>permissiveRole</key>
+	<string>serializeCharacter</string>
+	<key>semanticoperationshape</key>
+	<string>disparateReliability</string>
+	<key>shouldPauseMedia</key>
+	<string>uniformCharacter</string>
+	<key>unarySkewY</key>
+	<string>rapidBitrate</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedWorkflow</key>
+	<string>substantialSkin</string>
+	<key>gatehandler</key>
+	<string>updateview</string>
+	<key>ignoredAnalogy</key>
+	<string>mountedVariant</string>
+	<key>shouldSavePet</key>
+	<string>effectbehavior</string>
+	<key>utillayername</key>
+	<string>shouldTransformAnchor</string>
+</dict>
+</plist>

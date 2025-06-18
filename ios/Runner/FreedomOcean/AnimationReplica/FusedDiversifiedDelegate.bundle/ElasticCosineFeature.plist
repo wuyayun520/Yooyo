@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificatewithmode</key>
+	<string>profileDepth</string>
+	<key>evaluationSpeed</key>
+	<string>momentumDuration</string>
+	<key>firstAnimation</key>
+	<string>unaryOperation</string>
+	<key>flexibleSlider</key>
+	<string>protocolCount</string>
+	<key>labelskewx</key>
+	<string>keyParticle</string>
+	<key>shouldAttachRow</key>
+	<string>flexibleSignature</string>
+	<key>usageKind</key>
+	<string>eagerRadius</string>
+</dict>
+</plist>

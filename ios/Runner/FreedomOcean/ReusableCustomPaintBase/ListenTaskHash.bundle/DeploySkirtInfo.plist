@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeOption</key>
+	<string>customLoop</string>
+	<key>difficultAscent</key>
+	<string>skipAnimatedContainer</string>
+	<key>functionalCycle</key>
+	<string>accessoryParameter</string>
+	<key>liteconstraint</key>
+	<string>musicformat</string>
+	<key>momentumLeft</key>
+	<string>opaqueFrame</string>
+	<key>nibShade</key>
+	<string>shouldTransformSemantics</string>
+	<key>statefulPainter</key>
+	<string>moveoption</string>
+</dict>
+</plist>

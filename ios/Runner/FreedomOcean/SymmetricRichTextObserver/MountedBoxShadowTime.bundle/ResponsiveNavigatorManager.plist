@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateinfrastructure</key>
+	<string>mobilevisitoroffset</string>
+	<key>constantname</key>
+	<string>metadataProcess</string>
+	<key>currentroute</key>
+	<string>encodetransformer</string>
+	<key>immutableTimer</key>
+	<string>retainedTime</string>
+	<key>liteFuture</key>
+	<string>shouldMountGem</string>
+	<key>shouldValidateBoxShadow</key>
+	<string>cancelBox</string>
+	<key>singlerecursion</key>
+	<string>notificationOrigin</string>
+	<key>subsequentRole</key>
+	<string>shouldEndCard</string>
+</dict>
+</plist>

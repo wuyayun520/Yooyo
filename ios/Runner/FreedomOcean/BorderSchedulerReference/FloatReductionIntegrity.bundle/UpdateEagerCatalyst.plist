@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>greatconsumer</key>
+	<string>singleDependency</string>
+	<key>independentException</key>
+	<string>scaffoldskewx</string>
+	<key>protectedInteraction</key>
+	<string>showresource</string>
+	<key>symmetricTimer</key>
+	<string>shouldUnmountCompletion</string>
+</dict>
+</plist>

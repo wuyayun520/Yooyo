@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultInjection</key>
+	<string>finishSlash</string>
+	<key>equalizationInterval</key>
+	<string>bulletinnumber</string>
+	<key>mediocreFilter</key>
+	<string>diversifiedAsync</string>
+	<key>menutriangles</key>
+	<string>seekController</string>
+	<key>parallelMedia</key>
+	<string>shoulddismissmonster</string>
+	<key>selectedconstraint</key>
+	<string>cursorMemento</string>
+	<key>shouldRebuildListView</key>
+	<string>shouldFormatReference</string>
+	<key>shouldendthread</key>
+	<string>shearWidget</string>
+</dict>
+</plist>

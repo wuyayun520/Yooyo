@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileLinker</key>
+	<string>combineDuration</string>
+	<key>compositionalDetail</key>
+	<string>basicBuffer</string>
+	<key>invisiblePageView</key>
+	<string>rectifycompleter</string>
+	<key>nativeBehavior</key>
+	<string>unactivatedImage</string>
+</dict>
+</plist>

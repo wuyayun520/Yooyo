@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customEmitter</key>
+	<string>startcontroller</string>
+	<key>marginnearscope</key>
+	<string>shouldResumePageView</string>
+	<key>missedgatemode</key>
+	<string>maxCurve</string>
+	<key>processorSpacing</key>
+	<string>statelessGrain</string>
+	<key>protectedCoordinator</key>
+	<string>largeProgressBar</string>
+	<key>respectivePopup</key>
+	<string>localCache</string>
+	<key>shouldhandlepadding</key>
+	<string>nativeExpanded</string>
+	<key>titlebandwidth</key>
+	<string>recursionInterval</string>
+	<key>widgettrajectory</key>
+	<string>rapidlayercoord</string>
+</dict>
+</plist>

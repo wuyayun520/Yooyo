@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>connectmatrix</key>
+	<string>activityVisibility</string>
+	<key>hierarchicalDelivery</key>
+	<string>canStopChallenge</string>
+	<key>hyperbolicAnchor</key>
+	<string>fragmentsRight</string>
+	<key>observestream</key>
+	<string>localsubpixel</string>
+	<key>remainderbesideenvironment</key>
+	<string>shouldPushMedia</string>
+	<key>respectiveStorage</key>
+	<string>shouldHandlePoint</string>
+	<key>shouldDecodeSegment</key>
+	<string>comprehensiveIntegrity</string>
+	<key>stampwithvisitor</key>
+	<string>multiLayout</string>
+	<key>tentativeShade</key>
+	<string>shouldstartchallenge</string>
+</dict>
+</plist>

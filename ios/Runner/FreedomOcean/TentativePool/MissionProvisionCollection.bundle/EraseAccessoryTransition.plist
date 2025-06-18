@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzerPosition</key>
+	<string>shouldYieldCharacter</string>
+	<key>customTechnique</key>
+	<string>shouldInflateCheckbox</string>
+	<key>displayablePolygon</key>
+	<string>popupmethodrotation</string>
+	<key>easyModal</key>
+	<string>reusableNode</string>
+	<key>isprovider</key>
+	<string>documentdelay</string>
+	<key>loopRate</key>
+	<string>typicalInfo</string>
+	<key>progressbarfilter</key>
+	<string>configureTopic</string>
+</dict>
+</plist>

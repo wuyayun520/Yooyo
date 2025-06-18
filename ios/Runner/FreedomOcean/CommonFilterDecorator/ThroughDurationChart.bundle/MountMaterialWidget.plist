@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>layoutfromfacade</key>
+	<string>canShowSkirt</string>
+	<key>normfeedback</key>
+	<string>integerValidation</string>
+	<key>radioIndex</key>
+	<string>respectivegrain</string>
+	<key>shouldEmitInstruction</key>
+	<string>elasticNotation</string>
+	<key>shouldTrainCustomPaint</key>
+	<string>shouldListenEntropy</string>
+	<key>smartLoss</key>
+	<string>shouldRebuildStoryboard</string>
+	<key>switchDuration</key>
+	<string>canRenderNotification</string>
+</dict>
+</plist>

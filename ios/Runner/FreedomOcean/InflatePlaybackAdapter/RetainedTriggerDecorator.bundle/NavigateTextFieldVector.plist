@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessorykinddirection</key>
+	<string>deferredstream</string>
+	<key>cosineTransparency</key>
+	<string>remainderAcceleration</string>
+	<key>factoryelasticity</key>
+	<string>activeStoryboard</string>
+	<key>lazyMend</key>
+	<string>inactiveBase</string>
+	<key>resilientTable</key>
+	<string>keyAnchor</string>
+	<key>scaffoldResponse</key>
+	<string>materialanalyzer</string>
+	<key>scrollableComposition</key>
+	<string>recursionMomentum</string>
+	<key>shouldParseMomentum</key>
+	<string>reflectEntity</string>
+	<key>temporaryaxis</key>
+	<string>shouldPushLog</string>
+</dict>
+</plist>

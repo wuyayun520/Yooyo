@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedDisclaimer</key>
+	<string>geometricCustomPaint</string>
+	<key>chooserFrequency</key>
+	<string>scalabilityspeed</string>
+	<key>rectType</key>
+	<string>shouldAnimateDrawer</string>
+	<key>reusableAccessory</key>
+	<string>topicContrast</string>
+	<key>sortedOverlay</key>
+	<string>boxshadowtaskmargin</string>
+	<key>tangentOrigin</key>
+	<string>boxshadowBuffer</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equalizationForce</key>
+	<string>radioRate</string>
+	<key>factoryVisibility</key>
+	<string>serializeCallback</string>
+	<key>hardReducer</key>
+	<string>receiveChart</string>
+	<key>lazyTween</key>
+	<string>locateListener</string>
+	<key>normalFlex</key>
+	<string>currentGraphic</string>
+	<key>publicPriority</key>
+	<string>canKeepButton</string>
+	<key>shouldKeepScroll</key>
+	<string>accordionmodulusorigin</string>
+	<key>shouldNotifyCharacter</key>
+	<string>sharedScreen</string>
+	<key>significantCollection</key>
+	<string>strokeRight</string>
+</dict>
+</plist>

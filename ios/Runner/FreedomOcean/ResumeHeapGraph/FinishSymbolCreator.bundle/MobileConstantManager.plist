@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitBehavior</key>
+	<string>channelsingletontransparency</string>
+	<key>compositionFlags</key>
+	<string>anchorValidation</string>
+	<key>logfromenvironment</key>
+	<string>easyentropy</string>
+	<key>managerkind</key>
+	<string>discardedDialogs</string>
+	<key>materialMatrix</key>
+	<string>largeOverlay</string>
+	<key>materializerBottom</key>
+	<string>activitypicker</string>
+	<key>shouldRouteResource</key>
+	<string>notifyRadio</string>
+	<key>touchMomentum</key>
+	<string>eventEnvironment</string>
+</dict>
+</plist>

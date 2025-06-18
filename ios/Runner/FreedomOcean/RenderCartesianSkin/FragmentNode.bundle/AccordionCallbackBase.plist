@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxScale</key>
+	<string>cartesianProcessor</string>
+	<key>isInkWell</key>
+	<string>attachView</string>
+	<key>permissiveNotation</key>
+	<string>adaptiveProfile</string>
+	<key>sensorgrain</key>
+	<string>entropyFeedback</string>
+	<key>statefulStroke</key>
+	<string>gemAlignment</string>
+	<key>tensorTransformer</key>
+	<string>standaloneChecklist</string>
+</dict>
+</plist>

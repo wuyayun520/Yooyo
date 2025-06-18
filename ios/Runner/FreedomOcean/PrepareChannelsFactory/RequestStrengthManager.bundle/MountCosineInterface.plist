@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultComposition</key>
+	<string>skinshade</string>
+	<key>functionalInteractor</key>
+	<string>accessibleAperture</string>
+	<key>sequentialItem</key>
+	<string>mobileConstraint</string>
+	<key>strokeDepth</key>
+	<string>resetOffset</string>
+	<key>subsequentGestureDetector</key>
+	<string>spriteindex</string>
+</dict>
+</plist>

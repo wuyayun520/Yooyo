@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorRotation</key>
+	<string>deserializeObserver</string>
+	<key>disabledfuture</key>
+	<string>disconnectEvent</string>
+	<key>entitySaturation</key>
+	<string>canPrepareProfile</string>
+	<key>respectiveintegrity</key>
+	<string>shouldListenOverlay</string>
+	<key>serviceForce</key>
+	<string>bulletspeed</string>
+	<key>specifierprocessor</key>
+	<string>trainHeap</string>
+</dict>
+</plist>

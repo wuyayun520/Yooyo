@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardCharacteristic</key>
+	<string>canContinueSegment</string>
+	<key>cosinedetail</key>
+	<string>transitionConstraint</string>
+	<key>customChapter</key>
+	<string>appbarKind</string>
+	<key>flexscale</key>
+	<string>shouldDisconnectIndicator</string>
+	<key>mediocreSchema</key>
+	<string>shouldpublishlayout</string>
+	<key>serializetext</key>
+	<string>shouldDispatchText</string>
+	<key>shouldStartNorm</key>
+	<string>taskIndex</string>
+</dict>
+</plist>

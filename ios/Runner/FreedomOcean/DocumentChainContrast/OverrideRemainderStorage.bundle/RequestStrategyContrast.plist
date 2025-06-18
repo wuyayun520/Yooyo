@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>liteTraversal</key>
+	<string>missedResponder</string>
+	<key>mobileContraction</key>
+	<string>temporaryTime</string>
+	<key>otherBehavior</key>
+	<string>shouldkeeplogarithm</string>
+	<key>pinchableChannel</key>
+	<string>nextStroke</string>
+	<key>precisionRotation</key>
+	<string>integerForce</string>
+	<key>resizableloader</key>
+	<string>canSetStateCapacities</string>
+	<key>robustdescriptor</key>
+	<string>responderFlags</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>keyRange</key>
+	<string>fetchCapacities</string>
+	<key>originalTween</key>
+	<string>shouldDispatchProvider</string>
+	<key>primaryTransition</key>
+	<string>singleIntegration</string>
+	<key>screendensity</key>
+	<string>vectorScope</string>
+	<key>shouldLoadProtocol</key>
+	<string>swiftBridge</string>
+	<key>singleCell</key>
+	<string>consumetransformer</string>
+	<key>usedRepository</key>
+	<string>canUpdateEqualization</string>
+</dict>
+</plist>

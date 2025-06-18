@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionGradient</key>
+	<string>oldbuilder</string>
+	<key>commonTable</key>
+	<string>canFetchStateless</string>
+	<key>globalProfile</key>
+	<string>listenbuffer</string>
+	<key>liteSemantics</key>
+	<string>baselinesize</string>
+	<key>mobileRect</key>
+	<string>smartTransition</string>
+	<key>prismaticSound</key>
+	<string>progressbarTension</string>
+	<key>shouldProcessSegment</key>
+	<string>autoMember</string>
+	<key>shouldpopmomentum</key>
+	<string>canDeserializeWorkflow</string>
+	<key>skipticker</key>
+	<string>difficultScreen</string>
+</dict>
+</plist>

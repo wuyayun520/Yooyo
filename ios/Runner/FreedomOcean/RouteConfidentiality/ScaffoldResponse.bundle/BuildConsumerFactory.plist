@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerPreview</key>
+	<string>gateBehavior</string>
+	<key>cardcenter</key>
+	<string>basetop</string>
+	<key>directlyFragment</key>
+	<string>missedHistogram</string>
+	<key>fixedMultiplication</key>
+	<string>shouldRebuildGestureDetector</string>
+	<key>presentdependency</key>
+	<string>traversalShade</string>
+	<key>reusableTrajectory</key>
+	<string>fragmentsdistance</string>
+	<key>sessiontweak</key>
+	<string>graphicCenter</string>
+	<key>shouldEndCapsule</key>
+	<string>semanticsCycle</string>
+	<key>shouldStopSemantics</key>
+	<string>textpager</string>
+</dict>
+</plist>

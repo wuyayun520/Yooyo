@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectDelay</key>
+	<string>normalConfiguration</string>
+	<key>asynchronousFuture</key>
+	<string>unactivatedBandwidth</string>
+	<key>baselinePosition</key>
+	<string>canObserveButton</string>
+	<key>cellslider</key>
+	<string>canCacheListView</string>
+	<key>composableStorage</key>
+	<string>listenCupertino</string>
+	<key>heapVisible</key>
+	<string>navigateMember</string>
+	<key>interactiveisolatetype</key>
+	<string>lifecycleOrigin</string>
+	<key>scrollablePainter</key>
+	<string>oldBandwidth</string>
+	<key>shouldCreateMultiplication</key>
+	<string>missedProcessor</string>
+</dict>
+</plist>

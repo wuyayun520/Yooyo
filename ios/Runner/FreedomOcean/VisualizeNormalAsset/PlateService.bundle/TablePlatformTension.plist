@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channeltint</key>
+	<string>streamlineCubit</string>
+	<key>durationTail</key>
+	<string>routeExpanded</string>
+	<key>flexibleEqualization</key>
+	<string>singleInkWell</string>
+	<key>localNotifier</key>
+	<string>drawerfeedback</string>
+	<key>mobilecommandoffset</key>
+	<string>publicchartinset</string>
+	<key>remediationSize</key>
+	<string>processorRate</string>
+	<key>selectedLabel</key>
+	<string>delegatetopic</string>
+	<key>shouldCreateStateless</key>
+	<string>robustGesture</string>
+	<key>shouldDeserializeEffect</key>
+	<string>continueModulus</string>
+	<key>streambinder</key>
+	<string>endmethod</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionPressure</key>
+	<string>cartesianPolygon</string>
+	<key>reducerLeft</key>
+	<string>alertHue</string>
+	<key>shouldDisconnectPageView</key>
+	<string>topicBottom</string>
+	<key>shouldTrainNotifier</key>
+	<string>comprehensiveHero</string>
+	<key>synchronousInfo</key>
+	<string>shouldstopbehavior</string>
+</dict>
+</plist>

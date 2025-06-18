@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvastension</key>
+	<string>upgradeTimer</string>
+	<key>criticalThreshold</key>
+	<string>canSubscribeMobile</string>
+	<key>currentaccessory</key>
+	<string>coordinatorPlatform</string>
+	<key>displayableMap</key>
+	<string>upgradeError</string>
+	<key>ephemeraltolerance</key>
+	<string>onmargintap</string>
+	<key>providerTint</key>
+	<string>observerLevel</string>
+	<key>shouldcancelcontroller</key>
+	<string>cupertinoAdapter</string>
+	<key>sophisticatedImage</key>
+	<string>elasticRecursion</string>
+	<key>switchPressure</key>
+	<string>hyperbolicMusic</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionController</key>
+	<string>timelineDuration</string>
+	<key>documentOffset</key>
+	<string>cupertinoScaffold</string>
+	<key>firstBinary</key>
+	<string>displayableFlex</string>
+	<key>inflatealert</key>
+	<string>toolTier</string>
+	<key>largeSensor</key>
+	<string>holdZone</string>
+	<key>permutationdistance</key>
+	<string>shouldsetstateclipper</string>
+	<key>pinchableColumn</key>
+	<string>shouldEndWidget</string>
+	<key>shouldStopConvolution</key>
+	<string>typicalnavigatorstyle</string>
+	<key>unsortedPermutation</key>
+	<string>retainedTheme</string>
+</dict>
+</plist>

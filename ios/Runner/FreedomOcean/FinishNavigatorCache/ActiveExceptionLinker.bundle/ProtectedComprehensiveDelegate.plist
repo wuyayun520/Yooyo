@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardortype</key>
+	<string>shouldShowButton</string>
+	<key>customizedTernary</key>
+	<string>canEndSpine</string>
+	<key>elasticerror</key>
+	<string>explicitReference</string>
+	<key>nextBatch</key>
+	<string>resultspeed</string>
+	<key>rowright</key>
+	<string>visibleDispatcher</string>
+	<key>volumeTint</key>
+	<string>reactiveSprite</string>
+</dict>
+</plist>

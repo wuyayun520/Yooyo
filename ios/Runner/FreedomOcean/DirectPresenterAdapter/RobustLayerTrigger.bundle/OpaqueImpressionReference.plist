@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalStateful</key>
+	<string>criticalSign</string>
+	<key>eagerMobile</key>
+	<string>awaitObserver</string>
+	<key>grainmodeleft</key>
+	<string>ascentright</string>
+	<key>granularBehavior</key>
+	<string>euclideanAnimator</string>
+	<key>intermediateSine</key>
+	<string>vertexVelocity</string>
+	<key>moduleEdge</key>
+	<string>newestEvolution</string>
+	<key>primarygradientposition</key>
+	<string>pivotalData</string>
+	<key>shouldrestartcycle</key>
+	<string>shouldpushbuilder</string>
+	<key>statusHue</key>
+	<string>temporarygraphic</string>
+</dict>
+</plist>

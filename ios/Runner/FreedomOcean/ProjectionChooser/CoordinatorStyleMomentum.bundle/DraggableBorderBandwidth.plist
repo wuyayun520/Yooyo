@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxValidation</key>
+	<string>overlayLayer</string>
+	<key>documentdata</key>
+	<string>receiversaturation</string>
+	<key>dynamicCluster</key>
+	<string>disabledCache</string>
+	<key>inheritedProtocol</key>
+	<string>accessoryBottom</string>
+	<key>navigatorPosition</key>
+	<string>flexibleCombiner</string>
+	<key>reduceslash</key>
+	<string>canSaveSlider</string>
+	<key>scrollposition</key>
+	<string>mixinChart</string>
+	<key>shouldCacheSlash</key>
+	<string>wrapperRotation</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleNavigator</key>
+	<string>overlayDelay</string>
+	<key>integrationStatus</key>
+	<string>canKeepController</string>
+	<key>secondLayer</key>
+	<string>shouldMountedCycle</string>
+	<key>serviceFeedback</key>
+	<string>reductionpatterndirection</string>
+	<key>shouldSerializeIcon</key>
+	<string>canYieldNorm</string>
+	<key>statusInset</key>
+	<string>responsiveFactory</string>
+	<key>tappableAspectRatio</key>
+	<string>overlayMargin</string>
+	<key>transitionVisibility</key>
+	<string>asyncCycle</string>
+	<key>uniformMonster</key>
+	<string>linkerType</string>
+	<key>usedMenu</key>
+	<string>shouldSaveCache</string>
+</dict>
+</plist>

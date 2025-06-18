@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>isNavigation</key>
+	<string>denseDecoration</string>
+	<key>layoutShade</key>
+	<string>associatedQueue</string>
+	<key>rapidPopup</key>
+	<string>dismissdelegate</string>
+	<key>sortedModule</key>
+	<string>shouldDetachAnchor</string>
+	<key>textureInteraction</key>
+	<string>sharedTopic</string>
+	<key>touchmesh</key>
+	<string>greatTicker</string>
+	<key>variantFeedback</key>
+	<string>holdResolver</string>
+</dict>
+</plist>

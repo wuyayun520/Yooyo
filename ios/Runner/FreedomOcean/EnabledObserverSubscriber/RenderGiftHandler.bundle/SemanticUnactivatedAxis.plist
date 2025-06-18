@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicCharacteristic</key>
+	<string>heroCommand</string>
+	<key>batchAppearance</key>
+	<string>concretesprite</string>
+	<key>explicitScroll</key>
+	<string>usedAnchor</string>
+	<key>integerparameterpadding</key>
+	<string>latencyMargin</string>
+	<key>largeChooser</key>
+	<string>restartSign</string>
+	<key>scrollableContraction</key>
+	<string>navigatorVisitor</string>
+	<key>shouldKeepContraction</key>
+	<string>comprehensiveOffset</string>
+	<key>subpixelType</key>
+	<string>textfieldType</string>
+</dict>
+</plist>

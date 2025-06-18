@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedStateful</key>
+	<string>liteOperation</string>
+	<key>dynamicListener</key>
+	<string>reusableSkirt</string>
+	<key>lostTechnique</key>
+	<string>canRouteContainer</string>
+	<key>providerSize</key>
+	<string>measureText</string>
+	<key>roleName</key>
+	<string>independentpopup</string>
+	<key>semanticentityspeed</key>
+	<string>ignoredProvider</string>
+	<key>subtleEqualization</key>
+	<string>modalOrigin</string>
+	<key>widgetVelocity</key>
+	<string>standaloneSlider</string>
+</dict>
+</plist>

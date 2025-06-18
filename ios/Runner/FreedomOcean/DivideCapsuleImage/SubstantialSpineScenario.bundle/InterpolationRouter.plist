@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialMerger</key>
+	<string>initializeConfiguration</string>
+	<key>dedicatedHistogram</key>
+	<string>nibname</string>
+	<key>disabledCell</key>
+	<string>mobileContainer</string>
+	<key>modelthanjob</key>
+	<string>configurelistener</string>
+	<key>permanentChooser</key>
+	<string>firstSemantics</string>
+	<key>soundPosition</key>
+	<string>respondCurve</string>
+</dict>
+</plist>

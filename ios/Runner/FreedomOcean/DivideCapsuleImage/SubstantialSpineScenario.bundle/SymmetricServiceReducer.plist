@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gatescopefrequency</key>
+	<string>shouldPushPriority</string>
+	<key>gridtag</key>
+	<string>animateBuilder</string>
+	<key>lazyTimer</key>
+	<string>canSubscribeLayout</string>
+	<key>mobileExpanded</key>
+	<string>scrollTag</string>
+	<key>permissiveCube</key>
+	<string>agileEvent</string>
+	<key>topicSkewY</key>
+	<string>resolveralongobserver</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedComposition</key>
+	<string>connectAxis</string>
+	<key>greatCluster</key>
+	<string>lazyPet</string>
+	<key>invisibleConfiguration</key>
+	<string>copyHandler</string>
+	<key>lostEquipment</key>
+	<string>subsequentSingleton</string>
+	<key>permutationRight</key>
+	<string>shouldYieldMargin</string>
+	<key>shouldInflateRole</key>
+	<string>connectOptimizer</string>
+</dict>
+</plist>

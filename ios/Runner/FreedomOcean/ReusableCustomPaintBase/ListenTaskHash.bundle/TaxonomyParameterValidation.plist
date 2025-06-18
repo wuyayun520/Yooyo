@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentfilter</key>
+	<string>pinchableDuration</string>
+	<key>catalystFormat</key>
+	<string>scaleborder</string>
+	<key>diversifiedLifecycle</key>
+	<string>cubeBorder</string>
+	<key>dynamicScreen</key>
+	<string>eagerAperture</string>
+	<key>ignoredEquipment</key>
+	<string>canTransformAnimation</string>
+	<key>mainResilience</key>
+	<string>apertureresource</string>
+	<key>onextensionchanged</key>
+	<string>smartAmortization</string>
+	<key>replacestate</key>
+	<string>granularData</string>
+	<key>shouldTransformCycle</key>
+	<string>amortizationTint</string>
+	<key>shouldroutecontraction</key>
+	<string>buildutil</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>colorScale</key>
+	<string>liteVolume</string>
+	<key>currentStream</key>
+	<string>basealignment</string>
+	<key>hyperbolicTaxonomy</key>
+	<string>dynamicGradient</string>
+	<key>layoutbesidesystem</key>
+	<string>exceptionvariablemargin</string>
+	<key>nextChannels</key>
+	<string>bufferInset</string>
+	<key>persistentColor</key>
+	<string>giftfactory</string>
+	<key>shouldRenderRow</key>
+	<string>instantiateScene</string>
+</dict>
+</plist>

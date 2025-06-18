@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>functionalgridview</key>
+	<string>advancedAnimatedContainer</string>
+	<key>intermediateRemainder</key>
+	<string>elementDensity</string>
+	<key>occasionduration</key>
+	<string>displayablePageView</string>
+	<key>popupInset</key>
+	<string>batchShade</string>
+	<key>prismaticStatus</key>
+	<string>shouldKeepHeap</string>
+	<key>shouldListenClipper</key>
+	<string>skipGram</string>
+	<key>shouldNavigateObserver</key>
+	<string>canYieldOptimizer</string>
+	<key>uniformTrigger</key>
+	<string>queueCoord</string>
+	<key>visibleMultiplication</key>
+	<string>specifyScheduler</string>
+</dict>
+</plist>

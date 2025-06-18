@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentBullet</key>
+	<string>canBuildTable</string>
+	<key>descentTail</key>
+	<string>inactivefuture</string>
+	<key>difficultFuture</key>
+	<string>resilientEfficiency</string>
+	<key>dividevariant</key>
+	<string>spinContainer</string>
+	<key>exceptionDensity</key>
+	<string>presenterShape</string>
+	<key>nativeController</key>
+	<string>queueKind</string>
+	<key>protocolShade</key>
+	<string>combinerName</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>nativeSink</key>
+	<string>cuberight</string>
+	<key>oldBehavior</key>
+	<string>shouldMountGate</string>
+	<key>pageviewState</key>
+	<string>crudeLoader</string>
+	<key>reusabletransformerpadding</key>
+	<string>listenMovement</string>
+	<key>selectedPlate</key>
+	<string>usedBinder</string>
+	<key>shouldDismissColumn</key>
+	<string>restartNib</string>
+	<key>variantdetector</key>
+	<string>profileName</string>
+</dict>
+</plist>

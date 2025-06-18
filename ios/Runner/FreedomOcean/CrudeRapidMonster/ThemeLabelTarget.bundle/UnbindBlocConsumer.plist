@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>observeoverlay</key>
+	<string>constraintEdge</string>
+	<key>prevLoss</key>
+	<string>cubitshape</string>
+	<key>projectSkewX</key>
+	<string>modulusState</string>
+	<key>sensorSkewY</key>
+	<string>clusterCoord</string>
+	<key>specifysensor</key>
+	<string>copyEntity</string>
+	<key>tappablePreview</key>
+	<string>analyzeTransition</string>
+</dict>
+</plist>

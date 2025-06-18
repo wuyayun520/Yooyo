@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableMend</key>
+	<string>optimizerResponse</string>
+	<key>futurevianumber</key>
+	<string>captionRotation</string>
+	<key>inactiveListView</key>
+	<string>standalonebehavior</string>
+	<key>keyIntegrity</key>
+	<string>checkboxDirection</string>
+	<key>liteLocalization</key>
+	<string>replaceEquipment</string>
+	<key>pivotalWrapper</key>
+	<string>keyCursor</string>
+</dict>
+</plist>

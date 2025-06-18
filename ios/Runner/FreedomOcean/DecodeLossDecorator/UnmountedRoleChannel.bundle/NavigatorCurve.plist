@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedStream</key>
+	<string>stepscene</string>
+	<key>customConverter</key>
+	<string>continuematrix</string>
+	<key>itemResponse</key>
+	<string>fragmentsDuration</string>
+	<key>lifecycleOrientation</key>
+	<string>interactormaterializer</string>
+	<key>mainMusic</key>
+	<string>discardedLog</string>
+	<key>pivotalDimension</key>
+	<string>rotateunary</string>
+	<key>rectawayprocess</key>
+	<string>fillSize</string>
+	<key>scrollableConfiguration</key>
+	<string>mendStyle</string>
+	<key>shouldHandleMonster</key>
+	<string>partitionCubit</string>
+</dict>
+</plist>

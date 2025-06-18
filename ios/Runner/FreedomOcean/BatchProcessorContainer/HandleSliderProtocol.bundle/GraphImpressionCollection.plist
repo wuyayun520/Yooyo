@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasSpacing</key>
+	<string>canObserveColumn</string>
+	<key>consumerDensity</key>
+	<string>insteadmenu</string>
+	<key>immediateRecursion</key>
+	<string>lazyModulus</string>
+	<key>rapidThreshold</key>
+	<string>specifyMaterializer</string>
+	<key>shoulddetachsignature</key>
+	<string>similarCollection</string>
+</dict>
+</plist>

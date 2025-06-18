@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>intuitiveobservervelocity</key>
+	<string>confidentialityFeedback</string>
+	<key>mechanismPadding</key>
+	<string>notifyCache</string>
+	<key>retainedModal</key>
+	<string>scrollLeft</string>
+	<key>timetension</key>
+	<string>shouldCancelFragment</string>
+</dict>
+</plist>

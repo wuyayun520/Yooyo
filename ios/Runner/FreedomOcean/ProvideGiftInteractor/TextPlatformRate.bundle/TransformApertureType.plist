@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveTransparency</key>
+	<string>segueState</string>
+	<key>entityreplica</key>
+	<string>asyncOrientation</string>
+	<key>iterativeStream</key>
+	<string>concurrentTopic</string>
+	<key>overlayMargin</key>
+	<string>shouldNotifyChannels</string>
+</dict>
+</plist>

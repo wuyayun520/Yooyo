@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseinterfaceflags</key>
+	<string>reusableSession</string>
+	<key>disabledservice</key>
+	<string>projectiondescription</string>
+	<key>explicitinjectionvisible</key>
+	<string>eagerSubscriber</string>
+	<key>liteObject</key>
+	<string>typicalFrame</string>
+	<key>priorityvalidation</key>
+	<string>provideexception</string>
+	<key>resilientVertex</key>
+	<string>channelScope</string>
+	<key>symmetricDependency</key>
+	<string>frameLeft</string>
+	<key>throughputPosition</key>
+	<string>workflowTop</string>
+</dict>
+</plist>

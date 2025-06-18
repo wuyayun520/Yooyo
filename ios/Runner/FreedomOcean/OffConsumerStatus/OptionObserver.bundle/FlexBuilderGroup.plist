@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gradientFeedback</key>
+	<string>decorationLocation</string>
+	<key>seamlessBullet</key>
+	<string>viewrepository</string>
+	<key>shouldInflateExpanded</key>
+	<string>labelsystemforce</string>
+	<key>smartAlignment</key>
+	<string>canUnbindAlpha</string>
+	<key>statefulHash</key>
+	<string>activeContraction</string>
+	<key>timelineContrast</key>
+	<string>onpointtap</string>
+</dict>
+</plist>

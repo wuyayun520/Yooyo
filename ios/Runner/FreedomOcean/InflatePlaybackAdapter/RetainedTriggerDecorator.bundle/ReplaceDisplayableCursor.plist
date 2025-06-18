@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cachearoundproxy</key>
+	<string>paddingMethod</string>
+	<key>distinctionFormat</key>
+	<string>canEncodePoint</string>
+	<key>responsiveIsolate</key>
+	<string>canDisconnectWidget</string>
+	<key>shouldBindCurve</key>
+	<string>flexibleBullet</string>
+	<key>shouldNotifyNavigator</key>
+	<string>substantialprovision</string>
+</dict>
+</plist>

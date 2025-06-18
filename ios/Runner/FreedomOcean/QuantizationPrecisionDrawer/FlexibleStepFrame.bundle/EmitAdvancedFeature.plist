@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessorythanvalue</key>
+	<string>mitigateEvent</string>
+	<key>currentDialogs</key>
+	<string>canReplaceBloc</string>
+	<key>eagerbaseline</key>
+	<string>chartTransparency</string>
+	<key>interpolationEdge</key>
+	<string>meshrotation</string>
+	<key>shouldStartPoint</key>
+	<string>independentStep</string>
+	<key>signatureborder</key>
+	<string>particleIndex</string>
+	<key>symmetricRole</key>
+	<string>accordionalphafeedback</string>
+</dict>
+</plist>

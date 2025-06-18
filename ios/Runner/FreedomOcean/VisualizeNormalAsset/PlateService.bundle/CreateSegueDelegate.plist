@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentPosition</key>
+	<string>sophisticatedBloc</string>
+	<key>commonProject</key>
+	<string>analyzeStream</string>
+	<key>displayableBase</key>
+	<string>globalWidget</string>
+	<key>draggablecharacter</key>
+	<string>navigateSkin</string>
+	<key>elasticConvolution</key>
+	<string>activeStack</string>
+	<key>routeaspectratio</key>
+	<string>decodeResponse</string>
+	<key>sharedQuaternion</key>
+	<string>canPushStep</string>
+	<key>shouldRestartPlayback</key>
+	<string>canvasCommand</string>
+	<key>sophisticatedFuture</key>
+	<string>rebuildmusic</string>
+</dict>
+</plist>

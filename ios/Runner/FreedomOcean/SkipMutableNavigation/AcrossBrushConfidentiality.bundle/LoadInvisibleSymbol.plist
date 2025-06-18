@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedOffset</key>
+	<string>roleMomentum</string>
+	<key>nativeTangent</key>
+	<string>sineentity</string>
+	<key>numericalThread</key>
+	<string>presentsink</string>
+	<key>shouldYieldCanvas</key>
+	<string>accordionObserver</string>
+	<key>standalonePoint</key>
+	<string>canAnimateMember</string>
+	<key>statefulMaterializer</key>
+	<string>seamlessTime</string>
+	<key>statelessBorder</key>
+	<string>buttonAppearance</string>
+</dict>
+</plist>

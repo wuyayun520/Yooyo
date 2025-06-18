@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttoncontroller</key>
+	<string>cycleProcess</string>
+	<key>cellScale</key>
+	<string>hyperbolicStorage</string>
+	<key>destroyscene</key>
+	<string>ongatechanged</string>
+	<key>directlyManager</key>
+	<string>shouldDeserializeDuration</string>
+	<key>dropdownbuttonmanager</key>
+	<string>implementbehavior</string>
+	<key>shouldEndSensor</key>
+	<string>adjustUseCase</string>
+	<key>shouldNavigateGesture</key>
+	<string>dialogsColor</string>
+	<key>sortedRichText</key>
+	<string>unregisterChapter</string>
+	<key>substantialVolume</key>
+	<string>tweenvolume</string>
+	<key>usedRadius</key>
+	<string>denseItem</string>
+</dict>
+</plist>

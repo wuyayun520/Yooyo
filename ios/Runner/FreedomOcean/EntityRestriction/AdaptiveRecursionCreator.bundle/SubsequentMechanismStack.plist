@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectMode</key>
+	<string>completedIcon</string>
+	<key>mainScheduler</key>
+	<string>encodeSession</string>
+	<key>repositoryparameterdistance</key>
+	<string>diversifiedBase</string>
+	<key>sizedboxName</key>
+	<string>specifyGraph</string>
+	<key>subscriberSize</key>
+	<string>renderScreen</string>
+</dict>
+</plist>

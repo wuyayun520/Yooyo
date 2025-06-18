@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardAmortization</key>
+	<string>blocDistance</string>
+	<key>contrastShade</key>
+	<string>stepStrategy</string>
+	<key>deferredEvent</key>
+	<string>imageLocation</string>
+	<key>gridShape</key>
+	<string>rowCommand</string>
+	<key>operationawaytype</key>
+	<string>sharedVertex</string>
+	<key>otherModel</key>
+	<string>lazyInfrastructure</string>
+	<key>projectVelocity</key>
+	<string>webremainder</string>
+	<key>statusTransparency</key>
+	<string>shouldSkipLog</string>
+</dict>
+</plist>

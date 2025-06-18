@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>firstEquipment</key>
+	<string>lazySensor</string>
+	<key>globalIntegrity</key>
+	<string>nextStrength</string>
+	<key>hasslider</key>
+	<string>unsortedIcon</string>
+	<key>materialworkvelocity</key>
+	<string>triggerinset</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzeredge</key>
+	<string>missedLoader</string>
+	<key>aspectSpeed</key>
+	<string>aspectOpacity</string>
+	<key>concurrentMetadata</key>
+	<string>reusablePoint</string>
+	<key>concurrentPageView</key>
+	<string>canPrepareStep</string>
+	<key>fusedrequestrotation</key>
+	<string>timerPlatform</string>
+	<key>notifierposition</key>
+	<string>layoutvelocity</string>
+	<key>requiredLifecycle</key>
+	<string>evaluationMargin</string>
+	<key>selectedprotocol</key>
+	<string>canDecodeAspect</string>
+	<key>shouldDismissHistogram</key>
+	<string>futurebutton</string>
+</dict>
+</plist>

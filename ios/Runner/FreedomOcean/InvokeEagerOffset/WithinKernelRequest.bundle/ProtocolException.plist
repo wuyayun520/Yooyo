@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticIndex</key>
+	<string>columnbehavior</string>
+	<key>errorcharacteristic</key>
+	<string>interceptGrid</string>
+	<key>shouldRenderStack</key>
+	<string>animatedcontainerValue</string>
+	<key>shouldRouteCharacter</key>
+	<string>chapterMemento</string>
+	<key>staticFragment</key>
+	<string>isSession</string>
+	<key>threadbuilder</key>
+	<string>displaymission</string>
+	<key>transitionrenderer</key>
+	<string>curvepatternorientation</string>
+</dict>
+</plist>

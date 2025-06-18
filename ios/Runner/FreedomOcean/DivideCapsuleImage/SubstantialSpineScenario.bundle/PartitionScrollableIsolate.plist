@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryobject</key>
+	<string>hasscale</string>
+	<key>gatevisible</key>
+	<string>shouldPushOption</string>
+	<key>scenarioDirection</key>
+	<string>injectionIndex</string>
+	<key>sensorRight</key>
+	<string>deferredgram</string>
+	<key>synchronousChannel</key>
+	<string>canCacheCanvas</string>
+</dict>
+</plist>

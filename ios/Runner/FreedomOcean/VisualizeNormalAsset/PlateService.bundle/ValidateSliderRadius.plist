@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gridviewthroughfunction</key>
+	<string>persistentInfrastructure</string>
+	<key>initializesession</key>
+	<string>scrollerState</string>
+	<key>isolateduration</key>
+	<string>bindMovement</string>
+	<key>profileDuration</key>
+	<string>routecontraction</string>
+	<key>resilientloss</key>
+	<string>enumeratebloc</string>
+	<key>shouldAnimateCell</key>
+	<string>subtleFeature</string>
+	<key>shouldDisposeGem</key>
+	<string>canvasinstyle</string>
+	<key>shouldPublishSign</key>
+	<string>uniqueSemantics</string>
+	<key>visiblecoordinatorborder</key>
+	<string>seamlessreliability</string>
+</dict>
+</plist>

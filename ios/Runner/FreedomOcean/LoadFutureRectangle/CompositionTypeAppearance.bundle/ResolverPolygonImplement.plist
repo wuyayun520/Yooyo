@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushPadding</key>
+	<string>refreshRow</string>
+	<key>exceptionShade</key>
+	<string>gestureSpeed</string>
+	<key>executeservice</key>
+	<string>materialoffset</string>
+	<key>linkerMode</key>
+	<string>notifyStateless</string>
+	<key>reusableProvision</key>
+	<string>pauseContainer</string>
+	<key>shouldPopAspect</key>
+	<string>rapidTriangles</string>
+	<key>shouldobserveicon</key>
+	<string>concurrentFilter</string>
+</dict>
+</plist>

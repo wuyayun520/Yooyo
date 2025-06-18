@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedModulus</key>
+	<string>inflatenotification</string>
+	<key>cubeStatus</key>
+	<string>observerBound</string>
+	<key>infoLocation</key>
+	<string>subsequentMetrics</string>
+	<key>loopName</key>
+	<string>agileTweak</string>
+	<key>sessionSpeed</key>
+	<string>restoreState</string>
+	<key>shouldDisposeMission</key>
+	<string>associateCallback</string>
+</dict>
+</plist>

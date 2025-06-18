@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleShape</key>
+	<string>persistCompletion</string>
+	<key>infoFeedback</key>
+	<string>referenceTop</string>
+	<key>overlayanimator</key>
+	<string>dropoutscroll</string>
+	<key>seamlessExpanded</key>
+	<string>robustLayer</string>
+	<key>seamlessProtocol</key>
+	<string>shouldEncodeConsumer</string>
+	<key>shouldValidateProvider</key>
+	<string>deployanimation</string>
+	<key>stampRotation</key>
+	<string>mixinNavigator</string>
+	<key>standaloneResilience</key>
+	<string>canPopCaption</string>
+	<key>uniformMatrix</key>
+	<string>sinkasmediator</string>
+</dict>
+</plist>

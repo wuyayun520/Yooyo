@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryresponse</key>
+	<string>basicInstruction</string>
+	<key>agileModulus</key>
+	<string>canHandleCatalyst</string>
+	<key>aspectratiosaturation</key>
+	<string>smartTask</string>
+	<key>defaultmobile</key>
+	<string>mainstack</string>
+	<key>exceptionsincestage</key>
+	<string>animateTexture</string>
+	<key>handlerValidation</key>
+	<string>triggerLeft</string>
+	<key>polygonVisibility</key>
+	<string>canNavigateBuilder</string>
+	<key>thresholdRotation</key>
+	<string>decorationVisitor</string>
+	<key>widgetofobserver</key>
+	<string>sceneMode</string>
+</dict>
+</plist>

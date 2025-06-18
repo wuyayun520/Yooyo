@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselinetint</key>
+	<string>benchmarkIntensity</string>
+	<key>explicitgridskewy</key>
+	<string>sensorthannumber</string>
+	<key>handlerskewy</key>
+	<string>constraintagainstform</string>
+	<key>responseTop</key>
+	<string>secondInjection</string>
+	<key>shouldMountSubpixel</key>
+	<string>accessibleEvent</string>
+</dict>
+</plist>

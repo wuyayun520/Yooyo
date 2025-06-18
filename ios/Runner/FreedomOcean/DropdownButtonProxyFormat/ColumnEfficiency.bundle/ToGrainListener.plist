@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>custompaintoutsidecycle</key>
+	<string>itemposition</string>
+	<key>keyConfiguration</key>
+	<string>directResource</string>
+	<key>priorMovement</key>
+	<string>stopplayback</string>
+	<key>smartRect</key>
+	<string>upgradeRect</string>
+</dict>
+</plist>

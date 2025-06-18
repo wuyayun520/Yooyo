@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentlistener</key>
+	<string>builderProcess</string>
+	<key>desktopcupertino</key>
+	<string>textrestriction</string>
+	<key>groupinteraction</key>
+	<string>handleConfiguration</string>
+	<key>otherAspectRatio</key>
+	<string>requiredstackdensity</string>
+	<key>respectiveAnimatedContainer</key>
+	<string>delicateDecoration</string>
+	<key>sustainableAwait</key>
+	<string>canParseSymbol</string>
+	<key>thresholdRight</key>
+	<string>shouldDisposeFlex</string>
+	<key>titleforenvironment</key>
+	<string>criticalAnimator</string>
+	<key>toolAcceleration</key>
+	<string>quaternionbottom</string>
+	<key>uniformFactory</key>
+	<string>allocatePresenter</string>
+</dict>
+</plist>

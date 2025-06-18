@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystDelay</key>
+	<string>canLayoutCapacities</string>
+	<key>enhanceflex</key>
+	<string>shouldNavigateAlert</string>
+	<key>ignoredlog</key>
+	<string>itemDelay</string>
+	<key>maininteraction</key>
+	<string>groupPhase</string>
+	<key>resilientInstruction</key>
+	<string>tappablelocalizationtype</string>
+	<key>techniqueoperationtop</key>
+	<string>disparateGroup</string>
+	<key>upgradelabel</key>
+	<string>soundCenter</string>
+</dict>
+</plist>

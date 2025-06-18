@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerconsumption</key>
+	<string>sharedIntensity</string>
+	<key>consumercommandorientation</key>
+	<string>unmountMember</string>
+	<key>difficulttasktheme</key>
+	<string>notationStyle</string>
+	<key>routeractionlocation</key>
+	<string>gesturetempleinteraction</string>
+	<key>shouldbindcertificate</key>
+	<string>serializePositioned</string>
+	<key>spotobserver</key>
+	<string>dialogsAdapter</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedArithmetic</key>
+	<string>specifyaction</string>
+	<key>keySkin</key>
+	<string>specifyBandwidth</string>
+	<key>notificationfeature</key>
+	<string>momentumVisible</string>
+	<key>publicInteger</key>
+	<string>hyperbolicslidercolor</string>
+	<key>renderbuffer</key>
+	<string>canCreateTangent</string>
+	<key>responsiveCube</key>
+	<string>transitionCatalyst</string>
+	<key>shouldDeserializeRole</key>
+	<string>projectversusstructure</string>
+	<key>statelessInteger</key>
+	<string>storyboardmerger</string>
+	<key>taskmethodresponse</key>
+	<string>buttonSingleton</string>
+</dict>
+</plist>

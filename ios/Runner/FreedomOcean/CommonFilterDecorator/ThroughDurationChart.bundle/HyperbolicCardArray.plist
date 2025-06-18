@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentFactory</key>
+	<string>canBindTechnique</string>
+	<key>confidentialityState</key>
+	<string>previewShade</string>
+	<key>curvecolor</key>
+	<string>presentbullet</string>
+	<key>delicateRange</key>
+	<string>explicitHandler</string>
+	<key>hierarchicalModel</key>
+	<string>taskskewx</string>
+	<key>permissiveTimer</key>
+	<string>shouldDeserializeDialogs</string>
+</dict>
+</plist>

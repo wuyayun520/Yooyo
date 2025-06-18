@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hasMargin</key>
+	<string>tappableClipper</string>
+	<key>hierarchicalPriority</key>
+	<string>setstateAperture</string>
+	<key>operationkinddistance</key>
+	<string>actionduringstyle</string>
+	<key>richtextorigin</key>
+	<string>activatedWidget</string>
+	<key>rowloader</key>
+	<string>storageHue</string>
+	<key>slashFormat</key>
+	<string>scrollableDependency</string>
+	<key>statefulRichText</key>
+	<string>canMountMomentum</string>
+</dict>
+</plist>

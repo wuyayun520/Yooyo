@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>navigatoredge</key>
+	<string>buildertaskdelay</string>
+	<key>shouldListenBorder</key>
+	<string>publisherInteraction</string>
+	<key>shouldRestartOption</key>
+	<string>hascompletion</string>
+	<key>sizeLeft</key>
+	<string>crucialStore</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedAction</key>
+	<string>baselineAdapter</string>
+	<key>blocmerger</key>
+	<string>vectorState</string>
+	<key>defaultFragment</key>
+	<string>shouldSubscribeSample</string>
+	<key>pivotalRequest</key>
+	<string>activeSwitch</string>
+	<key>shouldKeepTangent</key>
+	<string>injectSubscription</string>
+	<key>smallSelector</key>
+	<string>publishMember</string>
+	<key>sortedRange</key>
+	<string>storeInteraction</string>
+	<key>standalonecapsulevisible</key>
+	<string>canListenCell</string>
+</dict>
+</plist>

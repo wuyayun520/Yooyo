@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableSingleton</key>
+	<string>benchmarkError</string>
+	<key>explicitMaterial</key>
+	<string>componentTension</string>
+	<key>shouldDecodeChallenge</key>
+	<string>mountCompletion</string>
+	<key>statelessPoint</key>
+	<string>methodTag</string>
+</dict>
+</plist>

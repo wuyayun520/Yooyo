@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorhandler</key>
+	<string>criticalresultvelocity</string>
+	<key>granularSize</key>
+	<string>shouldStreamStack</string>
+	<key>primaryTransition</key>
+	<string>hyperbolicNavigator</string>
+	<key>priorSpine</key>
+	<string>listenSensor</string>
+	<key>shouldcontinuegem</key>
+	<string>shouldObserveCollection</string>
+	<key>unsortedMultiplication</key>
+	<string>canUnmountNavigation</string>
+</dict>
+</plist>

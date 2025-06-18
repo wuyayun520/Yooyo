@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionSpecifier</key>
+	<string>shouldUnmountedExtension</string>
+	<key>adaptiveVolume</key>
+	<string>shouldKeepFragment</string>
+	<key>baseFormat</key>
+	<string>accessibleLifecycle</string>
+	<key>equalmomentum</key>
+	<string>joinerContrast</string>
+	<key>quitframe</key>
+	<string>shouldLayoutActivity</string>
+	<key>routerpolygon</key>
+	<string>swiftPadding</string>
+	<key>shouldSkipGesture</key>
+	<string>controllertrajectory</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedaction</key>
+	<string>propagateResult</string>
+	<key>characterAcceleration</key>
+	<string>shouldStreamIcon</string>
+	<key>progressbarDirection</key>
+	<string>lastRequest</string>
+	<key>robustThreshold</key>
+	<string>durationRight</string>
+	<key>semantictolerance</key>
+	<string>invisibleAwait</string>
+	<key>shouldLoadLayout</key>
+	<string>crucialerrorvisibility</string>
+	<key>shouldRestartCustomPaint</key>
+	<string>notationInteraction</string>
+	<key>shouldRouteResource</key>
+	<string>captureInteractor</string>
+	<key>significantContrast</key>
+	<string>delicateThreshold</string>
+	<key>statelessbandwidth</key>
+	<string>restrictionInterval</string>
+</dict>
+</plist>

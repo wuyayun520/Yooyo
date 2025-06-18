@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionTraversal</key>
+	<string>shouldBuildStateful</string>
+	<key>bulletAcceleration</key>
+	<string>symmetricTouch</string>
+	<key>curveKind</key>
+	<string>temporaryThread</string>
+	<key>interfaceInterval</key>
+	<string>intuitivetimer</string>
+	<key>lastScenario</key>
+	<string>unbindBatch</string>
+	<key>otherSegment</key>
+	<string>canNotifyProfile</string>
+</dict>
+</plist>

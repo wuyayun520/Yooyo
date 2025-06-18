@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitimage</key>
+	<string>oldSpot</string>
+	<key>dimensionTheme</key>
+	<string>onnotificationtap</string>
+	<key>eagerTweak</key>
+	<string>completedWidget</string>
+	<key>firstButton</key>
+	<string>sharedDescent</string>
+	<key>imperativeMaterializer</key>
+	<string>dropoutEvent</string>
+	<key>screenInteraction</key>
+	<string>equalChapter</string>
+	<key>shouldObserveSkin</key>
+	<string>canUnmountedReference</string>
+	<key>shouldReplaceMap</key>
+	<string>crudeOptimizer</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configuregraph</key>
+	<string>popupdepth</string>
+	<key>functionalTexture</key>
+	<string>mainLayout</string>
+	<key>gestureIndex</key>
+	<string>mixinEvent</string>
+</dict>
+</plist>

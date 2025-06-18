@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>detailDirection</key>
+	<string>interpolateContainer</string>
+	<key>elasticAmortization</key>
+	<string>scrollableScroll</string>
+	<key>joinerAcceleration</key>
+	<string>switchformindex</string>
+	<key>layoutFlags</key>
+	<string>mediaqueryForce</string>
+	<key>liteTimeline</key>
+	<string>smartCubit</string>
+	<key>movementEdge</key>
+	<string>discardedObject</string>
+	<key>polyfilltension</key>
+	<string>shouldbuildappbar</string>
+	<key>sharedChooser</key>
+	<string>subscriberHead</string>
+	<key>sophisticatedMobile</key>
+	<string>flexType</string>
+</dict>
+</plist>

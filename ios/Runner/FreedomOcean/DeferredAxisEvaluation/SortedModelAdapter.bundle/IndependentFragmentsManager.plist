@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisinjection</key>
+	<string>executeInterface</string>
+	<key>beginnerAppBar</key>
+	<string>showCache</string>
+	<key>encodepopup</key>
+	<string>connectCursor</string>
+	<key>introspecttitle</key>
+	<string>shouldSerializeCapsule</string>
+	<key>primarySize</key>
+	<string>entropyincludephase</string>
+	<key>taskDistance</key>
+	<string>dimensionPosition</string>
+</dict>
+</plist>

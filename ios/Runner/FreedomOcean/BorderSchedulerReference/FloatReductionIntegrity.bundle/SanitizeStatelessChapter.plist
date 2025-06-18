@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteSegment</key>
+	<string>rapidElement</string>
+	<key>cubitnumbertint</key>
+	<string>captionbuffer</string>
+	<key>displayablePreview</key>
+	<string>mobileSize</string>
+	<key>easyIntegrity</key>
+	<string>assetinterpreterappearance</string>
+	<key>restorefeature</key>
+	<string>canContinueBehavior</string>
+	<key>usedBandwidth</key>
+	<string>canSaveTabView</string>
+</dict>
+</plist>

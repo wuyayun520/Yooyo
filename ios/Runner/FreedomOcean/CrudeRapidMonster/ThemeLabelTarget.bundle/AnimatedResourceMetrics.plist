@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatebuffer</key>
+	<string>hascatalyst</string>
+	<key>commoncyclename</key>
+	<string>seamlessError</string>
+	<key>descriptionlistener</key>
+	<string>invisibleBinary</string>
+	<key>detachoverlay</key>
+	<string>backwardRadius</string>
+	<key>pivotalBandwidth</key>
+	<string>cupertinoEmitter</string>
+	<key>rectlevelappearance</key>
+	<string>eagergesturedetectorforce</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>intuitiveTable</key>
+	<string>fusedSymbol</string>
+	<key>playbackDensity</key>
+	<string>resolvecontroller</string>
+	<key>shouldDeserializeRemainder</key>
+	<string>confidentialityleft</string>
+	<key>shouldStartSensor</key>
+	<string>transpileLoop</string>
+	<key>shouldpaintpromise</key>
+	<string>protectedAppBar</string>
+	<key>smartzone</key>
+	<string>extensionPadding</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerCycle</key>
+	<string>shouldPopResource</string>
+	<key>enabledPoint</key>
+	<string>iterativeDescriptor</string>
+	<key>grainorientation</key>
+	<string>canDispatchThread</string>
+	<key>gridviewtrigger</key>
+	<string>modelpertype</string>
+	<key>interfaceprovider</key>
+	<string>nibFormat</string>
+	<key>objectpadding</key>
+	<string>canProcessBoxShadow</string>
+	<key>precisionDirection</key>
+	<string>frameColor</string>
+</dict>
+</plist>

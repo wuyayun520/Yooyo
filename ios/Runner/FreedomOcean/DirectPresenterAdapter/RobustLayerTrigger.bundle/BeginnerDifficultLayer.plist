@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binderflags</key>
+	<string>roleFormat</string>
+	<key>curvescale</key>
+	<string>unmountedCursor</string>
+	<key>dedicatedbuffertail</key>
+	<string>concurrentAxis</string>
+	<key>geometricTimeline</key>
+	<string>beginnerWidget</string>
+	<key>globalDescription</key>
+	<string>canUnmountExponent</string>
+	<key>interfacearoundvariable</key>
+	<string>shouldStopPainter</string>
+	<key>oldheap</key>
+	<string>spriteobserver</string>
+	<key>pivotalResult</key>
+	<string>holdscaffold</string>
+	<key>screentension</key>
+	<string>shouldListenGate</string>
+	<key>webBinary</key>
+	<string>tableContext</string>
+</dict>
+</plist>

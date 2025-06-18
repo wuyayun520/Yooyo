@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>keyReceiver</key>
+	<string>textOrigin</string>
+	<key>resilientSize</key>
+	<string>enabledjoiner</string>
+	<key>streamCoord</key>
+	<string>mainOverlay</string>
+	<key>webHistogram</key>
+	<string>composableMaster</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interpolateequalization</key>
+	<string>timelineBorder</string>
+	<key>restrictionCoord</key>
+	<string>webchannelstransparency</string>
+	<key>shouldBindInstruction</key>
+	<string>canLayoutSpecifier</string>
+	<key>shouldPopArithmetic</key>
+	<string>resourceTail</string>
+	<key>shouldStopMember</key>
+	<string>offsetWork</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalAmortization</key>
+	<string>eagerTicker</string>
+	<key>criticalFlex</key>
+	<string>equipmentStrategy</string>
+	<key>routerRotation</key>
+	<string>canProcessAnimation</string>
+	<key>sortedDependency</key>
+	<string>volumePosition</string>
+	<key>sortedPicker</key>
+	<string>fixedSample</string>
+</dict>
+</plist>

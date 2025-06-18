@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasBottom</key>
+	<string>resetChannel</string>
+	<key>consultativeReducer</key>
+	<string>skinDepth</string>
+	<key>discardedPromise</key>
+	<string>registerResolver</string>
+	<key>managerforce</key>
+	<string>desktopSink</string>
+	<key>sharedSubscription</key>
+	<string>firstScheduler</string>
+	<key>tweakTheme</key>
+	<string>labelTask</string>
+</dict>
+</plist>

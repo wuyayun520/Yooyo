@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>modelinterval</key>
+	<string>layoutTool</string>
+	<key>permissivecapsulelocation</key>
+	<string>futureBorder</string>
+	<key>resilientSession</key>
+	<string>pivotalProvider</string>
+	<key>shouldDeserializeCupertino</key>
+	<string>stampHue</string>
+	<key>shouldLoadSegment</key>
+	<string>shouldCacheContraction</string>
+	<key>tickerdelay</key>
+	<string>resizableBuilder</string>
+	<key>tweakPadding</key>
+	<string>subsequentReplica</string>
+</dict>
+</plist>

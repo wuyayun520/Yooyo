@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasTint</key>
+	<string>difficultframe</string>
+	<key>commonSegue</key>
+	<string>permanentIntegrity</string>
+	<key>functionalBinder</key>
+	<string>multiLabel</string>
+	<key>intuitiveoffsetstate</key>
+	<string>defaultoverlay</string>
+	<key>meshPadding</key>
+	<string>lazyobserver</string>
+	<key>positionedSkewX</key>
+	<string>protectedException</string>
+	<key>rowMode</key>
+	<string>shouldkeepinkwell</string>
+	<key>shouldEmitCertificate</key>
+	<string>specifierDepth</string>
+	<key>smartradius</key>
+	<string>directTabView</string>
+</dict>
+</plist>

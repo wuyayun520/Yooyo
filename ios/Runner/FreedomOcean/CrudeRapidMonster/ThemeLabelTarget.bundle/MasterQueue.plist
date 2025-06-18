@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellspacing</key>
+	<string>batchCommand</string>
+	<key>errormediatortop</key>
+	<string>commonProgressBar</string>
+	<key>firstLog</key>
+	<string>transformerconsumer</string>
+	<key>requestflyweightfrequency</key>
+	<string>shouldFormatFlex</string>
+	<key>shouldCreateGestureDetector</key>
+	<string>encapsulateAsync</string>
+	<key>sustainableSelector</key>
+	<string>intermediateAllocator</string>
+</dict>
+</plist>

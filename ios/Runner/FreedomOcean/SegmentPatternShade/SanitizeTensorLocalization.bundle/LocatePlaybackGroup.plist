@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>firstCallback</key>
+	<string>maintainConstraint</string>
+	<key>inheritedentityindex</key>
+	<string>relationalpolyfill</string>
+	<key>navigatoranimation</key>
+	<string>storageIndex</string>
+	<key>presenterwithoutmemento</key>
+	<string>deployAsync</string>
+	<key>segmentoperationskewx</key>
+	<string>joinerShade</string>
+	<key>sophisticatedLoop</key>
+	<string>evaluationSpacing</string>
+	<key>statefulMetrics</key>
+	<string>validateClipper</string>
+	<key>utilIndex</key>
+	<string>rotateFeature</string>
+</dict>
+</plist>

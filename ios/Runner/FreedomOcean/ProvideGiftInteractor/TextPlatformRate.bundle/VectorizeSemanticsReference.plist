@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseBrightness</key>
+	<string>quantizationAlignment</string>
+	<key>operationValidation</key>
+	<string>sensorParameter</string>
+	<key>robustMapper</key>
+	<string>profileSingleton</string>
+	<key>shouldRouteStamp</key>
+	<string>canPushTangent</string>
+	<key>shouldUnmountExponent</key>
+	<string>anchororigin</string>
+	<key>standaloneframe</key>
+	<string>shouldtraincapacities</string>
+	<key>zoneuntilcontext</key>
+	<string>canFinishButton</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerFrequency</key>
+	<string>gridviewSkewY</string>
+	<key>directstreamdistance</key>
+	<string>mainTransformer</string>
+	<key>expandedOffset</key>
+	<string>responderAlignment</string>
+	<key>factoryAcceleration</key>
+	<string>obtainFactory</string>
+	<key>normalResponse</key>
+	<string>otherTool</string>
+	<key>shouldNotifyPet</key>
+	<string>navigateEvent</string>
+	<key>shouldsubscribechannels</key>
+	<string>intermediatePromise</string>
+</dict>
+</plist>

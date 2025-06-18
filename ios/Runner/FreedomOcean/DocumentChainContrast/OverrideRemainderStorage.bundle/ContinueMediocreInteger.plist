@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertvarstatus</key>
+	<string>formatTabView</string>
+	<key>disabledGate</key>
+	<string>descriptionDecorator</string>
+	<key>filterpadding</key>
+	<string>zoneparamorigin</string>
+	<key>listenerthanframework</key>
+	<string>uniformResult</string>
+	<key>nibState</key>
+	<string>stopCoordinator</string>
+	<key>restrictionDensity</key>
+	<string>shouldNavigateBrush</string>
+	<key>subpixeltween</key>
+	<string>unbindNorm</string>
+</dict>
+</plist>

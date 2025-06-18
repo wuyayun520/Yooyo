@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionPublisher</key>
+	<string>coordinatorMethod</string>
+	<key>constantRate</key>
+	<string>persistentTheme</string>
+	<key>otherFeature</key>
+	<string>makeResource</string>
+	<key>rapidContainer</key>
+	<string>backwardInjection</string>
+	<key>skipcontainer</key>
+	<string>groupVar</string>
+	<key>sortedAnimator</key>
+	<string>resilientGraphic</string>
+	<key>subscriberOrigin</key>
+	<string>showticker</string>
+	<key>sustainableCupertino</key>
+	<string>ignoredpreviewcenter</string>
+</dict>
+</plist>

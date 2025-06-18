@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleColumn</key>
+	<string>flexibleCharacteristic</string>
+	<key>detailorientation</key>
+	<string>bitrateLevel</string>
+	<key>pivotalSession</key>
+	<string>usecasehue</string>
+	<key>shouldConnectAccessory</key>
+	<string>usedSegment</string>
+	<key>shouldEncodeDropdownButton</key>
+	<string>poprepository</string>
+	<key>shouldEncodeMovement</key>
+	<string>parsePreview</string>
+	<key>smallthreadtag</key>
+	<string>injectionsaturation</string>
+	<key>synchronousConfidentiality</key>
+	<string>normalSession</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositioncapacity</key>
+	<string>similarcolor</string>
+	<key>interpolationaspect</key>
+	<string>offsetText</string>
+	<key>musicInteraction</key>
+	<string>tappableWidget</string>
+	<key>pageviewdecoratorlocation</key>
+	<string>canDisconnectPositioned</string>
+	<key>respectiveObserver</key>
+	<string>asyncColor</string>
+</dict>
+</plist>

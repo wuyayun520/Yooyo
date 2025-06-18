@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityfromprocess</key>
+	<string>canMountView</string>
+	<key>delicateWorkflow</key>
+	<string>interactivePet</string>
+	<key>drawmenu</key>
+	<string>customImpact</string>
+	<key>firstLayer</key>
+	<string>canTransformEquipment</string>
+	<key>mapperDelay</key>
+	<string>hardMatrix</string>
+	<key>prismaticDocument</key>
+	<string>shouldsetstateappbar</string>
+	<key>shouldParseSwift</key>
+	<string>routeInkWell</string>
+	<key>shouldResumeInterpolation</key>
+	<string>timerstate</string>
+	<key>sustainableRect</key>
+	<string>encodeTransformer</string>
+</dict>
+</plist>

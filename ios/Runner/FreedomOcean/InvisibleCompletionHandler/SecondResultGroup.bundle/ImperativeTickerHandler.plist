@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedGift</key>
+	<string>processIcon</string>
+	<key>flexSkewX</key>
+	<string>canFinishAxis</string>
+	<key>mediumStoryboard</key>
+	<string>checklistAppearance</string>
+	<key>reactiveprogressbar</key>
+	<string>modelObserver</string>
+	<key>reactivestoredensity</key>
+	<string>canDetachTabBar</string>
+	<key>requestgrain</key>
+	<string>dynamicFragments</string>
+	<key>streamdistance</key>
+	<string>zonenumberrotation</string>
+</dict>
+</plist>

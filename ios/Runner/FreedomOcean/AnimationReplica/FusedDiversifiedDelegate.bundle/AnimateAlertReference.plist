@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableStrength</key>
+	<string>restartSpecifier</string>
+	<key>shouldUnmountText</key>
+	<string>reductionMediator</string>
+	<key>smartParticle</key>
+	<string>awaitValidation</string>
+</dict>
+</plist>

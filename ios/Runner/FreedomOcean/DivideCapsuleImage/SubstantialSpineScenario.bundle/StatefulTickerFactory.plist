@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaFeedback</key>
+	<string>reactiveDropdownButton</string>
+	<key>deferredAperture</key>
+	<string>retainednib</string>
+	<key>eagerMetrics</key>
+	<string>consumeLayout</string>
+	<key>iterativeGraph</key>
+	<string>joinerformat</string>
+	<key>painterResponse</key>
+	<string>startCaption</string>
+	<key>prevError</key>
+	<string>implementProvider</string>
+	<key>shouldDisposeImage</key>
+	<string>visibleExpanded</string>
+	<key>shouldUnmountedMomentum</key>
+	<string>overrideGraph</string>
+</dict>
+</plist>

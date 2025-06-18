@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorKind</key>
+	<string>animatestream</string>
+	<key>consultativeFormat</key>
+	<string>shouldCancelAnimation</string>
+	<key>createnavigator</key>
+	<string>navigatorRate</string>
+	<key>cubitRotation</key>
+	<string>deferredStream</string>
+	<key>decorationValidation</key>
+	<string>documentHue</string>
+	<key>granularContraction</key>
+	<string>brushstatekind</string>
+	<key>parallelSink</key>
+	<string>singleWorkflow</string>
+	<key>shouldCreateGem</key>
+	<string>hasaxis</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocsorter</key>
+	<string>multiHandler</string>
+	<key>cupertinomovementinterval</key>
+	<string>profileIntensity</string>
+	<key>evolutionState</key>
+	<string>actionlocation</string>
+	<key>invisibleConsumer</key>
+	<string>adaptivehashdirection</string>
+	<key>plateState</key>
+	<string>behaviorEdge</string>
+	<key>resourceremediation</key>
+	<string>grainMemento</string>
+	<key>rowimage</key>
+	<string>canDisposeGram</string>
+	<key>timeValidation</key>
+	<string>smartResolver</string>
+</dict>
+</plist>

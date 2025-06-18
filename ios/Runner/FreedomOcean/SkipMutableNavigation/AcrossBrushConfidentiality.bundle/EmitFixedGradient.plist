@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitsearcher</key>
+	<string>cupertinoStoryboard</string>
+	<key>ephemeralModulus</key>
+	<string>inheritedBehavior</string>
+	<key>remainderinsideenvironment</key>
+	<string>webInkWell</string>
+	<key>restrictionTransparency</key>
+	<string>interfacespeed</string>
+	<key>servicephasefeedback</key>
+	<string>movestore</string>
+	<key>subscribefactory</key>
+	<string>canDecodeModal</string>
+</dict>
+</plist>

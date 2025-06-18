@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisCount</key>
+	<string>inheritedmomentum</string>
+	<key>granularCache</key>
+	<string>pinchableAction</string>
+	<key>ignoredSkin</key>
+	<string>sceneparamvisible</string>
+	<key>prismaticIsolate</key>
+	<string>behaviorPressure</string>
+	<key>roleFormat</key>
+	<string>graphcount</string>
+	<key>segueHead</key>
+	<string>shouldUnmountResource</string>
+	<key>shouldCacheCell</key>
+	<string>sequentialCluster</string>
+	<key>shouldSaveMap</key>
+	<string>controllersaturation</string>
+	<key>shouldUnmountedEqualization</key>
+	<string>subscribeProvider</string>
+	<key>singleCapacity</key>
+	<string>localizationBuffer</string>
+</dict>
+</plist>

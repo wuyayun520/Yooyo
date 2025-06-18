@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultCosine</key>
+	<string>cupertinoTitle</string>
+	<key>deferredCoordinator</key>
+	<string>optiontexture</string>
+	<key>showtable</key>
+	<string>requiredOptimizer</string>
+</dict>
+</plist>

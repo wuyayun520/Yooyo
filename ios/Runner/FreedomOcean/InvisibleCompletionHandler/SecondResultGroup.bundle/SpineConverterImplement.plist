@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryDistance</key>
+	<string>permanentTextField</string>
+	<key>colorDistance</key>
+	<string>shouldPauseDocument</string>
+	<key>dedicatedBloc</key>
+	<string>seamlesscyclecontrast</string>
+	<key>ephemeralresource</key>
+	<string>parseSink</string>
+	<key>materialCharacteristic</key>
+	<string>iterativesorter</string>
+	<key>painterOpacity</key>
+	<string>dispatchOption</string>
+	<key>rectforstyle</key>
+	<string>beginnerEntropy</string>
+	<key>staticTransformer</key>
+	<string>findCallback</string>
+</dict>
+</plist>

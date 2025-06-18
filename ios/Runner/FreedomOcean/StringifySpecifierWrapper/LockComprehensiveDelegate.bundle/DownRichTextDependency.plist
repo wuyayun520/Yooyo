@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionalignment</key>
+	<string>canEndIcon</string>
+	<key>concreteAlignment</key>
+	<string>createActivity</string>
+	<key>grainBottom</key>
+	<string>functionalContainer</string>
+	<key>independentFlex</key>
+	<string>giftFlyweight</string>
+	<key>interpolationTop</key>
+	<string>shoulddisconnectcycle</string>
+	<key>primaryAnimatedContainer</key>
+	<string>clipperFlags</string>
+	<key>shouldDetachMultiplication</key>
+	<string>declarativeTweak</string>
+	<key>threadDelay</key>
+	<string>analyzeDuration</string>
+</dict>
+</plist>

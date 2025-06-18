@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleFormat</key>
+	<string>canMountedNotification</string>
+	<key>alignmentbufferorigin</key>
+	<string>provideError</string>
+	<key>consumptionOrigin</key>
+	<string>converterDensity</string>
+	<key>permanentVector</key>
+	<string>liteTopic</string>
+	<key>shouldAttachProject</key>
+	<string>canMountedCapacities</string>
+	<key>storeDuration</key>
+	<string>themeType</string>
+</dict>
+</plist>

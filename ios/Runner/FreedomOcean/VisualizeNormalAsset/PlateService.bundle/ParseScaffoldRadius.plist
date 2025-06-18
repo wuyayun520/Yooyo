@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hardsubpixeledge</key>
+	<string>builderbloc</string>
+	<key>normalResolver</key>
+	<string>hierarchicalresult</string>
+	<key>resilienceVisibility</key>
+	<string>enabledState</string>
+	<key>shouldRebuildNavigator</key>
+	<string>presentnode</string>
+	<key>shouldYieldFuture</key>
+	<string>canAttachTouch</string>
+	<key>tensorStroke</key>
+	<string>delegateNavigator</string>
+</dict>
+</plist>

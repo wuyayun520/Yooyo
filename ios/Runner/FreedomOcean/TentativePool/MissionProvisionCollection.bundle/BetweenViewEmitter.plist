@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableStream</key>
+	<string>shouldRenderBorder</string>
+	<key>inflatelistview</key>
+	<string>behaviorLevel</string>
+	<key>missedMember</key>
+	<string>cacheVariant</string>
+	<key>mutableTraversal</key>
+	<string>videoLeft</string>
+	<key>nativeCard</key>
+	<string>canPersistPoint</string>
+	<key>onprojecttap</key>
+	<string>dismissRoute</string>
+	<key>reducerorientation</key>
+	<string>allocateTitle</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerBehavior</key>
+	<string>canInflateGraphic</string>
+	<key>criticalResult</key>
+	<string>uniquedimension</string>
+	<key>errordepth</key>
+	<string>arithmeticRoute</string>
+	<key>lostIntegrity</key>
+	<string>comprehensiveAnchor</string>
+	<key>metadatatint</key>
+	<string>textOffset</string>
+	<key>playbackobserverflags</key>
+	<string>variantobserver</string>
+	<key>respectivestateful</key>
+	<string>uniformLoop</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteSelector</key>
+	<string>cupertinoReference</string>
+	<key>disabledFragment</key>
+	<string>segueEdge</string>
+	<key>euclideanMechanism</key>
+	<string>createspot</string>
+	<key>shouldCancelFuture</key>
+	<string>canTransformSensor</string>
+	<key>subtleScheduler</key>
+	<string>chooserSaturation</string>
+</dict>
+</plist>

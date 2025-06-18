@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constrainttop</key>
+	<string>optimizeSlider</string>
+	<key>exceptionright</key>
+	<string>shouldCancelMovement</string>
+	<key>navigatorright</key>
+	<string>logarithmValidation</string>
+	<key>receiverTint</key>
+	<string>elasticitycount</string>
+	<key>resilienceFlags</key>
+	<string>activedependency</string>
+</dict>
+</plist>

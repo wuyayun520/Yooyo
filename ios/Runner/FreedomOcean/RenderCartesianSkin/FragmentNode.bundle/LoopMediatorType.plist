@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonTweak</key>
+	<string>looparchitecture</string>
+	<key>directlyHash</key>
+	<string>dispatchInstruction</string>
+	<key>draggableParticle</key>
+	<string>crucialTransformer</string>
+	<key>histogramVelocity</key>
+	<string>sizejoiner</string>
+	<key>largeMenu</key>
+	<string>iterativeiconcount</string>
+	<key>nativeQuaternion</key>
+	<string>shouldStopCard</string>
+</dict>
+</plist>

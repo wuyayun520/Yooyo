@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleSpacing</key>
+	<string>completedStep</string>
+	<key>criticalProject</key>
+	<string>onequalizationchanged</string>
+	<key>crudeProgressBar</key>
+	<string>canValidateSpine</string>
+	<key>curveState</key>
+	<string>canRenderSegment</string>
+	<key>firstColor</key>
+	<string>activesliderinset</string>
+	<key>fragmentsSize</key>
+	<string>accelerateLayer</string>
+	<key>functionalEquivalent</key>
+	<string>transitionSubpixel</string>
+	<key>pinchableHandler</key>
+	<string>independentReceiver</string>
+	<key>sortedUsage</key>
+	<string>tabviewObserver</string>
+</dict>
+</plist>

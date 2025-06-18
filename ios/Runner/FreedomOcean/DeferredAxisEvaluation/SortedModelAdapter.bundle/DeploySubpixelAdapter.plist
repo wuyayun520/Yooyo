@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarstate</key>
+	<string>accordionException</string>
+	<key>elasticAxis</key>
+	<string>popframe</string>
+	<key>immutableWidget</key>
+	<string>clipperDepth</string>
+	<key>lostAnchor</key>
+	<string>canBindCatalyst</string>
+	<key>materialAsset</key>
+	<string>extensionCount</string>
+	<key>notifierForce</key>
+	<string>toolscale</string>
+	<key>remediationContrast</key>
+	<string>prevTransition</string>
+	<key>skipreduction</key>
+	<string>mountTangent</string>
+	<key>volumeAppearance</key>
+	<string>usagephaserotation</string>
+</dict>
+</plist>

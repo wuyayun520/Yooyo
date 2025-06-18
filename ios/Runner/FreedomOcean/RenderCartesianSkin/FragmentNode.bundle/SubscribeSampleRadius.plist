@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>amortizationAcceleration</key>
+	<string>seekZone</string>
+	<key>cartesianSegment</key>
+	<string>shouldSaveUsage</string>
+	<key>featureinterpreterfrequency</key>
+	<string>inflateSymbol</string>
+	<key>keyGrain</key>
+	<string>sequentialTolerance</string>
+	<key>lazySpecifier</key>
+	<string>mediocreGrayscale</string>
+	<key>performswitch</key>
+	<string>tickerpager</string>
+	<key>temporaryExtension</key>
+	<string>keepConsumer</string>
+	<key>usedSlider</key>
+	<string>interpolateUtil</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicDocument</key>
+	<string>conformAllocator</string>
+	<key>mobilehistogram</key>
+	<string>eagerIndicator</string>
+	<key>priorityalongproxy</key>
+	<string>receiveResolver</string>
+</dict>
+</plist>

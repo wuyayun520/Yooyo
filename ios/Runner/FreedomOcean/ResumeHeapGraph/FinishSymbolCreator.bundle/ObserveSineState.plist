@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencytheme</key>
+	<string>drawStorage</string>
+	<key>granularMetadata</key>
+	<string>layoutPet</string>
+	<key>relationalScreen</key>
+	<string>instructionType</string>
+	<key>shouldNavigateDrawer</key>
+	<string>otherLog</string>
+	<key>shouldRebuildOption</key>
+	<string>cardinvariable</string>
+	<key>shouldReplaceLayout</key>
+	<string>nativeRemainder</string>
+	<key>tabviewkind</key>
+	<string>hashContrast</string>
+	<key>temporarynodeinterval</key>
+	<string>draggablespritedelay</string>
+</dict>
+</plist>

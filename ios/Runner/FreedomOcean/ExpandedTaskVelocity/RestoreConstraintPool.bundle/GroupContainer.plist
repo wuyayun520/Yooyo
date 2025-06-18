@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedOperation</key>
+	<string>resetStream</string>
+	<key>currentGraphic</key>
+	<string>previewActivity</string>
+	<key>deferredListener</key>
+	<string>pinchableHistogram</string>
+	<key>enabledSpecifier</key>
+	<string>shouldDetachDrawer</string>
+	<key>granularLinker</key>
+	<string>asynchronousTangent</string>
+	<key>navigateexponent</key>
+	<string>shouldHandleRemainder</string>
+	<key>optionType</key>
+	<string>maxGrayscale</string>
+	<key>shouldDismissController</key>
+	<string>multiplicationFrequency</string>
+	<key>statefulActivity</key>
+	<string>taskLocation</string>
+	<key>taxonomyacceleration</key>
+	<string>canShowLabel</string>
+</dict>
+</plist>

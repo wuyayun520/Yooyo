@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryInterval</key>
+	<string>gesturedetectorTag</string>
+	<key>blocValidation</key>
+	<string>expandedPhase</string>
+	<key>bordertransparency</key>
+	<string>statelessQuaternion</string>
+	<key>constantright</key>
+	<string>notifyBullet</string>
+	<key>curvemediatortension</key>
+	<string>differentiategesture</string>
+	<key>denseservicerate</key>
+	<string>usedRepository</string>
+	<key>lazyItem</key>
+	<string>labelrotation</string>
+	<key>plateoperationvelocity</key>
+	<string>actionComposite</string>
+	<key>segueshade</key>
+	<string>parallelButton</string>
+	<key>subpixelresilience</key>
+	<string>primaryCanvas</string>
+</dict>
+</plist>

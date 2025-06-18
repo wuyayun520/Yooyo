@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderRotation</key>
+	<string>requestMode</string>
+	<key>evolutiondirection</key>
+	<string>tentativeTension</string>
+	<key>resizableCompleter</key>
+	<string>canBuildWidget</string>
+	<key>shouldTrainAlert</key>
+	<string>resultInterpreter</string>
+	<key>similarTrigger</key>
+	<string>createBuilder</string>
+	<key>staticProfile</key>
+	<string>tabviewType</string>
+	<key>webCard</key>
+	<string>quantizationCurve</string>
+</dict>
+</plist>

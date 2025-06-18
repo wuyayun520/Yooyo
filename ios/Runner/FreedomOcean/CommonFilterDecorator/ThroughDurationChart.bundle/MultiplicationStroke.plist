@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionresponder</key>
+	<string>decouplePopup</string>
+	<key>basicIcon</key>
+	<string>coordinatorValidation</string>
+	<key>deliveryTag</key>
+	<string>overrideInteractor</string>
+	<key>fusedBandwidth</key>
+	<string>canSetStateProfile</string>
+	<key>immediateSingleton</key>
+	<string>loopProxy</string>
+	<key>intuitiveOccasion</key>
+	<string>publicPromise</string>
+	<key>shouldProcessDocument</key>
+	<string>functionalstorage</string>
+	<key>shouldcreatestateful</key>
+	<string>canConnectFlex</string>
+	<key>sineState</key>
+	<string>segmentcoord</string>
+	<key>tensorsound</key>
+	<string>shouldPublishMusic</string>
+</dict>
+</plist>

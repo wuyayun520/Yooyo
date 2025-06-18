@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedGesture</key>
+	<string>shouldPersistStateless</string>
+	<key>autoStream</key>
+	<string>primaryreducerstyle</string>
+	<key>beginnerZone</key>
+	<string>textfieldOrigin</string>
+	<key>bundlestep</key>
+	<string>screenComposite</string>
+	<key>giftAlignment</key>
+	<string>endCertificate</string>
+	<key>liteSwift</key>
+	<string>canUpdateNavigator</string>
+	<key>nextTransformer</key>
+	<string>composableawaitspeed</string>
+	<key>parallelTask</key>
+	<string>activatedInteger</string>
+	<key>shouldKeepDrawer</key>
+	<string>sustainablePreview</string>
+	<key>uniquePageView</key>
+	<string>canStopObserver</string>
+</dict>
+</plist>

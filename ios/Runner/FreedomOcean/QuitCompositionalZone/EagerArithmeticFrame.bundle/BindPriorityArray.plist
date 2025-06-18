@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousGram</key>
+	<string>modeltypeorientation</string>
+	<key>dedicatedItem</key>
+	<string>permissiveNotifier</string>
+	<key>draggableAnimator</key>
+	<string>synchronousDescriptor</string>
+	<key>handlerpressure</key>
+	<string>defaultSkirt</string>
+	<key>immutableRequest</key>
+	<string>requestProcess</string>
+	<key>nibFrequency</key>
+	<string>canStartSine</string>
+	<key>notationSkewX</key>
+	<string>resizablecubit</string>
+	<key>schemaHue</key>
+	<string>substantialMediaQuery</string>
+	<key>shouldBuildAlert</key>
+	<string>completerFormat</string>
+	<key>symbolDistance</key>
+	<string>drawcontroller</string>
+</dict>
+</plist>

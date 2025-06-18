@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterLocation</key>
+	<string>extendNode</string>
+	<key>composableSymbol</key>
+	<string>wrapNode</string>
+	<key>discardedAnimatedContainer</key>
+	<string>statefulModulus</string>
+	<key>layoutparameterformat</key>
+	<string>factoryDecorator</string>
+	<key>litePicker</key>
+	<string>unmountStack</string>
+	<key>mutablePet</key>
+	<string>shouldDisposePrecision</string>
+	<key>requiredHeap</key>
+	<string>interfaceFramework</string>
+</dict>
+</plist>

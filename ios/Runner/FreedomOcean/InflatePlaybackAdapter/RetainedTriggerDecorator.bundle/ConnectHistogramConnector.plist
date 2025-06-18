@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitraterestriction</key>
+	<string>firstGift</string>
+	<key>composableTheme</key>
+	<string>sophisticatedInteractor</string>
+	<key>directlyReference</key>
+	<string>subscriptionFramework</string>
+	<key>disparateRectangle</key>
+	<string>restoreGraph</string>
+	<key>immutableMethod</key>
+	<string>concreteTool</string>
+	<key>independentStorage</key>
+	<string>dependencyexceptcycle</string>
+	<key>shouldObserveView</key>
+	<string>revisitPresenter</string>
+	<key>shouldPaintSegment</key>
+	<string>exitLayer</string>
+	<key>visibleLoop</key>
+	<string>builderparticle</string>
+</dict>
+</plist>

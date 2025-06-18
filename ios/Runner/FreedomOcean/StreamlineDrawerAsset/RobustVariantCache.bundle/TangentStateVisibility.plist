@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mainCluster</key>
+	<string>signTag</string>
+	<key>movementthreshold</key>
+	<string>renderCoordinator</string>
+	<key>scrollableDimension</key>
+	<string>multiQueue</string>
+	<key>sequentialInteraction</key>
+	<string>blocScale</string>
+	<key>unsortedFragments</key>
+	<string>canNavigateDecoration</string>
+</dict>
+</plist>

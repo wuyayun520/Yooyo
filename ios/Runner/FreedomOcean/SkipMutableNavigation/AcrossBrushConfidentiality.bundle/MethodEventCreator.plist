@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaSize</key>
+	<string>lostfilter</string>
+	<key>dynamicAudio</key>
+	<string>actioninteraction</string>
+	<key>endmultiplication</key>
+	<string>optimizerconstraint</string>
+	<key>flexibleEqualization</key>
+	<string>widgetBehavior</string>
+	<key>gatemode</key>
+	<string>dataSize</string>
+	<key>largeManager</key>
+	<string>newestUseCase</string>
+	<key>priorChannel</key>
+	<string>registerModel</string>
+	<key>standaloneFuture</key>
+	<string>completedSizedBox</string>
+	<key>usecasetension</key>
+	<string>paddingOrigin</string>
+</dict>
+</plist>

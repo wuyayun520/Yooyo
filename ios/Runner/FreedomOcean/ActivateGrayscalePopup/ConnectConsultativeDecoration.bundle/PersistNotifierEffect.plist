@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerreductionvisible</key>
+	<string>routeHeap</string>
+	<key>behaviortween</key>
+	<string>webPager</string>
+	<key>cubeconsumption</key>
+	<string>shapeVisible</string>
+	<key>scaleType</key>
+	<string>fusedmarginleft</string>
+	<key>standalonebuilderstatus</key>
+	<string>streamloop</string>
+	<key>textDepth</key>
+	<string>discardedGrid</string>
+	<key>webTraversal</key>
+	<string>visibleDimension</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialTolerance</key>
+	<string>uniqueError</string>
+	<key>disparateScene</key>
+	<string>shouldRebuildCell</string>
+	<key>geometricStateful</key>
+	<string>semanticworkflow</string>
+	<key>impressionBorder</key>
+	<string>shouldLayoutSpecifier</string>
+	<key>otherEvaluation</key>
+	<string>apertureinterpretershape</string>
+	<key>routeinterval</key>
+	<string>shouldAnimateView</string>
+	<key>staticinstructionlocation</key>
+	<string>shouldroutegem</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectgrain</key>
+	<string>labelinset</string>
+	<key>commonDetector</key>
+	<string>arithmeticNavigation</string>
+	<key>curveprototypeborder</key>
+	<string>finishsegment</string>
+	<key>exceptionPadding</key>
+	<string>semanticJoiner</string>
+	<key>seamlesstrajectory</key>
+	<string>heroWork</string>
+	<key>shouldEmitActivity</key>
+	<string>blocactivitysaturation</string>
+	<key>shouldSaveCard</key>
+	<string>immediateAsync</string>
+	<key>spriteoffset</key>
+	<string>gridviewtimer</string>
+</dict>
+</plist>

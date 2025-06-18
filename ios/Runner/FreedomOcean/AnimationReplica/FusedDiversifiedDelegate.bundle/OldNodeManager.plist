@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeGradient</key>
+	<string>shouldPopContainer</string>
+	<key>dependencyelement</key>
+	<string>specifytransformercontrast</string>
+	<key>ignoredTabView</key>
+	<string>canCancelGestureDetector</string>
+	<key>intermediateLifecycle</key>
+	<string>zonestrength</string>
+	<key>layoutprocessinterval</key>
+	<string>reliabilityDuration</string>
+	<key>overridemetadata</key>
+	<string>retainedDocument</string>
+	<key>scrollableviewspacing</key>
+	<string>precisionCycle</string>
+</dict>
+</plist>

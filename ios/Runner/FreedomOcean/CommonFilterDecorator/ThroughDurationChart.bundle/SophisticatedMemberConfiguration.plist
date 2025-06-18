@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fusedMechanism</key>
+	<string>backwardSchema</string>
+	<key>releaseresponse</key>
+	<string>rectIndex</string>
+	<key>resizableHistogram</key>
+	<string>exceptionBehavior</string>
+	<key>shouldNotifyNavigation</key>
+	<string>comprehensiveTool</string>
+	<key>swiftdensity</key>
+	<string>implementController</string>
+</dict>
+</plist>

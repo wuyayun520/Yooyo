@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customUsage</key>
+	<string>accordionConfidentiality</string>
+	<key>deferredFuture</key>
+	<string>beginnerrestriction</string>
+	<key>iterativeswitchvisibility</key>
+	<string>canTransitionStamp</string>
+	<key>stopworkflow</key>
+	<string>searcherDirection</string>
+</dict>
+</plist>

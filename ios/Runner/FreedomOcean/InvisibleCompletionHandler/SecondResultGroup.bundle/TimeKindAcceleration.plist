@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enablederror</key>
+	<string>autoNode</string>
+	<key>flexiblePolyfill</key>
+	<string>discardedCluster</string>
+	<key>gemOrientation</key>
+	<string>popupBridge</string>
+	<key>intermediateIntensity</key>
+	<string>secondNotification</string>
+	<key>largeStream</key>
+	<string>storeChannel</string>
+	<key>mendbehavior</key>
+	<string>usecaseFunction</string>
+	<key>nodemethodright</key>
+	<string>binaryCycle</string>
+	<key>reusableCanvas</key>
+	<string>themeContrast</string>
+</dict>
+</plist>

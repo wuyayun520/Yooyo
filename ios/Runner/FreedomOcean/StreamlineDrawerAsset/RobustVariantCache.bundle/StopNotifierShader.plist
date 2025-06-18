@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedAlert</key>
+	<string>injectioncluster</string>
+	<key>factoryEdge</key>
+	<string>standaloneGram</string>
+	<key>popupforparameter</key>
+	<string>decodeContainer</string>
+	<key>resourceprocessor</key>
+	<string>sharedMap</string>
+	<key>seamlesscolumn</key>
+	<string>granularMapper</string>
+	<key>shouldBuildSign</key>
+	<string>characterStructure</string>
+	<key>shouldMountedColumn</key>
+	<string>explicitHistogram</string>
+	<key>shouldcreategift</key>
+	<string>histogramPhase</string>
+	<key>shouldmountedgate</key>
+	<string>undertakeTimer</string>
+	<key>temporaryMovement</key>
+	<string>catalystDepth</string>
+</dict>
+</plist>

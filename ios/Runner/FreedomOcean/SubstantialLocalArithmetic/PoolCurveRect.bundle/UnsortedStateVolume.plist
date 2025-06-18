@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedPreview</key>
+	<string>shouldconnectnib</string>
+	<key>blocplatformbottom</key>
+	<string>asyncTheme</string>
+	<key>originalEfficiency</key>
+	<string>deserializeStream</string>
+	<key>parallelrow</key>
+	<string>resumeDialogs</string>
+	<key>replicaCoord</key>
+	<string>presenterDepth</string>
+	<key>subtleAsync</key>
+	<string>canTransformSlider</string>
+	<key>subtleResource</key>
+	<string>shouldDispatchGraphic</string>
+	<key>tasktrajectory</key>
+	<string>shouldDismissContraction</string>
+</dict>
+</plist>

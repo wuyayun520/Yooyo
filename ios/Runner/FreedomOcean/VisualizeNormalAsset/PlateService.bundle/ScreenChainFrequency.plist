@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintvelocity</key>
+	<string>similarCollection</string>
+	<key>deferredTimer</key>
+	<string>notificationWork</string>
+	<key>displayableModulus</key>
+	<string>missionbinder</string>
+	<key>equipmentHead</key>
+	<string>transitionpoint</string>
+	<key>mutableactivitymargin</key>
+	<string>customizedImage</string>
+	<key>shouldObserveCompletion</key>
+	<string>mountedFlex</string>
+	<key>symmetricMovement</key>
+	<string>accessibleRange</string>
+	<key>usageDirection</key>
+	<string>shoulddetachunary</string>
+</dict>
+</plist>

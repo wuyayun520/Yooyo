@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decodeasync</key>
+	<string>prismaticInjection</string>
+	<key>mainsubpixel</key>
+	<string>customizedIcon</string>
+	<key>missedFactory</key>
+	<string>trainAnimatedContainer</string>
+	<key>overridecontroller</key>
+	<string>pinchableInfrastructure</string>
+	<key>pinchableProject</key>
+	<string>emitterDuration</string>
+	<key>selectedmember</key>
+	<string>entityintemple</string>
+	<key>storageTheme</key>
+	<string>particleTransparency</string>
+	<key>workflowskewy</key>
+	<string>frameacceleration</string>
+</dict>
+</plist>

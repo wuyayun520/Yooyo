@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticconvolutiontransparency</key>
+	<string>configurationpressure</string>
+	<key>associatedResolver</key>
+	<string>timercommandcoord</string>
+	<key>backwardheap</key>
+	<string>parseLocalization</string>
+	<key>equipmentTheme</key>
+	<string>previewTop</string>
+	<key>fixedjoiner</key>
+	<string>layoutjobbound</string>
+	<key>shouldAnimateGrayscale</key>
+	<string>popNotifier</string>
+	<key>taskbesidetype</key>
+	<string>shouldRestartExponent</string>
+	<key>uniformReduction</key>
+	<string>movementtypeskewx</string>
+</dict>
+</plist>

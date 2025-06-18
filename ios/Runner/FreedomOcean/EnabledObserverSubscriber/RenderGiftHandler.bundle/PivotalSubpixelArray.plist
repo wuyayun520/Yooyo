@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionoffset</key>
+	<string>interpolateFuture</string>
+	<key>pivotalrichtext</key>
+	<string>displayableCell</string>
+	<key>responseinteraction</key>
+	<string>continueGridView</string>
+	<key>shouldPaintController</key>
+	<string>replaceCheckbox</string>
+	<key>statefulMode</key>
+	<string>apertureLocation</string>
+	<key>storagemargin</key>
+	<string>datafrequency</string>
+	<key>zoneFlags</key>
+	<string>primaryDetail</string>
+</dict>
+</plist>

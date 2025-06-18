@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaduringstrategy</key>
+	<string>undertakeTopic</string>
+	<key>backwardAnalyzer</key>
+	<string>shouldPublishMatrix</string>
+	<key>intuitiveSearcher</key>
+	<string>intuitiveMomentum</string>
+	<key>priorLogarithm</key>
+	<string>basicAsset</string>
+</dict>
+</plist>

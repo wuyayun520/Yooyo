@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocCoord</key>
+	<string>cacheComposite</string>
+	<key>buildercharacteristic</key>
+	<string>isolateFacade</string>
+	<key>constructstorage</key>
+	<string>dropdownbuttonoffset</string>
+	<key>criticalNotation</key>
+	<string>alphaKind</string>
+	<key>interactiveController</key>
+	<string>widgetPressure</string>
+	<key>interfacestructuresaturation</key>
+	<string>throughputDirection</string>
+	<key>permissiveSubscriber</key>
+	<string>canFetchTransition</string>
+	<key>pinchableSizedBox</key>
+	<string>painterSkewY</string>
+	<key>semanticNotifier</key>
+	<string>concreteTabBar</string>
+	<key>shouldDisposeCoordinator</key>
+	<string>queueFeedback</string>
+</dict>
+</plist>

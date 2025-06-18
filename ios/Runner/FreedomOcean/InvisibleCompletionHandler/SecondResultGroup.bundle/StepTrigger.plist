@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>efficiencystate</key>
+	<string>usedAllocator</string>
+	<key>functionalCharacter</key>
+	<string>shouldEmitBullet</string>
+	<key>immediatePermutation</key>
+	<string>respondProgressBar</string>
+	<key>swiftIndex</key>
+	<string>restartMobile</string>
+	<key>typicalAnimatedContainer</key>
+	<string>tweenScope</string>
+</dict>
+</plist>

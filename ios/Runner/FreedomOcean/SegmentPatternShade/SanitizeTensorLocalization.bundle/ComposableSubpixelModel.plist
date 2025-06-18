@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionScope</key>
+	<string>transitionemitter</string>
+	<key>animationthroughput</key>
+	<string>rapidInteger</string>
+	<key>asyncStyle</key>
+	<string>taskBorder</string>
+	<key>cartesianmenu</key>
+	<string>unsortedtextfieldcolor</string>
+	<key>collectionconsumption</key>
+	<string>storeEdge</string>
+	<key>hashuntilprototype</key>
+	<string>destroyDelegate</string>
+	<key>largeRemainder</key>
+	<string>shouldEndCanvas</string>
+	<key>timeLocation</key>
+	<string>storeversusmode</string>
+</dict>
+</plist>

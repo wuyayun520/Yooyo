@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicFinder</key>
+	<string>directlyAnalogy</string>
+	<key>cosinecapacity</key>
+	<string>materialIndex</string>
+	<key>repositorymodeinset</key>
+	<string>shouldSerializeCatalyst</string>
+	<key>shouldPopInteger</key>
+	<string>shouldTrainEntropy</string>
+</dict>
+</plist>

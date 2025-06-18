@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoCursor</key>
+	<string>newestProfile</string>
+	<key>defaultSlider</key>
+	<string>semanticdescent</string>
+	<key>momentumName</key>
+	<string>shouldDisconnectSkin</string>
+	<key>resilientTweak</key>
+	<string>shouldObserveNotification</string>
+	<key>shouldKeepRole</key>
+	<string>providercapacity</string>
+	<key>spineScale</key>
+	<string>priorityStyle</string>
+	<key>stepAppearance</key>
+	<string>canHandleSensor</string>
+	<key>subtleInterpolation</key>
+	<string>layerPadding</string>
+</dict>
+</plist>

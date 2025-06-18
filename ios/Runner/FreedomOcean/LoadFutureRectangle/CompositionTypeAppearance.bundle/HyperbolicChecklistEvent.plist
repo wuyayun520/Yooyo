@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoCallback</key>
+	<string>tappablerepositorylocation</string>
+	<key>cupertinoEmitter</key>
+	<string>popupinsidesystem</string>
+	<key>disabledAction</key>
+	<string>configurationStrategy</string>
+	<key>fragmentsFlags</key>
+	<string>cosineTension</string>
+	<key>gridShape</key>
+	<string>dissociateTimer</string>
+	<key>publiccolumndirection</key>
+	<string>allocatorNumber</string>
+	<key>sessionstageleft</key>
+	<string>positioncolor</string>
+	<key>sharedConstant</key>
+	<string>significantVideo</string>
+	<key>shouldStopOption</key>
+	<string>scrollableResponder</string>
+	<key>signfrequency</key>
+	<string>fusedConstant</string>
+</dict>
+</plist>

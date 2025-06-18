@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dimensionskewx</key>
+	<string>desktopSpecifier</string>
+	<key>featureSkewY</key>
+	<string>shouldShowCapsule</string>
+	<key>liteRestriction</key>
+	<string>requiredColumn</string>
+	<key>shouldSubscribeBoxShadow</key>
+	<string>shouldSerializePoint</string>
+	<key>specifyProvision</key>
+	<string>relationalTimeline</string>
+	<key>unactivatedDrawer</key>
+	<string>canLoadExpanded</string>
+</dict>
+</plist>

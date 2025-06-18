@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicateInstruction</key>
+	<string>sensorTag</string>
+	<key>metadatafactory</key>
+	<string>textfieldVelocity</string>
+	<key>pivotalTool</key>
+	<string>delicatecubit</string>
+	<key>radiusVelocity</key>
+	<string>navigatorthanstage</string>
+	<key>rangeTail</key>
+	<string>allocatorAlignment</string>
+	<key>scenecoord</key>
+	<string>shouldresumeskin</string>
+	<key>shouldStartSubpixel</key>
+	<string>optionPosition</string>
+	<key>significantModule</key>
+	<string>temporaryTween</string>
+	<key>singleIndicator</key>
+	<string>mutabletolerance</string>
+	<key>skinSkewX</key>
+	<string>directlystate</string>
+</dict>
+</plist>

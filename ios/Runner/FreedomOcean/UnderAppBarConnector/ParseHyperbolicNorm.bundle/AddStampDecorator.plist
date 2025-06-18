@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardScheduler</key>
+	<string>responseTask</string>
+	<key>crudeTabBar</key>
+	<string>workflowSpacing</string>
+	<key>finishbuilder</key>
+	<string>cycleSkewY</string>
+	<key>momentumTail</key>
+	<string>tabbarposition</string>
+	<key>profilestate</key>
+	<string>greatsemantics</string>
+	<key>similarBullet</key>
+	<string>slideropacity</string>
+	<key>usedMember</key>
+	<string>nextAscent</string>
+</dict>
+</plist>

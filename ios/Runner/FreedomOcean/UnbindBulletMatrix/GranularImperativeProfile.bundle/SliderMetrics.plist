@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleResponse</key>
+	<string>beginnerExpanded</string>
+	<key>appbarstream</key>
+	<string>shouldLayoutAppBar</string>
+	<key>behaviorStatus</key>
+	<string>dispatchTable</string>
+	<key>hardpreview</key>
+	<string>parseNavigation</string>
+	<key>mediumRole</key>
+	<string>storeNavigator</string>
+	<key>notifyhandler</key>
+	<string>resourcematrix</string>
+	<key>pivotalLog</key>
+	<string>usedAlpha</string>
+</dict>
+</plist>

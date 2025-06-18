@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoBinary</key>
+	<string>canHandleScroll</string>
+	<key>emitterInset</key>
+	<string>shouldPaintAlpha</string>
+	<key>shouldPrepareDropdownButton</key>
+	<string>hyperbolicComponent</string>
+	<key>sinestagedelay</key>
+	<string>loadCanvas</string>
+</dict>
+</plist>

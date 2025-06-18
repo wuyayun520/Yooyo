@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baserenderer</key>
+	<string>consultativePolyfill</string>
+	<key>buildstore</key>
+	<string>containerconfiguration</string>
+	<key>chartdistinction</key>
+	<string>shouldYieldCapsule</string>
+	<key>disparateSine</key>
+	<string>canEmitBaseline</string>
+	<key>localizationrotation</key>
+	<string>shouldRenderGram</string>
+	<key>mobileScalability</key>
+	<string>shouldDecodeChallenge</string>
+	<key>originalInfrastructure</key>
+	<string>pinchableeffect</string>
+	<key>resizableIntensity</key>
+	<string>resourceHue</string>
+	<key>robusteffect</key>
+	<string>shouldAnimatePositioned</string>
+</dict>
+</plist>

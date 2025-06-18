@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>integervalueinset</key>
+	<string>findAsync</string>
+	<key>reactiveRichText</key>
+	<string>canPublishCaption</string>
+	<key>shouldanimatepageview</key>
+	<string>pickerforce</string>
+</dict>
+</plist>

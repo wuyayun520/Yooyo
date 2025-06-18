@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheallocator</key>
+	<string>notifyFuture</string>
+	<key>formatdistance</key>
+	<string>arithmeticButton</string>
+	<key>misseddescriptionskewx</key>
+	<string>detectorDistance</string>
+	<key>profileBound</key>
+	<string>materialAspect</string>
+	<key>resultHue</key>
+	<string>dynamicPadding</string>
+	<key>scenedensity</key>
+	<string>shouldFormatBuilder</string>
+	<key>shouldSkipFuture</key>
+	<string>offsetFacade</string>
+	<key>smartMapper</key>
+	<string>canDetachDuration</string>
+	<key>staticcoordinator</key>
+	<string>layoutGradient</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveDensity</key>
+	<string>agilelistview</string>
+	<key>disabledinjection</key>
+	<string>navigateNorm</string>
+	<key>granularEvolution</key>
+	<string>cubitPrototype</string>
+	<key>hashFrequency</key>
+	<string>inflateFlex</string>
+	<key>keyTextField</key>
+	<string>shouldPersistHistogram</string>
+	<key>prevAction</key>
+	<string>pivotalObserver</string>
+	<key>radioAlignment</key>
+	<string>endGift</string>
+	<key>touchPadding</key>
+	<string>containerForce</string>
+</dict>
+</plist>

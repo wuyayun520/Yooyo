@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitstate</key>
+	<string>deferredAsync</string>
+	<key>disabledGradient</key>
+	<string>firstColumn</string>
+	<key>musicmodel</key>
+	<string>mutableTime</string>
+	<key>mutablemodal</key>
+	<string>annotateView</string>
+	<key>progressbarbottom</key>
+	<string>canDisconnectTextField</string>
+	<key>resumeexponent</key>
+	<string>otherOptimizer</string>
+	<key>specifyNode</key>
+	<string>upgradeResponse</string>
+	<key>validaterepository</key>
+	<string>normDirection</string>
+</dict>
+</plist>

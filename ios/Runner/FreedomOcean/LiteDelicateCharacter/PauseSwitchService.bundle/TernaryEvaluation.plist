@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completionscheduler</key>
+	<string>attachVariant</string>
+	<key>defaultconvolution</key>
+	<string>elasticChannel</string>
+	<key>desktopScroller</key>
+	<string>sizedboxScale</string>
+	<key>responderName</key>
+	<string>connectorResponse</string>
+	<key>shouldStopOptimizer</key>
+	<string>offsetTemple</string>
+</dict>
+</plist>

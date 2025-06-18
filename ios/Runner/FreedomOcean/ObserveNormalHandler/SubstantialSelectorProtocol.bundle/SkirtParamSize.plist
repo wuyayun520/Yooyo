@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associateddescription</key>
+	<string>optionVisibility</string>
+	<key>brushedge</key>
+	<string>primaryComponent</string>
+	<key>componentAcceleration</key>
+	<string>canRenderTransition</string>
+	<key>currentoverlay</key>
+	<string>decodeUsage</string>
+	<key>cycleforvariable</key>
+	<string>canDisconnectSlider</string>
+	<key>graphicTransparency</key>
+	<string>canPushIcon</string>
+	<key>impactBottom</key>
+	<string>asynchronousbinary</string>
+	<key>staticCallback</key>
+	<string>shouldMountedCursor</string>
+	<key>statusTint</key>
+	<string>persistborder</string>
+</dict>
+</plist>

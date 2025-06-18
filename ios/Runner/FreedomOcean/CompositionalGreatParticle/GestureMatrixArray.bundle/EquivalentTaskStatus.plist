@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedgrainbottom</key>
+	<string>popIndicator</string>
+	<key>backwardusecase</key>
+	<string>cupertinoLabel</string>
+	<key>cancelusecase</key>
+	<string>shoulddisconnectnorm</string>
+	<key>cupertinoBinder</key>
+	<string>keepContainer</string>
+	<key>defaultmission</key>
+	<string>normalEmitter</string>
+	<key>entropyservice</key>
+	<string>utilresilience</string>
+	<key>navigationMargin</key>
+	<string>converterKind</string>
+	<key>uniformresponder</key>
+	<string>sinkValidation</string>
+</dict>
+</plist>

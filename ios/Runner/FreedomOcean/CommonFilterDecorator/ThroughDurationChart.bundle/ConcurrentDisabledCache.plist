@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedRichText</key>
+	<string>canSkipGridView</string>
+	<key>constantspeed</key>
+	<string>intermediategesture</string>
+	<key>declarativeSensor</key>
+	<string>entropyType</string>
+	<key>elementorientation</key>
+	<string>intuitiveRestriction</string>
+	<key>reductioncolor</key>
+	<string>accessibleResponder</string>
+	<key>resilientInjection</key>
+	<string>fixedInfo</string>
+	<key>tensorConnector</key>
+	<string>specifierphasevelocity</string>
+	<key>topicsorter</key>
+	<string>inheritedScroll</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteTriangles</key>
+	<string>transposetimer</string>
+	<key>controllerperlevel</key>
+	<string>uniformcontainervisible</string>
+	<key>euclideanmaterial</key>
+	<string>shouldRouteCurve</string>
+	<key>prevDocument</key>
+	<string>eventCount</string>
+	<key>transitionindex</key>
+	<string>pinchablePresenter</string>
+</dict>
+</plist>

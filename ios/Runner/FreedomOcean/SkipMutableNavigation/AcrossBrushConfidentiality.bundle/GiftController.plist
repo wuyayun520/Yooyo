@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityphasehue</key>
+	<string>characterinterface</string>
+	<key>draggableBatch</key>
+	<string>statefulStore</string>
+	<key>layoutHead</key>
+	<string>canListenOverlay</string>
+	<key>priorCursor</key>
+	<string>euclideanRouter</string>
+	<key>respectiveState</key>
+	<string>interpolateSize</string>
+	<key>subscriberDuration</key>
+	<string>bindsize</string>
+</dict>
+</plist>

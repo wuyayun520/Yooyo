@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeAlpha</key>
+	<string>shouldUnmountPageView</string>
+	<key>fusedEfficiency</key>
+	<string>shouldPushGestureDetector</string>
+	<key>optionMode</key>
+	<string>usedMedia</string>
+	<key>sampleStatus</key>
+	<string>movementinterval</string>
+	<key>smallScheduler</key>
+	<string>discardedAnimatedContainer</string>
+	<key>smartbuilder</key>
+	<string>localizationtype</string>
+</dict>
+</plist>

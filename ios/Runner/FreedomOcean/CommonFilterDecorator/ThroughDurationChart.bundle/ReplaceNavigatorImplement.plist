@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>evaluateequipment</key>
+	<string>cartesiannotification</string>
+	<key>mobileColumn</key>
+	<string>dropdownbuttonDuration</string>
+	<key>resourceBound</key>
+	<string>scrollSystem</string>
+	<key>usedDelivery</key>
+	<string>delegateworkforce</string>
+	<key>viewamongcycle</key>
+	<string>grainObserver</string>
+</dict>
+</plist>

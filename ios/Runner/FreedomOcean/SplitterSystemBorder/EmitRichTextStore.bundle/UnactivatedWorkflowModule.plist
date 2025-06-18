@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedVideo</key>
+	<string>offsetPosition</string>
+	<key>globalgroup</key>
+	<string>canObserveAspect</string>
+	<key>inactivescalestyle</key>
+	<string>stateFacade</string>
+	<key>isClipper</key>
+	<string>latencyContrast</string>
+	<key>shouldUpdateMovement</key>
+	<string>enabledPrecision</string>
+	<key>titlestructuretail</key>
+	<string>tappablegrain</string>
+	<key>unactivatedComposition</key>
+	<string>serializecupertino</string>
+</dict>
+</plist>

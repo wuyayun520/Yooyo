@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticAnalyzer</key>
+	<string>onsymboltap</string>
+	<key>denseHistogram</key>
+	<string>bindColumn</string>
+	<key>elasticLoss</key>
+	<string>immutabletextfield</string>
+	<key>shouldDismissPlate</key>
+	<string>shouldAnimateHistogram</string>
+	<key>shouldReplaceTask</key>
+	<string>shouldInflateMargin</string>
+	<key>staticAlignment</key>
+	<string>isolateOffset</string>
+</dict>
+</plist>

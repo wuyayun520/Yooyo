@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedChooser</key>
+	<string>conformAsset</string>
+	<key>providerrate</key>
+	<string>usedMatrix</string>
+	<key>relationalModule</key>
+	<string>pivotalGridView</string>
+	<key>resilientState</key>
+	<string>taxonomyColor</string>
+	<key>responsestrategyrotation</key>
+	<string>skinbrightness</string>
+	<key>shouldskiptextfield</key>
+	<string>shouldReplaceCache</string>
+</dict>
+</plist>

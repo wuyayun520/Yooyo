@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>indicatorFrequency</key>
+	<string>maxTouch</string>
+	<key>shouldBindStack</key>
+	<string>interactiveFlex</string>
+	<key>shouldSaveCursor</key>
+	<string>shouldDecodeCanvas</string>
+	<key>shouldUnmountAppBar</key>
+	<string>localPlate</string>
+	<key>sortedTechnique</key>
+	<string>interpolationMomentum</string>
+</dict>
+</plist>

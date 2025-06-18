@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directprocessor</key>
+	<string>positionwithaction</string>
+	<key>instructionposition</key>
+	<string>temporaryZone</string>
+	<key>intermediateMultiplication</key>
+	<string>newestScene</string>
+	<key>localinformation</key>
+	<string>shouldHandleStamp</string>
+	<key>pointmanager</key>
+	<string>precisionMode</string>
+	<key>shouldConnectSlider</key>
+	<string>normalInjection</string>
+	<key>shouldTransformPoint</key>
+	<string>eventTransparency</string>
+</dict>
+</plist>

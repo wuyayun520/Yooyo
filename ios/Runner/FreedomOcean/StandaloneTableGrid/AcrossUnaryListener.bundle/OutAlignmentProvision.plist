@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dismissslider</key>
+	<string>inkwellVisitor</string>
+	<key>firstOperation</key>
+	<string>disconnectpriority</string>
+	<key>isolateemitter</key>
+	<string>associateSubscription</string>
+	<key>observerversuscycle</key>
+	<string>consumeListener</string>
+	<key>richtextstate</key>
+	<string>robustTimer</string>
+	<key>shouldAnimateAxis</key>
+	<string>storyboardBridge</string>
+	<key>symbolBehavior</key>
+	<string>specifierTransparency</string>
+</dict>
+</plist>

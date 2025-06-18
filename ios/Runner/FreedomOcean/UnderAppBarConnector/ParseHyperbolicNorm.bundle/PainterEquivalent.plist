@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessiblemediaquery</key>
+	<string>usedAnimator</string>
+	<key>associatedAsset</key>
+	<string>paddingScale</string>
+	<key>firstAsync</key>
+	<string>tappabletransitionkind</string>
+	<key>herocount</key>
+	<string>observePreview</string>
+	<key>immediateEntity</key>
+	<string>subtlepositioncolor</string>
+	<key>modulusShade</key>
+	<string>spinRect</string>
+	<key>sinkatparam</key>
+	<string>adaptiveAsync</string>
+	<key>unmountinterface</key>
+	<string>geometricModel</string>
+</dict>
+</plist>

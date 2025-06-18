@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diversifiedCache</key>
+	<string>animatedFinder</string>
+	<key>exceptionhue</key>
+	<string>endAxis</string>
+	<key>fixedHistogram</key>
+	<string>sliderVisibility</string>
+	<key>responsiveExpanded</key>
+	<string>timeInteraction</string>
+	<key>subtleslider</key>
+	<string>seamlessParticle</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayablePopup</key>
+	<string>graphedge</string>
+	<key>functionalNavigation</key>
+	<string>inflateAwait</string>
+	<key>globalGestureDetector</key>
+	<string>synchronousScenario</string>
+	<key>priorSubpixel</key>
+	<string>routeColor</string>
+	<key>respectiveScenario</key>
+	<string>objectmode</string>
+</dict>
+</plist>

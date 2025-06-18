@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengeVisibility</key>
+	<string>tabviewcontrast</string>
+	<key>draggableCallback</key>
+	<string>cancelCheckbox</string>
+	<key>factoryLeft</key>
+	<string>hasBorder</string>
+	<key>schemaTop</key>
+	<string>missioninset</string>
+	<key>screenStatus</key>
+	<string>missedTernary</string>
+	<key>shouldPauseDelegate</key>
+	<string>composableTweak</string>
+	<key>shouldbindsegment</key>
+	<string>unaryDensity</string>
+</dict>
+</plist>

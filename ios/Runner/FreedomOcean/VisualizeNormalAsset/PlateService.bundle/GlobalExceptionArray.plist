@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardInformation</key>
+	<string>keySubscriber</string>
+	<key>clipperType</key>
+	<string>bufferFunction</string>
+	<key>evaluationFrequency</key>
+	<string>symmetricinterpolation</string>
+	<key>particlenumbermargin</key>
+	<string>shouldNotifyCube</string>
+	<key>profileamongoperation</key>
+	<string>gridVisibility</string>
+	<key>propagaterect</key>
+	<string>commonMapper</string>
+	<key>relationalPlate</key>
+	<string>hashVisible</string>
+	<key>shouldStopCube</key>
+	<string>shouldSerializeChecklist</string>
+	<key>sophisticatedDescription</key>
+	<string>compositiontext</string>
+</dict>
+</plist>

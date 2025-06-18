@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascentDuration</key>
+	<string>canDeserializeInkWell</string>
+	<key>bindvector</key>
+	<string>marshalText</string>
+	<key>consumerMode</key>
+	<string>flexCenter</string>
+	<key>difficultLoop</key>
+	<string>otherSignature</string>
+	<key>dynamicChapter</key>
+	<string>globalAlpha</string>
+	<key>euclideanSemantics</key>
+	<string>chartPosition</string>
+	<key>geometricrepositoryfeedback</key>
+	<string>layoutTop</string>
+	<key>pinchablegrouptension</key>
+	<string>checkboxMode</string>
+	<key>resilientNavigator</key>
+	<string>canAnimateFuture</string>
+	<key>taskduringinterpreter</key>
+	<string>strengthbound</string>
+</dict>
+</plist>

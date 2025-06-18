@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialBoxShadow</key>
+	<string>makeCoordinator</string>
+	<key>denseMobile</key>
+	<string>liteLayout</string>
+	<key>descentDensity</key>
+	<string>spotAcceleration</string>
+	<key>intuitiveCatalyst</key>
+	<string>denseGrain</string>
+	<key>selectedLogarithm</key>
+	<string>persistentSchema</string>
+</dict>
+</plist>

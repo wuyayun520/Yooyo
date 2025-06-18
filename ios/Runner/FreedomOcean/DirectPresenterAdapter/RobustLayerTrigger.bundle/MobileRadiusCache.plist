@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityCount</key>
+	<string>cardSaturation</string>
+	<key>localBox</key>
+	<string>replaceDropdownButton</string>
+	<key>polygonVelocity</key>
+	<string>pinchableManager</string>
+	<key>primaryActivity</key>
+	<string>analyzerRate</string>
+	<key>referenceRight</key>
+	<string>captionMargin</string>
+	<key>smallAwait</key>
+	<string>canEndNavigator</string>
+</dict>
+</plist>

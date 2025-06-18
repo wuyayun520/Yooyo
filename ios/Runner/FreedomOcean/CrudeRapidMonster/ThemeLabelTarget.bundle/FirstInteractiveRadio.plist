@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>emitterColor</key>
+	<string>sensorelement</string>
+	<key>fixedRecursion</key>
+	<string>repositorycenter</string>
+	<key>fusedlayoutspacing</key>
+	<string>stackCoord</string>
+	<key>numericalPosition</key>
+	<string>segueVelocity</string>
+	<key>repositoryColor</key>
+	<string>resizableChallenge</string>
+	<key>shouldDisconnectMediaQuery</key>
+	<string>concurrentSink</string>
+	<key>skipduration</key>
+	<string>secondSine</string>
+	<key>visibleContraction</key>
+	<string>curvecurve</string>
+	<key>webItem</key>
+	<string>toolspeed</string>
+</dict>
+</plist>

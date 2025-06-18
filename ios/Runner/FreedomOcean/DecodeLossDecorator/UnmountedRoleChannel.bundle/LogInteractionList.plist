@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bordervelocity</key>
+	<string>transformMenu</string>
+	<key>deferredTouch</key>
+	<string>gesturedetectorcommandcenter</string>
+	<key>diversifiedConnector</key>
+	<string>eventShade</string>
+	<key>inactivesizedbox</key>
+	<string>specifierStatus</string>
+	<key>independentActivity</key>
+	<string>shouldSetStatePlate</string>
+	<key>movementfunctioninterval</key>
+	<string>directlySubscriber</string>
+	<key>provideduration</key>
+	<string>localizationState</string>
+	<key>unsortedView</key>
+	<string>canRestartAppBar</string>
+</dict>
+</plist>

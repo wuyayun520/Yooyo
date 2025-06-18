@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableQuaternion</key>
+	<string>shouldEncodeCompletion</string>
+	<key>distinctionRotation</key>
+	<string>fragmentsContrast</string>
+	<key>equalizationdispatcher</key>
+	<string>notifyEvent</string>
+	<key>permanentdescription</key>
+	<string>webContainer</string>
+	<key>reducerVelocity</key>
+	<string>similarDelivery</string>
+	<key>sessionFormat</key>
+	<string>shouldDeserializeRadio</string>
+	<key>shouldTransitionSwitch</key>
+	<string>canFetchScale</string>
+	<key>singleGrain</key>
+	<string>shouldUnbindProvider</string>
+	<key>toolVisibility</key>
+	<string>checklistCount</string>
+</dict>
+</plist>

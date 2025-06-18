@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisBottom</key>
+	<string>configurationAlignment</string>
+	<key>baseLeft</key>
+	<string>canReplacePlate</string>
+	<key>compositionalSensor</key>
+	<string>heroStage</string>
+	<key>descriptorTension</key>
+	<string>resourceoperation</string>
+	<key>fusedAwait</key>
+	<string>serviceBehavior</string>
+	<key>informationstatus</key>
+	<string>shouldlistensession</string>
+	<key>normalMaterializer</key>
+	<string>largeStateful</string>
+	<key>primaryScalability</key>
+	<string>oldMenu</string>
+	<key>screenCenter</key>
+	<string>resilientReceiver</string>
+</dict>
+</plist>

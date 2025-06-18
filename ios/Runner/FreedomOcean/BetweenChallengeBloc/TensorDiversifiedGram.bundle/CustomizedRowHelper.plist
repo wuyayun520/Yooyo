@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbaralignment</key>
+	<string>shouldPersistStateless</string>
+	<key>diffableShader</key>
+	<string>popRepository</string>
+	<key>emitterInset</key>
+	<string>subsequentCoordinator</string>
+	<key>loopincludecomposite</key>
+	<string>formatVelocity</string>
+	<key>mapperState</key>
+	<string>smartAction</string>
+	<key>popupdrawer</key>
+	<string>visibleAspectRatio</string>
+	<key>unactivatedRouter</key>
+	<string>labelSingleton</string>
+</dict>
+</plist>

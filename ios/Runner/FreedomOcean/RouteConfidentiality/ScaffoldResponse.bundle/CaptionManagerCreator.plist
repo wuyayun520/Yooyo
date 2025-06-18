@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableArchitecture</key>
+	<string>newestOptimizer</string>
+	<key>composableTabBar</key>
+	<string>globalModal</string>
+	<key>copyisolate</key>
+	<string>shouldCacheWorkflow</string>
+	<key>prevVariant</key>
+	<string>itemShape</string>
+	<key>standaloneThread</key>
+	<string>modulusKind</string>
+</dict>
+</plist>

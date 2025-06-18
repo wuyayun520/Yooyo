@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedTimer</key>
+	<string>shouldPresentActivity</string>
+	<key>combinerColor</key>
+	<string>primaryIsolate</string>
+	<key>intuitiveElement</key>
+	<string>shouldSetStateHeap</string>
+	<key>schedulerBound</key>
+	<string>transitionInstruction</string>
+	<key>shouldFormatAperture</key>
+	<string>resilientResource</string>
+	<key>shouldpresententropy</key>
+	<string>hyperbolicSession</string>
+	<key>slashBrightness</key>
+	<string>injectResult</string>
+</dict>
+</plist>

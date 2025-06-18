@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerIndex</key>
+	<string>discardedCluster</string>
+	<key>captioninset</key>
+	<string>imperativeScene</string>
+	<key>completerTint</key>
+	<string>independentcatalyst</string>
+	<key>labelcommandtint</key>
+	<string>binaryProcess</string>
+	<key>operationState</key>
+	<string>skipComposition</string>
+	<key>shouldKeepProvider</key>
+	<string>canCreateDelegate</string>
+	<key>shouldObserveSymbol</key>
+	<string>visibleStatus</string>
+	<key>shouldunmountnotification</key>
+	<string>canPauseTransition</string>
+</dict>
+</plist>

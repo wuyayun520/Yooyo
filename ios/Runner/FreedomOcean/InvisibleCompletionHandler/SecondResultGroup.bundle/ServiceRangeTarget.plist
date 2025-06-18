@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicDelivery</key>
+	<string>sharedActivity</string>
+	<key>commonChannel</key>
+	<string>repositorysize</string>
+	<key>deferredLinker</key>
+	<string>contrastStatus</string>
+	<key>descriptionOpacity</key>
+	<string>otherlifecycle</string>
+	<key>handlervelocity</key>
+	<string>nativeTrigger</string>
+	<key>lostBuffer</key>
+	<string>easyInterpolation</string>
+	<key>newestHash</key>
+	<string>multiplyProgressBar</string>
+	<key>shouldTrainMediaQuery</key>
+	<string>integrityDensity</string>
+	<key>synchronousMechanism</key>
+	<string>permissiveScene</string>
+</dict>
+</plist>

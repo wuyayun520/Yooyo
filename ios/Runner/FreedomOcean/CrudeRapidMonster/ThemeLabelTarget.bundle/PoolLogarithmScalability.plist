@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>prevcomponent</key>
+	<string>granularinteractor</string>
+	<key>samplescopeshape</key>
+	<string>errorLeft</string>
+	<key>semanticGraph</key>
+	<string>rectifyPresenter</string>
+	<key>serializemultiplication</key>
+	<string>asynchronousmaterializer</string>
+	<key>zonevalueopacity</key>
+	<string>canEndBitrate</string>
+</dict>
+</plist>

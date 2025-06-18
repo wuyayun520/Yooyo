@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperEdge</key>
+	<string>retainedConstant</string>
+	<key>declarativeintegration</key>
+	<string>webPrecision</string>
+	<key>equallabel</key>
+	<string>shouldPushImage</string>
+	<key>exceptionAcceleration</key>
+	<string>integerRight</string>
+	<key>explicitrequest</key>
+	<string>storagePosition</string>
+	<key>shouldDisposeRemainder</key>
+	<string>borderskewx</string>
+	<key>specifierthreshold</key>
+	<string>graphcreator</string>
+</dict>
+</plist>

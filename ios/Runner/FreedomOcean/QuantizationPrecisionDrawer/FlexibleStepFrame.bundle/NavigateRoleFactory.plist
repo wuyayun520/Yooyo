@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mediumMaster</key>
+	<string>shouldParseSlash</string>
+	<key>offsetdependency</key>
+	<string>shouldPaintGradient</string>
+	<key>prevzoneshade</key>
+	<string>handleCustomPaint</string>
+	<key>semanticQueue</key>
+	<string>directlyConsumer</string>
+	<key>shouldInflateMobile</key>
+	<string>extensionvisible</string>
+	<key>spinesaturation</key>
+	<string>deserializezone</string>
+</dict>
+</plist>

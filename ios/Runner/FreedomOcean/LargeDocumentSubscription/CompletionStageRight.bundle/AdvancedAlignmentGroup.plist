@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeCosine</key>
+	<string>replicateEvent</string>
+	<key>detachconstraint</key>
+	<string>canUnbindAperture</string>
+	<key>ephemeralThread</key>
+	<string>canPauseExpanded</string>
+	<key>imperativeEffect</key>
+	<string>significantRouter</string>
+	<key>priorComponent</key>
+	<string>lazyGesture</string>
+	<key>requestDuration</key>
+	<string>quaternionHue</string>
+	<key>semanticPresenter</key>
+	<string>containerspacing</string>
+	<key>shouldConnectAspect</key>
+	<string>groupScope</string>
+	<key>throughputPressure</key>
+	<string>convolutionlocation</string>
+</dict>
+</plist>

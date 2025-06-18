@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerandadapter</key>
+	<string>uniqueInstruction</string>
+	<key>cubitTop</key>
+	<string>geometricResilience</string>
+	<key>imperativeAwait</key>
+	<string>criticalfragmentoffset</string>
+	<key>interceptisolate</key>
+	<string>eventAdapter</string>
+	<key>samplenearnumber</key>
+	<string>storeofparameter</string>
+	<key>secondMetrics</key>
+	<string>temporaryconstraint</string>
+	<key>shoulddeserializescroll</key>
+	<string>replaceOffset</string>
+</dict>
+</plist>

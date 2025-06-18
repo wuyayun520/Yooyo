@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>keyoverlayorientation</key>
+	<string>timerFeedback</string>
+	<key>observerpolygon</key>
+	<string>impactDuration</string>
+	<key>recursionMode</key>
+	<string>dissociateParticle</string>
+	<key>statelessatsystem</key>
+	<string>notationHue</string>
+</dict>
+</plist>

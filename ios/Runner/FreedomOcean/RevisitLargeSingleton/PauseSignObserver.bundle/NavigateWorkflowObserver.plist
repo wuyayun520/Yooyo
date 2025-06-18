@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbartemplestate</key>
+	<string>immutableColor</string>
+	<key>axisIndex</key>
+	<string>canShowMobile</string>
+	<key>isolatetint</key>
+	<string>canPauseDimension</string>
+	<key>navigatorformat</key>
+	<string>canUnmountResource</string>
+	<key>queueHue</key>
+	<string>disabledDispatcher</string>
+	<key>reducerlevelcontrast</key>
+	<string>builderrotation</string>
+	<key>seamlessAwait</key>
+	<string>diversifiedRichText</string>
+	<key>singletoncount</key>
+	<string>popupawayaction</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderRotation</key>
+	<string>storyboardForce</string>
+	<key>clippername</key>
+	<string>shouldKeepLayout</string>
+	<key>dispatcherStyle</key>
+	<string>showgesturedetector</string>
+	<key>exceptionstatus</key>
+	<string>uniformrectrate</string>
+	<key>inkwellSize</key>
+	<string>unactivatedconstant</string>
+	<key>localternary</key>
+	<string>canRouteTechnique</string>
+	<key>opaqueFragments</key>
+	<string>animatorTension</string>
+	<key>shouldCancelLabel</key>
+	<string>shouldrebuildalert</string>
+	<key>shouldUnbindAnchor</key>
+	<string>quaternionFlags</string>
+	<key>workflowOpacity</key>
+	<string>attachMenu</string>
+</dict>
+</plist>

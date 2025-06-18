@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleFeature</key>
+	<string>drawerOrientation</string>
+	<key>agileAperture</key>
+	<string>shouldunbindlog</string>
+	<key>globalSign</key>
+	<string>syncSlider</string>
+	<key>otherSizedBox</key>
+	<string>ignoredTween</string>
+	<key>parsetransformer</key>
+	<string>lossPrototype</string>
+	<key>primaryReliability</key>
+	<string>injectionFrequency</string>
+	<key>publicdecorationsaturation</key>
+	<string>rotateTween</string>
+	<key>richtextSpacing</key>
+	<string>priorExponent</string>
+</dict>
+</plist>

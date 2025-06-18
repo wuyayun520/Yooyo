@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleDelegate</key>
+	<string>disposeUnary</string>
+	<key>compositionalDelegate</key>
+	<string>subtleLoader</string>
+	<key>inactiveresourceopacity</key>
+	<string>numericalBase</string>
+	<key>processgradient</key>
+	<string>dispatchOverlay</string>
+	<key>publicdescriptor</key>
+	<string>prepareCube</string>
+	<key>sampleanalogy</key>
+	<string>localScheduler</string>
+	<key>streamlineoverlay</key>
+	<string>standaloneResponse</string>
+</dict>
+</plist>

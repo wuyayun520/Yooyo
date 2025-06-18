@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbaroutsideproxy</key>
+	<string>catalystVar</string>
+	<key>coordinatoredge</key>
+	<string>enabledContainer</string>
+	<key>directlyVertex</key>
+	<string>canDismissNotification</string>
+	<key>displayableDelegate</key>
+	<string>consultativeRestriction</string>
+	<key>nextChooser</key>
+	<string>reflecteffect</string>
+	<key>pageviewduringvisitor</key>
+	<string>permanentTaxonomy</string>
+	<key>shouldTransitionBullet</key>
+	<string>persistentAspect</string>
+</dict>
+</plist>

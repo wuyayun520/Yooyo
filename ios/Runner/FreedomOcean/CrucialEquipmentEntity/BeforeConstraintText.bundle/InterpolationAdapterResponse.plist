@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperDirection</key>
+	<string>analyzeStore</string>
+	<key>crucialOffset</key>
+	<string>opaqueDuration</string>
+	<key>discardedsizeshape</key>
+	<string>fragmentdensity</string>
+	<key>intermediateMonster</key>
+	<string>customAnalogy</string>
+	<key>isgesturedetector</key>
+	<string>textMediator</string>
+	<key>numericalFinder</key>
+	<string>basicSprite</string>
+	<key>routeleft</key>
+	<string>singleDelegate</string>
+	<key>shouldListenView</key>
+	<string>distinctionHue</string>
+	<key>shouldProcessPositioned</key>
+	<string>selectedCurve</string>
+	<key>soundTag</key>
+	<string>attachStep</string>
+</dict>
+</plist>

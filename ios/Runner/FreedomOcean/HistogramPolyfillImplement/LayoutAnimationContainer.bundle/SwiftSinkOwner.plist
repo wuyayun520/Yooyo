@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equipmentawayjob</key>
+	<string>sessionorpattern</string>
+	<key>hardController</key>
+	<string>nativeSchema</string>
+	<key>introspectcustompaint</key>
+	<string>specifierdescription</string>
+	<key>iteminset</key>
+	<string>operationColor</string>
+	<key>mutableOption</key>
+	<string>sortedUtil</string>
+	<key>shouldValidateCapsule</key>
+	<string>keyService</string>
+	<key>staticcapacitiesformat</key>
+	<string>pickerSpacing</string>
+</dict>
+</plist>

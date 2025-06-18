@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>histogramshapesaturation</key>
+	<string>delicateRemainder</string>
+	<key>materialCapacity</key>
+	<string>spritescroller</string>
+	<key>navigatorVisible</key>
+	<string>normalspecifier</string>
+	<key>numericalBoxShadow</key>
+	<string>shouldCreateGate</string>
+	<key>publicVariant</key>
+	<string>mapVar</string>
+	<key>scrollableDescriptor</key>
+	<string>evaluatewidget</string>
+	<key>shouldPushOperation</key>
+	<string>easyAnalyzer</string>
+	<key>tappableAction</key>
+	<string>imperativeScroll</string>
+</dict>
+</plist>

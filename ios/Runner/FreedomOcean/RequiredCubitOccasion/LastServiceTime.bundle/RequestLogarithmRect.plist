@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardBottom</key>
+	<string>soundValidation</string>
+	<key>discardedRepository</key>
+	<string>publishGridView</string>
+	<key>immediateLayout</key>
+	<string>vectorDistance</string>
+	<key>oldGestureDetector</key>
+	<string>markResult</string>
+	<key>shouldReplaceContainer</key>
+	<string>masterHead</string>
+	<key>smallintensity</key>
+	<string>widgetStyle</string>
+</dict>
+</plist>

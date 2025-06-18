@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionScope</key>
+	<string>memberaroundpattern</string>
+	<key>denseManager</key>
+	<string>deferredstatelesstype</string>
+	<key>enabledConstraint</key>
+	<string>workflowSingleton</string>
+	<key>hasstateful</key>
+	<string>dedicatedCallback</string>
+	<key>permissivealert</key>
+	<string>shouldYieldCanvas</string>
+	<key>profileinshape</key>
+	<string>shouldProcessExpanded</string>
+	<key>shaderSkewY</key>
+	<string>movementTransparency</string>
+	<key>staticsine</key>
+	<string>menuHue</string>
+</dict>
+</plist>

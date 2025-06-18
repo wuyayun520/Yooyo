@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalSegment</key>
+	<string>visitState</string>
+	<key>dynamicMission</key>
+	<string>discardedcubitdirection</string>
+	<key>intermediatestoryboardformat</key>
+	<string>advancedDetail</string>
+	<key>loaderSkewX</key>
+	<string>inactiveVolume</string>
+	<key>shouldPrepareProjection</key>
+	<string>scaleduration</string>
+	<key>uniformspotborder</key>
+	<string>canCancelDuration</string>
+</dict>
+</plist>

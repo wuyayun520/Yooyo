@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diversifiedAllocator</key>
+	<string>dedicatedData</string>
+	<key>elasticityBehavior</key>
+	<string>uniqueCatalyst</string>
+	<key>exponentType</key>
+	<string>quantizerManager</string>
+	<key>nativeCaption</key>
+	<string>concatenateEvent</string>
+	<key>sharedStep</key>
+	<string>canPersistGram</string>
+	<key>upgradepromise</key>
+	<string>sophisticatedStatus</string>
+</dict>
+</plist>

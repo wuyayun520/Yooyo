@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>lazySignature</key>
+	<string>localVideo</string>
+	<key>mediumRestriction</key>
+	<string>iconWork</string>
+	<key>reliabilityorigin</key>
+	<string>elementShade</string>
+	<key>resilientGrain</key>
+	<string>positionvisibility</string>
+	<key>shouldEmitDrawer</key>
+	<string>constraintandstate</string>
+</dict>
+</plist>

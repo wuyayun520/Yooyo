@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entityFormat</key>
+	<string>canBindScreen</string>
+	<key>equipmentOpacity</key>
+	<string>seamlessTool</string>
+	<key>parallelcurve</key>
+	<string>scopeBottom</string>
+	<key>pinchableSubscription</key>
+	<string>slashValidation</string>
+	<key>similarQueue</key>
+	<string>decodeevent</string>
+	<key>variantFormat</key>
+	<string>modalPadding</string>
+</dict>
+</plist>

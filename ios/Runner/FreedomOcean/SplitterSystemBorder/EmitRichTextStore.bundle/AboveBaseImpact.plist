@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>benchmarkstateful</key>
+	<string>canInflateFragment</string>
+	<key>managerInterval</key>
+	<string>backwardLocalization</string>
+	<key>onplatechanged</key>
+	<string>interpolationOffset</string>
+	<key>optiontitle</key>
+	<string>shouldLayoutCapacities</string>
+	<key>particlealignment</key>
+	<string>elasticProvision</string>
+	<key>selectedexpanded</key>
+	<string>customSizedBox</string>
+	<key>shouldEndSubpixel</key>
+	<string>shouldfinishoptimizer</string>
+	<key>typicalButton</key>
+	<string>shouldUnbindProvider</string>
+</dict>
+</plist>

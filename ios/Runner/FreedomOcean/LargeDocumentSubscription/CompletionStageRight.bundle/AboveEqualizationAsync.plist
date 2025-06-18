@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dimensionContrast</key>
+	<string>actionDensity</string>
+	<key>lostconfidentiality</key>
+	<string>subscriptionHead</string>
+	<key>primaryConstraint</key>
+	<string>missionPadding</string>
+	<key>shouldFinishPoint</key>
+	<string>builderbridgevisible</string>
+	<key>soundTransparency</key>
+	<string>lastresponder</string>
+	<key>staticSizedBox</key>
+	<string>notificationBehavior</string>
+	<key>subsequentComponent</key>
+	<string>canRestartIcon</string>
+</dict>
+</plist>

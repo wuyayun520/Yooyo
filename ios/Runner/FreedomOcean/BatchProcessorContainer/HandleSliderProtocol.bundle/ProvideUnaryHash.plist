@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexibleLog</key>
+	<string>isgrayscale</string>
+	<key>fragmentinfunction</key>
+	<string>mountedsession</string>
+	<key>primaryAnimation</key>
+	<string>transitionshade</string>
+	<key>reusableTrigger</key>
+	<string>modelScale</string>
+	<key>similarResource</key>
+	<string>presenterChain</string>
+</dict>
+</plist>

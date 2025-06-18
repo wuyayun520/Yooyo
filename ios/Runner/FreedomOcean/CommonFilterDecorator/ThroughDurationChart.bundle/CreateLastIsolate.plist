@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>firstCallback</key>
+	<string>spritesearcher</string>
+	<key>mediaqueryactivityvalidation</key>
+	<string>mobileColor</string>
+	<key>mediumBaseline</key>
+	<string>synchronizeInjection</string>
+	<key>optimizerrate</key>
+	<string>disposeCoordinator</string>
+	<key>relationalSubscriber</key>
+	<string>pickerposition</string>
+	<key>shouldRouteDropdownButton</key>
+	<string>mitigateResolver</string>
+	<key>spotorientation</key>
+	<string>segueParam</string>
+</dict>
+</plist>

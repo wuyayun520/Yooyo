@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activateloop</key>
+	<string>canDecodeScreen</string>
+	<key>challengeSkewX</key>
+	<string>prepareContraction</string>
+	<key>disparateTolerance</key>
+	<string>transitionDepth</string>
+	<key>granularEntropy</key>
+	<string>replaceAxis</string>
+	<key>paddingEdge</key>
+	<string>canValidateCupertino</string>
+	<key>shouldKeepEffect</key>
+	<string>eagerEqualization</string>
+	<key>stackOrientation</key>
+	<string>setuphash</string>
+	<key>staticExpanded</key>
+	<string>storyboardLevel</string>
+</dict>
+</plist>

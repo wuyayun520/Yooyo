@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubeValidation</key>
+	<string>cubestream</string>
+	<key>emitsubpixel</key>
+	<string>persistentSubscription</string>
+	<key>originalLog</key>
+	<string>builderconsumer</string>
+	<key>queueleft</key>
+	<string>playbacktheme</string>
+	<key>requiredDimension</key>
+	<string>declarativePromise</string>
+	<key>semanticmechanism</key>
+	<string>desktopReducer</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyConstant</key>
+	<string>immediateTangent</string>
+	<key>inactiveBuilder</key>
+	<string>shouldattachsemantics</string>
+	<key>remainderContrast</key>
+	<string>shouldRebuildChallenge</string>
+</dict>
+</plist>

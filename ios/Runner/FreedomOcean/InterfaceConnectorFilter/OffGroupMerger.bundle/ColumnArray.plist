@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocevaluation</key>
+	<string>keyService</string>
+	<key>densecontroller</key>
+	<string>numericalGrid</string>
+	<key>drawerprovision</key>
+	<string>configurationTag</string>
+	<key>explicitFragments</key>
+	<string>navigatorTransparency</string>
+	<key>functionalTraversal</key>
+	<string>pivotalRequest</string>
+	<key>hierarchicalChart</key>
+	<string>sampleDecorator</string>
+	<key>shouldFormatMember</key>
+	<string>canParseSession</string>
+</dict>
+</plist>

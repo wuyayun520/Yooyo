@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllertransparency</key>
+	<string>tangentValue</string>
+	<key>cupertinoRecursion</key>
+	<string>shouldreplacestateless</string>
+	<key>dialogstransparency</key>
+	<string>canMountedOptimizer</string>
+	<key>diffableContrast</key>
+	<string>shouldDeserializePainter</string>
+	<key>firstEqualization</key>
+	<string>delegateIntensity</string>
+	<key>observerOrigin</key>
+	<string>hyperbolicMovement</string>
+	<key>shouldFormatMusic</key>
+	<string>bindInteger</string>
+	<key>shouldMountedNorm</key>
+	<string>oldHero</string>
+	<key>shouldUnbindDropdownButton</key>
+	<string>symbolAdapter</string>
+	<key>shouldrendermap</key>
+	<string>borderOrientation</string>
+</dict>
+</plist>

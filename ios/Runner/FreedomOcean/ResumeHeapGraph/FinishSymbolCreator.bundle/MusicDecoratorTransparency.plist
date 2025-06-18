@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>acceleratechannel</key>
+	<string>geometricSpot</string>
+	<key>dedicatedspottint</key>
+	<string>linkerSpacing</string>
+	<key>discardedParticle</key>
+	<string>mechanismduration</string>
+	<key>formatinset</key>
+	<string>transpileutil</string>
+	<key>instructionscheduler</key>
+	<string>shouldroutebullet</string>
+	<key>normalTopic</key>
+	<string>mediumAsset</string>
+	<key>statefulValidation</key>
+	<string>canStopCard</string>
+	<key>viewfacadecenter</key>
+	<string>mountedTable</string>
+</dict>
+</plist>

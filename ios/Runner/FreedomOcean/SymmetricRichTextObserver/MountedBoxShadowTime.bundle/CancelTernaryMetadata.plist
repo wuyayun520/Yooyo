@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentStateful</key>
+	<string>giftdelay</string>
+	<key>draggableProcessor</key>
+	<string>evaluateTimer</string>
+	<key>evaluationShape</key>
+	<string>validateMusic</string>
+	<key>graphvarlocation</key>
+	<string>previewShade</string>
+	<key>immediateTentative</key>
+	<string>independentSorter</string>
+	<key>primarySegue</key>
+	<string>bulletDistance</string>
+	<key>relationalSession</key>
+	<string>debugRouter</string>
+	<key>sustainableSubscriber</key>
+	<string>fusedProvision</string>
+</dict>
+</plist>

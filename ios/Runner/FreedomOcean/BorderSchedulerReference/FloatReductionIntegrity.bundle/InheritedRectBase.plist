@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowmode</key>
+	<string>attachprogressbar</string>
+	<key>futureStatus</key>
+	<string>canListenListView</string>
+	<key>inactiveMultiplication</key>
+	<string>shouldBindCurve</string>
+	<key>mobileview</key>
+	<string>unlockInteractor</string>
+	<key>prismaticInfo</key>
+	<string>seekCallback</string>
+	<key>shouldNavigateAppBar</key>
+	<string>accessibleLocalization</string>
+	<key>smartTool</key>
+	<string>shouldStopBinary</string>
+	<key>streamlinecoordinator</key>
+	<string>reactivePainter</string>
+</dict>
+</plist>

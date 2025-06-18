@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveRenderer</key>
+	<string>reducerRight</string>
+	<key>aspecttexture</key>
+	<string>vectorizePreview</string>
+	<key>concreteMenu</key>
+	<string>sampleWork</string>
+	<key>configurationfunctionstyle</key>
+	<string>explicitAxis</string>
+	<key>connectsubscription</key>
+	<string>shouldTransitionEffect</string>
+	<key>moduleVelocity</key>
+	<string>buttonContext</string>
+	<key>movepreview</key>
+	<string>stopLabel</string>
+	<key>primaryFragment</key>
+	<string>providerIndex</string>
+	<key>reactiveTicker</key>
+	<string>endmodal</string>
+	<key>responsiveFilter</key>
+	<string>resilientpreviewvisibility</string>
+</dict>
+</plist>

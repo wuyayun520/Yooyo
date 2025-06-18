@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttontop</key>
+	<string>usagealignment</string>
+	<key>flexdepth</key>
+	<string>similarChooser</string>
+	<key>formatallocator</key>
+	<string>greatMatrix</string>
+	<key>gesturedetectorVisible</key>
+	<string>difficultTextField</string>
+	<key>globalCache</key>
+	<string>mediaconsumer</string>
+	<key>greatTask</key>
+	<string>dynamicSpot</string>
+	<key>logScale</key>
+	<string>unmountmomentum</string>
+	<key>sequentialstamp</key>
+	<string>hardPolygon</string>
+	<key>shouldEndOption</key>
+	<string>streamFramework</string>
+	<key>textcommandshape</key>
+	<string>canContinueCharacter</string>
+</dict>
+</plist>

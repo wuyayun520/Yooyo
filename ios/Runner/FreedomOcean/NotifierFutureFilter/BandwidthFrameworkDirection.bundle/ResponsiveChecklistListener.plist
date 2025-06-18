@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedSignature</key>
+	<string>nativeCompleter</string>
+	<key>firstCombiner</key>
+	<string>shouldDecodeSegue</string>
+	<key>fusedQuaternion</key>
+	<string>stateCoord</string>
+	<key>globalcustompaint</key>
+	<string>lazymediaquerycenter</string>
+	<key>normfactory</key>
+	<string>canMountProvider</string>
+	<key>prevReducer</key>
+	<string>stopanimation</string>
+	<key>shouldMountedBoxShadow</key>
+	<string>sophisticatedTween</string>
+	<key>similarMediaQuery</key>
+	<string>publisherFrequency</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completionSaturation</key>
+	<string>agileItem</string>
+	<key>displayableEffect</key>
+	<string>shouldRenderBloc</string>
+	<key>fusedRow</key>
+	<string>shouldEmitSkirt</string>
+	<key>handleflex</key>
+	<string>handlerContrast</string>
+	<key>opaqueschema</key>
+	<string>operationStatus</string>
+	<key>searcherPosition</key>
+	<string>hashStructure</string>
+	<key>shaderDepth</key>
+	<string>positionMode</string>
+	<key>slashposition</key>
+	<string>canUpdateEntropy</string>
+	<key>storagebound</key>
+	<string>updateEntropy</string>
+</dict>
+</plist>

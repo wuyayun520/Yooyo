@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonAccessory</key>
+	<string>completerFlyweight</string>
+	<key>contractionbrightness</key>
+	<string>gridviewSpeed</string>
+	<key>delicateVideo</key>
+	<string>canStopSymbol</string>
+	<key>descriptionTheme</key>
+	<string>shouldShowAspect</string>
+	<key>giftcoordinator</key>
+	<string>firstVolume</string>
+	<key>permissivetexture</key>
+	<string>permanentEvent</string>
+	<key>shouldHandleSign</key>
+	<string>interpolateNode</string>
+	<key>transitionduringvar</key>
+	<string>asynchronousTable</string>
+</dict>
+</plist>

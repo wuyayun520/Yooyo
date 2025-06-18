@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cyclestore</key>
+	<string>ternaryVelocity</string>
+	<key>fusedEntity</key>
+	<string>pauseAspect</string>
+	<key>normalScaffold</key>
+	<string>customizedAlpha</string>
+	<key>normalSession</key>
+	<string>otheraccessory</string>
+	<key>shouldShowScale</key>
+	<string>parallelStream</string>
+	<key>uniqueChecklist</key>
+	<string>unmountedCoordinator</string>
+	<key>visitprovider</key>
+	<string>defaultpromise</string>
+</dict>
+</plist>

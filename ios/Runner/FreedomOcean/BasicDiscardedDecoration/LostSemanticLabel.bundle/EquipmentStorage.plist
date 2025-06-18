@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>largeSlash</key>
+	<string>basicMargin</string>
+	<key>scrollableProfile</key>
+	<string>visualizeTicker</string>
+	<key>shouldcachecanvas</key>
+	<string>eventAlignment</string>
+	<key>tweakKind</key>
+	<string>staticConvolution</string>
+</dict>
+</plist>

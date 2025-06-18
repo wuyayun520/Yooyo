@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryfrequency</key>
+	<string>apertureValue</string>
+	<key>deferredPresenter</key>
+	<string>grainEdge</string>
+	<key>shouldcontinueappbar</key>
+	<string>otherPadding</string>
+	<key>taskspacing</key>
+	<string>paintmovement</string>
+</dict>
+</plist>

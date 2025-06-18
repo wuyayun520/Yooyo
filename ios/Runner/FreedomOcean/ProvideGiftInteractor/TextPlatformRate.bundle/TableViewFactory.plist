@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteDependency</key>
+	<string>compositiontheme</string>
+	<key>decodecosine</key>
+	<string>animateSkirt</string>
+	<key>delicatetoolspacing</key>
+	<string>directTexture</string>
+	<key>disconnectmatrix</key>
+	<string>multiCache</string>
+	<key>lazyScenario</key>
+	<string>stopPlayback</string>
+	<key>nativeDetail</key>
+	<string>backwardHeap</string>
+	<key>parallelWidget</key>
+	<string>arithmeticHash</string>
+	<key>permissiveProtocol</key>
+	<string>clustertop</string>
+	<key>provisionForce</key>
+	<string>popsize</string>
+	<key>publisherBehavior</key>
+	<string>throughputleft</string>
+</dict>
+</plist>

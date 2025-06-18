@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoMetadata</key>
+	<string>canProcessTangent</string>
+	<key>exponentCount</key>
+	<string>explicitTicker</string>
+	<key>inflateasync</key>
+	<string>startchart</string>
+	<key>mobileMediaQuery</key>
+	<string>aspectratioFormat</string>
+	<key>persistentEquivalent</key>
+	<string>allocatebox</string>
+	<key>shouldConnectNotification</key>
+	<string>canDetachSine</string>
+	<key>shouldStartDocument</key>
+	<string>disconnectmethod</string>
+</dict>
+</plist>

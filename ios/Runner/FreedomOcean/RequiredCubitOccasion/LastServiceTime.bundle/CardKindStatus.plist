@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedEvolution</key>
+	<string>protectedinterfacemode</string>
+	<key>fixedSymbol</key>
+	<string>directCubit</string>
+	<key>meshTint</key>
+	<string>fusedMonster</string>
+	<key>particlemomentum</key>
+	<string>basicDescent</string>
+	<key>resourcefragments</key>
+	<string>shouldFinishProject</string>
+	<key>shouldAnimatePadding</key>
+	<string>standaloneCharacteristic</string>
+	<key>shouldDismissCustomPaint</key>
+	<string>onprojectionchanged</string>
+	<key>shouldPushModal</key>
+	<string>shouldEndAperture</string>
+	<key>textureBound</key>
+	<string>storeSprite</string>
+	<key>unsortedframestate</key>
+	<string>scaffoldState</string>
+</dict>
+</plist>

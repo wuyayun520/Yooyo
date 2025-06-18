@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviormementopadding</key>
+	<string>createHistogram</string>
+	<key>iconstrategyfeedback</key>
+	<string>unlockListener</string>
+	<key>intuitiveStoryboard</key>
+	<string>widgetContext</string>
+	<key>intuitiveView</key>
+	<string>easyUseCase</string>
+	<key>localizationdensity</key>
+	<string>customSpine</string>
+	<key>normalInformation</key>
+	<string>pendingAnimation</string>
+	<key>pagerStatus</key>
+	<string>receiveResponse</string>
+	<key>publicQueue</key>
+	<string>deferredStream</string>
+	<key>toollocalization</key>
+	<string>directCubit</string>
+</dict>
+</plist>

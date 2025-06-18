@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>finishprovider</key>
+	<string>mutableselector</string>
+	<key>frameTransparency</key>
+	<string>canUnbindTable</string>
+	<key>metadatanumbersaturation</key>
+	<string>analyzeVector</string>
+	<key>shouldProcessBase</key>
+	<string>shouldloadbullet</string>
+	<key>tableResponse</key>
+	<string>volumeHue</string>
+	<key>visibleGrid</key>
+	<string>canPublishNib</string>
+	<key>visibleMaterial</key>
+	<string>baseInterval</string>
+</dict>
+</plist>

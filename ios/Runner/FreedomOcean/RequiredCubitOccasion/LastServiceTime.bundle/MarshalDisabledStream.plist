@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentFormat</key>
+	<string>exponentVelocity</string>
+	<key>custompaintschema</key>
+	<string>listviewSkewX</string>
+	<key>pageviewinteractor</key>
+	<string>updateAsset</string>
+	<key>secondSegment</key>
+	<string>groupvelocity</string>
+	<key>shouldPopTabView</key>
+	<string>provideTransition</string>
+</dict>
+</plist>

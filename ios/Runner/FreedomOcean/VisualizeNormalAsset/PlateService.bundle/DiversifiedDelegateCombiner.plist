@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationinfacade</key>
+	<string>rotateInterface</string>
+	<key>globaltext</key>
+	<string>responsiveDelegate</string>
+	<key>grainType</key>
+	<string>fragmentsacceleration</string>
+	<key>hardSpine</key>
+	<string>canBindMatrix</string>
+	<key>localGesture</key>
+	<string>subtleCustomPaint</string>
+	<key>numericalobserverfrequency</key>
+	<string>servicealignment</string>
+	<key>protectedexceptionborder</key>
+	<string>routeEquipment</string>
+	<key>requiredManager</key>
+	<string>channelsParam</string>
+	<key>specifyAspect</key>
+	<string>aspectStatus</string>
+	<key>ternaryoffset</key>
+	<string>usedAperture</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledPlayback</key>
+	<string>associatedMenu</string>
+	<key>intuitiveTopic</key>
+	<string>invisibleFuture</string>
+	<key>otherResponse</key>
+	<string>localTechnique</string>
+	<key>popupDensity</key>
+	<string>textFunction</string>
+	<key>shouldAttachSession</key>
+	<string>nodeorprocess</string>
+	<key>tappableScale</key>
+	<string>hardSizedBox</string>
+</dict>
+</plist>

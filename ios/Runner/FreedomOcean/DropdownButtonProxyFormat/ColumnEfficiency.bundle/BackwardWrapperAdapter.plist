@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterResponse</key>
+	<string>makeTimer</string>
+	<key>iterativeCache</key>
+	<string>skinTheme</string>
+	<key>prevcapacity</key>
+	<string>inflateTitle</string>
+	<key>semanticPlate</key>
+	<string>bundleRect</string>
+	<key>shouldNotifyCheckbox</key>
+	<string>secondIntensity</string>
+	<key>shouldUpdateCycle</key>
+	<string>destroyBuilder</string>
+	<key>smallPet</key>
+	<string>lastIntensity</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderbehavior</key>
+	<string>vertexDensity</string>
+	<key>checkboxInteraction</key>
+	<string>canTransformMission</string>
+	<key>creatorStatus</key>
+	<string>intermediateTangent</string>
+	<key>enabledhandler</key>
+	<string>accelerateparticle</string>
+	<key>layoutstroke</key>
+	<string>canReplaceGem</string>
+	<key>shouldstreamduration</key>
+	<string>canShowSymbol</string>
+	<key>spotinformation</key>
+	<string>resolveAllocator</string>
+	<key>timelineMode</key>
+	<string>pushSpot</string>
+	<key>typicalOperation</key>
+	<string>arithmeticRectangle</string>
+</dict>
+</plist>

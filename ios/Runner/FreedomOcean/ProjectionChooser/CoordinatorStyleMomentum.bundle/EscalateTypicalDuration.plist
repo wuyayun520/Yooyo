@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationstagemargin</key>
+	<string>publicLayout</string>
+	<key>impressioninterval</key>
+	<string>metadatafunctionduration</string>
+	<key>largehandler</key>
+	<string>globalStore</string>
+	<key>permanentElasticity</key>
+	<string>smallTransition</string>
+	<key>themeflags</key>
+	<string>dependencyprocesspadding</string>
+</dict>
+</plist>

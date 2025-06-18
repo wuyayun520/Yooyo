@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencytag</key>
+	<string>grainSpeed</string>
+	<key>priorFrame</key>
+	<string>graphicOrigin</string>
+	<key>providertension</key>
+	<string>custompaintPhase</string>
+	<key>requestentity</key>
+	<string>bandwidthRate</string>
+	<key>retainedOverlay</key>
+	<string>setupInterface</string>
+</dict>
+</plist>

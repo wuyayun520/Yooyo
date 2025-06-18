@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedTaxonomy</key>
+	<string>canObserveVariant</string>
+	<key>explicitvolume</key>
+	<string>canUnbindSkirt</string>
+	<key>rowFormat</key>
+	<string>projectionrectangle</string>
+	<key>stepbyparameter</key>
+	<string>diversifiedBandwidth</string>
+	<key>unactivateddocumentcoord</key>
+	<string>occasionOrigin</string>
+</dict>
+</plist>

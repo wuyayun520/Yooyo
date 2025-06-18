@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicateTimer</key>
+	<string>rectname</string>
+	<key>flexPressure</key>
+	<string>unactivatedCallback</string>
+	<key>missedcheckbox</key>
+	<string>dynamicStatus</string>
+	<key>resilienceOpacity</key>
+	<string>limitvector</string>
+	<key>shouldDetachDropdownButton</key>
+	<string>detailPressure</string>
+	<key>shouldValidateSine</key>
+	<string>animatedAlignment</string>
+	<key>substantialBinary</key>
+	<string>createChannels</string>
+	<key>tweenEdge</key>
+	<string>agileTextField</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedFragments</key>
+	<string>retainedTaxonomy</string>
+	<key>flexibleCollection</key>
+	<string>canLayoutTouch</string>
+	<key>ignoredBuilder</key>
+	<string>shouldobserveborder</string>
+	<key>immutableconsumption</key>
+	<string>shouldStopSession</string>
+	<key>imperativeGraph</key>
+	<string>indicatortrajectory</string>
+	<key>mainDependency</key>
+	<string>axisHead</string>
+	<key>resiliencedistance</key>
+	<string>createLog</string>
+	<key>sharedThreshold</key>
+	<string>canPausePet</string>
+	<key>spineTag</key>
+	<string>shouldProcessDocument</string>
+</dict>
+</plist>

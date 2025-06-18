@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createrect</key>
+	<string>usedNavigator</string>
+	<key>interceptallocator</key>
+	<string>singleMusic</string>
+	<key>permissiveextension</key>
+	<string>eagerFlex</string>
+	<key>priorityconsumption</key>
+	<string>overlayCommand</string>
+	<key>shouldAnimateSpot</key>
+	<string>deflatedocument</string>
+</dict>
+</plist>

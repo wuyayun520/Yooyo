@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelOrientation</key>
+	<string>sortedstoryboard</string>
+	<key>evaluationduration</key>
+	<string>nativegridview</string>
+	<key>modalOffset</key>
+	<string>shouldDismissSemantics</string>
+	<key>presentershape</key>
+	<string>intuitiveSink</string>
+	<key>publicInfo</key>
+	<string>popAxis</string>
+	<key>reusableplatetint</key>
+	<string>memberVar</string>
+	<key>specifyAudio</key>
+	<string>routeBinary</string>
+	<key>switchShade</key>
+	<string>advancedAnalyzer</string>
+</dict>
+</plist>

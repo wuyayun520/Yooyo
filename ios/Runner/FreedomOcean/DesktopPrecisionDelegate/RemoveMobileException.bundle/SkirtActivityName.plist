@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerMedia</key>
+	<string>dedicatedFrame</string>
+	<key>builderInteraction</key>
+	<string>reusableStoryboard</string>
+	<key>consumptionVisibility</key>
+	<string>alertorscope</string>
+	<key>currentlogarithm</key>
+	<string>shouldSerializeNib</string>
+	<key>defaultBaseline</key>
+	<string>intuitiveModel</string>
+	<key>managertiertint</key>
+	<string>scaffoldParameter</string>
+	<key>permanentHandler</key>
+	<string>cartesianGift</string>
+	<key>shouldTransformStateful</key>
+	<string>concurrentQueue</string>
+</dict>
+</plist>

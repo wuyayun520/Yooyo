@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardLocation</key>
+	<string>signHue</string>
+	<key>cartesianTexture</key>
+	<string>canShowDialogs</string>
+	<key>curveposition</key>
+	<string>shouldUpdateAnimation</string>
+	<key>densePet</key>
+	<string>protocolSkewX</string>
+	<key>keyTweak</key>
+	<string>shouldreplaceresource</string>
+	<key>seamlessRichText</key>
+	<string>tickerascent</string>
+	<key>standalonechallenge</key>
+	<string>parseTable</string>
+	<key>tappableAnchor</key>
+	<string>rectdensity</string>
+	<key>unsortedOptimizer</key>
+	<string>publishBitrate</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushBottom</key>
+	<string>descentShade</string>
+	<key>deferredVertex</key>
+	<string>replicaforce</string>
+	<key>isTouch</key>
+	<string>consumeobserver</string>
+	<key>lifecycleMode</key>
+	<string>progressbarparametertag</string>
+	<key>shouldResumeFragment</key>
+	<string>ignoredReplica</string>
+	<key>sizestructurepadding</key>
+	<string>activeallocatorappearance</string>
+	<key>streamscene</key>
+	<string>instructionDepth</string>
+	<key>unbindhash</key>
+	<string>overrideAlignment</string>
+</dict>
+</plist>

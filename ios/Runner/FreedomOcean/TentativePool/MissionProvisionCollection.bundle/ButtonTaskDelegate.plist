@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitfromoperation</key>
+	<string>mapperAcceleration</string>
+	<key>injectionvalidation</key>
+	<string>adaptiveUtil</string>
+	<key>listenmedia</key>
+	<string>specifyColumn</string>
+	<key>localizationStatus</key>
+	<string>captionScope</string>
+	<key>mapperSpacing</key>
+	<string>shouldSubscribeAlert</string>
+	<key>variantmode</key>
+	<string>replacecompleter</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousviewtag</key>
+	<string>polyfillMode</string>
+	<key>matrixasync</key>
+	<string>dynamicslidertop</string>
+	<key>navigatorexceptcommand</key>
+	<string>brushinset</string>
+	<key>projectionleveldelay</key>
+	<string>awaitVariable</string>
+	<key>substantialLoop</key>
+	<string>radiusevolution</string>
+</dict>
+</plist>

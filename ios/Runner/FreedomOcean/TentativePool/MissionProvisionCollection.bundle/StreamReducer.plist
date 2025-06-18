@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectspeed</key>
+	<string>shouldPopReference</string>
+	<key>enabledAnimatedContainer</key>
+	<string>geometricNavigator</string>
+	<key>haswidget</key>
+	<string>controlleractiontheme</string>
+	<key>histogramTheme</key>
+	<string>desktopCursor</string>
+	<key>ignoredService</key>
+	<string>pivotalRange</string>
+	<key>interfaceprovider</key>
+	<string>timerinnumber</string>
+	<key>prevThread</key>
+	<string>markZone</string>
+	<key>rectimpression</key>
+	<string>keepgate</string>
+	<key>semanticScope</key>
+	<string>resilientComposition</string>
+</dict>
+</plist>

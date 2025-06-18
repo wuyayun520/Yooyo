@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainercurve</key>
+	<string>layoutVar</string>
+	<key>euclideanCharacter</key>
+	<string>lifecycleSpacing</string>
+	<key>geometricModulus</key>
+	<string>cosineMemento</string>
+	<key>materialAsset</key>
+	<string>temporaryMomentum</string>
+	<key>publicAwait</key>
+	<string>intermediatecontrollerborder</string>
+</dict>
+</plist>

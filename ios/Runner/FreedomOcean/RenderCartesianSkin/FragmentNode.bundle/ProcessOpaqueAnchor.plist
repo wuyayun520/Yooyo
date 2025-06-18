@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationincludemethod</key>
+	<string>pinchableTextField</string>
+	<key>appbarcomponent</key>
+	<string>statefulrotation</string>
+	<key>directlyMenu</key>
+	<string>requiredButton</string>
+	<key>isPlayback</key>
+	<string>prepareResource</string>
+	<key>newestSemantics</key>
+	<string>canStartSpecifier</string>
+	<key>shouldCancelSlider</key>
+	<string>offsetinsideprocess</string>
+	<key>shouldConnectAlpha</key>
+	<string>significantProjection</string>
+</dict>
+</plist>

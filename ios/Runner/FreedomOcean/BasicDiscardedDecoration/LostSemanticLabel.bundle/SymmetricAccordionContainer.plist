@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionaperture</key>
+	<string>canUnbindPadding</string>
+	<key>activatedrepositorybrightness</key>
+	<string>secondTransformer</string>
+	<key>chapterbehavior</key>
+	<string>mechanismRight</string>
+	<key>labelmode</key>
+	<string>startposition</string>
+	<key>listenersincejob</key>
+	<string>specifierSingleton</string>
+	<key>shouldMountedScreen</key>
+	<string>concurrentRow</string>
+</dict>
+</plist>

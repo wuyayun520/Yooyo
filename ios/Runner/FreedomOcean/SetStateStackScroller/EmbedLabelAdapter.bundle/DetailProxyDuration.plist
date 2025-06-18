@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedSchema</key>
+	<string>embedMenu</string>
+	<key>drawerdescription</key>
+	<string>canResumeMobile</string>
+	<key>integrationMode</key>
+	<string>shouldBindStep</string>
+	<key>mainEqualization</key>
+	<string>canKeepEquipment</string>
+	<key>pinchableObserver</key>
+	<string>configureParticle</string>
+	<key>reducebuffer</key>
+	<string>lostSensor</string>
+	<key>shouldlistencertificate</key>
+	<string>staticContainer</string>
+	<key>sustainableDependency</key>
+	<string>ascentAcceleration</string>
+</dict>
+</plist>

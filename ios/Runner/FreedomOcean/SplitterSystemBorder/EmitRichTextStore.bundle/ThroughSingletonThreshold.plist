@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerwidgetshape</key>
+	<string>documentallocator</string>
+	<key>functionalPolyfill</key>
+	<string>tensorSubscription</string>
+	<key>hasChannels</key>
+	<string>transformTangent</string>
+	<key>joinerSize</key>
+	<string>synchronousNotification</string>
+	<key>regulatelabel</key>
+	<string>pushStore</string>
+	<key>sharedProjection</key>
+	<string>iconOffset</string>
+	<key>subscribeparticle</key>
+	<string>composableEmitter</string>
+	<key>substantialBatch</key>
+	<string>workflowBehavior</string>
+	<key>vertexAcceleration</key>
+	<string>attachResource</string>
+</dict>
+</plist>

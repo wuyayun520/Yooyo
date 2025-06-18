@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalAnimation</key>
+	<string>assetchainopacity</string>
+	<key>enabledWidget</key>
+	<string>canKeepDuration</string>
+	<key>functionalComposition</key>
+	<string>configurationEdge</string>
+	<key>globalBase</key>
+	<string>documentlinker</string>
+	<key>impressionInterval</key>
+	<string>roleVisitor</string>
+	<key>keyMediaQuery</key>
+	<string>canKeepSkin</string>
+	<key>mainText</key>
+	<string>drawPosition</string>
+	<key>shouldUnmountCheckbox</key>
+	<string>bulletmaterial</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bandwidthcount</key>
+	<string>playDuration</string>
+	<key>easyReduction</key>
+	<string>actionVariable</string>
+	<key>immutableConsumption</key>
+	<string>greatRectangle</string>
+	<key>iterativeBaseline</key>
+	<string>hierarchicalStep</string>
+	<key>largeTouch</key>
+	<string>geometricGridView</string>
+	<key>lazyBorder</key>
+	<string>mainTransformer</string>
+	<key>repositoryframeworkfeedback</key>
+	<string>transposerow</string>
+	<key>shouldFormatCheckbox</key>
+	<string>primaryRadio</string>
+	<key>smartMobile</key>
+	<string>subtlerect</string>
+	<key>transformscroll</key>
+	<string>canLoadSubpixel</string>
+</dict>
+</plist>

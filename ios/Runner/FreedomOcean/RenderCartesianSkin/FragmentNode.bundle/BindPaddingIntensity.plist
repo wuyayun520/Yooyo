@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationtierinset</key>
+	<string>loadCollection</string>
+	<key>interfaceresilience</key>
+	<string>draggableColumn</string>
+	<key>lossbrightness</key>
+	<string>gemBridge</string>
+	<key>methodInterval</key>
+	<string>visibleCheckbox</string>
+	<key>opaqueView</key>
+	<string>equalizationtype</string>
+	<key>seamlessIsolate</key>
+	<string>syncPresenter</string>
+	<key>shouldSaveSensor</key>
+	<string>desktopCosine</string>
+	<key>shouldTransformChecklist</key>
+	<string>shouldhandlebatch</string>
+	<key>unmounttabbar</key>
+	<string>handleUseCase</string>
+</dict>
+</plist>

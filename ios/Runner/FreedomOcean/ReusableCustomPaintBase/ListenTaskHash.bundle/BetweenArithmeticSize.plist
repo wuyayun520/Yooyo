@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoanimation</key>
+	<string>maintainBuilder</string>
+	<key>controllerSkewX</key>
+	<string>sortedCurve</string>
+	<key>mobileQuaternion</key>
+	<string>spotLayer</string>
+	<key>nativeNib</key>
+	<string>canEncodeMargin</string>
+	<key>newestCaption</key>
+	<string>reusableBloc</string>
+	<key>shouldLoadScale</key>
+	<string>disabledMember</string>
+	<key>shouldUnbindSegment</key>
+	<string>isolateFacade</string>
+	<key>tabbarshape</key>
+	<string>tensorController</string>
+	<key>unactivatedStoryboard</key>
+	<string>awaitAppearance</string>
+</dict>
+</plist>

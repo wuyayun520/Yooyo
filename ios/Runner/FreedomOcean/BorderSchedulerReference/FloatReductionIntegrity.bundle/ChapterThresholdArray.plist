@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaalignment</key>
+	<string>switchjobtheme</string>
+	<key>associatedGrayscale</key>
+	<string>zoneTheme</string>
+	<key>bindequipment</key>
+	<string>ternarystructurecolor</string>
+	<key>bufferfrequency</key>
+	<string>buttonSkewX</string>
+	<key>denseMaterial</key>
+	<string>bitrateLeft</string>
+	<key>errorforce</key>
+	<string>shouldLoadBoxShadow</string>
+	<key>materialTabView</key>
+	<string>shouldPauseTernary</string>
+	<key>prismaticUsage</key>
+	<string>symmetricCanvas</string>
+	<key>shouldFormatExpanded</key>
+	<string>newestBinder</string>
+</dict>
+</plist>

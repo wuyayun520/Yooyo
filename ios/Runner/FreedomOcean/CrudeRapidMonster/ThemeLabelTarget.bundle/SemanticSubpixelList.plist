@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eventpolygon</key>
+	<string>routeCache</string>
+	<key>lazyRouter</key>
+	<string>shouldBindOptimizer</string>
+	<key>managermementocontrast</key>
+	<string>keyGrain</string>
+	<key>providerBottom</key>
+	<string>canDisconnectAspectRatio</string>
+	<key>radiuscolor</key>
+	<string>canSetStateLoss</string>
+	<key>savemap</key>
+	<string>processManager</string>
+	<key>shouldUnmountedGram</key>
+	<string>immutableFormat</string>
+</dict>
+</plist>

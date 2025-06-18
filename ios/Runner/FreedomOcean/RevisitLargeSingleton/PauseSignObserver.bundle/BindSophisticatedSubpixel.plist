@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveLifecycle</key>
+	<string>scrollStructure</string>
+	<key>elasticManager</key>
+	<string>profileText</string>
+	<key>numericallayout</key>
+	<string>shouldRouteSkirt</string>
+	<key>responseshader</key>
+	<string>pausePainter</string>
+	<key>subtleDelivery</key>
+	<string>allocateResult</string>
+	<key>titleInteraction</key>
+	<string>criticaloperation</string>
+</dict>
+</plist>

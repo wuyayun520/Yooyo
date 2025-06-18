@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensivecupertino</key>
+	<string>mutableGift</string>
+	<key>cursoralignment</key>
+	<string>lazyAnimation</string>
+	<key>documentVisibility</key>
+	<string>shouldEncodeUsage</string>
+	<key>ignoredCube</key>
+	<string>shouldHandleContainer</string>
+	<key>largeBinder</key>
+	<string>canMountHeap</string>
+	<key>scalabilityPosition</key>
+	<string>itemForce</string>
+	<key>shouldRouteStamp</key>
+	<string>playDuration</string>
+	<key>shouldUnbindPet</key>
+	<string>layoutSignature</string>
+	<key>stateIndex</key>
+	<string>restoreAction</string>
+	<key>statelesscontroller</key>
+	<string>eagerDecoration</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerInteractor</key>
+	<string>interfacemodel</string>
+	<key>columnmargin</key>
+	<string>shouldRebuildPlate</string>
+	<key>configurationbound</key>
+	<string>validateInkWell</string>
+	<key>customLifecycle</key>
+	<string>intensityVelocity</string>
+	<key>gradientCenter</key>
+	<string>accordionnotifier</string>
+	<key>screenVisibility</key>
+	<string>interpolationcubit</string>
+	<key>shouldDisconnectChannels</key>
+	<string>sensorPattern</string>
+</dict>
+</plist>

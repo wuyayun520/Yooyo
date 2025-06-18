@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>intuitiveTouch</key>
+	<string>sliderTension</string>
+	<key>lazyRequest</key>
+	<string>shouldLayoutSlider</string>
+	<key>mediumBrush</key>
+	<string>intermediateInstruction</string>
+	<key>ongraphicchanged</key>
+	<string>quantizationDecoration</string>
+	<key>reusableAsset</key>
+	<string>substantialPainter</string>
+	<key>shouldPopUsage</key>
+	<string>materialTransition</string>
+	<key>shouldUpdateProjection</key>
+	<string>emitParticle</string>
+	<key>smallDetector</key>
+	<string>shouldupdatecolumn</string>
+	<key>sortedInteraction</key>
+	<string>scenarioCount</string>
+	<key>statefulCheckbox</key>
+	<string>shouldserializecurve</string>
+</dict>
+</plist>

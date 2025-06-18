@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>extensionpatternmargin</key>
+	<string>greatAxis</string>
+	<key>scopeIndex</key>
+	<string>uniformStateless</string>
+	<key>semanticTopic</key>
+	<string>originalMetrics</string>
+	<key>sequentialController</key>
+	<string>reductionSkewX</string>
+	<key>sizedboxDuration</key>
+	<string>permanentStream</string>
+</dict>
+</plist>

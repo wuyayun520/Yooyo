@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticCubit</key>
+	<string>buttonedge</string>
+	<key>customizedCapacity</key>
+	<string>characterShape</string>
+	<key>decorationFrequency</key>
+	<string>mainGrain</string>
+	<key>lossColor</key>
+	<string>deferredModel</string>
+	<key>mobileanimator</key>
+	<string>infrastructureSpacing</string>
+</dict>
+</plist>

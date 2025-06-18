@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeCharacter</key>
+	<string>unactivatedAccessory</string>
+	<key>mainFlex</key>
+	<string>advancedAspect</string>
+	<key>publisherleft</key>
+	<string>handlerinset</string>
+	<key>segueFlags</key>
+	<string>robustTransition</string>
+	<key>shouldValidateEquipment</key>
+	<string>detailstatus</string>
+	<key>specifierSpacing</key>
+	<string>declarativeService</string>
+	<key>statelessOffset</key>
+	<string>animationoutsidedecorator</string>
+	<key>timelineforce</key>
+	<string>agileEquivalent</string>
+</dict>
+</plist>

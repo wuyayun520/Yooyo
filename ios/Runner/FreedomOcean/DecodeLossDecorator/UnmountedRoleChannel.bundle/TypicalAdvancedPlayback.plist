@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnContrast</key>
+	<string>controllerstatus</string>
+	<key>cupertinoResponder</key>
+	<string>granularView</string>
+	<key>hardConvolution</key>
+	<string>pointSize</string>
+	<key>materialcapsulerotation</key>
+	<string>responsiveResponder</string>
+	<key>mobileMedia</key>
+	<string>shouldStartCertificate</string>
+	<key>positionBrightness</key>
+	<string>shouldNotifySwift</string>
+	<key>replaceloss</key>
+	<string>pivotalProvision</string>
+	<key>shouldValidateAccessory</key>
+	<string>shouldProcessVariant</string>
+</dict>
+</plist>

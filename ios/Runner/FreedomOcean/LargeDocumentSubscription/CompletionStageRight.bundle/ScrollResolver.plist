@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleposition</key>
+	<string>subpixelLayer</string>
+	<key>masterAcceleration</key>
+	<string>canAttachDelegate</string>
+	<key>prevInfrastructure</key>
+	<string>subscribePriority</string>
+	<key>processnotification</key>
+	<string>shouldInflateSensor</string>
+	<key>shouldEncodeSignature</key>
+	<string>keepCheckbox</string>
+	<key>shouldReplaceController</key>
+	<string>histogramNumber</string>
+</dict>
+</plist>

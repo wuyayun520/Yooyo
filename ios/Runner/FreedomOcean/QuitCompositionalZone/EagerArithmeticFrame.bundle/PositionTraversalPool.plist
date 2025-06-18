@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushPadding</key>
+	<string>largeSkin</string>
+	<key>dedicatedObject</key>
+	<string>canAttachTernary</string>
+	<key>easyProvision</key>
+	<string>fixedCompleter</string>
+	<key>operationForce</key>
+	<string>customizedclipper</string>
+	<key>originalclipperleft</key>
+	<string>tweakLocation</string>
+</dict>
+</plist>

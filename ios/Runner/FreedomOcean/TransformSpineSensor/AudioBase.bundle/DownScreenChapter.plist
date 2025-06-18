@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledGesture</key>
+	<string>contractionMargin</string>
+	<key>firstController</key>
+	<string>scaffoldOrigin</string>
+	<key>relationalDelegate</key>
+	<string>tweencyclestate</string>
+	<key>shouldunmountboxshadow</key>
+	<string>secondWrapper</string>
+	<key>swiftForce</key>
+	<string>shouldTransitionInteger</string>
+</dict>
+</plist>

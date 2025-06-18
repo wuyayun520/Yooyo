@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionShape</key>
+	<string>singletonNumber</string>
+	<key>cellduration</key>
+	<string>playbackAction</string>
+	<key>challengeindex</key>
+	<string>completedStateless</string>
+	<key>momentumFlags</key>
+	<string>canParseConvolution</string>
+	<key>prevInterpolation</key>
+	<string>movementRate</string>
+	<key>queueamortization</key>
+	<string>shouldContinueImage</string>
+	<key>reactivetoolmode</key>
+	<string>generatesink</string>
+	<key>respectiveLoop</key>
+	<string>inactiveContraction</string>
+	<key>singleScroller</key>
+	<string>tensorMission</string>
+	<key>soundOffset</key>
+	<string>prismaticPadding</string>
+</dict>
+</plist>

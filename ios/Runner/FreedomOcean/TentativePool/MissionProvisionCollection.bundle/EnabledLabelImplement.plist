@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>independentchart</key>
+	<string>canListenBinary</string>
+	<key>instructionResponse</key>
+	<string>unscheduletransformer</string>
+	<key>modelofvalue</key>
+	<string>cursorresponse</string>
+	<key>mutableTexture</key>
+	<string>saveslider</string>
+	<key>newestAsset</key>
+	<string>canPaintNib</string>
+	<key>priorObserver</key>
+	<string>accessoryFacade</string>
+	<key>streamrequest</key>
+	<string>immutableEvaluation</string>
+	<key>tabviewIndex</key>
+	<string>throughputBrightness</string>
+</dict>
+</plist>

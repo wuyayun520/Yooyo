@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedProgressBar</key>
+	<string>canRenderConvolution</string>
+	<key>animatedcontainerShade</key>
+	<string>radioTag</string>
+	<key>elasticGesture</key>
+	<string>tangentTint</string>
+	<key>newestStore</key>
+	<string>adaptiveStroke</string>
+	<key>nodecount</key>
+	<string>shouldFetchAspectRatio</string>
+	<key>relationalModel</key>
+	<string>completionMomentum</string>
+	<key>unactivatedLoader</key>
+	<string>enabledPermutation</string>
+</dict>
+</plist>

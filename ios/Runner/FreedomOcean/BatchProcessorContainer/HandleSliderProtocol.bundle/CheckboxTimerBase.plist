@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesRate</key>
+	<string>infoScale</string>
+	<key>compositionSize</key>
+	<string>immediateTicker</string>
+	<key>disposerow</key>
+	<string>similarTimeline</string>
+	<key>largeDelegate</key>
+	<string>independentMaster</string>
+	<key>scenarioFeedback</key>
+	<string>mountMedia</string>
+	<key>tensorCreator</key>
+	<string>graphofshape</string>
+	<key>uniformUnary</key>
+	<string>similarConvolution</string>
+	<key>videohue</key>
+	<string>canValidateFuture</string>
+</dict>
+</plist>

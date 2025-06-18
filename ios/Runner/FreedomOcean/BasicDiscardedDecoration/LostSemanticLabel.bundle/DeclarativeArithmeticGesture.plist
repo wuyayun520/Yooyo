@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityInteraction</key>
+	<string>mainFrame</string>
+	<key>comprehensiveHash</key>
+	<string>pivotalDependency</string>
+	<key>disabledScheduler</key>
+	<string>updateexception</string>
+	<key>granularintegrity</key>
+	<string>emitUseCase</string>
+	<key>newestComponent</key>
+	<string>adaptiveChooser</string>
+	<key>paintrepository</key>
+	<string>skirtrouter</string>
+	<key>protectedPageView</key>
+	<string>concreteMesh</string>
+	<key>savelocalization</key>
+	<string>blocMethod</string>
+	<key>shouldPauseCupertino</key>
+	<string>canRestartShader</string>
+</dict>
+</plist>

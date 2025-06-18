@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedContrast</key>
+	<string>missionDelay</string>
+	<key>discardedEvent</key>
+	<string>retainedChapter</string>
+	<key>observercontaindecorator</key>
+	<string>readInteractor</string>
+	<key>subtlerole</key>
+	<string>commonTransition</string>
+</dict>
+</plist>

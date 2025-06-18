@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerType</key>
+	<string>optimizerLocation</string>
+	<key>beginnerEquipment</key>
+	<string>shouldSetStateOption</string>
+	<key>infrastructureEdge</key>
+	<string>interactionTheme</string>
+	<key>overridescreen</key>
+	<string>unsortedStateful</string>
+	<key>previewmodekind</key>
+	<string>standalonenib</string>
+	<key>protectedImage</key>
+	<string>hasSubpixel</string>
+	<key>provisionBorder</key>
+	<string>addSingleton</string>
+</dict>
+</plist>

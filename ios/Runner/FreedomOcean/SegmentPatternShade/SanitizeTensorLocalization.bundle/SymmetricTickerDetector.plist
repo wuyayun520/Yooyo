@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disparateBitrate</key>
+	<string>componentSize</string>
+	<key>instantiateslider</key>
+	<string>customBloc</string>
+	<key>numericalScreen</key>
+	<string>dedicatedAppBar</string>
+	<key>robustPromise</key>
+	<string>canSetStateAlert</string>
+</dict>
+</plist>

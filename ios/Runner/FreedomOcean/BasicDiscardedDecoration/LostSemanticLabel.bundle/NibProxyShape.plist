@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationdispatcher</key>
+	<string>popupSkewX</string>
+	<key>featureDensity</key>
+	<string>destroyError</string>
+	<key>scopeSpacing</key>
+	<string>hierarchicalTable</string>
+	<key>sequentialScroller</key>
+	<string>dismissError</string>
+	<key>shouldTransitionScroll</key>
+	<string>specifyWidget</string>
+	<key>shouldsubscribelabel</key>
+	<string>scrollableSegue</string>
+	<key>touchCenter</key>
+	<string>substantialPolygon</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveContrast</key>
+	<string>progressbarColor</string>
+	<key>declarativeUsage</key>
+	<string>infrastructureopacity</string>
+	<key>draggableallocatorvelocity</key>
+	<string>canPauseGem</string>
+	<key>euclideanprogressbar</key>
+	<string>taskVisibility</string>
+	<key>explicitcache</key>
+	<string>offsetchainfeedback</string>
+	<key>intuitiveCapsule</key>
+	<string>listviewbesidechain</string>
+	<key>liteTextField</key>
+	<string>canPrepareScale</string>
+	<key>primaryObserver</key>
+	<string>operationFramework</string>
+	<key>subsequentShader</key>
+	<string>associatePreview</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedObject</key>
+	<string>reflectFactory</string>
+	<key>firstspineleft</key>
+	<string>canPopBase</string>
+	<key>interactiveCoordinator</key>
+	<string>transitionNavigation</string>
+	<key>mapperValidation</key>
+	<string>canLayoutEffect</string>
+</dict>
+</plist>

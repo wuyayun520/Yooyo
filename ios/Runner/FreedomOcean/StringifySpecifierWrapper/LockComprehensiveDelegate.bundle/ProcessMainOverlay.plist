@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionConfidentiality</key>
+	<string>shouldListenCaption</string>
+	<key>mainAspectRatio</key>
+	<string>tickeranimation</string>
+	<key>resilientTernary</key>
+	<string>orchestrateListener</string>
+	<key>shouldFetchSine</key>
+	<string>playbackActivity</string>
+	<key>shouldLoadDrawer</key>
+	<string>mendFrequency</string>
+	<key>shouldRouteCoordinator</key>
+	<string>mutableProjection</string>
+</dict>
+</plist>

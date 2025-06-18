@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredScroller</key>
+	<string>asynchronousScroll</string>
+	<key>fragmentmethodhue</key>
+	<string>presentFuture</string>
+	<key>futureactivitysaturation</key>
+	<string>awaitProxy</string>
+	<key>inheritedReducer</key>
+	<string>extensionPosition</string>
+	<key>localFinder</key>
+	<string>permanentDocument</string>
+	<key>viewbridgedelay</key>
+	<string>paintMultiplication</string>
+</dict>
+</plist>

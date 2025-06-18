@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicatePoint</key>
+	<string>eraseAsync</string>
+	<key>gesturedetectorresolver</key>
+	<string>canCreateDialogs</string>
+	<key>paintstorage</key>
+	<string>observeExpanded</string>
+	<key>prismaticUtil</key>
+	<string>cupertinoQueue</string>
+	<key>robustScroller</key>
+	<string>parseAnimation</string>
+	<key>shouldDisconnectEqualization</key>
+	<string>stopSpine</string>
+	<key>shouldobserveshader</key>
+	<string>semanticawaitdensity</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customImpression</key>
+	<string>nodeMethod</string>
+	<key>defaultInterpolation</key>
+	<string>usecaseResponse</string>
+	<key>dismissbutton</key>
+	<string>actionScope</string>
+	<key>euclideanAction</key>
+	<string>iterativeintegration</string>
+	<key>geometricModulus</key>
+	<string>canMountedButton</string>
+	<key>prismaticRow</key>
+	<string>animatedStorage</string>
+	<key>resizableStateful</key>
+	<string>spotPlatform</string>
+	<key>reusableThread</key>
+	<string>touchBuilder</string>
+	<key>shouldDeserializeGram</key>
+	<string>displayabletraversal</string>
+</dict>
+</plist>

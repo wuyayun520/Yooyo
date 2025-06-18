@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisShape</key>
+	<string>shouldDisposeCursor</string>
+	<key>bitrateHead</key>
+	<string>buildCharacter</string>
+	<key>brushStyle</key>
+	<string>shouldDetachConsumer</string>
+	<key>cubevarmode</key>
+	<string>prepareAspect</string>
+	<key>equivalentAcceleration</key>
+	<string>canPublishProjection</string>
+	<key>pageviewtemplemode</key>
+	<string>tappableDecoration</string>
+	<key>sceneKind</key>
+	<string>specifyGridView</string>
+	<key>sequentialcontroller</key>
+	<string>easyException</string>
+</dict>
+</plist>

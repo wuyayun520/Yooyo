@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inheritedTrajectory</key>
+	<string>compositionCount</string>
+	<key>missedLifecycle</key>
+	<string>visibleCube</string>
+	<key>preparebase</key>
+	<string>createInterface</string>
+	<key>routecycle</key>
+	<string>cardFlags</string>
+	<key>stackformtint</key>
+	<string>indicatorinteractor</string>
+</dict>
+</plist>

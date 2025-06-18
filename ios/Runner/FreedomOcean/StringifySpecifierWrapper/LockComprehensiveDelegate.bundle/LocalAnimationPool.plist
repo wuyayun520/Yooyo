@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonBloc</key>
+	<string>compareQueue</string>
+	<key>geometricHistogram</key>
+	<string>canConnectPrecision</string>
+	<key>invisibleInteger</key>
+	<string>titleinactivity</string>
+	<key>missedView</key>
+	<string>primaryusage</string>
+	<key>prismaticSign</key>
+	<string>clusterSkewX</string>
+	<key>shouldFetchDialogs</key>
+	<string>canDisposeNorm</string>
+	<key>slidercontextskewy</key>
+	<string>channelOperation</string>
+</dict>
+</plist>

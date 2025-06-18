@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agilePadding</key>
+	<string>shouldCacheTask</string>
+	<key>asynchronousConstant</key>
+	<string>moveModel</string>
+	<key>clusterState</key>
+	<string>dropdownbuttonAction</string>
+	<key>elasticMaterializer</key>
+	<string>criticalTimeline</string>
+	<key>hyperbolicTopic</key>
+	<string>retainedAxis</string>
+	<key>statefulException</key>
+	<string>serializeUnary</string>
+</dict>
+</plist>

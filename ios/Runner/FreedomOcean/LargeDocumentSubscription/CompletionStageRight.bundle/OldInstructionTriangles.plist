@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionResource</key>
+	<string>discardedLayer</string>
+	<key>cartesianInteraction</key>
+	<string>agileNib</string>
+	<key>scrolllayout</key>
+	<string>endSymbol</string>
+	<key>startslash</key>
+	<string>desktopAxis</string>
+	<key>unsortedDuration</key>
+	<string>globalAlert</string>
+</dict>
+</plist>

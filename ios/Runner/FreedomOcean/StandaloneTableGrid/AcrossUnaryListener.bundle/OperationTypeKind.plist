@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxContrast</key>
+	<string>tickerBridge</string>
+	<key>cycleSpacing</key>
+	<string>basicMatrix</string>
+	<key>desktopCube</key>
+	<string>resetgraph</string>
+	<key>integerAlignment</key>
+	<string>mediocreProcessor</string>
+	<key>persistentProgressBar</key>
+	<string>commonConsumer</string>
+	<key>shouldAnimateNavigator</key>
+	<string>backwardUtil</string>
+	<key>spineTag</key>
+	<string>eraseResolver</string>
+</dict>
+</plist>

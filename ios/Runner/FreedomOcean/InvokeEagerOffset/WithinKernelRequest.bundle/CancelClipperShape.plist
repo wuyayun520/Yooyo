@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columntail</key>
+	<string>canDismissAspect</string>
+	<key>contractionTop</key>
+	<string>provisionStatus</string>
+	<key>declarativeBaseline</key>
+	<string>mobiledescription</string>
+	<key>invisibleBaseline</key>
+	<string>denseMember</string>
+	<key>listviewTag</key>
+	<string>dialogsMemento</string>
+	<key>navigatorscopeoffset</key>
+	<string>smartMechanism</string>
+	<key>newestSegue</key>
+	<string>featureInterval</string>
+	<key>pointsingletonvelocity</key>
+	<string>decodeExpanded</string>
+</dict>
+</plist>

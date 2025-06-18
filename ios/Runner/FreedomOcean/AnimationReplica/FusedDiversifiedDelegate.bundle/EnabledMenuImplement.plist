@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleChallenge</key>
+	<string>extensionrect</string>
+	<key>draggableSearcher</key>
+	<string>sizeComposite</string>
+	<key>shouldPauseMovement</key>
+	<string>textTop</string>
+	<key>shouldSetStateSymbol</key>
+	<string>nextStrength</string>
+	<key>spinbuilder</key>
+	<string>numericalEffect</string>
+	<key>textureTag</key>
+	<string>graphCenter</string>
+</dict>
+</plist>

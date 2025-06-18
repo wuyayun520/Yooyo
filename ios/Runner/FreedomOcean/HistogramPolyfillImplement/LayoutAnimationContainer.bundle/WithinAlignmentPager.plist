@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterappearance</key>
+	<string>canListenWorkflow</string>
+	<key>chooserAppearance</key>
+	<string>chartCenter</string>
+	<key>intuitiveResource</key>
+	<string>delicateTitle</string>
+	<key>notifierRight</key>
+	<string>originalFactory</string>
+	<key>resourcebufferinset</key>
+	<string>storeTransparency</string>
+	<key>schedulerMargin</key>
+	<string>dispatchPositioned</string>
+	<key>sizedboxRate</key>
+	<string>interactiveVector</string>
+	<key>topicOpacity</key>
+	<string>transformSizedBox</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorstyletail</key>
+	<string>errorType</string>
+	<key>promiseStyle</key>
+	<string>specifyRouter</string>
+	<key>publicEvolution</key>
+	<string>exitloss</string>
+	<key>shouldRenderButton</key>
+	<string>customAscent</string>
+	<key>stepDelay</key>
+	<string>inactiveCustomPaint</string>
+	<key>topicposition</key>
+	<string>temporaryDelivery</string>
+	<key>usedTentative</key>
+	<string>subsequentError</string>
+</dict>
+</plist>

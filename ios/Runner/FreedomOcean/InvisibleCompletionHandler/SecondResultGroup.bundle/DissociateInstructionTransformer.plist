@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalRemainder</key>
+	<string>interceptresponse</string>
+	<key>fragmentsType</key>
+	<string>borderbystate</string>
+	<key>resilienceSpeed</key>
+	<string>singletonTheme</string>
+	<key>statefulLoss</key>
+	<string>reusableFilter</string>
+	<key>staticAspect</key>
+	<string>animatedDecoration</string>
+</dict>
+</plist>

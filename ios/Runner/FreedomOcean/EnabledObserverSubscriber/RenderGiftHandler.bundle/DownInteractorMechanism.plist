@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>iterativeMission</key>
+	<string>shouldEncodeStack</string>
+	<key>listviewlikefacade</key>
+	<string>dismissobserver</string>
+	<key>progressbarscale</key>
+	<string>shouldShowPositioned</string>
+	<key>rectBehavior</key>
+	<string>shouldTransformProfile</string>
+	<key>reducerandsystem</key>
+	<string>equipmentColor</string>
+	<key>shouldFormatGridView</key>
+	<string>canPrepareAlpha</string>
+</dict>
+</plist>

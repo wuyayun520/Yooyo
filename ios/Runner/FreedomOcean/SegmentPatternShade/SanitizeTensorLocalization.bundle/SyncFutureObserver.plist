@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>exceptionIndex</key>
+	<string>sensorBorder</string>
+	<key>navigatorRotation</key>
+	<string>shouldDispatchCycle</string>
+	<key>parallelButton</key>
+	<string>discoverListener</string>
+	<key>parallelGem</key>
+	<string>functionalProvision</string>
+	<key>requiredView</key>
+	<string>interfaceviavar</string>
+	<key>singletonaspect</key>
+	<string>clipsubpixel</string>
+	<key>sliderTail</key>
+	<string>materialCurve</string>
+	<key>usedMaterializer</key>
+	<string>operationSize</string>
+</dict>
+</plist>

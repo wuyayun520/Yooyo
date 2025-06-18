@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerValidation</key>
+	<string>extensionVelocity</string>
+	<key>immediateFactory</key>
+	<string>prevElasticity</string>
+	<key>lastFragments</key>
+	<string>rotateLocalization</string>
+	<key>positionfrequency</key>
+	<string>sortedRectangle</string>
+	<key>shouldMountTernary</key>
+	<string>navigateEntity</string>
+</dict>
+</plist>

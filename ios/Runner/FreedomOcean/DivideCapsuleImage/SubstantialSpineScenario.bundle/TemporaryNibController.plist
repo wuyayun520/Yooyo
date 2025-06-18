@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>shouldDecodeAnchor</key>
+	<string>attachAwait</string>
+	<key>shouldRebuildAlpha</key>
+	<string>collectionDelay</string>
+	<key>shouldUnmountTool</key>
+	<string>canPaintHeap</string>
+	<key>webAppBar</key>
+	<string>sortervelocity</string>
+</dict>
+</plist>

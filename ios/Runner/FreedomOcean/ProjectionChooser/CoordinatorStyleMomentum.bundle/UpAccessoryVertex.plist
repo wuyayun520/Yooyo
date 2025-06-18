@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disparateCustomPaint</key>
+	<string>reducerpatternhue</string>
+	<key>ephemerallayoutrate</key>
+	<string>equalLabel</string>
+	<key>invisibleConstant</key>
+	<string>dropoutVector</string>
+	<key>relationalSegue</key>
+	<string>canSubscribeCache</string>
+	<key>shouldStopLayout</key>
+	<string>shouldPrepareInteger</string>
+	<key>wrapperVisible</key>
+	<string>shouldrestartspine</string>
+</dict>
+</plist>

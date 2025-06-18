@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptivescaffold</key>
+	<string>isPageView</string>
+	<key>awaitFlags</key>
+	<string>currentGradient</string>
+	<key>composableboxshadow</key>
+	<string>shouldParseCatalyst</string>
+	<key>imperativeChecklist</key>
+	<string>retainSprite</string>
+	<key>missedNib</key>
+	<string>attachMedia</string>
+</dict>
+</plist>

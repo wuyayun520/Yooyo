@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buildermetrics</key>
+	<string>geometricStack</string>
+	<key>combinerFlags</key>
+	<string>behaviorObserver</string>
+	<key>comprehensiveSubpixel</key>
+	<string>menuAdapter</string>
+	<key>ephemeralLocalization</key>
+	<string>subscribeEffect</string>
+	<key>mutableCluster</key>
+	<string>declarativeContainer</string>
+	<key>opaqueSkin</key>
+	<string>robustPublisher</string>
+	<key>signCoord</key>
+	<string>swiftvartag</string>
+	<key>visibleView</key>
+	<string>symmetricCatalyst</string>
+</dict>
+</plist>

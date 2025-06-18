@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentResolver</key>
+	<string>queuePadding</string>
+	<key>delicateAnimation</key>
+	<string>chartTransparency</string>
+	<key>disabledConsumer</key>
+	<string>textureIndex</string>
+	<key>nextStatus</key>
+	<string>customizedContraction</string>
+	<key>shouldSerializeScaffold</key>
+	<string>animatedMaterial</string>
+</dict>
+</plist>

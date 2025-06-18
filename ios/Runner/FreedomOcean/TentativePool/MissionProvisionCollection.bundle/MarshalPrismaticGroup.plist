@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedTaxonomy</key>
+	<string>normalTolerance</string>
+	<key>channeldirection</key>
+	<string>significantListView</string>
+	<key>cupertinoInjection</key>
+	<string>pinchableSignature</string>
+	<key>inheritedStatus</key>
+	<string>observerTint</string>
+	<key>nodestagetension</key>
+	<string>intermediateDescent</string>
+	<key>observetechnique</key>
+	<string>agileContainer</string>
+	<key>subsequentallocatorfrequency</key>
+	<string>grayscaleCoord</string>
+</dict>
+</plist>

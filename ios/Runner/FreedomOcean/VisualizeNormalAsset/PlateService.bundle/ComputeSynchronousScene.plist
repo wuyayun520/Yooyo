@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelAlignment</key>
+	<string>frameFlags</string>
+	<key>dynamicDependency</key>
+	<string>presentUnary</string>
+	<key>respectiveUtil</key>
+	<string>shouldSkipExtension</string>
+	<key>sampleformat</key>
+	<string>layerDuration</string>
+	<key>shouldRenderLayout</key>
+	<string>seekListener</string>
+	<key>utillocation</key>
+	<string>limitMetadata</string>
+</dict>
+</plist>

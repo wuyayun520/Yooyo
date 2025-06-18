@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedFragment</key>
+	<string>responseInterpreter</string>
+	<key>crudeTransition</key>
+	<string>updatedialogs</string>
+	<key>delegatewidget</key>
+	<string>usageStatus</string>
+	<key>pinchableNavigation</key>
+	<string>invokeLocalization</string>
+	<key>projectionduration</key>
+	<string>shouldSubscribeCupertino</string>
+	<key>resourceinteractor</key>
+	<string>canNavigateTool</string>
+	<key>shouldCancelBaseline</key>
+	<string>accessoryTension</string>
+	<key>shouldRenderNotification</key>
+	<string>momentumreducer</string>
+	<key>splitterStatus</key>
+	<string>iconTier</string>
+	<key>usecasedespitemethod</key>
+	<string>shouldObserveSpot</string>
+</dict>
+</plist>

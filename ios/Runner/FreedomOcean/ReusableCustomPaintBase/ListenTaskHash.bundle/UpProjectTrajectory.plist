@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationSpacing</key>
+	<string>diffableProvider</string>
+	<key>containerSpeed</key>
+	<string>entropyrecursion</string>
+	<key>gesturedetectorDepth</key>
+	<string>shouldResumeTabView</string>
+	<key>greatAppBar</key>
+	<string>canCacheTouch</string>
+	<key>pinchablequeuemomentum</key>
+	<string>connectorHead</string>
+</dict>
+</plist>

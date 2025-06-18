@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>futurenearinterpreter</key>
+	<string>canDeserializeDuration</string>
+	<key>heapRotation</key>
+	<string>pushSpot</string>
+	<key>iscard</key>
+	<string>throughputRight</string>
+	<key>localizationLocation</key>
+	<string>pointFormat</string>
+	<key>nativeSubscription</key>
+	<string>selectedAperture</string>
+	<key>navigatorEdge</key>
+	<string>menuopacity</string>
+</dict>
+</plist>

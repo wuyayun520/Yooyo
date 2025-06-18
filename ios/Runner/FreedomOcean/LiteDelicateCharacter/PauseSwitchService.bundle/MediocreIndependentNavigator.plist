@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedAnalogy</key>
+	<string>embedasync</string>
+	<key>gateVisible</key>
+	<string>prepareDuration</string>
+	<key>layoutfromparam</key>
+	<string>shouldTrainChannels</string>
+	<key>nextImage</key>
+	<string>integrityStatus</string>
+	<key>occasionDepth</key>
+	<string>compositionalbloccontrast</string>
+	<key>protectedAlignment</key>
+	<string>advancedTransition</string>
+	<key>subscriptionbuilder</key>
+	<string>spinSingleton</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dividesubpixel</key>
+	<string>substantialZone</string>
+	<key>ignoredstrength</key>
+	<string>equipmentthroughcontext</string>
+	<key>permanentMechanism</key>
+	<string>obtainSink</string>
+	<key>webSchema</key>
+	<string>materializerValidation</string>
+</dict>
+</plist>

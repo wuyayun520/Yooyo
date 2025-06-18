@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleBuffer</key>
+	<string>interactiveStatus</string>
+	<key>directlyScenario</key>
+	<string>easyChart</string>
+	<key>enabledAlignment</key>
+	<string>adaptiveTouch</string>
+	<key>fixedScheduler</key>
+	<string>restartReference</string>
+	<key>listenskirt</key>
+	<string>publishSession</string>
+	<key>materialpriority</key>
+	<string>transformTween</string>
+	<key>symmetricSize</key>
+	<string>sliderFlags</string>
+</dict>
+</plist>

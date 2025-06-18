@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentCoordinator</key>
+	<string>visibleNib</string>
+	<key>dispatchmovement</key>
+	<string>prepareLabel</string>
+	<key>labeltension</key>
+	<string>mobileSignature</string>
+	<key>prismaticMargin</key>
+	<string>eraseRoute</string>
+</dict>
+</plist>

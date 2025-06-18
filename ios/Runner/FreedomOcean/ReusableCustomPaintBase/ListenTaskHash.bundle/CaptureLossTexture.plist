@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousHero</key>
+	<string>localOffset</string>
+	<key>fusedchannelsize</key>
+	<string>shouldnotifygram</string>
+	<key>localConverter</key>
+	<string>revisitPreview</string>
+	<key>resizableCoordinator</key>
+	<string>independentTangent</string>
+	<key>savepainter</key>
+	<string>modulusBottom</string>
+	<key>scrollIndex</key>
+	<string>shouldStartPlayback</string>
+</dict>
+</plist>

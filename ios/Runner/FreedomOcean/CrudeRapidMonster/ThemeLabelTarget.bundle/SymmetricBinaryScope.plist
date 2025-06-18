@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicStream</key>
+	<string>providervalueshape</string>
+	<key>commonCanvas</key>
+	<string>independentGrid</string>
+	<key>crucialTrajectory</key>
+	<string>presentSizedBox</string>
+	<key>integerinjection</key>
+	<string>onhistogramchanged</string>
+	<key>resolverdelay</key>
+	<string>oncaptionchanged</string>
+	<key>singleQueue</key>
+	<string>canLayoutPainter</string>
+</dict>
+</plist>

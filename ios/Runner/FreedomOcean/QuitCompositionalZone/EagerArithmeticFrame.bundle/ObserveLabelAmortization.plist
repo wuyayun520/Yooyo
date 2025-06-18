@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleDependency</key>
+	<string>modalevent</string>
+	<key>advancedFlex</key>
+	<string>equivalentvisible</string>
+	<key>dedicatedDetector</key>
+	<string>iterativeCompletion</string>
+	<key>densecompositionflags</key>
+	<string>uniqueHash</string>
+	<key>disparateTraversal</key>
+	<string>titleBehavior</string>
+	<key>listviewchart</key>
+	<string>secondAlert</string>
+	<key>retainedFlex</key>
+	<string>dependencyBrightness</string>
+	<key>searchcard</key>
+	<string>listenComposition</string>
+</dict>
+</plist>

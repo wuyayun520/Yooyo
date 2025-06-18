@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedScroll</key>
+	<string>respectiveMaterial</string>
+	<key>comprehensiveShader</key>
+	<string>canDispatchSign</string>
+	<key>cupertinoPlayback</key>
+	<string>offsetCoordinator</string>
+	<key>documentMode</key>
+	<string>cupertinoAlignment</string>
+	<key>infrastructurefeedback</key>
+	<string>resilienceOffset</string>
+	<key>oldTweak</key>
+	<string>canValidateChallenge</string>
+	<key>shouldContinueDropdownButton</key>
+	<string>respectiveScaffold</string>
+	<key>shouldDisconnectBehavior</key>
+	<string>taskSpeed</string>
+	<key>sustainableManager</key>
+	<string>mutableElasticity</string>
+</dict>
+</plist>

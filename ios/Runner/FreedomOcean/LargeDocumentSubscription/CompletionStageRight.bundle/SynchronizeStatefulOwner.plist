@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>normalScalability</key>
+	<string>persistCycle</string>
+	<key>sequentialEffect</key>
+	<string>canProcessModulus</string>
+	<key>sorterCoord</key>
+	<string>hardGem</string>
+	<key>ternaryspeed</key>
+	<string>playButton</string>
+</dict>
+</plist>

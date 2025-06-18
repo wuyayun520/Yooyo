@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitstrength</key>
+	<string>drawInterface</string>
+	<key>contractionoperationflags</key>
+	<string>navigatorTail</string>
+	<key>deferredProcessor</key>
+	<string>canResumeTabBar</string>
+	<key>delicatescope</key>
+	<string>interactionType</string>
+	<key>flexibleZone</key>
+	<string>encodeOverlay</string>
+	<key>seamlessMediaQuery</key>
+	<string>intensityWork</string>
+	<key>staticNode</key>
+	<string>disposeSizedBox</string>
+	<key>symmetricReplica</key>
+	<string>requiredCheckbox</string>
+</dict>
+</plist>

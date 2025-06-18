@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>calculateview</key>
+	<string>canPopMedia</string>
+	<key>disparatecontrast</key>
+	<string>holdIntensity</string>
+	<key>easyVideo</key>
+	<string>remainderandsystem</string>
+	<key>fusedSound</key>
+	<string>shouldNotifyBehavior</string>
+	<key>linkerFrequency</key>
+	<string>eagerLogarithm</string>
+	<key>movementDensity</key>
+	<string>zoneoperationvelocity</string>
+	<key>profileMomentum</key>
+	<string>mediumClipper</string>
+	<key>remediationDirection</key>
+	<string>statelessOrigin</string>
+	<key>shouldPaintTool</key>
+	<string>publicNotation</string>
+</dict>
+</plist>

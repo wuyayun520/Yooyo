@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>evaluationVisibility</key>
+	<string>fillbitrate</string>
+	<key>factorydistinction</key>
+	<string>denseImpact</string>
+	<key>infodirection</key>
+	<string>shouldrestartnorm</string>
+	<key>optimizertypeflags</key>
+	<string>canSkipSlash</string>
+	<key>processorVisible</key>
+	<string>shouldUnbindCycle</string>
+	<key>rapidReceiver</key>
+	<string>hardListener</string>
+	<key>uniformSplitter</key>
+	<string>traversalCenter</string>
+</dict>
+</plist>

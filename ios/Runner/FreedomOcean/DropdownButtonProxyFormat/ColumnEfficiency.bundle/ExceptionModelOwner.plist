@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoSine</key>
+	<string>activatedAnchor</string>
+	<key>disabledCube</key>
+	<string>popDescriptor</string>
+	<key>dispatchinteractor</key>
+	<string>singleEvent</string>
+	<key>geometricReference</key>
+	<string>thresholdSkewX</string>
+	<key>handleasset</key>
+	<string>profilehash</string>
+	<key>masterShape</key>
+	<string>stackMediator</string>
+	<key>modelMargin</key>
+	<string>viewinset</string>
+	<key>musicanimation</key>
+	<string>builderTag</string>
+	<key>permissiveIcon</key>
+	<string>dialogsloop</string>
+	<key>symmetricmobile</key>
+	<string>formatMomentum</string>
+</dict>
+</plist>

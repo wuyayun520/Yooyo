@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedPageView</key>
+	<string>charactertask</string>
+	<key>finishskirt</key>
+	<string>radioInterval</string>
+	<key>hierarchicalScroller</key>
+	<string>measureRow</string>
+	<key>playbackResponse</key>
+	<string>spotTint</string>
+</dict>
+</plist>

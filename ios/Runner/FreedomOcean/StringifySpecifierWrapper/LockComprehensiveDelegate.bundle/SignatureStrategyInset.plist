@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerBound</key>
+	<string>robustSine</string>
+	<key>containerlayer</key>
+	<string>tensorManager</string>
+	<key>hyperbolicEmitter</key>
+	<string>entropyBound</string>
+	<key>originalGesture</key>
+	<string>sizedboxCenter</string>
+	<key>permissivelayout</key>
+	<string>imperativeOffset</string>
+	<key>shouldHandleChecklist</key>
+	<string>basicProvision</string>
+</dict>
+</plist>

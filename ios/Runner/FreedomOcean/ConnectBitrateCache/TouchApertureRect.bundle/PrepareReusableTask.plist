@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commoncolumnspeed</key>
+	<string>disposeRemainder</string>
+	<key>customtimeline</key>
+	<string>canSetStateOperation</string>
+	<key>haspet</key>
+	<string>instructionInterpreter</string>
+	<key>navigatorForce</key>
+	<string>canUpdateInterpolation</string>
+	<key>optiontrigger</key>
+	<string>shouldMountInterpolation</string>
+	<key>readnode</key>
+	<string>enabledSemantics</string>
+	<key>shouldRestartStep</key>
+	<string>canLayoutExtension</string>
+	<key>visibleFinder</key>
+	<string>canPopResource</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedMetadata</key>
+	<string>uniqueIntegrity</string>
+	<key>axisSaturation</key>
+	<string>staticBullet</string>
+	<key>contractionFlags</key>
+	<string>customascent</string>
+	<key>nativeImage</key>
+	<string>positiondirection</string>
+	<key>resizableElement</key>
+	<string>checkboxMemento</string>
+	<key>shouldFormatScroll</key>
+	<string>maxOperation</string>
+	<key>specifierTension</key>
+	<string>accessiblePreview</string>
+	<key>visiblePoint</key>
+	<string>multiplicationPadding</string>
+</dict>
+</plist>

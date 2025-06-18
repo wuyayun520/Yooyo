@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>drawerlocation</key>
+	<string>animationPrototype</string>
+	<key>groupValidation</key>
+	<string>resilientEqualization</string>
+	<key>movementSpacing</key>
+	<string>sequentialLinker</string>
+	<key>oncursortap</key>
+	<string>shouldFetchBehavior</string>
+	<key>precisionvideo</key>
+	<string>resizeManager</string>
+	<key>responsiveUtil</key>
+	<string>managerFeedback</string>
+	<key>webTechnique</key>
+	<string>hardButton</string>
+</dict>
+</plist>

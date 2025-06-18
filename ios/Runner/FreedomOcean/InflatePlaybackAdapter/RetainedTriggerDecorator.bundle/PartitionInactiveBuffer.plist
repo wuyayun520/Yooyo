@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeMapper</key>
+	<string>persistentScaffold</string>
+	<key>layoutStyle</key>
+	<string>semanticsForm</string>
+	<key>normalReduction</key>
+	<string>rangeSkewY</string>
+	<key>radiusDistance</key>
+	<string>hashthantask</string>
+	<key>radiusmomentum</key>
+	<string>sharedBloc</string>
+	<key>restoreresolver</key>
+	<string>eagerDecoration</string>
+	<key>shouldStopPlayback</key>
+	<string>dimensiontension</string>
+	<key>storeformstate</key>
+	<string>canInflateFuture</string>
+</dict>
+</plist>

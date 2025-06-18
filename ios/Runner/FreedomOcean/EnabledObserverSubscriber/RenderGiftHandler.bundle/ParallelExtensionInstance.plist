@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptorContrast</key>
+	<string>sustainableSwift</string>
+	<key>listviewState</key>
+	<string>synchronousDocument</string>
+	<key>materialState</key>
+	<string>moveSize</string>
+	<key>resilienceHead</key>
+	<string>canAttachPositioned</string>
+	<key>shouldCreateSlash</key>
+	<string>shouldRenderProfile</string>
+	<key>shouldDetachDialogs</key>
+	<string>subtleStream</string>
+</dict>
+</plist>

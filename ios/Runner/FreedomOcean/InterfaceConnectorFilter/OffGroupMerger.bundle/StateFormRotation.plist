@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzeslider</key>
+	<string>richtextMediator</string>
+	<key>canvasBound</key>
+	<string>denseternarycount</string>
+	<key>intuitiveStatus</key>
+	<string>continueDimension</string>
+	<key>metricsValidation</key>
+	<string>mediaTask</string>
+	<key>newestImpression</key>
+	<string>stampprogressbar</string>
+	<key>resizableOverlay</key>
+	<string>resolverDepth</string>
+	<key>shouldSerializePet</key>
+	<string>hyperbolicTicker</string>
+	<key>shouldpersistlog</key>
+	<string>storageWork</string>
+	<key>sustainableGrayscale</key>
+	<string>scrollablehandler</string>
+	<key>transformerShape</key>
+	<string>gestureoffset</string>
+</dict>
+</plist>

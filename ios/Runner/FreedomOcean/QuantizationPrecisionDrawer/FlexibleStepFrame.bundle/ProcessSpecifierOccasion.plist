@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>marginframeworkappearance</key>
+	<string>canUnbindSensor</string>
+	<key>permissiveStore</key>
+	<string>temporaryMenu</string>
+	<key>requiredStateless</key>
+	<string>subsequenttitle</string>
+	<key>segmentstyle</key>
+	<string>observerState</string>
+	<key>shouldStreamMobile</key>
+	<string>compositionpolyfill</string>
+	<key>sustainableNotation</key>
+	<string>obtainSprite</string>
+</dict>
+</plist>

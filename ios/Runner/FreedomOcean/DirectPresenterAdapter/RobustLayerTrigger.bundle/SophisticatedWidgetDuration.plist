@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticInformation</key>
+	<string>subtleFragments</string>
+	<key>columnOrigin</key>
+	<string>channelsVar</string>
+	<key>explicitButton</key>
+	<string>requiredContainer</string>
+	<key>precisionKind</key>
+	<string>liteNavigation</string>
+	<key>shouldDispatchExpanded</key>
+	<string>channelsflyweightacceleration</string>
+	<key>shouldRebuildBitrate</key>
+	<string>scrollerTag</string>
+	<key>topicsorter</key>
+	<string>unsortedEquivalent</string>
+</dict>
+</plist>

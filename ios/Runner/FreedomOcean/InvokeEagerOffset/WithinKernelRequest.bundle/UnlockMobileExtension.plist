@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedMechanism</key>
+	<string>timeSpeed</string>
+	<key>delicatePoint</key>
+	<string>canRestartSizedBox</string>
+	<key>fixedVariant</key>
+	<string>mountreduction</string>
+	<key>sharedPositioned</key>
+	<string>basePrototype</string>
+	<key>shouldRestartClipper</key>
+	<string>bulletValue</string>
+	<key>singleSizedBox</key>
+	<string>vertexDepth</string>
+	<key>staticSign</key>
+	<string>pointOrigin</string>
+</dict>
+</plist>

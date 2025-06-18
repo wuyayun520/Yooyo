@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logarithmlayerdelay</key>
+	<string>canDisposeMedia</string>
+	<key>schedulerOrientation</key>
+	<string>createmap</string>
+	<key>shouldLayoutLog</key>
+	<string>canResumeCoordinator</string>
+	<key>shouldRestartSwitch</key>
+	<string>extendFuture</string>
+</dict>
+</plist>

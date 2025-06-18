@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousInteraction</key>
+	<string>prismaticRenderer</string>
+	<key>beginnerUtil</key>
+	<string>interpolateSubscription</string>
+	<key>constraintmesh</key>
+	<string>reusableaspectratiobrightness</string>
+	<key>elasticController</key>
+	<string>vectorizeProgressBar</string>
+	<key>hasRichText</key>
+	<string>statelessReliability</string>
+	<key>numericalCharacteristic</key>
+	<string>controllerLocation</string>
+	<key>robustAmortization</key>
+	<string>unregisterException</string>
+	<key>shouldBuildBorder</key>
+	<string>uniqueInfo</string>
+</dict>
+</plist>

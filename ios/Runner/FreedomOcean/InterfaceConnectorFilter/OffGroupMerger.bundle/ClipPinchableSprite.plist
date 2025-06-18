@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorSpeed</key>
+	<string>recursionScale</string>
+	<key>animatorForce</key>
+	<string>radiuspolyfill</string>
+	<key>aspectratioVelocity</key>
+	<string>setstateGate</string>
+	<key>fixedData</key>
+	<string>graphChain</string>
+	<key>localPageView</key>
+	<string>intensityHead</string>
+	<key>modelbyscope</key>
+	<string>sanitizeText</string>
+	<key>optionBrightness</key>
+	<string>cycleerror</string>
+	<key>shouldMountedGradient</key>
+	<string>seamlessScroll</string>
+	<key>shouldYieldCycle</key>
+	<string>shouldRestartCurve</string>
+</dict>
+</plist>

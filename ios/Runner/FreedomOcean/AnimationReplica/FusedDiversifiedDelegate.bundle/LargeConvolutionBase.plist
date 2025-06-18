@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedSlider</key>
+	<string>criticalConstant</string>
+	<key>bitrateassystem</key>
+	<string>timerTag</string>
+	<key>futuretrigger</key>
+	<string>canPushEffect</string>
+	<key>keyRichText</key>
+	<string>previewSize</string>
+	<key>positionrate</key>
+	<string>projectionLayer</string>
+	<key>prismaticStack</key>
+	<string>receiveactivity</string>
+	<key>secondConstant</key>
+	<string>checklistVelocity</string>
+	<key>shouldReplacePlayback</key>
+	<string>deliveryRate</string>
+	<key>skinValidation</key>
+	<string>pinchableIsolate</string>
+</dict>
+</plist>

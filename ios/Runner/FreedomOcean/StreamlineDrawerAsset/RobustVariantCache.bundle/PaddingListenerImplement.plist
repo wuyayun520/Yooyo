@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocFeedback</key>
+	<string>endAlpha</string>
+	<key>shouldPopSemantics</key>
+	<string>descentMomentum</string>
+	<key>similarPopup</key>
+	<string>createLayer</string>
+	<key>tabbarTint</key>
+	<string>sinePadding</string>
+</dict>
+</plist>

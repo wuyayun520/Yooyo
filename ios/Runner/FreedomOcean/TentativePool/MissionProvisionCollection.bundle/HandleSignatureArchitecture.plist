@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bindcubit</key>
+	<string>hardMend</string>
+	<key>difficultScroll</key>
+	<string>keepProfile</string>
+	<key>disabledEqualization</key>
+	<string>shouldBuildBase</string>
+	<key>elasticBuilder</key>
+	<string>fetchFragment</string>
+	<key>granularPublisher</key>
+	<string>nextEntity</string>
+	<key>isolateDuration</key>
+	<string>normStructure</string>
+	<key>retainedWidget</key>
+	<string>unactivatedDependency</string>
+	<key>sharedAscent</key>
+	<string>shouldBindMusic</string>
+	<key>shouldRenderLabel</key>
+	<string>easyNib</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainermesh</key>
+	<string>mobileSubscription</string>
+	<key>checklistStyle</key>
+	<string>audioStyle</string>
+	<key>draggableEffect</key>
+	<string>independentReference</string>
+	<key>largeresultname</key>
+	<string>sustainablePromise</string>
+	<key>shouldRebuildCupertino</key>
+	<string>presenterMemento</string>
+	<key>unactivatedDimension</key>
+	<string>canPopRemainder</string>
+</dict>
+</plist>

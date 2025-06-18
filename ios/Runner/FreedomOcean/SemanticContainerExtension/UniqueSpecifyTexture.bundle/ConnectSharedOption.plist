@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>parallelDispatcher</key>
+	<string>directlySize</string>
+	<key>persistentAnimatedContainer</key>
+	<string>errorresilience</string>
+	<key>propagateimage</key>
+	<string>unmountedRoute</string>
+	<key>shouldContinueGrayscale</key>
+	<string>painttextfield</string>
+	<key>shouldvalidatesegue</key>
+	<string>canDisposeSegue</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonCupertino</key>
+	<string>dialogsamongcycle</string>
+	<key>dependencyvisibility</key>
+	<string>shouldRenderBatch</string>
+	<key>fusednibcount</key>
+	<string>handleNib</string>
+	<key>replicaName</key>
+	<string>advancedSprite</string>
+	<key>shouldNotifyStamp</key>
+	<string>intermediatePainter</string>
+	<key>webMenu</key>
+	<string>shouldInflateChecklist</string>
+</dict>
+</plist>

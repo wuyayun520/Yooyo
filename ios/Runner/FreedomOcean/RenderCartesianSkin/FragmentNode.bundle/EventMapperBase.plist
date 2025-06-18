@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containertypeorientation</key>
+	<string>desktopSkin</string>
+	<key>directlyLocalization</key>
+	<string>shouldSubscribeAperture</string>
+	<key>iconPadding</key>
+	<string>listenerlayerspacing</string>
+	<key>priorutil</key>
+	<string>attachProfile</string>
+	<key>shouldTrainShader</key>
+	<string>shouldUnmountBorder</string>
+	<key>subtleMetadata</key>
+	<string>executeEvent</string>
+	<key>symmetricScalability</key>
+	<string>minActivity</string>
+	<key>taskTension</key>
+	<string>sequentialRestriction</string>
+</dict>
+</plist>

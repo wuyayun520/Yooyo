@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baserotation</key>
+	<string>lazyGroup</string>
+	<key>criticalSymbol</key>
+	<string>canYieldComposition</string>
+	<key>currentLayer</key>
+	<string>shouldUpdateAccessory</string>
+	<key>formatnavigator</key>
+	<string>opaqueCluster</string>
+	<key>requiredPublisher</key>
+	<string>reactiveFactory</string>
+	<key>responsivePager</key>
+	<string>delegateButton</string>
+	<key>shouldAnimateMission</key>
+	<string>uniformBrush</string>
+	<key>shouldContinueTransition</key>
+	<string>euclideanScheduler</string>
+	<key>shouldPauseCurve</key>
+	<string>largeRenderer</string>
+</dict>
+</plist>

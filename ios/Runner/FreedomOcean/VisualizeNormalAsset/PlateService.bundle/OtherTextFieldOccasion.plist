@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicateradioforce</key>
+	<string>quantizerCubit</string>
+	<key>difficultdropdownbuttonshape</key>
+	<string>generateText</string>
+	<key>discardedMesh</key>
+	<string>secondCluster</string>
+	<key>matrixstrategydirection</key>
+	<string>layoutFuture</string>
+	<key>metricsInteraction</key>
+	<string>descriptionpager</string>
+	<key>momentumrow</key>
+	<string>captionDensity</string>
+	<key>opaqueFeature</key>
+	<string>shouldNavigateAperture</string>
+	<key>rapidPageView</key>
+	<string>cosinestroke</string>
+	<key>shouldStopDescriptor</key>
+	<string>setupWidget</string>
+	<key>synchronousNotifier</key>
+	<string>declarativeThread</string>
+</dict>
+</plist>

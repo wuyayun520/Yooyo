@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleContraction</key>
+	<string>adaptiveAsync</string>
+	<key>giftconstant</key>
+	<string>tabbarPhase</string>
+	<key>nextCustomPaint</key>
+	<string>synchronousTraversal</string>
+	<key>offsetTheme</key>
+	<string>canCacheCard</string>
+	<key>opaqueExpanded</key>
+	<string>missionDuration</string>
+	<key>shouldpreparecomposition</key>
+	<string>shouldRenderCube</string>
+</dict>
+</plist>

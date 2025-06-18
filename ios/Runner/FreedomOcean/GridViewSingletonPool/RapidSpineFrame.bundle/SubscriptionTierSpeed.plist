@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerasenvironment</key>
+	<string>interactivePainter</string>
+	<key>currentAppBar</key>
+	<string>boxSkewY</string>
+	<key>pinchableFinder</key>
+	<string>syncScene</string>
+	<key>shouldLayoutActivity</key>
+	<string>interceptEvent</string>
+	<key>shouldSaveAspectRatio</key>
+	<string>composablestream</string>
+	<key>shouldcontinuespine</key>
+	<string>receiverTheme</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>menuskewx</key>
+	<string>resizableSpine</string>
+	<key>progressbarsound</key>
+	<string>iterativeAsync</string>
+	<key>shaderVelocity</key>
+	<string>bindCheckbox</string>
+	<key>specifyrowfeedback</key>
+	<string>memberScope</string>
+</dict>
+</plist>

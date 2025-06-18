@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>explicitIntensity</key>
+	<string>keepButton</string>
+	<key>onkernelchanged</key>
+	<string>techniqueDuration</string>
+	<key>radiusEdge</key>
+	<string>disabledResponder</string>
+	<key>shouldContinueReference</key>
+	<string>toolkind</string>
+	<key>shouldSubscribePlayback</key>
+	<string>canTransformCursor</string>
+	<key>sizedboxrestriction</key>
+	<string>animatedcontainerrect</string>
+</dict>
+</plist>

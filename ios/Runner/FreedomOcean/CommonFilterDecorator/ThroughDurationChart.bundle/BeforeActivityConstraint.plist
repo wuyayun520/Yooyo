@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistInteraction</key>
+	<string>shouldShowSkin</string>
+	<key>compositionalBandwidth</key>
+	<string>providerFeedback</string>
+	<key>consultativeGrain</key>
+	<string>mediumdocument</string>
+	<key>euclideanGestureDetector</key>
+	<string>canLoadReduction</string>
+	<key>iconSkewX</key>
+	<string>associatedStoryboard</string>
+	<key>immutableTransition</key>
+	<string>shouldDetachMobile</string>
+	<key>matrixlikeshape</key>
+	<string>blocMode</string>
+	<key>shouldUpdateTangent</key>
+	<string>checklistLevel</string>
+	<key>upgradefuture</key>
+	<string>protectedassetrotation</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelcurve</key>
+	<string>aspectratioInset</string>
+	<key>composableSegue</key>
+	<string>restartGradient</string>
+	<key>semanticRichText</key>
+	<string>draggablePermutation</string>
+	<key>statetension</key>
+	<string>listviewcount</string>
+</dict>
+</plist>

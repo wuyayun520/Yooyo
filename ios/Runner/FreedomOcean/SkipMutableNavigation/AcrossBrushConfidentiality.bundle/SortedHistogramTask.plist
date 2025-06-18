@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>creatorBrightness</key>
+	<string>persistNavigator</string>
+	<key>delicateSegment</key>
+	<string>loadvector</string>
+	<key>metricsBottom</key>
+	<string>cursorBorder</string>
+	<key>notifierMode</key>
+	<string>delicateLatency</string>
+	<key>prevgrayscalerate</key>
+	<string>gramdescent</string>
+</dict>
+</plist>

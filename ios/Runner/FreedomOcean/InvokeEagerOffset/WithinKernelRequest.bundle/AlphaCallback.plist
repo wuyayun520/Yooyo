@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetBehavior</key>
+	<string>displaySingleton</string>
+	<key>enabledMethod</key>
+	<string>activitydelivery</string>
+	<key>greatShader</key>
+	<string>pivotalTechnique</string>
+	<key>originalCapacities</key>
+	<string>retaintexture</string>
+	<key>requestkindcontrast</key>
+	<string>autoGesture</string>
+	<key>schedulerCoord</key>
+	<string>pivotalObject</string>
+	<key>triggercenter</key>
+	<string>deferredBinder</string>
+</dict>
+</plist>

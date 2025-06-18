@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>liteSprite</key>
+	<string>extendInjection</string>
+	<key>polyfillDuration</key>
+	<string>menuStage</string>
+	<key>prevvolume</key>
+	<string>scrollableFilter</string>
+	<key>responsiveAspectRatio</key>
+	<string>difficultMenu</string>
+	<key>semanticpositionhue</key>
+	<string>stopCertificate</string>
+	<key>significantSelector</key>
+	<string>routedelegate</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decodeoption</key>
+	<string>lastSubscription</string>
+	<key>delegateSaturation</key>
+	<string>allocatorTransparency</string>
+	<key>schedulerRotation</key>
+	<string>seamlessConnector</string>
+	<key>shouldMountCube</key>
+	<string>scaleType</string>
+	<key>subsequentButton</key>
+	<string>synchronizeCompleter</string>
+	<key>substantialPreview</key>
+	<string>crucialRadio</string>
+	<key>uniquePresenter</key>
+	<string>presenterorscope</string>
+	<key>usecasetension</key>
+	<string>shouldBindSemantics</string>
+</dict>
+</plist>

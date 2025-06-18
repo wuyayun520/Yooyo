@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticService</key>
+	<string>cupertinotype</string>
+	<key>collectionresolver</key>
+	<string>radioInterpreter</string>
+	<key>framenumberhead</key>
+	<string>shouldUnmountScale</string>
+	<key>multimesh</key>
+	<string>offsettasktail</string>
+	<key>significantConvolution</key>
+	<string>projectionTask</string>
+</dict>
+</plist>

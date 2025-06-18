@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decodemovement</key>
+	<string>mediumChapter</string>
+	<key>largeMesh</key>
+	<string>lostSign</string>
+	<key>lazyMobile</key>
+	<string>maxProvider</string>
+	<key>multiBase</key>
+	<string>shouldConnectMonster</string>
+	<key>presentgesture</key>
+	<string>buffersize</string>
+	<key>protectedcustompaint</key>
+	<string>shouldDetachScale</string>
+	<key>shouldValidateOperation</key>
+	<string>disposelocalization</string>
+</dict>
+</plist>

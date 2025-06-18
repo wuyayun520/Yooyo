@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controlleractionresponse</key>
+	<string>nativePositioned</string>
+	<key>eagerTouch</key>
+	<string>fusedAlpha</string>
+	<key>functionalShader</key>
+	<string>canAnimateMobile</string>
+	<key>hardCallback</key>
+	<string>inflatePet</string>
+	<key>intensityaboutlevel</key>
+	<string>radiooperation</string>
+	<key>mobileView</key>
+	<string>criticalMomentum</string>
+	<key>sessionResponse</key>
+	<string>autoNotation</string>
+	<key>smallFeature</key>
+	<string>decorationshapedistance</string>
+	<key>smartLifecycle</key>
+	<string>polyfillforce</string>
+	<key>wrapperposition</key>
+	<string>resizableEvent</string>
+</dict>
+</plist>

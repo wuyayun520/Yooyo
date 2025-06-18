@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterLeft</key>
+	<string>reusableAlpha</string>
+	<key>explicitSession</key>
+	<string>compositionOpacity</string>
+	<key>loopvaluemode</key>
+	<string>setupcurve</string>
+	<key>reactiveAction</key>
+	<string>unactivatedAllocator</string>
+	<key>releaseoptimizer</key>
+	<string>unsortedBinder</string>
+	<key>shouldDecodeCharacter</key>
+	<string>titlealongmode</string>
+	<key>shouldSaveConsumer</key>
+	<string>fusedSwift</string>
+	<key>wrapperStyle</key>
+	<string>expandedPattern</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationdirection</key>
+	<string>retainedMember</string>
+	<key>composablegatecoord</key>
+	<string>paddingObserver</string>
+	<key>disabledMetadata</key>
+	<string>iconmargin</string>
+	<key>flexMargin</key>
+	<string>spriteParameter</string>
+	<key>multiplicationShape</key>
+	<string>freeGrain</string>
+	<key>samplethroughscope</key>
+	<string>crucialSubpixel</string>
+</dict>
+</plist>

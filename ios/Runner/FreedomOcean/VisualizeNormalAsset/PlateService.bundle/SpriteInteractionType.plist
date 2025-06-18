@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveZone</key>
+	<string>handlerResponse</string>
+	<key>convolutionRight</key>
+	<string>crudeResolver</string>
+	<key>cubestyle</key>
+	<string>priorInteraction</string>
+	<key>shouldUpdateEntropy</key>
+	<string>elasticitycolor</string>
+</dict>
+</plist>

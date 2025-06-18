@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoOrientation</key>
+	<string>themeProxy</string>
+	<key>curvescope</key>
+	<string>specifyResult</string>
+	<key>delegateContrast</key>
+	<string>imperativeemitter</string>
+	<key>entropyduration</key>
+	<string>mobileincludetype</string>
+	<key>processorSpacing</key>
+	<string>descriptionCoord</string>
+	<key>shouldDecodeActivity</key>
+	<string>cursorcycletransparency</string>
+	<key>shouldDisposeProtocol</key>
+	<string>preparecell</string>
+</dict>
+</plist>

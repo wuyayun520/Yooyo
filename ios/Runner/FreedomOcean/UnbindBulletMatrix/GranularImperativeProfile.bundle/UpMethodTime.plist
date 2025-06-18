@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopController</key>
+	<string>canReplaceCatalyst</string>
+	<key>dynamicLoop</key>
+	<string>startOptimizer</string>
+	<key>equalizationDepth</key>
+	<string>iterativeConstraint</string>
+	<key>listenerResponse</key>
+	<string>swiftFacade</string>
+	<key>methodKind</key>
+	<string>obtainBloc</string>
+	<key>multidecoration</key>
+	<string>cellTop</string>
+	<key>observersorter</key>
+	<string>normalPlayback</string>
+	<key>robustEntity</key>
+	<string>distinctionIndex</string>
+	<key>servicefragments</key>
+	<string>significantConstraint</string>
+</dict>
+</plist>

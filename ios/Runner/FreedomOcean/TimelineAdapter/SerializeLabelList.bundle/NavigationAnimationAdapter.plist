@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alerttimer</key>
+	<string>instantiateChannel</string>
+	<key>arithmeticmanager</key>
+	<string>secondMetrics</string>
+	<key>autoSegue</key>
+	<string>diffableResponder</string>
+	<key>flexopacity</key>
+	<string>shouldTransitionStamp</string>
+	<key>hardDisclaimer</key>
+	<string>taxonomyCoord</string>
+	<key>mediumFormat</key>
+	<string>navigatorborder</string>
+	<key>optionformat</key>
+	<string>canUpdateRoute</string>
+	<key>priorPadding</key>
+	<string>canAnimateHero</string>
+	<key>vectorForce</key>
+	<string>taskHue</string>
+</dict>
+</plist>

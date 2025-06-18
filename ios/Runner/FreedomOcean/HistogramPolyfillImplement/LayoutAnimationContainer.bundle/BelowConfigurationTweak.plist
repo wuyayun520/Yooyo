@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerforce</key>
+	<string>routeColumn</string>
+	<key>cardsensor</key>
+	<string>sharedMethod</string>
+	<key>criticalCaption</key>
+	<string>customIntegrity</string>
+	<key>cubesaturation</key>
+	<string>addScene</string>
+	<key>deferredKernel</key>
+	<string>shouldPauseCapacities</string>
+	<key>diversifiedTextField</key>
+	<string>techniqueCycle</string>
+	<key>dropoutgroup</key>
+	<string>optimizeCurve</string>
+	<key>immutableNavigation</key>
+	<string>showbuffer</string>
+	<key>masterShape</key>
+	<string>originalAnimation</string>
+	<key>shouldUnmountedIcon</key>
+	<string>gridProxy</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleEvaluation</key>
+	<string>canDeserializeAnchor</string>
+	<key>cubitcontrast</key>
+	<string>borderSkewY</string>
+	<key>hardlayout</key>
+	<string>defaultlistview</string>
+	<key>nativenodename</key>
+	<string>nativeaspectratiodirection</string>
+	<key>shouldObserveDelegate</key>
+	<string>canSerializeLayout</string>
+	<key>signatureview</key>
+	<string>scrollType</string>
+</dict>
+</plist>

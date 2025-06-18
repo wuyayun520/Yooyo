@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationjoborientation</key>
+	<string>shouldcancelmediaquery</string>
+	<key>defaultIcon</key>
+	<string>resetStore</string>
+	<key>formatStyle</key>
+	<string>roworientation</string>
+	<key>opaqueMonster</key>
+	<string>hyperbolicCube</string>
+	<key>respectiveProvision</key>
+	<string>readLoop</string>
+	<key>richtextresolver</key>
+	<string>triggerDelay</string>
+	<key>titlevolume</key>
+	<string>canDecodeCube</string>
+</dict>
+</plist>

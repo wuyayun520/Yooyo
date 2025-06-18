@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopMetrics</key>
+	<string>canAnimateMonster</string>
+	<key>elasticprojectedge</key>
+	<string>stopCupertino</string>
+	<key>heroresponse</key>
+	<string>firsttransformerbehavior</string>
+	<key>memberbesidesingleton</key>
+	<string>reusableAnimation</string>
+	<key>parallelScaffold</key>
+	<string>completedPainter</string>
+	<key>sequentialOption</key>
+	<string>issubpixel</string>
+	<key>shouldrenderscroll</key>
+	<string>updateGridView</string>
+	<key>visibleStrength</key>
+	<string>shouldLayoutProjection</string>
+</dict>
+</plist>

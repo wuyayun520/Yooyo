@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascentFlags</key>
+	<string>captiontrigger</string>
+	<key>loadcomposition</key>
+	<string>asyncpervar</string>
+	<key>mechanismInterval</key>
+	<string>baselinepicker</string>
+	<key>mechanismStyle</key>
+	<string>singletonState</string>
+	<key>opaquePoint</key>
+	<string>staticSplitter</string>
+	<key>transformerpatternsaturation</key>
+	<string>interactivetweak</string>
+	<key>unactivatedReducer</key>
+	<string>cacheSpacing</string>
+</dict>
+</plist>

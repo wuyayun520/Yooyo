@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hardScroll</key>
+	<string>staticRichText</string>
+	<key>lostFormat</key>
+	<string>keySearcher</string>
+	<key>originalActivity</key>
+	<string>escalateAllocator</string>
+	<key>protectedChannel</key>
+	<string>sineBottom</string>
+	<key>sorterSaturation</key>
+	<string>symmetricView</string>
+</dict>
+</plist>

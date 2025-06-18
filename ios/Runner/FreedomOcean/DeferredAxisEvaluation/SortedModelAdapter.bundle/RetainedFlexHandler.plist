@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengetheme</key>
+	<string>gatePhase</string>
+	<key>dynamicTexture</key>
+	<string>methodresponse</string>
+	<key>emitoptimizer</key>
+	<string>radiusedge</string>
+	<key>globalContraction</key>
+	<string>dropdownbuttonShade</string>
+	<key>materialContrast</key>
+	<string>canReplacePoint</string>
+	<key>otheralignment</key>
+	<string>canDecodeGem</string>
+	<key>reusablePlayback</key>
+	<string>basicMapper</string>
+	<key>shouldParseNavigator</key>
+	<string>shouldSerializeAxis</string>
+</dict>
+</plist>

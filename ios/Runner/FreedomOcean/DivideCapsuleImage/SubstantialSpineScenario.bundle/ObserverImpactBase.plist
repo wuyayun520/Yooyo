@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterFeedback</key>
+	<string>dropdownbuttonSpeed</string>
+	<key>characteristicRotation</key>
+	<string>interpolateCubit</string>
+	<key>criticalContrast</key>
+	<string>secondEffect</string>
+	<key>firstRecursion</key>
+	<string>setupchapter</string>
+	<key>gaterouter</key>
+	<string>resilientDescent</string>
+	<key>nodepressure</key>
+	<string>mediocreSkin</string>
+	<key>shouldReplaceMobile</key>
+	<string>stringifylog</string>
+	<key>webSubpixel</key>
+	<string>shouldDisconnectTransition</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationOrientation</key>
+	<string>progressbarbeyondprocess</string>
+	<key>expandedDensity</key>
+	<string>cancelCompletion</string>
+	<key>originalLogarithm</key>
+	<string>dismissMission</string>
+	<key>preparesegue</key>
+	<string>convertProgressBar</string>
+	<key>screenForce</key>
+	<string>canReplaceChecklist</string>
+	<key>singletonValidation</key>
+	<string>sequentialinjectiontransparency</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticBrush</key>
+	<string>shouldBindMargin</string>
+	<key>autoEffect</key>
+	<string>trainProjection</string>
+	<key>chartoccasion</key>
+	<string>skipservice</string>
+	<key>criticalpicker</key>
+	<string>scalabilityVisible</string>
+	<key>granularSplitter</key>
+	<string>shouldSerializeView</string>
+	<key>keyDecoration</key>
+	<string>holdQueue</string>
+	<key>labelreceiver</key>
+	<string>refactorObserver</string>
+	<key>mergerRight</key>
+	<string>similarAnimator</string>
+	<key>presenterstagebottom</key>
+	<string>metadatabytier</string>
+	<key>shouldAnimateCaption</key>
+	<string>priorityVisible</string>
+</dict>
+</plist>

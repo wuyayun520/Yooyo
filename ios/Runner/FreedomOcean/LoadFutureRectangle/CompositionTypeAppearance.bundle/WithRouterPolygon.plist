@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalCallback</key>
+	<string>gridSkewX</string>
+	<key>dialogslikestate</key>
+	<string>partitionAlignment</string>
+	<key>fusedhistogram</key>
+	<string>greatLifecycle</string>
+	<key>normalMaterializer</key>
+	<string>mountedPromise</string>
+	<key>reactiveTabBar</key>
+	<string>numericalOverlay</string>
+	<key>retainedSession</key>
+	<string>independentSensor</string>
+	<key>routershapetint</key>
+	<string>ephemeralModulus</string>
+	<key>shouldUnbindProfile</key>
+	<string>seekText</string>
+</dict>
+</plist>

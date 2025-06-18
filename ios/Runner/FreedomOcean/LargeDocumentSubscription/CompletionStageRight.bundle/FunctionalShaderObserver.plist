@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>documentorlayer</key>
+	<string>showCaption</string>
+	<key>intuitiveSubscriber</key>
+	<string>processBitrate</string>
+	<key>musicBrightness</key>
+	<string>schedulerType</string>
+	<key>pointType</key>
+	<string>listviewBorder</string>
+	<key>profileCoord</key>
+	<string>protocolpadding</string>
+	<key>recursionOpacity</key>
+	<string>evolutionName</string>
+	<key>shouldEndTechnique</key>
+	<string>canLayoutSizedBox</string>
+	<key>shouldStartNavigator</key>
+	<string>shouldConnectListView</string>
+	<key>statefulNavigation</key>
+	<string>sliderSkewX</string>
+</dict>
+</plist>

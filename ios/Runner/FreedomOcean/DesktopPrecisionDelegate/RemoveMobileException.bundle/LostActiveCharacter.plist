@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardTint</key>
+	<string>extendswift</string>
+	<key>collectionDelay</key>
+	<string>cyclevisibility</string>
+	<key>granularrouter</key>
+	<string>dismissPosition</string>
+	<key>graphjobacceleration</key>
+	<string>dynamicTransition</string>
+	<key>retainedmodel</key>
+	<string>aspectProcess</string>
+	<key>shouldDecodeAlert</key>
+	<string>shouldParseHeap</string>
+	<key>shouldPopAperture</key>
+	<string>shouldResumeHeap</string>
+	<key>staticTime</key>
+	<string>comprehensiveJoiner</string>
+</dict>
+</plist>

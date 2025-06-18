@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>functionalnavigator</key>
+	<string>inactiveCreator</string>
+	<key>gesturedetectorOpacity</key>
+	<string>hierarchicalRectangle</string>
+	<key>onherochanged</key>
+	<string>immutableRadius</string>
+	<key>requiredSize</key>
+	<string>factoryOperation</string>
+	<key>shoulddecodeappbar</key>
+	<string>formatReference</string>
+	<key>shouldstreamdelegate</key>
+	<string>objectLocation</string>
+	<key>tappablelayout</key>
+	<string>shouldRebuildCertificate</string>
+	<key>temporaryFragment</key>
+	<string>canFinishTangent</string>
+	<key>unactivatedanimationvisible</key>
+	<string>cubitAppearance</string>
+</dict>
+</plist>

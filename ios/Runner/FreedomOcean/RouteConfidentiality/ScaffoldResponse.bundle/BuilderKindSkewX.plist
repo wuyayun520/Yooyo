@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dialogsAppearance</key>
+	<string>normalScroller</string>
+	<key>documenttransition</key>
+	<string>apertureChain</string>
+	<key>hierarchicalAxis</key>
+	<string>nodeAlignment</string>
+	<key>hierarchicaloperation</key>
+	<string>cosineactionbehavior</string>
+	<key>materialTopic</key>
+	<string>reconcileStream</string>
+	<key>requestscopetop</key>
+	<string>parseUsage</string>
+	<key>shouldShowStep</key>
+	<string>resilientPermutation</string>
+	<key>titletension</key>
+	<string>prevGift</string>
+	<key>tweentension</key>
+	<string>setupTexture</string>
+</dict>
+</plist>

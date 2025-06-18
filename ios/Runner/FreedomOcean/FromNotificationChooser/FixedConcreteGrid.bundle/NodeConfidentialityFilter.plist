@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredDependency</key>
+	<string>oldHash</string>
+	<key>detailfrequency</key>
+	<string>cancelGate</string>
+	<key>fuseddrawer</key>
+	<string>shouldHandleBoxShadow</string>
+	<key>observerdespitestyle</key>
+	<string>shouldEndThread</string>
+	<key>routesound</key>
+	<string>canNavigateTextField</string>
+	<key>splitterOrigin</key>
+	<string>fixedGesture</string>
+	<key>titlePadding</key>
+	<string>commonBloc</string>
+	<key>traversalBehavior</key>
+	<string>completionFramework</string>
+</dict>
+</plist>

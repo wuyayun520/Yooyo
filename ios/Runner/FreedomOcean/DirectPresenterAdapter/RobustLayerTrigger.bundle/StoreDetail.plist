@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentreference</key>
+	<string>shouldPauseStoryboard</string>
+	<key>dynamicScheduler</key>
+	<string>layoutText</string>
+	<key>gesturedetectorBottom</key>
+	<string>toolInset</string>
+	<key>grainInteraction</key>
+	<string>syncTopic</string>
+	<key>mediumtweak</key>
+	<string>encodeState</string>
+	<key>meshPressure</key>
+	<string>activeObject</string>
+	<key>permanentModulus</key>
+	<string>cardphaseoffset</string>
+	<key>shouldRestartStack</key>
+	<string>injectionFunction</string>
+	<key>sophisticatedChapter</key>
+	<string>heroJob</string>
+</dict>
+</plist>

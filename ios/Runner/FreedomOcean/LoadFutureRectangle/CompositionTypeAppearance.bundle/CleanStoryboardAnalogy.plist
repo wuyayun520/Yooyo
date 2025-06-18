@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonLoss</key>
+	<string>viewContext</string>
+	<key>cubitBehavior</key>
+	<string>shouldendconsumer</string>
+	<key>formatimage</key>
+	<string>characteristicTint</string>
+	<key>gemshape</key>
+	<string>interactiveObject</string>
+	<key>groupmementobottom</key>
+	<string>equipmentInterpreter</string>
+	<key>inactiveProject</key>
+	<string>ignoredFragments</string>
+	<key>lazyTicker</key>
+	<string>transformerRight</string>
+	<key>respectiveImpact</key>
+	<string>shouldRestartBuilder</string>
+	<key>sophisticatedNode</key>
+	<string>completedCell</string>
+	<key>sortedNavigator</key>
+	<string>analyzeCoordinator</string>
+</dict>
+</plist>

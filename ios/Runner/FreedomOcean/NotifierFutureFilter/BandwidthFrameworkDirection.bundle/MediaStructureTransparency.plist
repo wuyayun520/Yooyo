@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedbutton</key>
+	<string>providerCommand</string>
+	<key>basicResource</key>
+	<string>independentIsolate</string>
+	<key>dynamicSprite</key>
+	<string>serializeIntensity</string>
+	<key>euclideancustompaintshade</key>
+	<string>shouldPushCache</string>
+	<key>shouldListenStateful</key>
+	<string>opaqueChooser</string>
+	<key>shouldSkipMember</key>
+	<string>coordinatortypetag</string>
+	<key>shouldmountspine</key>
+	<string>hascontraction</string>
+	<key>streampopup</key>
+	<string>volumeFeedback</string>
+	<key>webSpine</key>
+	<string>pivotalExponent</string>
+</dict>
+</plist>

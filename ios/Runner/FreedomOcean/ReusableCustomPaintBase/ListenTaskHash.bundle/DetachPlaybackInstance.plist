@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateFlags</key>
+	<string>subsequentArchitecture</string>
+	<key>displayableanalyzer</key>
+	<string>canFormatExtension</string>
+	<key>nodesingletonstate</key>
+	<string>relationalTraversal</string>
+	<key>pinchableConstant</key>
+	<string>euclideanChooser</string>
+	<key>shouldHandleSwift</key>
+	<string>activePositioned</string>
+	<key>shouldPauseCell</key>
+	<string>compileOffset</string>
+	<key>shouldTransitionExpanded</key>
+	<string>alphaSkewY</string>
+	<key>staticRouter</key>
+	<string>destroyLoop</string>
+</dict>
+</plist>

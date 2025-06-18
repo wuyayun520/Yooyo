@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeCharacter</key>
+	<string>asynchronousUnary</string>
+	<key>discardedCapacities</key>
+	<string>dissociateText</string>
+	<key>litecompleter</key>
+	<string>inactiveTouch</string>
+	<key>movementLeft</key>
+	<string>widgetState</string>
+	<key>shouldAttachMovement</key>
+	<string>presenterLayer</string>
+	<key>shouldCancelRemainder</key>
+	<string>arithmeticstyletop</string>
+</dict>
+</plist>

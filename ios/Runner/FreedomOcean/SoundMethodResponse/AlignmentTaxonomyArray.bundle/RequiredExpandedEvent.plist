@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entityHue</key>
+	<string>scrollerRotation</string>
+	<key>handlegraph</key>
+	<string>chooserLocation</string>
+	<key>hardinterfacebehavior</key>
+	<string>cupertinoController</string>
+	<key>inactiveSession</key>
+	<string>buildershape</string>
+	<key>optimizerState</key>
+	<string>statefulcomponent</string>
+	<key>routecontroller</key>
+	<string>startdelegate</string>
+	<key>viewSize</key>
+	<string>arithmeticPreview</string>
+</dict>
+</plist>

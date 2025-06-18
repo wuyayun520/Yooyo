@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptionStyle</key>
+	<string>threadVelocity</string>
+	<key>routerTag</key>
+	<string>parseCallback</string>
+	<key>segueMargin</key>
+	<string>independentPageView</string>
+	<key>shouldMountImage</key>
+	<string>nativePager</string>
+	<key>shouldSerializeArithmetic</key>
+	<string>cosineLevel</string>
+	<key>visibleMargin</key>
+	<string>shouldPushAnimatedContainer</string>
+</dict>
+</plist>

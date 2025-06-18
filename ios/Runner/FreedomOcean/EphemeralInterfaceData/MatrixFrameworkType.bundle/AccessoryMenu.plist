@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeTweak</key>
+	<string>reactiveTentative</string>
+	<key>customizedlatency</key>
+	<string>draggablelistenerposition</string>
+	<key>lostData</key>
+	<string>canShowCatalyst</string>
+	<key>transitiontask</key>
+	<string>fixedCheckbox</string>
+	<key>unsortedBase</key>
+	<string>shouldPrepareAnchor</string>
+</dict>
+</plist>

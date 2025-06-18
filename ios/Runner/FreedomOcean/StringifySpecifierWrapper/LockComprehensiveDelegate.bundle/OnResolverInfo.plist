@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characteristicName</key>
+	<string>inactiveScope</string>
+	<key>cycletiercount</key>
+	<string>textvarorientation</string>
+	<key>gemCoord</key>
+	<string>tappablemusic</string>
+	<key>groupOrigin</key>
+	<string>serializeTabBar</string>
+	<key>lastMovement</key>
+	<string>petstageborder</string>
+	<key>responsiveLinker</key>
+	<string>canReplaceConstraint</string>
+	<key>storyboardFormat</key>
+	<string>sophisticatedTitle</string>
+	<key>subtlesignature</key>
+	<string>presenterStage</string>
+	<key>usedTentative</key>
+	<string>resolvershade</string>
+</dict>
+</plist>

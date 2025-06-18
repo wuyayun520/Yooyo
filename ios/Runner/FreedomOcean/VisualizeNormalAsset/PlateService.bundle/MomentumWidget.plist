@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveCubit</key>
+	<string>labelpolygon</string>
+	<key>crudePolygon</key>
+	<string>scrollMemento</string>
+	<key>dynamicConsumer</key>
+	<string>enabledLabel</string>
+	<key>enabledConstant</key>
+	<string>taxonomyFormat</string>
+	<key>mobileChapter</key>
+	<string>rectifyService</string>
+	<key>opaquethreshold</key>
+	<string>borderLevel</string>
+	<key>resilienceInterval</key>
+	<string>similarCell</string>
+	<key>usageShape</key>
+	<string>otherNorm</string>
+</dict>
+</plist>

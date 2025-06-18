@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultMap</key>
+	<string>inactiveEvolution</string>
+	<key>dimensionSpeed</key>
+	<string>autoTimeline</string>
+	<key>factoryResponse</key>
+	<string>subscriberLocation</string>
+	<key>imperativeanalyzer</key>
+	<string>shouldInflateSwift</string>
+	<key>mobilespriterate</key>
+	<string>stampIndex</string>
+	<key>optionvartension</key>
+	<string>rangeCount</string>
+	<key>priorResolver</key>
+	<string>disposebutton</string>
+	<key>shouldemitthread</key>
+	<string>grainDirection</string>
+</dict>
+</plist>

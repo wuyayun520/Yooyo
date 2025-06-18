@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionaltable</key>
+	<string>columnStatus</string>
+	<key>materialMethod</key>
+	<string>intermediateChecklist</string>
+	<key>synchronousScope</key>
+	<string>buildGraphic</string>
+</dict>
+</plist>

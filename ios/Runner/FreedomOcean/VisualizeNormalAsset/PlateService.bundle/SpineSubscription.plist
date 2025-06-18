@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activestate</key>
+	<string>completedReference</string>
+	<key>clipperTop</key>
+	<string>mediocreChannel</string>
+	<key>connectordistance</key>
+	<string>errorfilter</string>
+	<key>interfaceinterval</key>
+	<string>shouldDispatchBatch</string>
+	<key>prevImage</key>
+	<string>shouldPushDecoration</string>
+	<key>shouldSkipTabView</key>
+	<string>shouldpreparepriority</string>
+	<key>synchronousItem</key>
+	<string>texturerate</string>
+</dict>
+</plist>

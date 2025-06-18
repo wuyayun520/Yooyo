@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklisttempleedge</key>
+	<string>compilechecklist</string>
+	<key>composableshape</key>
+	<string>fusedChecklist</string>
+	<key>lostTexture</key>
+	<string>hyperbolicProgressBar</string>
+	<key>parallelBox</key>
+	<string>parseReducer</string>
+	<key>reusableLocalization</key>
+	<string>canResumeLog</string>
+</dict>
+</plist>

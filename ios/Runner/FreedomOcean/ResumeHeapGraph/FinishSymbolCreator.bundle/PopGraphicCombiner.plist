@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedRemediation</key>
+	<string>generatenode</string>
+	<key>easyRow</key>
+	<string>activatedProvision</string>
+	<key>independentCompleter</key>
+	<string>completedIndicator</string>
+	<key>reactiveAspectRatio</key>
+	<string>dismissStorage</string>
+	<key>shouldEndBox</key>
+	<string>robustBorder</string>
+	<key>shouldPauseRole</key>
+	<string>toleranceappearance</string>
+	<key>shouldTrainDialogs</key>
+	<string>referenceContrast</string>
+	<key>viewDepth</key>
+	<string>storyboardForm</string>
+</dict>
+</plist>

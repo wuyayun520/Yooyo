@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredInterface</key>
+	<string>concretePreview</string>
+	<key>directNode</key>
+	<string>spineInteraction</string>
+	<key>enabledmonster</key>
+	<string>canRestartSkin</string>
+	<key>euclideanProjection</key>
+	<string>responsiverestriction</string>
+	<key>exponentdecoration</key>
+	<string>profileAllocator</string>
+	<key>geometricElement</key>
+	<string>sortedUnary</string>
+	<key>shouldFinishView</key>
+	<string>canYieldMediaQuery</string>
+	<key>shouldLayoutAxis</key>
+	<string>documentVar</string>
+	<key>similarfactory</key>
+	<string>differentiatenib</string>
+</dict>
+</plist>

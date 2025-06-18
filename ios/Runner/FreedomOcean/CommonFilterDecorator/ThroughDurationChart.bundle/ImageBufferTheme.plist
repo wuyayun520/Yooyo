@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contrastInterval</key>
+	<string>fusedTheme</string>
+	<key>fusedsession</key>
+	<string>arithmeticChooser</string>
+	<key>intermediateclipperdepth</key>
+	<string>formatRotation</string>
+	<key>linkerOpacity</key>
+	<string>lazySensor</string>
+	<key>persistentStore</key>
+	<string>factoryfragments</string>
+	<key>rectifyclipper</key>
+	<string>shouldEndCoordinator</string>
+	<key>shouldStartWorkflow</key>
+	<string>shouldSetStateStamp</string>
+	<key>shouldpausescaffold</key>
+	<string>cursorFeedback</string>
+	<key>specifyFuture</key>
+	<string>storeContainer</string>
+</dict>
+</plist>

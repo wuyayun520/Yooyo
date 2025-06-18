@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultemitter</key>
+	<string>vectorInset</string>
+	<key>lastImpact</key>
+	<string>validatetransition</string>
+	<key>mobileUsage</key>
+	<string>dynamicEffect</string>
+	<key>sequentialTimer</key>
+	<string>desktopTrajectory</string>
+</dict>
+</plist>

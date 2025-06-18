@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedDialogs</key>
+	<string>shouldLayoutMedia</string>
+	<key>durationoutsidecycle</key>
+	<string>navigateShader</string>
+	<key>prevView</key>
+	<string>deferredLatency</string>
+	<key>shaderOffset</key>
+	<string>robustKernel</string>
+	<key>shouldUnmountedGradient</key>
+	<string>platemodel</string>
+	<key>subsequentInjection</key>
+	<string>resilientConstraint</string>
+</dict>
+</plist>

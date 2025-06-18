@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>resilientrouter</key>
+	<string>createMap</string>
+	<key>selectorDelay</key>
+	<string>basicLatency</string>
+	<key>substantialContrast</key>
+	<string>actionResponse</string>
+	<key>textureTheme</key>
+	<string>awaitHue</string>
+	<key>usedPolyfill</key>
+	<string>listviewforbridge</string>
+</dict>
+</plist>

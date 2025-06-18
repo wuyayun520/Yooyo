@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteTangent</key>
+	<string>primaryConnector</string>
+	<key>fusedPicker</key>
+	<string>overlayInteraction</string>
+	<key>immutableStep</key>
+	<string>cacheStateful</string>
+	<key>interactiveentity</key>
+	<string>composableshape</string>
+	<key>isolatereliability</key>
+	<string>receiveMetadata</string>
+	<key>paddingShape</key>
+	<string>publicTool</string>
+	<key>shouldBindWorkflow</key>
+	<string>inactiveThroughput</string>
+	<key>themeRotation</key>
+	<string>vectorizeReducer</string>
+	<key>usedQueue</key>
+	<string>shouldBindMomentum</string>
+</dict>
+</plist>

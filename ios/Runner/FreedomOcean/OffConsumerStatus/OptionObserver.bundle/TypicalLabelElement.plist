@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultClipper</key>
+	<string>zoneVisible</string>
+	<key>disparateContainer</key>
+	<string>symmetrictabbar</string>
+	<key>immediatePager</key>
+	<string>sceneconfidentiality</string>
+	<key>interactiveDelivery</key>
+	<string>canFetchPlayback</string>
+	<key>opaqueRoute</key>
+	<string>plateproxyvelocity</string>
+	<key>shouldAnimateCupertino</key>
+	<string>shouldAnimateInterpolation</string>
+	<key>shouldunmountednorm</key>
+	<string>localTimer</string>
+	<key>sinksystemvisible</key>
+	<string>shouldKeepThread</string>
+</dict>
+</plist>

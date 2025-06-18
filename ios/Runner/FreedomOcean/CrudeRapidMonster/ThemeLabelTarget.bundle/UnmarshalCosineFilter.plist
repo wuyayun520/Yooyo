@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>publishercoord</key>
+	<string>shouldDispatchFlex</string>
+	<key>rowinflyweight</key>
+	<string>shouldAttachTangent</string>
+	<key>secondThread</key>
+	<string>euclideanAwait</string>
+	<key>symmetricProtocol</key>
+	<string>rapidShader</string>
+</dict>
+</plist>

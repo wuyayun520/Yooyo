@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerFeedback</key>
+	<string>sessionvariablepadding</string>
+	<key>asynchronousMember</key>
+	<string>stopSession</string>
+	<key>completionRight</key>
+	<string>latencyOrientation</string>
+	<key>directlyImage</key>
+	<string>crucialChecklist</string>
+	<key>hierarchicalCursor</key>
+	<string>localLinker</string>
+	<key>scaffoldtweak</key>
+	<string>reducerFlyweight</string>
+	<key>visibleJoiner</key>
+	<string>alignmentVariable</string>
+</dict>
+</plist>

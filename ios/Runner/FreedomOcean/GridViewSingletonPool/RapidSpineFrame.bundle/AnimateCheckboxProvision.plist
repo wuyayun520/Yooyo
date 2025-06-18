@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialSpecifier</key>
+	<string>provideEntity</string>
+	<key>displayableCanvas</key>
+	<string>animateShader</string>
+	<key>operationexceptshape</key>
+	<string>updatePlayback</string>
+	<key>pagerSaturation</key>
+	<string>composableScheduler</string>
+	<key>respectiveIntegrity</key>
+	<string>normalLog</string>
+	<key>specifyDependency</key>
+	<string>overrideSlider</string>
+	<key>subscribemanager</key>
+	<string>storyboardFormat</string>
+	<key>zoneInterval</key>
+	<string>processorTint</string>
+</dict>
+</plist>

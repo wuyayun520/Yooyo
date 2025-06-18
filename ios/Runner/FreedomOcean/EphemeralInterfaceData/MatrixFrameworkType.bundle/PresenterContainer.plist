@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buildanimatedcontainer</key>
+	<string>adaptiveDisclaimer</string>
+	<key>concurrentPosition</key>
+	<string>swiftFacade</string>
+	<key>dedicatedResolver</key>
+	<string>extensionName</string>
+	<key>diffableProjection</key>
+	<string>evaluationDelay</string>
+	<key>fragmentFlags</key>
+	<string>synchronousUseCase</string>
+	<key>globalSink</key>
+	<string>routerParam</string>
+	<key>mapOffset</key>
+	<string>canListenCoordinator</string>
+	<key>seamlessComponent</key>
+	<string>resilientTransformer</string>
+	<key>shouldUpdateReduction</key>
+	<string>inactiveModule</string>
+</dict>
+</plist>

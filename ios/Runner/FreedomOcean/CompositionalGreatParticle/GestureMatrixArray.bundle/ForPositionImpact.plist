@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleScheduler</key>
+	<string>shouldObserveSkin</string>
+	<key>advancedException</key>
+	<string>lostTitle</string>
+	<key>animatebatch</key>
+	<string>selectedmedia</string>
+	<key>basicProject</key>
+	<string>permanentinteractor</string>
+	<key>liteOptimizer</key>
+	<string>paintobserver</string>
+	<key>resizableComponent</key>
+	<string>equalizationOffset</string>
+	<key>triggerstyle</key>
+	<string>hierarchicalRadius</string>
+	<key>uniformTopic</key>
+	<string>copyLoop</string>
+</dict>
+</plist>

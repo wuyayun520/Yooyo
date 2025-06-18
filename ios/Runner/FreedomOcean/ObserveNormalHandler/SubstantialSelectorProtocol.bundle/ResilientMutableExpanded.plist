@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>modalDepth</key>
+	<string>optionHead</string>
+	<key>selectedMobile</key>
+	<string>disparateCursor</string>
+	<key>shouldMountedSegue</key>
+	<string>hyperbolicCard</string>
+	<key>shouldstreamplate</key>
+	<string>shouldSubscribeHistogram</string>
+	<key>temporaryCard</key>
+	<string>directCapacity</string>
+</dict>
+</plist>

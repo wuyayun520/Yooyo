@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoRole</key>
+	<string>menuLocation</string>
+	<key>decodepageview</key>
+	<string>inheritedCallback</string>
+	<key>iterativescope</key>
+	<string>adaptiveRemainder</string>
+	<key>mediaquerylevelcoord</key>
+	<string>customizedInstruction</string>
+	<key>moduleAppearance</key>
+	<string>persistentAnalogy</string>
+	<key>newestQuaternion</key>
+	<string>associatedcallback</string>
+	<key>opaqueInteractor</key>
+	<string>fixedRepository</string>
+	<key>topicfeedback</key>
+	<string>publishprovider</string>
+	<key>touchSpeed</key>
+	<string>eagerCaption</string>
+</dict>
+</plist>

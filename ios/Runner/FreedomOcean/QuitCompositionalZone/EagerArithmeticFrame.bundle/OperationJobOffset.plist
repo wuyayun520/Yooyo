@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fusedlistener</key>
+	<string>processStore</string>
+	<key>granularcatalystbrightness</key>
+	<string>selectedicon</string>
+	<key>keyProgressBar</key>
+	<string>viewdirection</string>
+	<key>prismaticSchema</key>
+	<string>associatedTitle</string>
+	<key>shouldContinueCupertino</key>
+	<string>requestScale</string>
+	<key>shouldDismissFlex</key>
+	<string>interpolationcallback</string>
+	<key>shouldStreamIndicator</key>
+	<string>shouldMountCard</string>
+	<key>smallVolume</key>
+	<string>requestCurve</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>copytabbar</key>
+	<string>deactivatePosition</string>
+	<key>elementAppearance</key>
+	<string>transformListView</string>
+	<key>interpolationStyle</key>
+	<string>playChapter</string>
+	<key>robustTheme</key>
+	<string>preparelistview</string>
+	<key>setstatestack</key>
+	<string>sizeRotation</string>
+	<key>shouldEmitMultiplication</key>
+	<string>embedTask</string>
+	<key>visitchart</key>
+	<string>rangeSkewY</string>
+</dict>
+</plist>

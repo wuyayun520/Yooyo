@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveDialogs</key>
+	<string>mountHero</string>
+	<key>autoVariant</key>
+	<string>fixedModule</string>
+	<key>deferredSkin</key>
+	<string>priorConstraint</string>
+	<key>elasticSizedBox</key>
+	<string>backwardQuaternion</string>
+	<key>ignoredSegment</key>
+	<string>intuitiveRemainder</string>
+	<key>interactiveCursor</key>
+	<string>priorityEnvironment</string>
+	<key>lostBorder</key>
+	<string>mediocreIntegration</string>
+	<key>responsiveMetrics</key>
+	<string>isCollection</string>
+	<key>shouldRouteCompletion</key>
+	<string>dimensionProxy</string>
+</dict>
+</plist>

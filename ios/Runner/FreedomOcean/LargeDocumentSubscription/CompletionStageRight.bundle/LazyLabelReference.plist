@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderparamtension</key>
+	<string>intermediateInfrastructure</string>
+	<key>giftValidation</key>
+	<string>geometricCoordinator</string>
+	<key>gradientFrequency</key>
+	<string>shouldDeserializeAppBar</string>
+	<key>greatNavigation</key>
+	<string>navigateGradient</string>
+	<key>intuitivePositioned</key>
+	<string>smartCapacity</string>
+	<key>oldAspect</key>
+	<string>detachSlash</string>
+	<key>playbackShape</key>
+	<string>defaultColumn</string>
+	<key>popupamongsystem</key>
+	<string>shouldStopScale</string>
+	<key>responsiveTouch</key>
+	<string>prepareOptimizer</string>
+	<key>scrollableStateless</key>
+	<string>wrapContainer</string>
+</dict>
+</plist>

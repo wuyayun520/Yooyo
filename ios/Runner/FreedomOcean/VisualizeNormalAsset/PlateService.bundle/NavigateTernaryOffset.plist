@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionProvider</key>
+	<string>canTrainMovement</string>
+	<key>architectureVisible</key>
+	<string>shouldUnbindConstraint</string>
+	<key>asyncShade</key>
+	<string>poolStream</string>
+	<key>euclideanColumn</key>
+	<string>shouldProcessContainer</string>
+	<key>materialChallenge</key>
+	<string>distinctionBrightness</string>
+	<key>textfieldInteraction</key>
+	<string>shouldEmitCache</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentAperture</key>
+	<string>independentController</string>
+	<key>diffableProjection</key>
+	<string>cacheInstruction</string>
+	<key>enabledTaxonomy</key>
+	<string>cosineFacade</string>
+	<key>immediatehero</key>
+	<string>dynamicCompleter</string>
+	<key>primaryAlert</key>
+	<string>chartstructureflags</string>
+	<key>shouldProcessThread</key>
+	<string>undertakePreview</string>
+	<key>shouldUpdateCanvas</key>
+	<string>shouldrestartflex</string>
+</dict>
+</plist>

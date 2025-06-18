@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentCube</key>
+	<string>onsensortap</string>
+	<key>flexibleDialogs</key>
+	<string>composableButton</string>
+	<key>localRouter</key>
+	<string>intuitiveEquivalent</string>
+	<key>rectangleleft</key>
+	<string>sensorObserver</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultindicator</key>
+	<string>evaluateNavigator</string>
+	<key>nibinterval</key>
+	<string>finishCell</string>
+	<key>rowBorder</key>
+	<string>shouldSubscribeMap</string>
+	<key>schedulerDistance</key>
+	<string>reactiveTween</string>
+	<key>shouldTransitionCompletion</key>
+	<string>resizableConfidentiality</string>
+	<key>significantCapacity</key>
+	<string>logarithmstream</string>
+	<key>sinkfeedback</key>
+	<string>delegateformat</string>
+</dict>
+</plist>

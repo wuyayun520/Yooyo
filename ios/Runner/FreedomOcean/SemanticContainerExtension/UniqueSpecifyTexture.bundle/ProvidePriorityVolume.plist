@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistState</key>
+	<string>smallCapacity</string>
+	<key>floatslash</key>
+	<string>sequentialRichText</string>
+	<key>hashmodeduration</key>
+	<string>buildAperture</string>
+	<key>mediumScale</key>
+	<string>capturePreview</string>
+	<key>shouldTrainDelegate</key>
+	<string>alignmentmatrix</string>
+</dict>
+</plist>

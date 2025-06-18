@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumptionKind</key>
+	<string>easyMission</string>
+	<key>elasticCosine</key>
+	<string>evaluateScene</string>
+	<key>euclideanconstraintresponse</key>
+	<string>shouldUnmountedEffect</string>
+	<key>heapaboutdecorator</key>
+	<string>deserializeSlider</string>
+	<key>intensitymodebound</key>
+	<string>endResource</string>
+	<key>modalpopup</key>
+	<string>euclideanDropdownButton</string>
+	<key>nextBuilder</key>
+	<string>ignoredColor</string>
+	<key>popupfunctiondistance</key>
+	<string>shoulddisposeinstruction</string>
+	<key>semanticBox</key>
+	<string>routerawayobserver</string>
+	<key>staticBehavior</key>
+	<string>completedController</string>
+</dict>
+</plist>

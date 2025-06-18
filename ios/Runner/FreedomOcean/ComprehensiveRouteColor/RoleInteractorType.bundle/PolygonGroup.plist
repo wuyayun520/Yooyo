@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocrate</key>
+	<string>switchHue</string>
+	<key>confidentialityType</key>
+	<string>eraseEvent</string>
+	<key>grainVisible</key>
+	<string>sequentialSwitch</string>
+	<key>shouldFinishProject</key>
+	<string>beginnercontrollertransparency</string>
+	<key>shouldtransitionbitrate</key>
+	<string>deferredHeap</string>
+	<key>significantgesture</key>
+	<string>layoutBehavior</string>
+	<key>stepcubit</key>
+	<string>greatRoute</string>
+</dict>
+</plist>

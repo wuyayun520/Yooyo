@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxparametername</key>
+	<string>sophisticatedsubscription</string>
+	<key>decorationreducer</key>
+	<string>routeState</string>
+	<key>displayabletextureinset</key>
+	<string>limitInterface</string>
+	<key>resourcehead</key>
+	<string>viewscale</string>
+	<key>shouldRebuildDocument</key>
+	<string>multiDescriptor</string>
+</dict>
+</plist>

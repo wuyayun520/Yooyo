@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clearpopup</key>
+	<string>shouldMountHero</string>
+	<key>denseUnary</key>
+	<string>otherListView</string>
+	<key>easyAccessory</key>
+	<string>greatEvolution</string>
+	<key>largeProjection</key>
+	<string>emitskin</string>
+	<key>logAppearance</key>
+	<string>boxshadowCycle</string>
+	<key>roweffect</key>
+	<string>colorInterval</string>
+	<key>shouldUnbindRemainder</key>
+	<string>canStartNavigation</string>
+	<key>shouldbuildinteger</key>
+	<string>staticImage</string>
+	<key>sophisticatedAnimatedContainer</key>
+	<string>aspectratioDensity</string>
+	<key>unaryOffset</key>
+	<string>dynamicAllocator</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativecompleter</key>
+	<string>shouldFinishCustomPaint</string>
+	<key>gemVelocity</key>
+	<string>prismaticStep</string>
+	<key>pushtween</key>
+	<string>composableModal</string>
+	<key>shouldprocessdimension</key>
+	<string>divideOffset</string>
+	<key>toolview</key>
+	<string>receiverVelocity</string>
+	<key>usedBrush</key>
+	<string>distinctionBorder</string>
+</dict>
+</plist>

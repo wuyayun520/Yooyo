@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicMaster</key>
+	<string>slashStatus</string>
+	<key>endintensity</key>
+	<string>multiHandler</string>
+	<key>navigatorparameterfrequency</key>
+	<string>rapidFilter</string>
+	<key>overlaySpeed</key>
+	<string>resizableView</string>
+	<key>publicProcessor</key>
+	<string>inactiveUnary</string>
+	<key>retainedSpot</key>
+	<string>deserializeDimension</string>
+	<key>schemaHead</key>
+	<string>publicGrain</string>
+	<key>seguevisibility</key>
+	<string>mutabledetail</string>
+	<key>shouldUnmountHero</key>
+	<string>canNavigateBullet</string>
+	<key>similarProjection</key>
+	<string>destroySubscription</string>
+</dict>
+</plist>

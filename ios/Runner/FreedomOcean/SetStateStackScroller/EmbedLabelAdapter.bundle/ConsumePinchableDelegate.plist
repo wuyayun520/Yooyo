@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basictaskborder</key>
+	<string>transposeAllocator</string>
+	<key>inactiveBuilder</key>
+	<string>synchronizeBloc</string>
+	<key>infohead</key>
+	<string>rapidDescription</string>
+	<key>shouldBindProvider</key>
+	<string>skinWork</string>
+	<key>shouldUnmountResource</key>
+	<string>setupReducer</string>
+	<key>viewlayer</key>
+	<string>performflex</string>
+</dict>
+</plist>

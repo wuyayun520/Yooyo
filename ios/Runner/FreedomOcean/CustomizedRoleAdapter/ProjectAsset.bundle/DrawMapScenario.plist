@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elementCoord</key>
+	<string>requiredCursor</string>
+	<key>invisibleResilience</key>
+	<string>lossStage</string>
+	<key>shouldDecodeTabView</key>
+	<string>delegatestagecoord</string>
+	<key>significantScene</key>
+	<string>canKeepPageView</string>
+	<key>slashpopup</key>
+	<string>scaffoldalignment</string>
+	<key>sortedBullet</key>
+	<string>toolOpacity</string>
+	<key>statelessDialogs</key>
+	<string>writeError</string>
+	<key>subsequentCapsule</key>
+	<string>canInflateMission</string>
+	<key>usagePosition</key>
+	<string>variantProxy</string>
+</dict>
+</plist>

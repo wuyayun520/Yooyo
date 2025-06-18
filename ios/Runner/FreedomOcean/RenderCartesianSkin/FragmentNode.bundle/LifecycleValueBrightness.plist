@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>combinerOffset</key>
+	<string>cellSpacing</string>
+	<key>crucialIntegration</key>
+	<string>shouldRebuildGridView</string>
+	<key>currentProvider</key>
+	<string>composableFrame</string>
+	<key>diffabletexture</key>
+	<string>mainRange</string>
+	<key>errorLeft</key>
+	<string>effectStage</string>
+	<key>hyperbolicPreview</key>
+	<string>channelspager</string>
+	<key>statefulMap</key>
+	<string>shouldStreamCosine</string>
+	<key>symmetricsensor</key>
+	<string>navigatorcycleorigin</string>
+	<key>themeBound</key>
+	<string>canSkipGradient</string>
+	<key>webTimer</key>
+	<string>stackbuffer</string>
+</dict>
+</plist>

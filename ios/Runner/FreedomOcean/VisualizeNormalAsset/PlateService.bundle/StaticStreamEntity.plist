@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedwidget</key>
+	<string>setstatesignature</string>
+	<key>drawerTint</key>
+	<string>workflowWork</string>
+	<key>shouldFinishProfile</key>
+	<string>associatedPager</string>
+	<key>shouldPresentDocument</key>
+	<string>smartscene</string>
+	<key>trainplate</key>
+	<string>popStateful</string>
+</dict>
+</plist>

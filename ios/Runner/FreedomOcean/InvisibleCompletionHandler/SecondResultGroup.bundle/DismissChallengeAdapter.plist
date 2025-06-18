@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileMapper</key>
+	<string>prevBandwidth</string>
+	<key>dispatchcompleter</key>
+	<string>pageviewRate</string>
+	<key>entropyColor</key>
+	<string>moduluschapter</string>
+	<key>euclideanRoute</key>
+	<string>textfieldformat</string>
+	<key>parallelResolver</key>
+	<string>requestaroundmediator</string>
+	<key>pinchableResponder</key>
+	<string>offsetFeature</string>
+	<key>requestdetector</key>
+	<string>spotPlatform</string>
+	<key>shouldPauseResource</key>
+	<string>storeVisible</string>
+	<key>tickerRate</key>
+	<string>reactiveProcessor</string>
+	<key>topicEdge</key>
+	<string>canPrepareView</string>
+</dict>
+</plist>

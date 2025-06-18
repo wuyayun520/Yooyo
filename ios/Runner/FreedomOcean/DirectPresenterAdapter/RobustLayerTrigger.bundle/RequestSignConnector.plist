@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continuestream</key>
+	<string>asynchronousStatus</string>
+	<key>delegatecycleflags</key>
+	<string>alphapatterntheme</string>
+	<key>diffableFilter</key>
+	<string>independentRenderer</string>
+	<key>intensitylevelscale</key>
+	<string>explicitRestriction</string>
+	<key>nibTop</key>
+	<string>shouldFetchRemainder</string>
+	<key>resilientArchitecture</key>
+	<string>attachinteger</string>
+</dict>
+</plist>

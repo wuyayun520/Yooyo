@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintresponse</key>
+	<string>promiseTier</string>
+	<key>cubeSkewY</key>
+	<string>transformUseCase</string>
+	<key>histogramFlags</key>
+	<string>augmentInterface</string>
+	<key>largeGrid</key>
+	<string>shouldHandleBorder</string>
+	<key>opaqueEquivalent</key>
+	<string>imperativeAnimator</string>
+	<key>paddinglayertransparency</key>
+	<string>canEncodeCaption</string>
+	<key>permissiveGrain</key>
+	<string>backwardSensor</string>
+	<key>tabviewMargin</key>
+	<string>sinetraversal</string>
+	<key>temporaryController</key>
+	<string>immutableHandler</string>
+	<key>textfieldMode</key>
+	<string>extendButton</string>
+</dict>
+</plist>

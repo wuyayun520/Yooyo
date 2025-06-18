@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeAsync</key>
+	<string>canCacheCosine</string>
+	<key>dedicatedKernel</key>
+	<string>numericalDrawer</string>
+	<key>dedicatedObject</key>
+	<string>mountProject</string>
+	<key>newestScenario</key>
+	<string>canParseEqualization</string>
+	<key>restoretheme</key>
+	<string>animatedTopic</string>
+	<key>retainedConfiguration</key>
+	<string>shouldSkipDelegate</string>
+	<key>shouldRestartDelegate</key>
+	<string>findertint</string>
+</dict>
+</plist>

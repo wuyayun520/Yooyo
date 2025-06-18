@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterResponse</key>
+	<string>actionnumberbottom</string>
+	<key>commonMapper</key>
+	<string>lostCubit</string>
+	<key>dispatchparticle</key>
+	<string>associateLoop</string>
+	<key>displayableCombiner</key>
+	<string>nibPattern</string>
+	<key>immutableDetector</key>
+	<string>moveAction</string>
+	<key>musicVisibility</key>
+	<string>diversifiedRect</string>
+	<key>shouldPersistProtocol</key>
+	<string>shouldAnimateHero</string>
+	<key>shouldtransitionradio</key>
+	<string>impressiontransparency</string>
+	<key>smartPadding</key>
+	<string>screenOrientation</string>
+</dict>
+</plist>

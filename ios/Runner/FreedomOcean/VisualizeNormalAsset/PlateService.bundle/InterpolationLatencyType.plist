@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedVolume</key>
+	<string>sliderOperation</string>
+	<key>beginnerNotifier</key>
+	<string>textfieldName</string>
+	<key>behaviortint</key>
+	<string>smartgrain</string>
+	<key>diffableAlert</key>
+	<string>touchChain</string>
+	<key>interactionPressure</key>
+	<string>responserate</string>
+	<key>localImage</key>
+	<string>mainHash</string>
+	<key>serviceaboutphase</key>
+	<string>canDisconnectObserver</string>
+	<key>shouldNavigateThread</key>
+	<string>easySemantics</string>
+	<key>singleWorkflow</key>
+	<string>responsiveSubscription</string>
+	<key>vectorbottom</key>
+	<string>visibleBullet</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedPopup</key>
+	<string>canRebuildDrawer</string>
+	<key>autoActivity</key>
+	<string>dynamicActivity</string>
+	<key>cardInset</key>
+	<string>canFinishScreen</string>
+	<key>partitionchart</key>
+	<string>shouldStopNotifier</string>
+	<key>prismaticTicker</key>
+	<string>evaluationBorder</string>
+	<key>strengthHue</key>
+	<string>protectedHandler</string>
+</dict>
+</plist>

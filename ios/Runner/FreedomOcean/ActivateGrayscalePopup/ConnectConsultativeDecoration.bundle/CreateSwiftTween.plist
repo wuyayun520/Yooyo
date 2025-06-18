@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteController</key>
+	<string>canConnectProvider</string>
+	<key>controllersysteminteraction</key>
+	<string>menuleft</string>
+	<key>copylayer</key>
+	<string>updateListView</string>
+	<key>crudeLatency</key>
+	<string>shouldMountAspect</string>
+	<key>crudeOperation</key>
+	<string>rebuildaperture</string>
+	<key>dynamicChooser</key>
+	<string>newestEvaluation</string>
+	<key>firstlocalizationspeed</key>
+	<string>canStopCatalyst</string>
+	<key>permissivebitratemomentum</key>
+	<string>replicaPressure</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dialogsOrientation</key>
+	<string>factoryStrategy</string>
+	<key>sceneversusstrategy</key>
+	<string>pendingNavigator</string>
+	<key>sliderforcycle</key>
+	<string>unbindSegment</string>
+	<key>transformerinformation</key>
+	<string>displayTask</string>
+	<key>websine</key>
+	<string>disparateNavigator</string>
+</dict>
+</plist>

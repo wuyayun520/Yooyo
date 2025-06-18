@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableLayout</key>
+	<string>shouldUpdateCurve</string>
+	<key>factoryoperationappearance</key>
+	<string>unlockoffset</string>
+	<key>interactivePermutation</key>
+	<string>rendererType</string>
+	<key>prismaticPermutation</key>
+	<string>nativeLocalization</string>
+	<key>rectname</key>
+	<string>shouldHandleStep</string>
+	<key>sortedresource</key>
+	<string>resultversusvisitor</string>
+	<key>themeScale</key>
+	<string>optionLevel</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableSubscriber</key>
+	<string>listenerDepth</string>
+	<key>dynamicButton</key>
+	<string>rapidGrain</string>
+	<key>ephemeralBandwidth</key>
+	<string>mediumSensor</string>
+	<key>handlesample</key>
+	<string>consumptionVelocity</string>
+	<key>remediationDirection</key>
+	<string>imperativeFormat</string>
+	<key>retainedMatrix</key>
+	<string>formatState</string>
+</dict>
+</plist>

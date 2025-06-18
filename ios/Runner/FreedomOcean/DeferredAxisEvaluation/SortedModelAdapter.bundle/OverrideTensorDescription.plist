@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableHistogram</key>
+	<string>petvisibility</string>
+	<key>greatSkin</key>
+	<string>showTabBar</string>
+	<key>shouldProcessGem</key>
+	<string>interpolationParam</string>
+	<key>shouldValidateContraction</key>
+	<string>disconnectSpine</string>
+	<key>vertexbehavior</key>
+	<string>graintaskalignment</string>
+</dict>
+</plist>

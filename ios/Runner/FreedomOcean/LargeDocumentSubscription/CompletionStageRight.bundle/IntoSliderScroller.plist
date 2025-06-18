@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoAnimator</key>
+	<string>generateEvent</string>
+	<key>customcolor</key>
+	<string>canDecodeTechnique</string>
+	<key>notifierStyle</key>
+	<string>mediocreWidget</string>
+	<key>preparemethod</key>
+	<string>autoPet</string>
+	<key>profilevisible</key>
+	<string>rebuildCanvas</string>
+	<key>shadertext</key>
+	<string>heapPattern</string>
+	<key>synchronousVariant</key>
+	<string>disabledState</string>
+	<key>textfieldTop</key>
+	<string>navigatorTheme</string>
+</dict>
+</plist>

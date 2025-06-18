@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalMaterializer</key>
+	<string>canUpdateTechnique</string>
+	<key>directAxis</key>
+	<string>publishDescriptor</string>
+	<key>equipmentKind</key>
+	<string>deserializeRequest</string>
+	<key>gradientopacity</key>
+	<string>shouldNavigateShader</string>
+	<key>handlerOrientation</key>
+	<string>canConnectBase</string>
+	<key>mainFlex</key>
+	<string>bloctype</string>
+	<key>webLatency</key>
+	<string>cardForm</string>
+</dict>
+</plist>

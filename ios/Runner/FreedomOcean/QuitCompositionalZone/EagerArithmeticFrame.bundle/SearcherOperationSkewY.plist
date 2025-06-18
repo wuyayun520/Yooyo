@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferValidation</key>
+	<string>shaderlikememento</string>
+	<key>declarativeprovider</key>
+	<string>canSetStateCursor</string>
+	<key>keygradient</key>
+	<string>rebuildprovider</string>
+	<key>signconnector</key>
+	<string>plateMode</string>
+</dict>
+</plist>

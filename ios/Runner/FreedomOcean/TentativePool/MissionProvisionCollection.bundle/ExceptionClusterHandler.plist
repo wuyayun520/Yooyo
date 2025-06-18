@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphalayout</key>
+	<string>concurrentConnector</string>
+	<key>disabledEvaluation</key>
+	<string>shouldFetchSkirt</string>
+	<key>observeroute</key>
+	<string>gradientProcess</string>
+	<key>offsetspeed</key>
+	<string>reconcileHandler</string>
+	<key>registerdocument</key>
+	<string>eraseRect</string>
+	<key>routevarvalidation</key>
+	<string>granularLinker</string>
+	<key>searcherVisibility</key>
+	<string>interfacebesideplatform</string>
+	<key>stepInterval</key>
+	<string>colorAlignment</string>
+	<key>subtleobserver</key>
+	<string>buildCheckbox</string>
+	<key>sustainableBloc</key>
+	<string>analyzerColor</string>
+</dict>
+</plist>

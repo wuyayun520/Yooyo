@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionoperation</key>
+	<string>shouldValidateTextField</string>
+	<key>cacheShape</key>
+	<string>markRect</string>
+	<key>dynamicFeature</key>
+	<string>boxshadowBottom</string>
+	<key>explicitBorder</key>
+	<string>clipconstraint</string>
+	<key>extensionOrigin</key>
+	<string>contractiontail</string>
+	<key>temporaryService</key>
+	<string>ephemeraldescriptionborder</string>
+</dict>
+</plist>

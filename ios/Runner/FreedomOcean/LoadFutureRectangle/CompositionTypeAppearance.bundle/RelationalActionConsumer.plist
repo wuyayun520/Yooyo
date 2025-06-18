@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chooserMomentum</key>
+	<string>viewBottom</string>
+	<key>columnfinder</key>
+	<string>detectorpressure</string>
+	<key>controllertension</key>
+	<string>topicCoord</string>
+	<key>deferredChecklist</key>
+	<string>observeChart</string>
+	<key>eagerLoss</key>
+	<string>reducerAdapter</string>
+	<key>materialCurve</key>
+	<string>zonebufferalignment</string>
+	<key>themeAcceleration</key>
+	<string>distinctionOffset</string>
+	<key>visiblePoint</key>
+	<string>firstCustomPaint</string>
+</dict>
+</plist>

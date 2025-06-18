@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveMap</key>
+	<string>inactiveConfiguration</string>
+	<key>dynamicStateless</key>
+	<string>shouldInflateCell</string>
+	<key>layerBrightness</key>
+	<string>pinchablealignmenttype</string>
+	<key>permissiveTimer</key>
+	<string>processBloc</string>
+	<key>shouldBuildHistogram</key>
+	<string>unsortedThread</string>
+	<key>shouldNotifyCapacities</key>
+	<string>canRouteEqualization</string>
+	<key>unactivatedMovement</key>
+	<string>inkwelldensity</string>
+</dict>
+</plist>

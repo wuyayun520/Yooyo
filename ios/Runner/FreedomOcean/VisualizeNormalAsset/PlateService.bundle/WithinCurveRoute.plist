@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratiovelocity</key>
+	<string>canBuildTask</string>
+	<key>gesturedetectorFrequency</key>
+	<string>retainedMission</string>
+	<key>ignoredScene</key>
+	<string>lastDescriptor</string>
+	<key>labeladapterborder</key>
+	<string>performChannel</string>
+	<key>multiobserver</key>
+	<string>momentumPlatform</string>
+	<key>permanentUnary</key>
+	<string>creatorTail</string>
+	<key>pickername</key>
+	<string>optimizerPattern</string>
+	<key>shouldPublishMediaQuery</key>
+	<string>canResumeGraphic</string>
+	<key>statusResponse</key>
+	<string>shouldPresentBorder</string>
+</dict>
+</plist>

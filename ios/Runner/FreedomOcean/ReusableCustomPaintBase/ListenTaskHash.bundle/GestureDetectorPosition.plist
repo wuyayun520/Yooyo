@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocStatus</key>
+	<string>pinchableIsolate</string>
+	<key>hasNotifier</key>
+	<string>topicNumber</string>
+	<key>rebuilddescriptor</key>
+	<string>storeTransition</string>
+	<key>rebuildticker</key>
+	<string>shouldPushGate</string>
+	<key>sinkvisible</key>
+	<string>servicedirection</string>
+	<key>uniqueThroughput</key>
+	<string>respondButton</string>
+	<key>volumeAcceleration</key>
+	<string>serializeDialogs</string>
+</dict>
+</plist>

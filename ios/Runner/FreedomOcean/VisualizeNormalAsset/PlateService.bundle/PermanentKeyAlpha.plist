@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonBottom</key>
+	<string>grayscaleScale</string>
+	<key>cachesincestyle</key>
+	<string>cachePet</string>
+	<key>cleanskin</key>
+	<string>semanticStorage</string>
+	<key>customTask</key>
+	<string>characterSkewX</string>
+	<key>opaquerow</key>
+	<string>useddelegate</string>
+	<key>reactiveData</key>
+	<string>attachCache</string>
+	<key>secondCombiner</key>
+	<string>findCoordinator</string>
+	<key>shouldDeserializeUnary</key>
+	<string>canNotifyFlex</string>
+	<key>subscriptiondescription</key>
+	<string>buildModal</string>
+	<key>taskDistance</key>
+	<string>graincyclestyle</string>
+</dict>
+</plist>

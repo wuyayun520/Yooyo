@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumerinset</key>
+	<string>invisibleInstruction</string>
+	<key>flexibleBehavior</key>
+	<string>pointisolate</string>
+	<key>formatcoordinator</key>
+	<string>adaptiveStroke</string>
+	<key>instructiontag</key>
+	<string>nativeTransformer</string>
+	<key>reusableProjection</key>
+	<string>canDeserializeCapacities</string>
+</dict>
+</plist>

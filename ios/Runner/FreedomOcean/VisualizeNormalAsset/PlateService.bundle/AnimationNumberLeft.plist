@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binderInset</key>
+	<string>sizeAdapter</string>
+	<key>checkboxinterface</key>
+	<string>shouldParseBorder</string>
+	<key>dispatcherVisible</key>
+	<string>musicForm</string>
+	<key>futureshapepadding</key>
+	<string>apertureIndex</string>
+	<key>normalDescription</key>
+	<string>instructionAlignment</string>
+	<key>projectionBrightness</key>
+	<string>directEvolution</string>
+	<key>shouldDecodeScroll</key>
+	<string>queueCount</string>
+	<key>unactivatedPolygon</key>
+	<string>canPopPlayback</string>
+</dict>
+</plist>

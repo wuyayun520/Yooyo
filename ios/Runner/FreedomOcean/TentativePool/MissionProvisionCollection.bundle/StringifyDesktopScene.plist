@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioinfrastructure</key>
+	<string>momentumPlatform</string>
+	<key>notifygroup</key>
+	<string>selectedtool</string>
+	<key>shouldBindChallenge</key>
+	<string>showOperation</string>
+	<key>shouldNavigateSymbol</key>
+	<string>profileResolver</string>
+	<key>shouldSaveShader</key>
+	<string>cardFeedback</string>
+	<key>subsequententitylocation</key>
+	<string>borderOrientation</string>
+</dict>
+</plist>

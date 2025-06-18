@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorfeedback</key>
+	<string>publisherCenter</string>
+	<key>certificatejoiner</key>
+	<string>scaleresponse</string>
+	<key>equalutil</key>
+	<string>nativeLabel</string>
+	<key>inheritedArithmetic</key>
+	<string>resizableSplitter</string>
+	<key>iterativeDispatcher</key>
+	<string>materializeResponse</string>
+	<key>typicalActivity</key>
+	<string>sophisticatedStorage</string>
+	<key>wrapmenu</key>
+	<string>explicitDelegate</string>
+</dict>
+</plist>

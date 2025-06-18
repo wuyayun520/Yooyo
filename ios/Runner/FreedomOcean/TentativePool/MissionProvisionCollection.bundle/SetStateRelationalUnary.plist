@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteTrigger</key>
+	<string>attachUtil</string>
+	<key>explicitDescriptor</key>
+	<string>giftPressure</string>
+	<key>lastCosine</key>
+	<string>renameScene</string>
+	<key>robustTernary</key>
+	<string>binarytime</string>
+</dict>
+</plist>

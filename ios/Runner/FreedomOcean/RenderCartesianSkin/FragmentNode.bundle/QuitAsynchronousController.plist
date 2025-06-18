@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorflyweightdepth</key>
+	<string>multiplyGroup</string>
+	<key>currentResolver</key>
+	<string>ternaryShade</string>
+	<key>integrationcoord</key>
+	<string>shouldUnmountedUsage</string>
+	<key>requestelement</key>
+	<string>modelfactory</string>
+	<key>requiredbrush</key>
+	<string>accordionEffect</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmetictextfieldrotation</key>
+	<string>tabbarInteraction</string>
+	<key>disabledScale</key>
+	<string>rapidAxis</string>
+	<key>displayableScreen</key>
+	<string>tweakdelay</string>
+	<key>missionDuration</key>
+	<string>skirtScope</string>
+	<key>shouldListenSlash</key>
+	<string>associatedView</string>
+</dict>
+</plist>

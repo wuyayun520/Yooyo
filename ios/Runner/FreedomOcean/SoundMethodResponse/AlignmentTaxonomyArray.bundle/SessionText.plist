@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorbrightness</key>
+	<string>reactiveBloc</string>
+	<key>transitionHue</key>
+	<string>metadataIndex</string>
+	<key>uniqueOccasion</key>
+	<string>canSaveCoordinator</string>
+	<key>webSkin</key>
+	<string>spotFlyweight</string>
+</dict>
+</plist>

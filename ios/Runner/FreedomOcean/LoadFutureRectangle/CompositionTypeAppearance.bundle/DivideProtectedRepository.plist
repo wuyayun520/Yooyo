@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveNotification</key>
+	<string>resilientRequest</string>
+	<key>collectionvideo</key>
+	<string>shouldHandleSlider</string>
+	<key>denseObserver</key>
+	<string>renameTitle</string>
+	<key>missedScalability</key>
+	<string>currentmobile</string>
+	<key>normalConnector</key>
+	<string>shaderAcceleration</string>
+	<key>textBehavior</key>
+	<string>shouldPrepareBaseline</string>
+</dict>
+</plist>

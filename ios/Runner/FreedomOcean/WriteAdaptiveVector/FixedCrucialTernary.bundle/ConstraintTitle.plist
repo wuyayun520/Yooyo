@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorTag</key>
+	<string>shouldsaveworkflow</string>
+	<key>customAppBar</key>
+	<string>persistentSound</string>
+	<key>diffabledependency</key>
+	<string>singletonComposite</string>
+	<key>hyperbolicExponent</key>
+	<string>profileBridge</string>
+	<key>inactivePlayback</key>
+	<string>subpixelVisitor</string>
+	<key>shouldAttachComposition</key>
+	<string>batchinsidebuffer</string>
+	<key>temporarylocalization</key>
+	<string>combineConfiguration</string>
+	<key>uniformGrayscale</key>
+	<string>streamTier</string>
+</dict>
+</plist>

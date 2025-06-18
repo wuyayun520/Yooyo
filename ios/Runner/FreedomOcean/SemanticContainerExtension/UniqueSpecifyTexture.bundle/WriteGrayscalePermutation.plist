@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledStream</key>
+	<string>granularwidgettension</string>
+	<key>durationAcceleration</key>
+	<string>lazyController</string>
+	<key>newestSearcher</key>
+	<string>elasticHash</string>
+	<key>searcherBorder</key>
+	<string>responsiveZone</string>
+	<key>shouldLayoutDimension</key>
+	<string>shouldKeepCanvas</string>
+	<key>shouldUpdateMap</key>
+	<string>navigatordistinction</string>
+</dict>
+</plist>

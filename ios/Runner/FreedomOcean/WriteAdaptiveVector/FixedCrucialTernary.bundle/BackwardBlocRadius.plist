@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>celllinker</key>
+	<string>shouldReplaceGram</string>
+	<key>crudeException</key>
+	<string>cubeVisibility</string>
+	<key>declarativebinder</key>
+	<string>subpixellevelborder</string>
+	<key>gestureTension</key>
+	<string>entropystatus</string>
+	<key>inflateactivity</key>
+	<string>switchVisible</string>
+	<key>intermediateBase</key>
+	<string>spineviaphase</string>
+	<key>momentumPadding</key>
+	<string>parseSwift</string>
+</dict>
+</plist>

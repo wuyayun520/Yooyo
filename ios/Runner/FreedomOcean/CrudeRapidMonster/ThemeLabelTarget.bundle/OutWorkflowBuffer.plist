@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveProvider</key>
+	<string>minCurve</string>
+	<key>eagerResilience</key>
+	<string>eventScale</string>
+	<key>easycurve</key>
+	<string>significantScale</string>
+	<key>scenetint</key>
+	<string>intuitiveIntegration</string>
+	<key>statelessStorage</key>
+	<string>consultativeOccasion</string>
+	<key>stringifymaterial</key>
+	<string>plateValue</string>
+</dict>
+</plist>

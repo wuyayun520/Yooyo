@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedEffect</key>
+	<string>geometricOccasion</string>
+	<key>opaqueListener</key>
+	<string>nativeView</string>
+	<key>pointvisibility</key>
+	<string>commonPageView</string>
+	<key>schedulerValidation</key>
+	<string>canRouteTabView</string>
+</dict>
+</plist>

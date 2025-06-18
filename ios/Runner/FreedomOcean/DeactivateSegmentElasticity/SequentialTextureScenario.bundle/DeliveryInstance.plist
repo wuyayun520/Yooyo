@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>numericaltween</key>
+	<string>robustcontroller</string>
+	<key>protectedElasticity</key>
+	<string>handleManager</string>
+	<key>tensorTabBar</key>
+	<string>canSubscribeLabel</string>
+	<key>webRequest</key>
+	<string>schemaAlignment</string>
+</dict>
+</plist>

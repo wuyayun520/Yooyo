@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedSemantics</key>
+	<string>reconcileHandler</string>
+	<key>explicitGrain</key>
+	<string>shouldDetachSpot</string>
+	<key>materialRepository</key>
+	<string>shouldPaintBuilder</string>
+	<key>specifyChecklist</key>
+	<string>integerScope</string>
+	<key>standaloneData</key>
+	<string>chooserName</string>
+	<key>zoneBehavior</key>
+	<string>numericalUseCase</string>
+</dict>
+</plist>

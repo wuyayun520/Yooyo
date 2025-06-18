@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>euclideanTimer</key>
+	<string>lostSink</string>
+	<key>imperativeAppBar</key>
+	<string>measureError</string>
+	<key>interactorAlignment</key>
+	<string>fixedThreshold</string>
+	<key>shouldFinishMultiplication</key>
+	<string>seamlessSplitter</string>
+	<key>splitterShade</key>
+	<string>standaloneInteger</string>
+	<key>staticStateful</key>
+	<string>sizemerger</string>
+	<key>subscribelistview</key>
+	<string>mediocrePlayback</string>
+	<key>tickerOrigin</key>
+	<string>shouldrendersemantics</string>
+	<key>usecaseCount</key>
+	<string>canRestartSignature</string>
+</dict>
+</plist>

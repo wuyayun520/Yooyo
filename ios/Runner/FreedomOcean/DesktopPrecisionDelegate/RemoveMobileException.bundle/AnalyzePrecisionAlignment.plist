@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionrect</key>
+	<string>rebuildAlpha</string>
+	<key>hascontainer</key>
+	<string>shouldLayoutController</string>
+	<key>materialcontextdistance</key>
+	<string>presenterStatus</string>
+	<key>shouldPublishTouch</key>
+	<string>mainImpact</string>
+	<key>statefulSelector</key>
+	<string>canvasActivity</string>
+	<key>subtleScroll</key>
+	<string>rowCycle</string>
+</dict>
+</plist>

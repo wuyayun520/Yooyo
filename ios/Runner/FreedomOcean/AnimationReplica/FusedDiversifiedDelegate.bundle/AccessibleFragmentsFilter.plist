@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedOffset</key>
+	<string>shouldUpdateBox</string>
+	<key>deferredBandwidth</key>
+	<string>inactiveSizedBox</string>
+	<key>diversifiedStack</key>
+	<string>previewprovider</string>
+	<key>nativeAperture</key>
+	<string>hardModule</string>
+	<key>shouldSaveAspect</key>
+	<string>asynchronousDispatcher</string>
+	<key>tabbarName</key>
+	<string>sortedException</string>
+	<key>timeStyle</key>
+	<string>batchTension</string>
+</dict>
+</plist>

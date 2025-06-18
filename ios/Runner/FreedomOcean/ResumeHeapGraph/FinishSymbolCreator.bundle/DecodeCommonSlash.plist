@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterRight</key>
+	<string>currentMonster</string>
+	<key>cloneshader</key>
+	<string>opaqueAnchor</string>
+	<key>containerFlags</key>
+	<string>impressionvelocity</string>
+	<key>dedicatedCell</key>
+	<string>shouldDetachNavigator</string>
+	<key>deferredReference</key>
+	<string>channelStatus</string>
+	<key>hasAperture</key>
+	<string>brushAcceleration</string>
+	<key>histogramKind</key>
+	<string>reusableStream</string>
+	<key>shouldRestartProfile</key>
+	<string>mutableTable</string>
+	<key>similarcapsuleskewx</key>
+	<string>canBindMediaQuery</string>
+</dict>
+</plist>

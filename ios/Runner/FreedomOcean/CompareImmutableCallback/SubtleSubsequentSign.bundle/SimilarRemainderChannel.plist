@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicateTicker</key>
+	<string>exponentDirection</string>
+	<key>ephemeralOperation</key>
+	<string>stringifySubscription</string>
+	<key>ignoredInfo</key>
+	<string>hardBinary</string>
+	<key>inheritedFeature</key>
+	<string>mobileProject</string>
+	<key>scrollTop</key>
+	<string>canCancelProject</string>
+	<key>segmentDensity</key>
+	<string>canNavigateIndicator</string>
+	<key>sizeType</key>
+	<string>pushAsset</string>
+</dict>
+</plist>

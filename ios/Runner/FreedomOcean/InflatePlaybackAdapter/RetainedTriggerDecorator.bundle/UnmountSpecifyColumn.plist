@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>charactertail</key>
+	<string>uniquePager</string>
+	<key>missedrowinteraction</key>
+	<string>immediateTimer</string>
+	<key>opaqueCard</key>
+	<string>lastLatency</string>
+	<key>scrollablesamplecolor</key>
+	<string>robustIntensity</string>
+</dict>
+</plist>

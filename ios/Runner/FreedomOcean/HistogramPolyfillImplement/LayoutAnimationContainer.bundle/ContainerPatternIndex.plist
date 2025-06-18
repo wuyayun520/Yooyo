@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatemomentum</key>
+	<string>analyzeAllocator</string>
+	<key>cardhue</key>
+	<string>prepareNavigation</string>
+	<key>cubebybuffer</key>
+	<string>sizetypeinset</string>
+	<key>extensionduration</key>
+	<string>projectionSaturation</string>
+	<key>mergerScale</key>
+	<string>canRouteSpot</string>
+	<key>newestNavigator</key>
+	<string>quantizationDelegate</string>
+	<key>positionAlignment</key>
+	<string>hasTheme</string>
+	<key>routerdepth</key>
+	<string>functionalloop</string>
+	<key>wrapperOffset</key>
+	<string>deferredtaxonomy</string>
+</dict>
+</plist>

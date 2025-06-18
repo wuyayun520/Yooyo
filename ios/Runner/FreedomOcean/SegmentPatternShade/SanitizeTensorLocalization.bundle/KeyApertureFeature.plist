@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedInfo</key>
+	<string>shouldPublishCube</string>
+	<key>anchorShape</key>
+	<string>greatMethod</string>
+	<key>declarativeSemantics</key>
+	<string>canPauseDelegate</string>
+	<key>delicateFrame</key>
+	<string>advancedPageView</string>
+	<key>firstFrame</key>
+	<string>binderFeedback</string>
+	<key>shouldDispatchSpine</key>
+	<string>shouldSubscribeCapacities</string>
+	<key>shouldMountMobile</key>
+	<string>pointtop</string>
+	<key>stackDensity</key>
+	<string>regulateButton</string>
+</dict>
+</plist>

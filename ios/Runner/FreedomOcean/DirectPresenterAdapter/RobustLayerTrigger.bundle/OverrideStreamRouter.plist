@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicVolume</key>
+	<string>subscriptionValue</string>
+	<key>methodScale</key>
+	<string>newestBorder</string>
+	<key>scaffoldPressure</key>
+	<string>regulateBuilder</string>
+	<key>staticCombiner</key>
+	<string>canDecodeRemainder</string>
+</dict>
+</plist>

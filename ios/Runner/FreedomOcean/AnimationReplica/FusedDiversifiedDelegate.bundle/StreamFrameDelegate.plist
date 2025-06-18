@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionUtil</key>
+	<string>evaluationshade</string>
+	<key>accordionscreen</key>
+	<string>containermediatorskewy</string>
+	<key>allocatorprocesstint</key>
+	<string>pinchablePet</string>
+	<key>crudeGridView</key>
+	<string>sceneSpeed</string>
+	<key>eagershaderorigin</key>
+	<string>destroyRequest</string>
+	<key>gemvideo</key>
+	<string>kernelMediator</string>
+	<key>movementBottom</key>
+	<string>activityBorder</string>
+	<key>originalData</key>
+	<string>ignoredGate</string>
+	<key>projectorigin</key>
+	<string>navigationtexture</string>
+	<key>shouldPublishNotifier</key>
+	<string>storagebesidestrategy</string>
+</dict>
+</plist>

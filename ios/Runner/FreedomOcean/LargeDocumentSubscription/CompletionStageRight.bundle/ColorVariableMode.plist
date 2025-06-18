@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoModule</key>
+	<string>startchart</string>
+	<key>imperativeFactory</key>
+	<string>shouldBuildMobile</string>
+	<key>routeforoperation</key>
+	<string>prismaticScene</string>
+	<key>shouldRebuildBatch</key>
+	<string>seamlessDrawer</string>
+	<key>temporaryTopic</key>
+	<string>efficiencyHue</string>
+</dict>
+</plist>

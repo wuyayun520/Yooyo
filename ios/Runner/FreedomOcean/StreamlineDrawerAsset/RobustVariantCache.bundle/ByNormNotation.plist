@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptivetaskinterval</key>
+	<string>fragmentSkewY</string>
+	<key>amortizationFeedback</key>
+	<string>skipCosine</string>
+	<key>canvasproxybrightness</key>
+	<string>canDetachMatrix</string>
+	<key>capsuleForce</key>
+	<string>detectorCount</string>
+	<key>futureaboutmethod</key>
+	<string>markChart</string>
+	<key>graphicsincemethod</key>
+	<string>inkwellHue</string>
+	<key>prevAlignment</key>
+	<string>continueprecision</string>
+	<key>semanticModulus</key>
+	<string>eagerFormat</string>
+	<key>shouldunmountedpageview</key>
+	<string>updateVariant</string>
+	<key>streammargin</key>
+	<string>shouldConnectConsumer</string>
+</dict>
+</plist>

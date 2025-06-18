@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>featuretentative</key>
+	<string>statelessAudio</string>
+	<key>shouldPublishProject</key>
+	<string>scrollKind</string>
+	<key>smallgraph</key>
+	<string>shouldTransitionEntropy</string>
+	<key>statelessConnector</key>
+	<string>methodTransparency</string>
+	<key>uniquePager</key>
+	<string>accordionCharacter</string>
+</dict>
+</plist>

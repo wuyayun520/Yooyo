@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constantAcceleration</key>
+	<string>processAsync</string>
+	<key>cubemetadata</key>
+	<string>resourcewithoutvar</string>
+	<key>materialstagetail</key>
+	<string>routeLoss</string>
+	<key>pageviewcompositeduration</key>
+	<string>addbuffer</string>
+	<key>permanentPopup</key>
+	<string>enhanceRow</string>
+	<key>shouldParseExponent</key>
+	<string>providerBrightness</string>
+	<key>shouldPopBoxShadow</key>
+	<string>denseAsync</string>
+	<key>shouldSkipSensor</key>
+	<string>bufferviabridge</string>
+	<key>spinepressure</key>
+	<string>subpixelSkewX</string>
+</dict>
+</plist>

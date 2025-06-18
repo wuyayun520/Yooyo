@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerInteraction</key>
+	<string>canvasParam</string>
+	<key>decorationreceiver</key>
+	<string>nextMargin</string>
+	<key>diffableroute</key>
+	<string>iterativeResource</string>
+	<key>dropdownbuttonalongplatform</key>
+	<string>materializeradius</string>
+	<key>hasreference</key>
+	<string>resilientExtension</string>
+	<key>modulusentity</key>
+	<string>volumeBottom</string>
+	<key>retainawait</key>
+	<string>utilFramework</string>
+	<key>shouldEmitNotifier</key>
+	<string>replicatePresenter</string>
+	<key>shouldSkipInkWell</key>
+	<string>activityVar</string>
+	<key>statelessBottom</key>
+	<string>shouldAttachPriority</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayablehash</key>
+	<string>streamprogressbar</string>
+	<key>entropydistance</key>
+	<string>popupscale</string>
+	<key>shouldRestartDelegate</key>
+	<string>usedRole</string>
+	<key>shouldTransformDimension</key>
+	<string>canTransformProject</string>
+	<key>spinmusic</key>
+	<string>decoupleProgressBar</string>
+	<key>unactivatedImpact</key>
+	<string>tangentoffset</string>
+</dict>
+</plist>

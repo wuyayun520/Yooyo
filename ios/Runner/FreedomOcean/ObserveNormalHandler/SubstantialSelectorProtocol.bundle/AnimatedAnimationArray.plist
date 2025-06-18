@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>architectureTop</key>
+	<string>adaptiveMedia</string>
+	<key>desktopRichText</key>
+	<string>publisherflags</string>
+	<key>geometricNavigation</key>
+	<string>shouldNotifyScale</string>
+	<key>logarithmInterval</key>
+	<string>backwardVertex</string>
+	<key>processlabel</key>
+	<string>utilAlignment</string>
+	<key>requiredDropdownButton</key>
+	<string>elementRight</string>
+	<key>sineduration</key>
+	<string>unschedulePopup</string>
+	<key>storyboardbrightness</key>
+	<string>musicslider</string>
+	<key>temporaryassetinset</key>
+	<string>canTransitionSymbol</string>
+</dict>
+</plist>

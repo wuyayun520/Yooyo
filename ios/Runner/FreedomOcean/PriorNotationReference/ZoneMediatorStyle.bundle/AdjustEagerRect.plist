@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoImpact</key>
+	<string>documentMediator</string>
+	<key>largeAction</key>
+	<string>detachButton</string>
+	<key>mediumDuration</key>
+	<string>canEndCollection</string>
+	<key>missedstroke</key>
+	<string>publishSemantics</string>
+	<key>responseTag</key>
+	<string>disabledframevisible</string>
+	<key>reusableprioritybehavior</key>
+	<string>protocolthanfacade</string>
+	<key>shouldcreateimage</key>
+	<string>transitionOrigin</string>
+	<key>signatureBehavior</key>
+	<string>techniquemementopadding</string>
+</dict>
+</plist>

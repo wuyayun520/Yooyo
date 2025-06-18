@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencyTransparency</key>
+	<string>responsiveTextField</string>
+	<key>fixedSingleton</key>
+	<string>semanticButton</string>
+	<key>iterativeInterpolation</key>
+	<string>quantizerMetadata</string>
+	<key>providerBorder</key>
+	<string>disconnectcaption</string>
+	<key>reactiveTime</key>
+	<string>disconnectPlayback</string>
+	<key>scaffoldSkewY</key>
+	<string>performInjection</string>
+</dict>
+</plist>

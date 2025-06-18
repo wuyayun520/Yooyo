@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>euclideanStep</key>
+	<string>materialMemento</string>
+	<key>firsteffectvalidation</key>
+	<string>subscriptionChain</string>
+	<key>flexibleallocator</key>
+	<string>resourceedge</string>
+	<key>mutableMetadata</key>
+	<string>canUpdateSizedBox</string>
+	<key>positionedForce</key>
+	<string>canBindModulus</string>
+	<key>resizableStamp</key>
+	<string>pendingMomentum</string>
+	<key>retainedLocalization</key>
+	<string>declarativeTexture</string>
+	<key>specifyAnimator</key>
+	<string>layoutGraphic</string>
+</dict>
+</plist>

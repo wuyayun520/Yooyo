@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonLatency</key>
+	<string>hastabbar</string>
+	<key>comprehensiveMedia</key>
+	<string>dropdownbuttonParameter</string>
+	<key>isRemainder</key>
+	<string>shouldPaintHeap</string>
+	<key>nodeForce</key>
+	<string>calculateSlider</string>
+	<key>notificationanimation</key>
+	<string>parseSine</string>
+	<key>originalChart</key>
+	<string>sharedMechanism</string>
+	<key>parallelanimatedcontainerhead</key>
+	<string>projectionDistance</string>
+	<key>shouldLoadPadding</key>
+	<string>materialvector</string>
+	<key>webTimer</key>
+	<string>axisPhase</string>
+</dict>
+</plist>

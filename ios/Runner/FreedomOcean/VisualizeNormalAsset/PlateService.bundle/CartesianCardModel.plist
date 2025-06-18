@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentSelector</key>
+	<string>canUnmountedMission</string>
+	<key>eagerBorder</key>
+	<string>shapeFeedback</string>
+	<key>listenerAlignment</key>
+	<string>denseSearcher</string>
+	<key>pickerIndex</key>
+	<string>consultativeCache</string>
+	<key>scrollableAppBar</key>
+	<string>documentaboutcommand</string>
+	<key>unaryvisibility</key>
+	<string>mediumStream</string>
+</dict>
+</plist>

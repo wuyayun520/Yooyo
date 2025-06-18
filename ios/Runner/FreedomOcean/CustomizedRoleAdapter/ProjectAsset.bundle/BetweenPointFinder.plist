@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrategroup</key>
+	<string>canObserveBatch</string>
+	<key>commonLinker</key>
+	<string>descriptorTail</string>
+	<key>easyAnalogy</key>
+	<string>granularTriangles</string>
+	<key>painterStyle</key>
+	<string>extensionComposite</string>
+	<key>particlealongphase</key>
+	<string>mainUseCase</string>
+	<key>semanticspecifier</key>
+	<string>metadataProxy</string>
+	<key>storageVisible</key>
+	<string>shouldRebuildIcon</string>
+</dict>
+</plist>

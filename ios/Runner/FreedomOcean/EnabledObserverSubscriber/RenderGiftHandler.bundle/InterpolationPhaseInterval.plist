@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agiledisclaimer</key>
+	<string>dropoutresolver</string>
+	<key>architectureMode</key>
+	<string>dimensionSaturation</string>
+	<key>callbackname</key>
+	<string>canCacheUsage</string>
+	<key>ephemeralPriority</key>
+	<string>mutableModel</string>
+	<key>marginalignment</key>
+	<string>enhanceconfiguration</string>
+	<key>secondInterpolation</key>
+	<string>completedRole</string>
+	<key>shouldDecodeDialogs</key>
+	<string>buildRoute</string>
+	<key>shouldProcessSubpixel</key>
+	<string>canFetchAperture</string>
+	<key>subscriptionEdge</key>
+	<string>thresholdinterval</string>
+	<key>swiftFeedback</key>
+	<string>shouldMountedObserver</string>
+</dict>
+</plist>

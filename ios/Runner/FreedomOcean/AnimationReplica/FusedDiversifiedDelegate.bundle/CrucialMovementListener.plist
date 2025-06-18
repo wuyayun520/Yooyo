@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatorTop</key>
+	<string>fusedBandwidth</string>
+	<key>cacheSkewY</key>
+	<string>axisfeedback</string>
+	<key>liteChapter</key>
+	<string>replicateLoop</string>
+	<key>shouldHandleCanvas</key>
+	<string>rolelikevalue</string>
+</dict>
+</plist>

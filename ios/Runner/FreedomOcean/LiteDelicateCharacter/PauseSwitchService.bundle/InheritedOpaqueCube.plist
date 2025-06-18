@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetresponse</key>
+	<string>fusedLabel</string>
+	<key>hashFormat</key>
+	<string>immutableEquivalent</string>
+	<key>shouldTransformLabel</key>
+	<string>multiplicationstate</string>
+	<key>smallLogarithm</key>
+	<string>viewActivity</string>
+</dict>
+</plist>

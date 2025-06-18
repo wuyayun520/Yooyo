@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartbrightness</key>
+	<string>secondAlert</string>
+	<key>crucialObserver</key>
+	<string>singleInjection</string>
+	<key>currentpriority</key>
+	<string>startOption</string>
+	<key>layoutbridgeinterval</key>
+	<string>reflectPosition</string>
+	<key>liteDetail</key>
+	<string>shouldinflategift</string>
+	<key>otherPolyfill</key>
+	<string>trajectoryScale</string>
+	<key>sliderAppearance</key>
+	<string>widgetBuffer</string>
+	<key>symmetricSensor</key>
+	<string>injectionValidation</string>
+	<key>tensorGraph</key>
+	<string>usedLogarithm</string>
+	<key>transpilecubit</key>
+	<string>queuePressure</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedoptimizer</key>
+	<string>sliderSkewY</string>
+	<key>eagerDescription</key>
+	<string>paintrouter</string>
+	<key>elasticPriority</key>
+	<string>concurrentMember</string>
+	<key>enabledhandler</key>
+	<string>inheritedResponse</string>
+	<key>prismaticSegment</key>
+	<string>materialModule</string>
+	<key>singlecurve</key>
+	<string>quantizationAnimation</string>
+	<key>spineorcontext</key>
+	<string>flexResponse</string>
+	<key>spriteName</key>
+	<string>requiredResilience</string>
+	<key>substantialBuilder</key>
+	<string>projectSpeed</string>
+</dict>
+</plist>

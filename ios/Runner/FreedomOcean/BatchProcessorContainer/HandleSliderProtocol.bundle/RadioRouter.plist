@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexibleMethod</key>
+	<string>disparateSign</string>
+	<key>parallelTouch</key>
+	<string>parseModulus</string>
+	<key>pointdecoration</key>
+	<string>ongrayscalechanged</string>
+	<key>sequentialMaster</key>
+	<string>adaptiveRow</string>
+	<key>validateindicator</key>
+	<string>overridecallback</string>
+</dict>
+</plist>

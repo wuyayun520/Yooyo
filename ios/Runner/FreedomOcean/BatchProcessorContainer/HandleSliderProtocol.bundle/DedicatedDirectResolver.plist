@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchplatformsaturation</key>
+	<string>smartPolygon</string>
+	<key>desktopremainder</key>
+	<string>mechanismTop</string>
+	<key>inactiveSplitter</key>
+	<string>canFinishBuilder</string>
+	<key>nativeRemainder</key>
+	<string>intuitiveSlider</string>
+	<key>semanticsstatus</key>
+	<string>sequentialRouter</string>
+	<key>shouldLoadHeap</key>
+	<string>shouldEncodeAperture</string>
+	<key>shouldLoadLabel</key>
+	<string>disconnectPainter</string>
+	<key>tableLeft</key>
+	<string>statefulStateless</string>
+</dict>
+</plist>

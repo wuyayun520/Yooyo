@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>shouldRebuildTask</key>
+	<string>consumptionTint</string>
+	<key>shouldRenderAxis</key>
+	<string>standaloneGraph</string>
+	<key>shouldReplaceFragment</key>
+	<string>painterduringproxy</string>
+	<key>singleScroll</key>
+	<string>removeState</string>
+	<key>sizedboxTop</key>
+	<string>shouldSubscribeTabView</string>
+	<key>slashopacity</key>
+	<string>integrationCenter</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitLeft</key>
+	<string>gridviewMargin</string>
+	<key>gridviewsingletonshape</key>
+	<string>multiplyResult</string>
+	<key>requestnotification</key>
+	<string>integerParam</string>
+	<key>staticPermutation</key>
+	<string>emitterSkewX</string>
+	<key>temporaryGate</key>
+	<string>maxFragment</string>
+	<key>titleBrightness</key>
+	<string>observerMargin</string>
+	<key>uniformIntegrity</key>
+	<string>checklistParameter</string>
+</dict>
+</plist>

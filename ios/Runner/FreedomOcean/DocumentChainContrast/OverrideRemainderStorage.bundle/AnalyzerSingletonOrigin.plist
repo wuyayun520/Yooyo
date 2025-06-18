@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentCaption</key>
+	<string>batchleft</string>
+	<key>indicatorshape</key>
+	<string>canDisposeKernel</string>
+	<key>persistentState</key>
+	<string>stackDirection</string>
+	<key>restrictionEdge</key>
+	<string>accessoryDirection</string>
+	<key>transformeroccasion</key>
+	<string>nextProcessor</string>
+	<key>uniqueResponse</key>
+	<string>nativeException</string>
+</dict>
+</plist>

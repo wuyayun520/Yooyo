@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>audioRotation</key>
+	<string>fixedSound</string>
+	<key>basicCube</key>
+	<string>priorityforce</string>
+	<key>globalTable</key>
+	<string>imageformbound</string>
+	<key>missedTopic</key>
+	<string>descriptionOpacity</string>
+	<key>oldWorkflow</key>
+	<string>canKeepContraction</string>
+	<key>shouldStreamOperation</key>
+	<string>lazyRect</string>
+	<key>shouldTransformAccessory</key>
+	<string>pickerBrightness</string>
+	<key>subtlePoint</key>
+	<string>histogramtitle</string>
+	<key>zoneName</key>
+	<string>subscribePositioned</string>
+</dict>
+</plist>

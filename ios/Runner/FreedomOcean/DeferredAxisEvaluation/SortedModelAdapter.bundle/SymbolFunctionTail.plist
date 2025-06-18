@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerStroke</key>
+	<string>canFinishMovement</string>
+	<key>declarativeMenu</key>
+	<string>shouldCacheStateless</string>
+	<key>defaultsegue</key>
+	<string>canResumeModulus</string>
+	<key>diffablePager</key>
+	<string>directlyCycle</string>
+	<key>easyCertificate</key>
+	<string>easyPrecision</string>
+	<key>lostSlash</key>
+	<string>persistentPolyfill</string>
+	<key>robustMend</key>
+	<string>relationalScope</string>
+	<key>scaleviaactivity</key>
+	<string>canDisposeChecklist</string>
+	<key>shouldRestartSwitch</key>
+	<string>occasionInteraction</string>
+	<key>usedMend</key>
+	<string>selectedternary</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedBatch</key>
+	<string>characterCoord</string>
+	<key>functionalTable</key>
+	<string>dispatchresolver</string>
+	<key>renderpreview</key>
+	<string>giftvelocity</string>
+	<key>samplecontextspacing</key>
+	<string>greatTolerance</string>
+</dict>
+</plist>

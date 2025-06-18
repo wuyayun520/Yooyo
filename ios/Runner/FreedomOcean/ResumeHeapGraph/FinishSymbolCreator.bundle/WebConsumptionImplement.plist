@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disparateCubit</key>
+	<string>shouldHandleAnimatedContainer</string>
+	<key>eagerResource</key>
+	<string>reusableAnimator</string>
+	<key>nativeSession</key>
+	<string>persistentConnector</string>
+	<key>publicStatus</key>
+	<string>originalcontainer</string>
+	<key>shouldCacheChallenge</key>
+	<string>canFetchScale</string>
+	<key>signScale</key>
+	<string>persistrepository</string>
+	<key>subtleAlert</key>
+	<string>shouldrebuildbehavior</string>
+	<key>webgrid</key>
+	<string>equalizationFacade</string>
+	<key>widgetinset</key>
+	<string>retainedReceiver</string>
+</dict>
+</plist>

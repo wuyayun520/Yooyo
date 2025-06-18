@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocResponse</key>
+	<string>searcherName</string>
+	<key>ephemeralMaterial</key>
+	<string>canStartVariant</string>
+	<key>opaqueConsumer</key>
+	<string>transitionSegment</string>
+	<key>parallelScene</key>
+	<string>mediumRow</string>
+	<key>rapidtopicstate</key>
+	<string>draggableImpact</string>
+	<key>retainedTentative</key>
+	<string>projectLevel</string>
+	<key>shouldYieldTabBar</key>
+	<string>pauseCaption</string>
+	<key>timeDelay</key>
+	<string>backwardWrapper</string>
+</dict>
+</plist>

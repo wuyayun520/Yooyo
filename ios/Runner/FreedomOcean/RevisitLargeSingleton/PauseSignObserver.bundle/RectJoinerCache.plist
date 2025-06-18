@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedAsync</key>
+	<string>disparateConsumer</string>
+	<key>confidentialityLeft</key>
+	<string>shouldTrainController</string>
+	<key>popupstagestatus</key>
+	<string>localizationSingleton</string>
+	<key>routerwithchain</key>
+	<string>loopFunction</string>
+	<key>singleUsage</key>
+	<string>volumeKind</string>
+	<key>streamzone</key>
+	<string>accordionTask</string>
+</dict>
+</plist>

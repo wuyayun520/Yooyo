@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalloss</key>
+	<string>bitrateMode</string>
+	<key>customDrawer</key>
+	<string>modelResponse</string>
+	<key>evaluationlocation</key>
+	<string>canSetStateMatrix</string>
+	<key>flexkind</key>
+	<string>managerVar</string>
+	<key>ignoredSession</key>
+	<string>detachCycle</string>
+	<key>parallelVector</key>
+	<string>inflateChecklist</string>
+	<key>smartLayer</key>
+	<string>equipmentinteractor</string>
+	<key>transformercontrast</key>
+	<string>mediaRight</string>
+</dict>
+</plist>

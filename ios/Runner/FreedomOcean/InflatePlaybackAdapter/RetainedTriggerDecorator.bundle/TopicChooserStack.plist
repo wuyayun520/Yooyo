@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>floatzone</key>
+	<string>unmarshalException</string>
+	<key>immediateSubpixel</key>
+	<string>canRestartConvolution</string>
+	<key>independentutilborder</key>
+	<string>taskValidation</string>
+	<key>loadtext</key>
+	<string>navigateDelegate</string>
+	<key>mutablelayerspeed</key>
+	<string>dedicatedScale</string>
+	<key>persistentSwitch</key>
+	<string>shouldRebuildDialogs</string>
+	<key>popchart</key>
+	<string>shouldCancelPageView</string>
+	<key>soundFormat</key>
+	<string>unbindTangent</string>
+	<key>subtleObject</key>
+	<string>multiplicationeffect</string>
+	<key>taskhead</key>
+	<string>otherMesh</string>
+</dict>
+</plist>

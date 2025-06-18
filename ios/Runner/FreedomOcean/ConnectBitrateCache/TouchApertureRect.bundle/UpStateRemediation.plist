@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatestateful</key>
+	<string>shouldCacheSubpixel</string>
+	<key>configurationpadding</key>
+	<string>slashMemento</string>
+	<key>directlyHash</key>
+	<string>shouldSaveInstruction</string>
+	<key>enabledReplica</key>
+	<string>detachTitle</string>
+	<key>invisibleSegue</key>
+	<string>localBandwidth</string>
+	<key>logrotation</key>
+	<string>constraintVisible</string>
+	<key>provisionValidation</key>
+	<string>observeException</string>
+</dict>
+</plist>

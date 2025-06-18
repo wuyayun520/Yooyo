@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedlistview</key>
+	<string>sophisticatedNavigation</string>
+	<key>intermediateKernel</key>
+	<string>activeCombiner</string>
+	<key>shouldAnimateIcon</key>
+	<string>routerLeft</string>
+	<key>temporarycubit</key>
+	<string>layoutgesture</string>
+	<key>timertag</key>
+	<string>shouldSaveSpot</string>
+</dict>
+</plist>

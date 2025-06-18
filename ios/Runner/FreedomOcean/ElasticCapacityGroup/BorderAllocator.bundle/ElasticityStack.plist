@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveSignature</key>
+	<string>entropycenter</string>
+	<key>frameTail</key>
+	<string>unmountpopup</string>
+	<key>globalDetector</key>
+	<string>shouldCancelStoryboard</string>
+	<key>immediateDelivery</key>
+	<string>animatedSemantics</string>
+	<key>requiredAnimator</key>
+	<string>rebuildwidget</string>
+	<key>sortedSwitch</key>
+	<string>hasresource</string>
+</dict>
+</plist>

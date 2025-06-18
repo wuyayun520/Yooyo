@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alpharequest</key>
+	<string>evolutionSaturation</string>
+	<key>fixedStore</key>
+	<string>shouldUpdateDocument</string>
+	<key>mediocreExponent</key>
+	<string>semanticsHue</string>
+	<key>observerstagesize</key>
+	<string>persistOverlay</string>
+	<key>oldTimeline</key>
+	<string>consumptionFeedback</string>
+	<key>scaffoldSkewX</key>
+	<string>compositionalFormat</string>
+	<key>shouldPopSubpixel</key>
+	<string>easyAnimation</string>
+</dict>
+</plist>

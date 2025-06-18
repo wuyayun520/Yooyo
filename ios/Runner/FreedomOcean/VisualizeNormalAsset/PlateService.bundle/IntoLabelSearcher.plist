@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileCertificate</key>
+	<string>appbarStrategy</string>
+	<key>concreteImage</key>
+	<string>statefulSign</string>
+	<key>directExtension</key>
+	<string>directlyProcessor</string>
+	<key>eventFrequency</key>
+	<string>secondSample</string>
+	<key>imperativeDropdownButton</key>
+	<string>widgetBrightness</string>
+	<key>publisherBrightness</key>
+	<string>reconcileNode</string>
+</dict>
+</plist>

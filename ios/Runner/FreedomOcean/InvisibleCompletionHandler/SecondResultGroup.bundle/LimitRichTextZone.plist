@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedCompleter</key>
+	<string>menuShape</string>
+	<key>awaitrecursion</key>
+	<string>reconcileProvider</string>
+	<key>extensionContrast</key>
+	<string>platewithoutstyle</string>
+	<key>lockproject</key>
+	<string>liteCache</string>
+	<key>mediaversusaction</key>
+	<string>interactiveChannels</string>
+	<key>semanticMenu</key>
+	<string>canUnmountCosine</string>
+	<key>shouldPopTangent</key>
+	<string>segmentTransparency</string>
+	<key>shouldShowChannels</key>
+	<string>currentQueue</string>
+	<key>statelessrect</key>
+	<string>channelsTier</string>
+</dict>
+</plist>

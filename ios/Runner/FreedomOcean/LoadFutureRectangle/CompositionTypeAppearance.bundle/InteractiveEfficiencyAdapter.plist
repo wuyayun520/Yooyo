@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activateconfiguration</key>
+	<string>parseScale</string>
+	<key>primaryRect</key>
+	<string>grainBridge</string>
+	<key>rapidrecursion</key>
+	<string>sortedBloc</string>
+	<key>shouldDetachSizedBox</key>
+	<string>shouldBuildContraction</string>
+	<key>shouldYieldColumn</key>
+	<string>bitrateStructure</string>
+</dict>
+</plist>

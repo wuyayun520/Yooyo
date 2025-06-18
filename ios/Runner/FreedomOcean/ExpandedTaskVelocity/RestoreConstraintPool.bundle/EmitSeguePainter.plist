@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopSizedBox</key>
+	<string>animatedDetector</string>
+	<key>diversifiedNavigator</key>
+	<string>marginForm</string>
+	<key>greatPolygon</key>
+	<string>cartesianShader</string>
+	<key>quaternionFeedback</key>
+	<string>transformNorm</string>
+	<key>rectShade</key>
+	<string>routeSizedBox</string>
+	<key>shouldNavigateModulus</key>
+	<string>primaryScreen</string>
+	<key>shouldRestartMatrix</key>
+	<string>quantizermember</string>
+	<key>touchbound</key>
+	<string>fusedTransition</string>
+</dict>
+</plist>

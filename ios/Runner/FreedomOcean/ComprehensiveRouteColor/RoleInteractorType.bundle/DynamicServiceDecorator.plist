@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>explicitMaterial</key>
+	<string>customDialogs</string>
+	<key>overlayRotation</key>
+	<string>resizableCycle</string>
+	<key>priorzone</key>
+	<string>analogyBottom</string>
+	<key>schemaAlignment</key>
+	<string>descriptorformalignment</string>
+	<key>textcontextduration</key>
+	<string>shouldUnmountedSignature</string>
+	<key>topicconsumer</key>
+	<string>inactiveGift</string>
+</dict>
+</plist>

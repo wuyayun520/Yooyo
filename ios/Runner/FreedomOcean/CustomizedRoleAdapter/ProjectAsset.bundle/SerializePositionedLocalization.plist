@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customReduction</key>
+	<string>shouldCacheEquipment</string>
+	<key>defaultTool</key>
+	<string>replaceNotification</string>
+	<key>materialEmitter</key>
+	<string>subtleDelegate</string>
+	<key>materialGrayscale</key>
+	<string>shouldUnmountCache</string>
+	<key>pinchableplayback</key>
+	<string>minArithmetic</string>
+	<key>similarOperation</key>
+	<string>canEmitCell</string>
+	<key>smallAmortization</key>
+	<string>defaultTechnique</string>
+</dict>
+</plist>

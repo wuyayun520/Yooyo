@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatestamp</key>
+	<string>shouldObserveModal</string>
+	<key>decorationKind</key>
+	<string>rapidTopic</string>
+	<key>largeStroke</key>
+	<string>descriptiontag</string>
+	<key>persistentGridView</key>
+	<string>coordinatorBound</string>
+	<key>sequentialMission</key>
+	<string>saveSkin</string>
+	<key>shouldDispatchCatalyst</key>
+	<string>shouldValidateObserver</string>
+	<key>statethroughcycle</key>
+	<string>spritePosition</string>
+	<key>toolresource</key>
+	<string>cartesianAwait</string>
+</dict>
+</plist>

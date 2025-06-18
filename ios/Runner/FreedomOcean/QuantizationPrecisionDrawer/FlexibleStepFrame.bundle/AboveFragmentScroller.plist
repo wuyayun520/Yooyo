@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumptiontint</key>
+	<string>asynchronousPublisher</string>
+	<key>diffableAnalyzer</key>
+	<string>mountedCupertino</string>
+	<key>expandedstrength</key>
+	<string>diffableExpanded</string>
+	<key>fusedInterface</key>
+	<string>movetopic</string>
+	<key>parseshader</key>
+	<string>shouldDetachCell</string>
+	<key>shouldRenderConsumer</key>
+	<string>signatureVariable</string>
+	<key>slashforsystem</key>
+	<string>materialMap</string>
+	<key>tabviewshade</key>
+	<string>substantialPager</string>
+	<key>tensorConverter</key>
+	<string>canBindPageView</string>
+</dict>
+</plist>

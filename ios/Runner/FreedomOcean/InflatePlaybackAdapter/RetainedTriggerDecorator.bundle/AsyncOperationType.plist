@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopClipper</key>
+	<string>mutableExpanded</string>
+	<key>ephemeralseguename</key>
+	<string>uniquePoint</string>
+	<key>impactcoord</key>
+	<string>flexibleanimation</string>
+	<key>lazyRect</key>
+	<string>canFetchCycle</string>
+	<key>requiredProtocol</key>
+	<string>elasticTransition</string>
+	<key>respectiveButton</key>
+	<string>shouldSkipStream</string>
+	<key>scrollableRemediation</key>
+	<string>statefulMediator</string>
+	<key>subscriptionskewx</key>
+	<string>canDetachBox</string>
+	<key>sustainableTexture</key>
+	<string>canRestartView</string>
+</dict>
+</plist>

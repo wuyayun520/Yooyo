@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>granularTouch</key>
+	<string>directlyMovement</string>
+	<key>mediocreDescription</key>
+	<string>commonEntity</string>
+	<key>oldSubscriber</key>
+	<string>shouldUpdateScale</string>
+	<key>processawait</key>
+	<string>accordionNotification</string>
+</dict>
+</plist>

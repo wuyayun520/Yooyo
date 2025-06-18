@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controlleramongstyle</key>
+	<string>fixedController</string>
+	<key>desktopfactory</key>
+	<string>metricsalignment</string>
+	<key>grayscaleInset</key>
+	<string>canMountDescriptor</string>
+	<key>resilientCompletion</key>
+	<string>boxshadowtension</string>
+	<key>shouldShowAnchor</key>
+	<string>navigateCosine</string>
+	<key>spinevisibility</key>
+	<string>deserializeDecoration</string>
+</dict>
+</plist>

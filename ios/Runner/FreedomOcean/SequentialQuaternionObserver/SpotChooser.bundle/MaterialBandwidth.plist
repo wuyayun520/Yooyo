@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedVertex</key>
+	<string>projectVisibility</string>
+	<key>completerInteraction</key>
+	<string>tappableResponder</string>
+	<key>curvestream</key>
+	<string>formatPet</string>
+	<key>imperativeTransition</key>
+	<string>dropdownbuttoncallback</string>
+	<key>intermediateaspectmode</key>
+	<string>decodeConfiguration</string>
+	<key>logDirection</key>
+	<string>reliabilityShape</string>
+	<key>newestTimer</key>
+	<string>replaceGraph</string>
+	<key>priorityTail</key>
+	<string>spineInset</string>
+	<key>shouldBindController</key>
+	<string>encodeaxis</string>
+</dict>
+</plist>

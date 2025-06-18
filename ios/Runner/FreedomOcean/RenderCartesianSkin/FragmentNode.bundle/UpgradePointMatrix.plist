@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncwithfunction</key>
+	<string>persistentMenu</string>
+	<key>controllerdependency</key>
+	<string>pinchableRoute</string>
+	<key>efficiencyVisible</key>
+	<string>assetValidation</string>
+	<key>missedObject</key>
+	<string>paintObserver</string>
+	<key>newestMapper</key>
+	<string>canEndRole</string>
+	<key>richtexttail</key>
+	<string>logarithmProxy</string>
+	<key>shouldRenderProfile</key>
+	<string>animatedCombiner</string>
+	<key>shouldUnbindReference</key>
+	<string>buildloop</string>
+	<key>statefulExpanded</key>
+	<string>canInflateCapsule</string>
+</dict>
+</plist>

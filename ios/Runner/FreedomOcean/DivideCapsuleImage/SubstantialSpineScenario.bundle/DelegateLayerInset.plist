@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>invisibleFeature</key>
+	<string>prepareAppBar</string>
+	<key>seamlessDetail</key>
+	<string>scrollableTopic</string>
+	<key>similargridview</key>
+	<string>robustHistogram</string>
+	<key>substantialLayout</key>
+	<string>interactiveEfficiency</string>
+	<key>utilflyweightpadding</key>
+	<string>shouldUnmountPadding</string>
+</dict>
+</plist>

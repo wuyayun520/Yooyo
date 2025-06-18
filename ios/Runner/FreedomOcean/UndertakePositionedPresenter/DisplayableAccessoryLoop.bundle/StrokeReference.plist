@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonModule</key>
+	<string>subtleImpact</string>
+	<key>ontoolchanged</key>
+	<string>mountCompletion</string>
+	<key>parallelFuture</key>
+	<string>mountLoss</string>
+	<key>permanentContrast</key>
+	<string>decouplestorage</string>
+	<key>rapidCursor</key>
+	<string>mediumnotation</string>
+	<key>shouldObserveCheckbox</key>
+	<string>tappablesubscriptionfrequency</string>
+	<key>thresholdSpeed</key>
+	<string>activatedPreview</string>
+</dict>
+</plist>

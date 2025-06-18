@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedBandwidth</key>
+	<string>chapterforplatform</string>
+	<key>bulletSpeed</key>
+	<string>adaptiveMetrics</string>
+	<key>parallelTabView</key>
+	<string>mediocreTextField</string>
+	<key>rapidQueue</key>
+	<string>diffableImpression</string>
+	<key>semanticoperationrotation</key>
+	<string>apertureCommand</string>
+	<key>sinkPressure</key>
+	<string>createTool</string>
+</dict>
+</plist>

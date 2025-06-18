@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appendcubit</key>
+	<string>discardedRadio</string>
+	<key>criticalInteractor</key>
+	<string>impressionName</string>
+	<key>deferredGesture</key>
+	<string>emitFactory</string>
+	<key>descriptionDensity</key>
+	<string>grainOffset</string>
+	<key>dropdownbuttonOpacity</key>
+	<string>hardExponent</string>
+	<key>equalizationsingletonresponse</key>
+	<string>shouldAnimateGate</string>
+	<key>mediaqueryrestriction</key>
+	<string>cursorlifecycle</string>
+	<key>respectiveutil</key>
+	<string>selectedConsumer</string>
+	<key>shouldUnmountedTernary</key>
+	<string>oldPet</string>
+</dict>
+</plist>

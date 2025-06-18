@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateInteraction</key>
+	<string>synchronousPosition</string>
+	<key>labeltaskmargin</key>
+	<string>gestureBridge</string>
+	<key>shouldPresentAspectRatio</key>
+	<string>cubeParam</string>
+	<key>shouldRebuildCompletion</key>
+	<string>robustColor</string>
+	<key>smallColor</key>
+	<string>cacheMomentum</string>
+	<key>splitterDepth</key>
+	<string>skinLayer</string>
+	<key>tangentindex</key>
+	<string>sceneoffset</string>
+	<key>typicaltabbarspeed</key>
+	<string>gridviewLeft</string>
+</dict>
+</plist>

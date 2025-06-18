@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynctheme</key>
+	<string>hardelement</string>
+	<key>beginnersemanticsshape</key>
+	<string>unbindCoordinator</string>
+	<key>eagerBuffer</key>
+	<string>unregisterRadius</string>
+	<key>multiplytitle</key>
+	<string>specifierBrightness</string>
+	<key>progressbarCenter</key>
+	<string>beginnerObject</string>
+	<key>tabviewtext</key>
+	<string>robustFrame</string>
+	<key>transpileisolate</key>
+	<string>inflatePoint</string>
+	<key>widgetPressure</key>
+	<string>fusedInfo</string>
+</dict>
+</plist>

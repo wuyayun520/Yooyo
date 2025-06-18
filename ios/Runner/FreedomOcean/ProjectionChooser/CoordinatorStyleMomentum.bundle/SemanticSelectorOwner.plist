@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorkindrotation</key>
+	<string>comprehensiveSensor</string>
+	<key>poptexture</key>
+	<string>requestprocessbehavior</string>
+	<key>receivestorage</key>
+	<string>transitionMap</string>
+	<key>secondStore</key>
+	<string>shouldUpdateAccessory</string>
+	<key>shouldValidateNotification</key>
+	<string>copyGrain</string>
+	<key>smartInstruction</key>
+	<string>shouldResumeHistogram</string>
+	<key>stampAcceleration</key>
+	<string>originalCompletion</string>
+	<key>webMomentum</key>
+	<string>canPauseGesture</string>
+</dict>
+</plist>

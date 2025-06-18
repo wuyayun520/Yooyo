@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>opaquerectfeedback</key>
+	<string>canResumePriority</string>
+	<key>polyfillstatus</key>
+	<string>shouldDecodeCupertino</string>
+	<key>skinInset</key>
+	<string>dissociateState</string>
+	<key>standaloneContrast</key>
+	<string>movesample</string>
+</dict>
+</plist>

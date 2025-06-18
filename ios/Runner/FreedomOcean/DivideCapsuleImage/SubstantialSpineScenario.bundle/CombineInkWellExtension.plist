@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateTag</key>
+	<string>transformSymbol</string>
+	<key>comprehensivescalability</key>
+	<string>pausestate</string>
+	<key>featureinterval</key>
+	<string>adaptiveShader</string>
+	<key>imperativeLifecycle</key>
+	<string>paintTransition</string>
+	<key>shouldReplaceView</key>
+	<string>scaffoldPrototype</string>
+	<key>spriteacceleration</key>
+	<string>convertPosition</string>
+	<key>taskCoord</key>
+	<string>serializestate</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainernotation</key>
+	<string>canRestartGesture</string>
+	<key>awaitfromchain</key>
+	<string>resetCoordinator</string>
+	<key>cartesianAsync</key>
+	<string>canPresentReference</string>
+	<key>hardChannels</key>
+	<string>rowRate</string>
+	<key>hierarchicalPlayback</key>
+	<string>opaquemodel</string>
+	<key>requiredSwitch</key>
+	<string>cardFunction</string>
+	<key>resilientEfficiency</key>
+	<string>futurePosition</string>
+</dict>
+</plist>

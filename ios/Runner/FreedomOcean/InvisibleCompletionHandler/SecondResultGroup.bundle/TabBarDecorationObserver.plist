@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basephasecount</key>
+	<string>declarativeChannel</string>
+	<key>basicSorter</key>
+	<string>assetDelay</string>
+	<key>delicateGridView</key>
+	<string>granularContraction</string>
+	<key>imperativemodal</key>
+	<string>temporaryCustomPaint</string>
+	<key>permutationValidation</key>
+	<string>endInterpolation</string>
+</dict>
+</plist>

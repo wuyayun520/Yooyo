@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoResponse</key>
+	<string>optionmodeformat</string>
+	<key>awaitviacommand</key>
+	<string>missedSound</string>
+	<key>declarativeScroller</key>
+	<string>webEvolution</string>
+	<key>sceneTag</key>
+	<string>shouldAttachSegue</string>
+	<key>searcherScale</key>
+	<string>multiplicationTag</string>
+	<key>shouldPopOptimizer</key>
+	<string>shouldDetachCurve</string>
+	<key>subtleNorm</key>
+	<string>canTransformVariant</string>
+</dict>
+</plist>

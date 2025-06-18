@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hashDistance</key>
+	<string>flexibleSine</string>
+	<key>notificationType</key>
+	<string>mediumTime</string>
+	<key>provisionMode</key>
+	<string>statelessstatus</string>
+	<key>shouldmountnotification</key>
+	<string>marginIndex</string>
+</dict>
+</plist>

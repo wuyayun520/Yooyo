@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedQueue</key>
+	<string>canHandleEquipment</string>
+	<key>concurrentScroll</key>
+	<string>shouldValidateBox</string>
+	<key>cupertinoAnalogy</key>
+	<string>canAttachScaffold</string>
+	<key>flexibleAperture</key>
+	<string>undertakeVector</string>
+	<key>painterresponse</key>
+	<string>hyperbolicModel</string>
+	<key>revisitmenu</key>
+	<string>primaryPermutation</string>
+	<key>staticRange</key>
+	<string>subsequentBloc</string>
+	<key>switchRotation</key>
+	<string>denseHash</string>
+	<key>triggerBehavior</key>
+	<string>liteRecursion</string>
+</dict>
+</plist>

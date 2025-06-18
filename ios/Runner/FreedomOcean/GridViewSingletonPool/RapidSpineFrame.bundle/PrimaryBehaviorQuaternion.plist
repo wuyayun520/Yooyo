@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistBehavior</key>
+	<string>canLayoutPainter</string>
+	<key>nativeScreen</key>
+	<string>geometricMonster</string>
+	<key>prevhashspeed</key>
+	<string>notifyMovement</string>
+	<key>processsizedbox</key>
+	<string>shouldRenderConsumer</string>
+	<key>shouldEncodeScreen</key>
+	<string>finderDensity</string>
+	<key>titleDirection</key>
+	<string>streamlineanimation</string>
+</dict>
+</plist>

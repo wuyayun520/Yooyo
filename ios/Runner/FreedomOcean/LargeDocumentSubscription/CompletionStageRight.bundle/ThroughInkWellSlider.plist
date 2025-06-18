@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disparateGrain</key>
+	<string>mediaFunction</string>
+	<key>lazyButton</key>
+	<string>analyzeDuration</string>
+	<key>mediaqueryinterface</key>
+	<string>uniformMedia</string>
+	<key>oldCache</key>
+	<string>playbackState</string>
+	<key>protectedresource</key>
+	<string>isAccessory</string>
+</dict>
+</plist>

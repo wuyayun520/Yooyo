@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderSkewX</key>
+	<string>tabbarVisible</string>
+	<key>completertraversal</key>
+	<string>modulusRight</string>
+	<key>numericalWidget</key>
+	<string>shouldPersistStream</string>
+	<key>shouldContinueMargin</key>
+	<string>histogramvariabletransparency</string>
+	<key>shouldformatbitrate</key>
+	<string>layoutwidget</string>
+</dict>
+</plist>

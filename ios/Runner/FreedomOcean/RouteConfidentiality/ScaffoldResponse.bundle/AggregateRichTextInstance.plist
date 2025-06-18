@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bundlepainter</key>
+	<string>reusableData</string>
+	<key>diffableCompletion</key>
+	<string>checklistcoordinator</string>
+	<key>directHero</key>
+	<string>cardStyle</string>
+	<key>immutableMerger</key>
+	<string>exitasset</string>
+	<key>offsetName</key>
+	<string>immutableGrid</string>
+	<key>tappableLinker</key>
+	<string>iterativeTransition</string>
+</dict>
+</plist>

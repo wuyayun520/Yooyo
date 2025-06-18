@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedProfile</key>
+	<string>canCacheLoss</string>
+	<key>rapidGrayscale</key>
+	<string>dynamicFragments</string>
+	<key>resilientSound</key>
+	<string>renderFragment</string>
+	<key>shouldPushAccessory</key>
+	<string>referenceTemple</string>
+	<key>shouldcancelcontraction</key>
+	<string>reactiveItem</string>
+	<key>significantOverlay</key>
+	<string>reliabilityoffset</string>
+	<key>tensorMonster</key>
+	<string>sustainableGrid</string>
+</dict>
+</plist>

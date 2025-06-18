@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryloop</key>
+	<string>canNotifyRow</string>
+	<key>bloccolor</key>
+	<string>handleparticle</string>
+	<key>curveDirection</key>
+	<string>reusableComposition</string>
+	<key>disabledSpecifier</key>
+	<string>slashawait</string>
+	<key>granularThreshold</key>
+	<string>singleContrast</string>
+	<key>inactiveHeap</key>
+	<string>resizePosition</string>
+	<key>menubound</key>
+	<string>errorbyfunction</string>
+</dict>
+</plist>

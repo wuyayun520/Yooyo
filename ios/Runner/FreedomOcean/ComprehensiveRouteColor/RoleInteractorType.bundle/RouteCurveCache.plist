@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compilemenu</key>
+	<string>hashVisitor</string>
+	<key>deserializeplate</key>
+	<string>agileScene</string>
+	<key>durationparticle</key>
+	<string>shouldRenderTable</string>
+	<key>gridviewobserverbottom</key>
+	<string>keepConvolution</string>
+	<key>resourcebuffersize</key>
+	<string>ascentBrightness</string>
+	<key>respectiveFrame</key>
+	<string>responsiveEquivalent</string>
+	<key>vectorFrequency</key>
+	<string>desktopTraversal</string>
+</dict>
+</plist>

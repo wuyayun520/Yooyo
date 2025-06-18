@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderasset</key>
+	<string>publicTrajectory</string>
+	<key>fusedFuture</key>
+	<string>widgetMediator</string>
+	<key>mergerappearance</key>
+	<string>partitionStore</string>
+	<key>publicduration</key>
+	<string>deploynavigation</string>
+	<key>scenarioTransparency</key>
+	<string>canPauseProtocol</string>
+	<key>statefulForce</key>
+	<string>impactCenter</string>
+	<key>vertexstatus</key>
+	<string>immutableSample</string>
+</dict>
+</plist>

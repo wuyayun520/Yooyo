@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>efficiencyacceleration</key>
+	<string>unregisterInjection</string>
+	<key>hascosine</key>
+	<string>eagerGrayscale</string>
+	<key>layoutfunctionforce</key>
+	<string>listenTabView</string>
+	<key>localslideroffset</key>
+	<string>canLayoutNib</string>
+	<key>maplikescope</key>
+	<string>promiseBehavior</string>
+	<key>prismaticWidget</key>
+	<string>channelsPadding</string>
+	<key>shouldFormatHeap</key>
+	<string>shouldRestartSession</string>
+	<key>transitionmetrics</key>
+	<string>shouldStopGradient</string>
+</dict>
+</plist>

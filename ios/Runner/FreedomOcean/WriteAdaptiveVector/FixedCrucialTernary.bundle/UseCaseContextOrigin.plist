@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultStateful</key>
+	<string>consultativeCoordinator</string>
+	<key>dependencyLeft</key>
+	<string>canFinishNavigator</string>
+	<key>materialException</key>
+	<string>decodeResult</string>
+	<key>opaqueTitle</key>
+	<string>canSaveDuration</string>
+	<key>particleemitter</key>
+	<string>draggableCapacity</string>
+	<key>permanentRect</key>
+	<string>configurationversuschain</string>
+	<key>schedulerOffset</key>
+	<string>selectedswitch</string>
+	<key>shouldSetStateMomentum</key>
+	<string>slideruntillayer</string>
+	<key>smartprovider</key>
+	<string>streamGift</string>
+</dict>
+</plist>

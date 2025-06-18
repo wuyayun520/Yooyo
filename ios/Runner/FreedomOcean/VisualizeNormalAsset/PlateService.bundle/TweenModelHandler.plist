@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalTolerance</key>
+	<string>canRenderSubpixel</string>
+	<key>decodeentity</key>
+	<string>usecaseaboutfunction</string>
+	<key>invisibleDisclaimer</key>
+	<string>defaultworkflow</string>
+	<key>profilepatternoffset</key>
+	<string>unactivatedPoint</string>
+	<key>smartremediation</key>
+	<string>pauseFuture</string>
+	<key>unactivatedAlpha</key>
+	<string>deliverySaturation</string>
+</dict>
+</plist>

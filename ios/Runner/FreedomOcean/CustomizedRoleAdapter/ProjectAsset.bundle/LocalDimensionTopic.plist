@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticScene</key>
+	<string>onflexchanged</string>
+	<key>aspectratioStyle</key>
+	<string>displayableSensor</string>
+	<key>behaviorKind</key>
+	<string>intuitivereducer</string>
+	<key>exceptionDuration</key>
+	<string>fixedTriangles</string>
+	<key>onindicatortap</key>
+	<string>euclideanBinder</string>
+	<key>priorProfile</key>
+	<string>topicAdapter</string>
+	<key>rectmomentum</key>
+	<string>savecursor</string>
+	<key>seamlessTransformer</key>
+	<string>invisibleAlpha</string>
+	<key>shouldAttachStack</key>
+	<string>showMenu</string>
+	<key>themeCoord</key>
+	<string>optionContrast</string>
+</dict>
+</plist>

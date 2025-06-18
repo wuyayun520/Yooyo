@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentinteraction</key>
+	<string>visibleFlex</string>
+	<key>criticalNotation</key>
+	<string>shouldCreateBatch</string>
+	<key>delegatebound</key>
+	<string>mediaqueryKind</string>
+	<key>entropyroute</key>
+	<string>subpixelOrientation</string>
+	<key>flexiblesearcher</key>
+	<string>decoupleTransition</string>
+	<key>handlepageview</key>
+	<string>compareInteractor</string>
+	<key>immutablesinekind</key>
+	<string>materializerForce</string>
+	<key>invisiblePageView</key>
+	<string>referencetop</string>
+	<key>missedInkWell</key>
+	<string>shouldCancelReduction</string>
+</dict>
+</plist>

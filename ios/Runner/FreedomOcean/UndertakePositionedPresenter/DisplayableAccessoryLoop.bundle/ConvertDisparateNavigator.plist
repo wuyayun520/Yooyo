@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agilewidgetorigin</key>
+	<string>routeTouch</string>
+	<key>binderIndex</key>
+	<string>shouldSaveDrawer</string>
+	<key>durationPosition</key>
+	<string>completerFeedback</string>
+	<key>functionalShape</key>
+	<string>streamlineDelegate</string>
+	<key>inheritedtween</key>
+	<string>mechanismDirection</string>
+	<key>missedScope</key>
+	<string>shouldFormatBullet</string>
+	<key>shouldContinueLog</key>
+	<string>fusedFrame</string>
+	<key>shouldSaveCell</key>
+	<string>vectorizeChannel</string>
+	<key>shouldSerializeSensor</key>
+	<string>commonItem</string>
+	<key>standaloneAppBar</key>
+	<string>undertakeUseCase</string>
+</dict>
+</plist>

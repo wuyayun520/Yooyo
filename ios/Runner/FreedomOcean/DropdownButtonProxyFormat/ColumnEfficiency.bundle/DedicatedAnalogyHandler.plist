@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completioninfo</key>
+	<string>consultativeHistogram</string>
+	<key>constraintinterval</key>
+	<string>threadPadding</string>
+	<key>criticalNavigation</key>
+	<string>requiredRectangle</string>
+	<key>declarativeLoader</key>
+	<string>canTransitionSign</string>
+	<key>formatTop</key>
+	<string>signRotation</string>
+	<key>materialinjectionrate</key>
+	<string>configurationresponse</string>
+	<key>seamlessObject</key>
+	<string>memberBrightness</string>
+	<key>shouldPauseTable</key>
+	<string>completionTask</string>
+	<key>spotInteraction</key>
+	<string>pointCoord</string>
+</dict>
+</plist>

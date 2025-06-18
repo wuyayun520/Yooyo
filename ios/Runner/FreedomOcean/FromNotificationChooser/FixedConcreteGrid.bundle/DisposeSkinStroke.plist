@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelaboutmemento</key>
+	<string>canDeserializeShader</string>
+	<key>displayabledropdownbuttondensity</key>
+	<string>elasticemitter</string>
+	<key>listenerlevelbottom</key>
+	<string>consumeStore</string>
+	<key>storagePadding</key>
+	<string>respectiveDescent</string>
+	<key>visiblePrecision</key>
+	<string>backwardTexture</string>
+</dict>
+</plist>

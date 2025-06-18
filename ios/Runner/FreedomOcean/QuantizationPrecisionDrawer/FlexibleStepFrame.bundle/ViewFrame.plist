@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>audioState</key>
+	<string>acceleratePresenter</string>
+	<key>capacitiesDirection</key>
+	<string>reconcileTask</string>
+	<key>concurrentdescription</key>
+	<string>propagatepreview</string>
+	<key>configurationHue</key>
+	<string>equivalentstatus</string>
+	<key>decorationRate</key>
+	<string>finderColor</string>
+	<key>iconAppearance</key>
+	<string>pushprovider</string>
+	<key>subtleReference</key>
+	<string>encodeCell</string>
+	<key>sustainablePoint</key>
+	<string>iterativeRange</string>
+	<key>tickeroradapter</key>
+	<string>autoPainter</string>
+</dict>
+</plist>

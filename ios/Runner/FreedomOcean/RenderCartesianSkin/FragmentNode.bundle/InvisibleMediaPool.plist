@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveFactory</key>
+	<string>overlayTemple</string>
+	<key>declarativeModel</key>
+	<string>customizedConverter</string>
+	<key>directlyFormat</key>
+	<string>subtleConsumer</string>
+	<key>intuitiveUsage</key>
+	<string>documentOrientation</string>
+	<key>localizationtypeappearance</key>
+	<string>canPrepareDialogs</string>
+	<key>radiusfortask</key>
+	<string>canPushCompletion</string>
+	<key>reducerCoord</key>
+	<string>shouldReplaceCapsule</string>
+	<key>shouldTransitionObserver</key>
+	<string>observerValue</string>
+	<key>taxonomyForce</key>
+	<string>schematint</string>
+</dict>
+</plist>

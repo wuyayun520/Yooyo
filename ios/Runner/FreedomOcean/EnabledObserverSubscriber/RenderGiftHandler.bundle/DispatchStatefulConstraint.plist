@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dialogsInterval</key>
+	<string>eventBehavior</string>
+	<key>listenerOrigin</key>
+	<string>receiverrotation</string>
+	<key>remediationShade</key>
+	<string>delicateInformation</string>
+	<key>shouldCreateMission</key>
+	<string>customizedLifecycle</string>
+	<key>sliderDepth</key>
+	<string>rectdirection</string>
+	<key>sortercolor</key>
+	<string>positionedTint</string>
+	<key>taxonomyFlags</key>
+	<string>associatedTask</string>
+</dict>
+</plist>

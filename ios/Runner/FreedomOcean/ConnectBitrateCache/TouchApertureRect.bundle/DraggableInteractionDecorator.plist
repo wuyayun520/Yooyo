@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeConstraint</key>
+	<string>renderCupertino</string>
+	<key>dependencyrange</key>
+	<string>parallelProtocol</string>
+	<key>enabledLoop</key>
+	<string>shouldreplaceaperture</string>
+	<key>gateaboutstage</key>
+	<string>instantiateError</string>
+	<key>lastCanvas</key>
+	<string>anchorresult</string>
+	<key>ongramtap</key>
+	<string>componentacceleration</string>
+	<key>stackLocation</key>
+	<string>keyWidget</string>
+</dict>
+</plist>

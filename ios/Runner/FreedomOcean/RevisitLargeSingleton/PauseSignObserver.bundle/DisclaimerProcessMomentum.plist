@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultScaffold</key>
+	<string>accordionPlate</string>
+	<key>otherternary</key>
+	<string>resilientProgressBar</string>
+	<key>replaceanimation</key>
+	<string>ternarySpacing</string>
+	<key>shouldListenStream</key>
+	<string>canEndCapsule</string>
+	<key>shouldSetStateScreen</key>
+	<string>annotatereduction</string>
+	<key>smarterrorinset</key>
+	<string>canCreateBinary</string>
+</dict>
+</plist>

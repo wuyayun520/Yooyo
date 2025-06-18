@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gemOrigin</key>
+	<string>keepSwift</string>
+	<key>geometricsensor</key>
+	<string>eagerScreen</string>
+	<key>invisibleresourcefrequency</key>
+	<string>quantizationFeature</string>
+	<key>newestNotation</key>
+	<string>pauseBrush</string>
+	<key>reductionmethodforce</key>
+	<string>analyzerdensity</string>
+	<key>responsiveMend</key>
+	<string>eventComposite</string>
+	<key>shouldUnmountedStateful</key>
+	<string>yieldbuffer</string>
+	<key>statefulEffect</key>
+	<string>richtextasdecorator</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>easyStep</key>
+	<string>canBuildSample</string>
+	<key>efficiencyDensity</key>
+	<string>rectifyFeature</string>
+	<key>enabledAnimator</key>
+	<string>customizedLayer</string>
+	<key>imperativeDuration</key>
+	<string>actionChain</string>
+</dict>
+</plist>

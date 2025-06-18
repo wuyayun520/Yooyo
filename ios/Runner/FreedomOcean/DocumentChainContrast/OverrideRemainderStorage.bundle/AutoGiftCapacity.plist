@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disparateConstant</key>
+	<string>inheritedLoop</string>
+	<key>reusableCubit</key>
+	<string>promiseForce</string>
+	<key>schedulerDepth</key>
+	<string>opaqueAccessory</string>
+	<key>shouldRebuildTangent</key>
+	<string>canEmitCurve</string>
+	<key>shouldtransitionmodal</key>
+	<string>geometricResolver</string>
+</dict>
+</plist>

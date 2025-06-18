@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialClipper</key>
+	<string>debugLayer</string>
+	<key>delegatebuilder</key>
+	<string>registerFeature</string>
+	<key>fusedMap</key>
+	<string>locateException</string>
+	<key>gridposition</key>
+	<string>interactivezone</string>
+	<key>originalProgressBar</key>
+	<string>deserializeNotification</string>
+	<key>persistentsign</key>
+	<string>statelessanalyzer</string>
+	<key>positionactivitydepth</key>
+	<string>scaffoldFrequency</string>
+	<key>shouldPauseRemainder</key>
+	<string>storeGrid</string>
+	<key>shouldconnectclipper</key>
+	<string>textPlatform</string>
+</dict>
+</plist>

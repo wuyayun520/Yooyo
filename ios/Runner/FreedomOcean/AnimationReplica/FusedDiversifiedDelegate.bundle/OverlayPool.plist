@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>amortizationResponse</key>
+	<string>multiplicationdistance</string>
+	<key>animationbeyondcycle</key>
+	<string>canKeepReduction</string>
+	<key>emitterVelocity</key>
+	<string>canUnmountedBloc</string>
+	<key>immediateIntegrity</key>
+	<string>zoneIndex</string>
+	<key>setstategesture</key>
+	<string>shouldTrainTernary</string>
+	<key>shouldUnmountedMap</key>
+	<string>aspectratioFeedback</string>
+	<key>subsequentNavigator</key>
+	<string>undertakeRow</string>
+</dict>
+</plist>

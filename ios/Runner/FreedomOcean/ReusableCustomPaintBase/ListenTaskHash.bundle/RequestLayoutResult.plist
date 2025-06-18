@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>grayscaleDistance</key>
+	<string>commonRestriction</string>
+	<key>mainNorm</key>
+	<string>painterInterpreter</string>
+	<key>nativeLabel</key>
+	<string>animatedInkWell</string>
+	<key>reusableRect</key>
+	<string>observerDecorator</string>
+	<key>seekappbar</key>
+	<string>updateGrayscale</string>
+	<key>shouldPresentSensor</key>
+	<string>denseDecoration</string>
+	<key>signatureTint</key>
+	<string>sortedScreen</string>
+	<key>tappableTime</key>
+	<string>standaloneaspectratio</string>
+</dict>
+</plist>

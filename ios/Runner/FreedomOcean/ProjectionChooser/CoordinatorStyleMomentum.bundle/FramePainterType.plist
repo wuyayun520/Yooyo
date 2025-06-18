@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerbeyondtype</key>
+	<string>canObserveSlash</string>
+	<key>deferredtriangles</key>
+	<string>mountedAnimatedContainer</string>
+	<key>dropdownbuttonTag</key>
+	<string>ephemeralGraphic</string>
+	<key>errorincludework</key>
+	<string>comprehensiveAlpha</string>
+	<key>infoRotation</key>
+	<string>enabledTechnique</string>
+	<key>mediaBehavior</key>
+	<string>easyGrid</string>
+	<key>replaceaperture</key>
+	<string>lostEvent</string>
+	<key>subscriptioninteraction</key>
+	<string>canHandlePainter</string>
+	<key>tweentransparency</key>
+	<string>constructTransformer</string>
+</dict>
+</plist>

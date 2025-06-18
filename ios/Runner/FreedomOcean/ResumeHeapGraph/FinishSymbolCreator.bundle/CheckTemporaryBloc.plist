@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeasync</key>
+	<string>replaceFragment</string>
+	<key>catalystShape</key>
+	<string>aperturecurve</string>
+	<key>eagerConstraint</key>
+	<string>shouldDispatchTextField</string>
+	<key>gatevariablekind</key>
+	<string>shouldparseflex</string>
+	<key>injectionValidation</key>
+	<string>publicBoxShadow</string>
+	<key>publishcomposition</key>
+	<string>utilEnvironment</string>
+	<key>shouldYieldCustomPaint</key>
+	<string>exponentProxy</string>
+	<key>shouldnavigateswitch</key>
+	<string>petbandwidth</string>
+	<key>subsequentDelegate</key>
+	<string>providerwithoutscope</string>
+	<key>taskKind</key>
+	<string>renameLocalization</string>
+</dict>
+</plist>

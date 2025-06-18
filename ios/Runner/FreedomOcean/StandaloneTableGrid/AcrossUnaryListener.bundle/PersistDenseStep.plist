@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredFormat</key>
+	<string>mediumLoop</string>
+	<key>directTexture</key>
+	<string>canListenEffect</string>
+	<key>diversifiedTabView</key>
+	<string>materialAcceleration</string>
+	<key>semanticframe</key>
+	<string>accessibleDescriptor</string>
+	<key>shouldmountedactivity</key>
+	<string>shouldUpdateBoxShadow</string>
+	<key>subscribershade</key>
+	<string>priorCubit</string>
+</dict>
+</plist>

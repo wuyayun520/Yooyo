@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxTheme</key>
+	<string>checkboxOrientation</string>
+	<key>crudeEquivalent</key>
+	<string>concurrentMobile</string>
+	<key>desktopView</key>
+	<string>canDispatchSign</string>
+	<key>handleprecision</key>
+	<string>restartCoordinator</string>
+	<key>shouldEmitAspectRatio</key>
+	<string>startTextField</string>
+</dict>
+</plist>

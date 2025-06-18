@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actiondelay</key>
+	<string>decodeFuture</string>
+	<key>asynchronousMusic</key>
+	<string>allocatorInset</string>
+	<key>constantDensity</key>
+	<string>anchorversuspattern</string>
+	<key>deferredPolygon</key>
+	<string>debugAwait</string>
+	<key>layoutmaster</key>
+	<string>opaqueBuffer</string>
+	<key>quantizerimage</key>
+	<string>shouldMountMusic</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisscoperotation</key>
+	<string>tableColor</string>
+	<key>brushDuration</key>
+	<string>firstScenario</string>
+	<key>currentrole</key>
+	<string>reducerdirection</string>
+	<key>multiplicationworkhue</key>
+	<string>subtleAudio</string>
+	<key>onmaterialchanged</key>
+	<string>singleNotifier</string>
+	<key>retainedManager</key>
+	<string>canMountConsumer</string>
+	<key>shapeDelay</key>
+	<string>signPattern</string>
+	<key>shouldContinueNorm</key>
+	<string>controllerthanfunction</string>
+	<key>shouldDisconnectEntropy</key>
+	<string>tweenOrientation</string>
+</dict>
+</plist>

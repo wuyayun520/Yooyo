@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryinmethod</key>
+	<string>similarTitle</string>
+	<key>bandwidthRight</key>
+	<string>equalizationFlyweight</string>
+	<key>baselineTop</key>
+	<string>canEmitSkin</string>
+	<key>difficultDuration</key>
+	<string>unactivatedDependency</string>
+	<key>draggableListener</key>
+	<string>interactiveParticle</string>
+	<key>liteWorkflow</key>
+	<string>litePosition</string>
+	<key>missedGestureDetector</key>
+	<string>unbindFuture</string>
+	<key>storyboardreducer</key>
+	<string>insteadRow</string>
+</dict>
+</plist>

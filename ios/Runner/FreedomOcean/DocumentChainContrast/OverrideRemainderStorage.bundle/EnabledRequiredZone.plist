@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>explicitResponder</key>
+	<string>resumeChallenge</string>
+	<key>lostInterpolation</key>
+	<string>cloneConstraint</string>
+	<key>offsetmethodtop</key>
+	<string>constantSkewY</string>
+	<key>shouldrenderinstruction</key>
+	<string>combineRepository</string>
+	<key>standaloneChallenge</key>
+	<string>selectedMultiplication</string>
+	<key>subpixelStatus</key>
+	<string>unmountinteractor</string>
+</dict>
+</plist>

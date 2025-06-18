@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deserializeinjection</key>
+	<string>providerMargin</string>
+	<key>fragmentFrequency</key>
+	<string>regulateRouter</string>
+	<key>observerTop</key>
+	<string>handleCompletion</string>
+	<key>pivotalDescription</key>
+	<string>navigateBorder</string>
+	<key>secondTrigger</key>
+	<string>oldPadding</string>
+</dict>
+</plist>

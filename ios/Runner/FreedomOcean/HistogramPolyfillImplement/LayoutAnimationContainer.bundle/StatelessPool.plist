@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>formatDuration</key>
+	<string>mergerSkewY</string>
+	<key>isolateStyle</key>
+	<string>deferredStateless</string>
+	<key>mergerResponse</key>
+	<string>canLayoutMusic</string>
+	<key>shouldNavigateReference</key>
+	<string>customSpot</string>
+	<key>shouldObserveEquipment</key>
+	<string>matrixskewy</string>
+	<key>shouldShowCycle</key>
+	<string>gesturerequest</string>
+	<key>sizedboxBottom</key>
+	<string>canPushSegment</string>
+	<key>smallMedia</key>
+	<string>canListenScale</string>
+	<key>unsortedStateful</key>
+	<string>canUnmountText</string>
+</dict>
+</plist>

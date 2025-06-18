@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxName</key>
+	<string>shouldRouteProfile</string>
+	<key>multiplicationconfiguration</key>
+	<string>dedicatedChooser</string>
+	<key>remainderoffset</key>
+	<string>visibleStore</string>
+	<key>sineflags</key>
+	<string>requiredSplitter</string>
+	<key>specifyInfo</key>
+	<string>shouldLayoutStream</string>
+	<key>statelessRecursion</key>
+	<string>mainTriangles</string>
+</dict>
+</plist>

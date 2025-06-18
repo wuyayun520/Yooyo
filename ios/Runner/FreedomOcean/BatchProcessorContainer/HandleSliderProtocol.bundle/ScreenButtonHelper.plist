@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalInkWell</key>
+	<string>missedGroup</string>
+	<key>currentradius</key>
+	<string>gridLocation</string>
+	<key>hasSkirt</key>
+	<string>shouldRenderText</string>
+	<key>immediatePadding</key>
+	<string>creatorAlignment</string>
+	<key>imperativeBandwidth</key>
+	<string>groupsingletondelay</string>
+	<key>skinstrength</key>
+	<string>normalNavigator</string>
+	<key>transformeroutsidebuffer</key>
+	<string>retainedBorder</string>
+</dict>
+</plist>

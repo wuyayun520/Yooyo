@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledWrapper</key>
+	<string>autoLayer</string>
+	<key>fusedEvaluation</key>
+	<string>responsePlatform</string>
+	<key>managerevaluation</key>
+	<string>advancedPrecision</string>
+	<key>smartUnary</key>
+	<string>subtleCell</string>
+	<key>stackfilter</key>
+	<string>immediateGrayscale</string>
+	<key>workflowvisibility</key>
+	<string>makeDecoration</string>
+</dict>
+</plist>

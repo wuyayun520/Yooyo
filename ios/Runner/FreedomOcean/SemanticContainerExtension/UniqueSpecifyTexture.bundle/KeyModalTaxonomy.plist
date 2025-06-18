@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredStoryboard</key>
+	<string>sliderCount</string>
+	<key>missionscenario</key>
+	<string>retainedTheme</string>
+	<key>reactiveCaption</key>
+	<string>shouldStopProtocol</string>
+	<key>sharedHandler</key>
+	<string>shouldLoadInteger</string>
+	<key>shouldDeserializeCupertino</key>
+	<string>poolLayer</string>
+</dict>
+</plist>

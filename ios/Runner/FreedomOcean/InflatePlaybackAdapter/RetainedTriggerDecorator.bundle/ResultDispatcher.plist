@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonPermutation</key>
+	<string>strengthTint</string>
+	<key>deferredMaterial</key>
+	<string>sustainableSplitter</string>
+	<key>directMenu</key>
+	<string>coordinatorInteraction</string>
+	<key>disabledStack</key>
+	<string>sortedCapacity</string>
+	<key>shouldPopAnchor</key>
+	<string>colorValidation</string>
+	<key>unactivatedRecursion</key>
+	<string>dimensionVisitor</string>
+	<key>unsortedInformation</key>
+	<string>canCreateColumn</string>
+</dict>
+</plist>

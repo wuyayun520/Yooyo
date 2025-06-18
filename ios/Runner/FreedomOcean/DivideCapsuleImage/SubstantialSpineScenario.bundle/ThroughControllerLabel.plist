@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousSubscription</key>
+	<string>rapidTabBar</string>
+	<key>concurrentTimer</key>
+	<string>freeLocalization</string>
+	<key>liteFormat</key>
+	<string>queueorstyle</string>
+	<key>mobileCatalyst</key>
+	<string>isolatedisclaimer</string>
+	<key>modalinfo</key>
+	<string>prepareContainer</string>
+	<key>permissiveAnchor</key>
+	<string>elasticdurationdistance</string>
+	<key>projectionOpacity</key>
+	<string>mutablemanager</string>
+	<key>searcherTint</key>
+	<string>cosineOpacity</string>
+	<key>shouldReplaceEntropy</key>
+	<string>pushDrawer</string>
+	<key>usageTransparency</key>
+	<string>usageoperationtension</string>
+</dict>
+</plist>

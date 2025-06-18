@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderalongvalue</key>
+	<string>initializequeue</string>
+	<key>cartesianVideo</key>
+	<string>gridBound</string>
+	<key>fixedAnimation</key>
+	<string>canPaintColumn</string>
+	<key>immediateException</key>
+	<string>stampVisible</string>
+	<key>pinchableEquipment</key>
+	<string>fragmentdistinction</string>
+	<key>shouldSaveSine</key>
+	<string>shouldPaintProfile</string>
+</dict>
+</plist>

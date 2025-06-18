@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicAspectRatio</key>
+	<string>elasticOption</string>
+	<key>disparateCube</key>
+	<string>deployTicker</string>
+	<key>mediumMediaQuery</key>
+	<string>dynamicfragment</string>
+	<key>ondropdownbuttonchanged</key>
+	<string>usedDelegate</string>
+	<key>shouldSetStateScroll</key>
+	<string>delegateType</string>
+	<key>synchronousInfrastructure</key>
+	<string>detachSize</string>
+	<key>unsortedCluster</key>
+	<string>isolateinsideenvironment</string>
+</dict>
+</plist>

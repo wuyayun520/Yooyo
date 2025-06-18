@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appenddecoration</key>
+	<string>shouldPauseMaster</string>
+	<key>cacheMargin</key>
+	<string>staticAscent</string>
+	<key>cardphaseforce</key>
+	<string>futurevisibility</string>
+	<key>dependencyRight</key>
+	<string>positiontension</string>
+	<key>explicitModule</key>
+	<string>compareSprite</string>
+	<key>interpolateerror</key>
+	<string>topicpager</string>
+	<key>rapidObject</key>
+	<string>movementKind</string>
+	<key>shaderhead</key>
+	<string>tabviewHead</string>
+	<key>shouldUnbindAxis</key>
+	<string>capacitiesState</string>
+</dict>
+</plist>

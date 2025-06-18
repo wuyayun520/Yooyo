@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableButton</key>
+	<string>selectedMaterial</string>
+	<key>difficultInteraction</key>
+	<string>finderCount</string>
+	<key>listviewStyle</key>
+	<string>eagerTechnique</string>
+	<key>persistentReplica</key>
+	<string>updateAllocator</string>
+	<key>skirtAppearance</key>
+	<string>parallelInjection</string>
+	<key>sortedPresenter</key>
+	<string>shouldFinishProject</string>
+	<key>unmounthistogram</key>
+	<string>consumerinset</string>
+	<key>yieldgram</key>
+	<string>catalystAcceleration</string>
+</dict>
+</plist>

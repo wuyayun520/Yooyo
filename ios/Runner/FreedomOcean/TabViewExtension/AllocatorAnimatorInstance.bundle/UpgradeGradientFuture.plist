@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveCaption</key>
+	<string>substantialChart</string>
+	<key>crudeCell</key>
+	<string>displayablePriority</string>
+	<key>custompaintcoord</key>
+	<string>shouldPreparePadding</string>
+	<key>diffableHash</key>
+	<string>gateMargin</string>
+	<key>granularDetail</key>
+	<string>introspectStore</string>
+	<key>hierarchicalPosition</key>
+	<string>onpageviewchanged</string>
+	<key>impressionspacing</key>
+	<string>shouldMountDuration</string>
+	<key>mountstate</key>
+	<string>contrastStyle</string>
+	<key>remediationRate</key>
+	<string>currentswitch</string>
+	<key>visibleTicker</key>
+	<string>canFinishChallenge</string>
+</dict>
+</plist>

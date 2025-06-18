@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengeFlags</key>
+	<string>secondRadius</string>
+	<key>criticalEquipment</key>
+	<string>undertakeTransformer</string>
+	<key>detectorCenter</key>
+	<string>basetriangles</string>
+	<key>entropyinsidemode</key>
+	<string>cacheerror</string>
+	<key>listenerForce</key>
+	<string>canDisconnectGraphic</string>
+	<key>musicStatus</key>
+	<string>eagerListView</string>
+	<key>retainedView</key>
+	<string>stopScaffold</string>
+	<key>shouldEncodeBehavior</key>
+	<string>shouldListenDialogs</string>
+	<key>statefulcompleteracceleration</key>
+	<string>notifyPadding</string>
+	<key>transformermethodtension</key>
+	<string>errorpermutation</string>
+</dict>
+</plist>

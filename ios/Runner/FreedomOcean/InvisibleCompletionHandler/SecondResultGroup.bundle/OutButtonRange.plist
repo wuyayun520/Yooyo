@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasDistance</key>
+	<string>canYieldSlider</string>
+	<key>difficultArchitecture</key>
+	<string>desktopProcessor</string>
+	<key>localpresenterpadding</key>
+	<string>restoreController</string>
+	<key>responsivemedianame</key>
+	<string>slashMediator</string>
+</dict>
+</plist>

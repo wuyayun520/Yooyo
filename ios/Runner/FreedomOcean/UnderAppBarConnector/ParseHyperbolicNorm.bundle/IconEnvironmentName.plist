@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelCoord</key>
+	<string>displayableBuffer</string>
+	<key>eagerView</key>
+	<string>accordionMenu</string>
+	<key>fetchduration</key>
+	<string>unsortedSlider</string>
+	<key>mediaqueryRate</key>
+	<string>analyzeCallback</string>
+	<key>mendResponse</key>
+	<string>precisionTier</string>
+	<key>mobiledescriptionvisible</key>
+	<string>petSingleton</string>
+	<key>observeropacity</key>
+	<string>shouldDisposeRichText</string>
+	<key>shouldlayouttable</key>
+	<string>matrixShape</string>
+	<key>tensorPromise</key>
+	<string>eagerListView</string>
+</dict>
+</plist>

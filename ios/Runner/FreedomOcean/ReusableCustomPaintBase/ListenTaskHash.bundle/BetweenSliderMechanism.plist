@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agilemetadatatail</key>
+	<string>fixedConstant</string>
+	<key>buildstep</key>
+	<string>shouldRestartCharacter</string>
+	<key>disparateElement</key>
+	<string>swifttransparency</string>
+	<key>marginPressure</key>
+	<string>lazyLog</string>
+	<key>persistentGradient</key>
+	<string>iterativeMatrix</string>
+	<key>routestrength</key>
+	<string>readChart</string>
+	<key>shouldDecodePageView</key>
+	<string>diffableSkirt</string>
+	<key>slashTop</key>
+	<string>sinkBuffer</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>combinerValidation</key>
+	<string>currentplayback</string>
+	<key>draggablesizetension</key>
+	<string>consultativeRadius</string>
+	<key>handleracceleration</key>
+	<string>chapterOpacity</string>
+	<key>presenthero</key>
+	<string>attachTable</string>
+	<key>receiverRotation</key>
+	<string>stateFramework</string>
+	<key>specifyActivity</key>
+	<string>particleInteraction</string>
+	<key>uniformSemantics</key>
+	<string>requiredRadius</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialVertex</key>
+	<string>canPersistStoryboard</string>
+	<key>customizedNotifier</key>
+	<string>scenePressure</string>
+	<key>dropdownbuttonCoord</key>
+	<string>nodeFlags</string>
+	<key>firstAspectRatio</key>
+	<string>interpolationShape</string>
+	<key>largeShader</key>
+	<string>fixedRect</string>
+</dict>
+</plist>

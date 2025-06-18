@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fusedFlex</key>
+	<string>shouldShowBinary</string>
+	<key>invisibleImpression</key>
+	<string>shouldDismissNavigation</string>
+	<key>lazyEntropy</key>
+	<string>lossBuffer</string>
+	<key>materialTraversal</key>
+	<string>isolatePosition</string>
+	<key>monsterscopevisible</key>
+	<string>completionLevel</string>
+	<key>similarScene</key>
+	<string>heapDelay</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controlleropacity</key>
+	<string>newestThreshold</string>
+	<key>curveStatus</key>
+	<string>intermediatelabelcenter</string>
+	<key>eagerBoxShadow</key>
+	<string>accessibleBullet</string>
+	<key>elasticInkWell</key>
+	<string>respectiveShader</string>
+	<key>mountborder</key>
+	<string>rolehandler</string>
+	<key>respectiveCanvas</key>
+	<string>behaviorOpacity</string>
+	<key>sessionrate</key>
+	<string>functionalPlayback</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedScroll</key>
+	<string>prepareCell</string>
+	<key>blocPressure</key>
+	<string>exponentRotation</string>
+	<key>concurrentHeap</key>
+	<string>rapidTrajectory</string>
+	<key>deferredStateful</key>
+	<string>polygonRate</string>
+	<key>lastSignature</key>
+	<string>publicMedia</string>
+	<key>playbackfilter</key>
+	<string>canTrainRole</string>
+	<key>requiredModule</key>
+	<string>semanticresolver</string>
+	<key>shouldNavigateMedia</key>
+	<string>canPublishBorder</string>
+	<key>typicalScheduler</key>
+	<string>restrictiontype</string>
+</dict>
+</plist>

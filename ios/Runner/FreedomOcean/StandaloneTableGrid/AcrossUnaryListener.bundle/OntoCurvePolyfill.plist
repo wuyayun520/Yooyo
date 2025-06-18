@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledTask</key>
+	<string>reconcileResult</string>
+	<key>heroShape</key>
+	<string>storyboardBottom</string>
+	<key>inheritedBullet</key>
+	<string>monsterForce</string>
+	<key>itemshade</key>
+	<string>renameSprite</string>
+	<key>segueRate</key>
+	<string>intuitiveQueue</string>
+	<key>shouldEmitBitrate</key>
+	<string>canShowListView</string>
+	<key>shouldLayoutObserver</key>
+	<string>normalcustompaintspacing</string>
+</dict>
+</plist>

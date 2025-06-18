@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocFrequency</key>
+	<string>icondepth</string>
+	<key>completionTag</key>
+	<string>missedNode</string>
+	<key>factoryvariablepadding</key>
+	<string>elasticityForce</string>
+	<key>setstatetext</key>
+	<string>referenceAlignment</string>
+	<key>singleOptimizer</key>
+	<string>composableModulus</string>
+</dict>
+</plist>

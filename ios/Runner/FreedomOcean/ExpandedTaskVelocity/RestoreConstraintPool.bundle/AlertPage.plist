@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicTrigger</key>
+	<string>concreteIntegration</string>
+	<key>fixedVector</key>
+	<string>permissiveEvolution</string>
+	<key>iterativeAspect</key>
+	<string>streamVariant</string>
+	<key>otherMerger</key>
+	<string>declarativeView</string>
+	<key>relationalTentative</key>
+	<string>collectionsaturation</string>
+	<key>shouldUnbindBrush</key>
+	<string>capsuleRate</string>
+	<key>smartTraversal</key>
+	<string>activatedelegate</string>
+	<key>themecoordinator</key>
+	<string>storageoperationtag</string>
+	<key>typicalProjection</key>
+	<string>immediateCycle</string>
+	<key>uniformTangent</key>
+	<string>synchronizeLayout</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interpolationRate</key>
+	<string>iterativecontraction</string>
+	<key>litePageView</key>
+	<string>observerScale</string>
+	<key>persistentReliability</key>
+	<string>reconcileCoordinator</string>
+	<key>poproute</key>
+	<string>uniqueScroller</string>
+	<key>screenName</key>
+	<string>animatespot</string>
+	<key>textResponse</key>
+	<string>protectedCustomPaint</string>
+</dict>
+</plist>

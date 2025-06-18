@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableLatency</key>
+	<string>accordionMonster</string>
+	<key>composablePresenter</key>
+	<string>blocAcceleration</string>
+	<key>lostslider</key>
+	<string>popSlider</string>
+	<key>pagerFlags</key>
+	<string>normContext</string>
+	<key>prismaticlayoutstyle</key>
+	<string>canShowChallenge</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionDrawer</key>
+	<string>partitionTransition</string>
+	<key>baselineValidation</key>
+	<string>scrollablematrix</string>
+	<key>discardedBuffer</key>
+	<string>convolutionState</string>
+	<key>shouldDisconnectMusic</key>
+	<string>functionalAllocator</string>
+	<key>singleRemainder</key>
+	<string>yieldChannels</string>
+	<key>substantialitem</key>
+	<string>invokeGraph</string>
+</dict>
+</plist>

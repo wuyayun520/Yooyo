@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalError</key>
+	<string>fillloop</string>
+	<key>custompaintcontainchain</key>
+	<string>gemcontexttheme</string>
+	<key>globalBorder</key>
+	<string>pushDocument</string>
+	<key>localHeap</key>
+	<string>rapidtransitionvisibility</string>
+	<key>rapidCoordinator</key>
+	<string>shouldtransitionprecision</string>
+	<key>shouldPaintGesture</key>
+	<string>formatModal</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedAlert</key>
+	<string>slidershapeinterval</string>
+	<key>appbarCount</key>
+	<string>globalprovision</string>
+	<key>discardedCapsule</key>
+	<string>lostPlayback</string>
+	<key>invisibleFlex</key>
+	<string>streamlinepreview</string>
+	<key>mechanismOpacity</key>
+	<string>aggregateFactory</string>
+	<key>serializesprite</key>
+	<string>dedicatedActivity</string>
+	<key>statelessAcceleration</key>
+	<string>cacheStateful</string>
+	<key>toleranceSpacing</key>
+	<string>instantiateSprite</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderDepth</key>
+	<string>deprecateLabel</string>
+	<key>constraintacceleration</key>
+	<string>capacityCount</string>
+	<key>effectBound</key>
+	<string>canDisconnectActivity</string>
+	<key>mapperLeft</key>
+	<string>mainScaffold</string>
+	<key>newestCompleter</key>
+	<string>appbarMode</string>
+	<key>nextPosition</key>
+	<string>shouldDeserializePadding</string>
+	<key>shouldParseFlex</key>
+	<string>shouldStreamCollection</string>
+	<key>statelessForce</key>
+	<string>conformObserver</string>
+</dict>
+</plist>

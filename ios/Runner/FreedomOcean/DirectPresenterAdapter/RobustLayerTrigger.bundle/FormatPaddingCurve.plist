@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customMission</key>
+	<string>canProcessCanvas</string>
+	<key>effectAppearance</key>
+	<string>notificationDelay</string>
+	<key>evolutionStyle</key>
+	<string>canDisconnectBuilder</string>
+	<key>hyperbolicMediaQuery</key>
+	<string>coordinatorformhead</string>
+	<key>poptransition</key>
+	<string>delegatearoundflyweight</string>
+	<key>publicMaterializer</key>
+	<string>easyLocalization</string>
+	<key>sceneframe</key>
+	<string>clipAnimation</string>
+</dict>
+</plist>

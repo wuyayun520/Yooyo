@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commontask</key>
+	<string>limitDependency</string>
+	<key>cupertinoTopic</key>
+	<string>shouldStartDelegate</string>
+	<key>independentModal</key>
+	<string>oldInfrastructure</string>
+	<key>integrationStyle</key>
+	<string>restrictionFormat</string>
+	<key>joinerlocation</key>
+	<string>navigatebutton</string>
+	<key>overlayColor</key>
+	<string>shouldCancelStoryboard</string>
+	<key>rowCenter</key>
+	<string>disparateComposition</string>
+	<key>shouldTransformTable</key>
+	<string>thememetrics</string>
+	<key>sustainableradius</key>
+	<string>polyfillFrequency</string>
+	<key>unlockdrawer</key>
+	<string>dropoutText</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionDirection</key>
+	<string>segmentopacity</string>
+	<key>constructsprite</key>
+	<string>contractionType</string>
+	<key>informationtension</key>
+	<string>canPauseInteger</string>
+	<key>localPolyfill</key>
+	<string>subpixelTier</string>
+	<key>logFormat</key>
+	<string>dropoutAnimation</string>
+	<key>rapidScroll</key>
+	<string>storyboardJob</string>
+	<key>secondStorage</key>
+	<string>synchronizeModel</string>
+	<key>significantPosition</key>
+	<string>canHandleLabel</string>
+	<key>uniqueSpine</key>
+	<string>channelSingleton</string>
+	<key>workflowPressure</key>
+	<string>initializeQueue</string>
+</dict>
+</plist>

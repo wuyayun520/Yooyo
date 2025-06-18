@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dropdownbuttonShape</key>
+	<string>futureShade</string>
+	<key>mobileCard</key>
+	<string>shouldcontinuecontainer</string>
+	<key>priorElement</key>
+	<string>shouldPausePadding</string>
+	<key>radiusskewx</key>
+	<string>checkboxBridge</string>
+	<key>respectiveReplica</key>
+	<string>resizableGroup</string>
+	<key>responsiveCompleter</key>
+	<string>relationalVariant</string>
+</dict>
+</plist>

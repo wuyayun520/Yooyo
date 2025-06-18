@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>imageIndex</key>
+	<string>commonMap</string>
+	<key>polyfillInterval</key>
+	<string>unscheduleLayer</string>
+	<key>shouldNotifyBase</key>
+	<string>standaloneDependency</string>
+	<key>writelistener</key>
+	<string>shouldPushConsumer</string>
+</dict>
+</plist>

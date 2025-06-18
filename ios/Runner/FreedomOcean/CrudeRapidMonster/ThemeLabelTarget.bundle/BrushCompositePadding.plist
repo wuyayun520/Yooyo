@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveEntropy</key>
+	<string>primaryBitrate</string>
+	<key>explicitFilter</key>
+	<string>activeMaterial</string>
+	<key>heapSaturation</key>
+	<string>loaderTransparency</string>
+	<key>imperativeMobile</key>
+	<string>encodeSwift</string>
+	<key>listviewVisible</key>
+	<string>canPushBox</string>
+	<key>playbackOpacity</key>
+	<string>apertureOrientation</string>
+	<key>shouldAttachOperation</key>
+	<string>significantCurve</string>
+	<key>shouldEncodeTabView</key>
+	<string>completionName</string>
+</dict>
+</plist>

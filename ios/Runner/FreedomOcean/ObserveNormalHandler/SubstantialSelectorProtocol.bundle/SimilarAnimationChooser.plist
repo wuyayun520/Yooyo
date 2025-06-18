@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileslider</key>
+	<string>projectiondispatcher</string>
+	<key>assetSize</key>
+	<string>canUpdateOperation</string>
+	<key>clusterhead</key>
+	<string>shouldSaveContraction</string>
+	<key>completerstyle</key>
+	<string>attachResource</string>
+	<key>hasoperation</key>
+	<string>concurrentnavigationlocation</string>
+	<key>overlayTag</key>
+	<string>futuretaskhead</string>
+	<key>pagerBehavior</key>
+	<string>handlerrange</string>
+	<key>responsePosition</key>
+	<string>entityVisibility</string>
+	<key>semanticPicker</key>
+	<string>shouldDispatchHeap</string>
+	<key>sorterPadding</key>
+	<string>scrollpermutation</string>
+</dict>
+</plist>

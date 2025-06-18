@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoRoute</key>
+	<string>buildchecklist</string>
+	<key>greatTool</key>
+	<string>tabviewResponse</string>
+	<key>latencyright</key>
+	<string>animatedError</string>
+	<key>resumegradient</key>
+	<string>localAscent</string>
+	<key>shouldProcessMission</key>
+	<string>logarithmmode</string>
+	<key>standaloneImage</key>
+	<string>tangentLocation</string>
+	<key>timersaturation</key>
+	<string>detachcompleter</string>
+</dict>
+</plist>

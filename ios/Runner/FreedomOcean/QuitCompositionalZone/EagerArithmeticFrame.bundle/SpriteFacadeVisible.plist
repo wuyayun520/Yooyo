@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedDialogs</key>
+	<string>timeStyle</string>
+	<key>animatedMetrics</key>
+	<string>webMomentum</string>
+	<key>draggableSwitch</key>
+	<string>shouldLoadMusic</string>
+	<key>fragmentsAcceleration</key>
+	<string>unsortedAnimator</string>
+	<key>freegrid</key>
+	<string>defaultAxis</string>
+	<key>functionalConvolution</key>
+	<string>shouldParseInkWell</string>
+	<key>pinchableTabView</key>
+	<string>shouldConnectVariant</string>
+	<key>trajectoryHue</key>
+	<string>subpixelallocator</string>
+</dict>
+</plist>

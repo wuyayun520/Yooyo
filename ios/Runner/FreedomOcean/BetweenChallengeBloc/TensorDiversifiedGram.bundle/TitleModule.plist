@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comparecheckbox</key>
+	<string>shouldLoadKernel</string>
+	<key>hyperbolicBatch</key>
+	<string>discardedQueue</string>
+	<key>navigatorSpacing</key>
+	<string>disconnectMomentum</string>
+	<key>responsestyletheme</key>
+	<string>aggregateTransition</string>
+	<key>routerRate</key>
+	<string>shouldStartBitrate</string>
+	<key>statefulResult</key>
+	<string>persistentFrame</string>
+	<key>subtleElement</key>
+	<string>concurrentConverter</string>
+</dict>
+</plist>

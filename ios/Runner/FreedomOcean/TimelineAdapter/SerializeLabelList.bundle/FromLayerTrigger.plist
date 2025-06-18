@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncShade</key>
+	<string>canRenderSession</string>
+	<key>concurrentMaterial</key>
+	<string>difficultAspectRatio</string>
+	<key>diffablePolygon</key>
+	<string>resourcedirection</string>
+	<key>disabledAccessory</key>
+	<string>listenunary</string>
+	<key>displayableManager</key>
+	<string>animateListener</string>
+	<key>ephemeralBrush</key>
+	<string>skinDistance</string>
+	<key>materialTexture</key>
+	<string>deserializeMomentum</string>
+	<key>semanticrolesaturation</key>
+	<string>confidentialitySpeed</string>
+	<key>trajectoryInteraction</key>
+	<string>nativeAnalogy</string>
+</dict>
+</plist>

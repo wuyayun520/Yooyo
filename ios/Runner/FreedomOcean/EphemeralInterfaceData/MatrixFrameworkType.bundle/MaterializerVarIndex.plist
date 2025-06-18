@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalThroughput</key>
+	<string>resumeProtocol</string>
+	<key>entityspeed</key>
+	<string>zoneStrategy</string>
+	<key>immutableAnimatedContainer</key>
+	<string>sharedListener</string>
+	<key>lazyDialogs</key>
+	<string>advancedAmortization</string>
+	<key>opaqueCompletion</key>
+	<string>intuitiveGrain</string>
+	<key>variantfinder</key>
+	<string>connectMember</string>
+	<key>vectorizeobserver</key>
+	<string>priorstoryboardpadding</string>
+</dict>
+</plist>

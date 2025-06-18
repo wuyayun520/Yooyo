@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerBehavior</key>
+	<string>declarativeAnalogy</string>
+	<key>responderShade</key>
+	<string>lostController</string>
+	<key>rowrotation</key>
+	<string>defaultContainer</string>
+	<key>shaderInset</key>
+	<string>hasRole</string>
+	<key>shoulddecodecheckbox</key>
+	<string>handlerMethod</string>
+	<key>subsequentSegue</key>
+	<string>deflateTransition</string>
+</dict>
+</plist>

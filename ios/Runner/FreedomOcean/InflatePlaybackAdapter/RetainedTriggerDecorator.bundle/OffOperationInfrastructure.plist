@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>intuitiveGrid</key>
+	<string>interceptDuration</string>
+	<key>marshalequalization</key>
+	<string>resilientasync</string>
+	<key>pausepadding</key>
+	<string>shouldresumesemantics</string>
+	<key>shouldUpdateOverlay</key>
+	<string>saveBehavior</string>
+</dict>
+</plist>

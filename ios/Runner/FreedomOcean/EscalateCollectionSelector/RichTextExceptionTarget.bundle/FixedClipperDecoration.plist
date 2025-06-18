@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeManager</key>
+	<string>attachMaster</string>
+	<key>clusterPressure</key>
+	<string>toolRotation</string>
+	<key>declarativeAxis</key>
+	<string>backwardRouter</string>
+	<key>lostRenderer</key>
+	<string>inheritedMember</string>
+	<key>usedShader</key>
+	<string>gridBuffer</string>
+	<key>viewviavisitor</key>
+	<string>mainGram</string>
+</dict>
+</plist>

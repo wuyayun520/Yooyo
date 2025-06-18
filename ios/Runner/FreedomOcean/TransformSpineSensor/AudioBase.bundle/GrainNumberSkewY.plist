@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoSpine</key>
+	<string>canRestartSession</string>
+	<key>discardedLogarithm</key>
+	<string>sensorBound</string>
+	<key>diversifiedAsync</key>
+	<string>sustainableInstruction</string>
+	<key>futurehandler</key>
+	<string>isolateactionresponse</string>
+	<key>missedrect</key>
+	<string>canAnimateHeap</string>
+</dict>
+</plist>

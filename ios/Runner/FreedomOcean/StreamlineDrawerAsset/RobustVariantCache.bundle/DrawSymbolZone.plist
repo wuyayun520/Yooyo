@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>immediateNotation</key>
+	<string>canPersistAspect</string>
+	<key>protectedcurve</key>
+	<string>emitMission</string>
+	<key>shouldParseSignature</key>
+	<string>notificationwithscope</string>
+	<key>shouldStreamPriority</key>
+	<string>canSetStateResource</string>
+	<key>skinframe</key>
+	<string>dropdownbuttonpreview</string>
+	<key>staticDescriptor</key>
+	<string>insteadTopic</string>
+</dict>
+</plist>

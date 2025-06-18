@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionchannelsopacity</key>
+	<string>prismaticConsumer</string>
+	<key>defaultdescriptor</key>
+	<string>pauseAperture</string>
+	<key>imageState</key>
+	<string>metricsTransparency</string>
+	<key>numericalRectangle</key>
+	<string>directProject</string>
+	<key>pageviewmethod</key>
+	<string>localInformation</string>
+	<key>shouldPushPromise</key>
+	<string>nativeDescription</string>
+	<key>usecasehandler</key>
+	<string>newestPager</string>
+	<key>visibleReference</key>
+	<string>shouldunmountedsegment</string>
+</dict>
+</plist>

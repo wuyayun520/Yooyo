@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>drawerdensity</key>
+	<string>createStack</string>
+	<key>dropdownbuttonHue</key>
+	<string>respectiveRectangle</string>
+	<key>granularResolver</key>
+	<string>drawerinsidestyle</string>
+	<key>isolatemodule</key>
+	<string>serializeReference</string>
+	<key>shouldDeserializeDrawer</key>
+	<string>gridTop</string>
+	<key>statefulPreview</key>
+	<string>scrollableEffect</string>
+</dict>
+</plist>

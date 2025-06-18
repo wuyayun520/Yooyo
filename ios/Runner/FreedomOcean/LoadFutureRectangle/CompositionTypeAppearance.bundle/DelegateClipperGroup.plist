@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorstylekind</key>
+	<string>isrichtext</string>
+	<key>diffableMediaQuery</key>
+	<string>localizationstageforce</string>
+	<key>mediocrePopup</key>
+	<string>secondLifecycle</string>
+	<key>permissiveFrame</key>
+	<string>parallelWidget</string>
+	<key>signreducer</key>
+	<string>textelasticity</string>
+</dict>
+</plist>

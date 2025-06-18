@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipqueue</key>
+	<string>resolveObserver</string>
+	<key>concurrentstream</key>
+	<string>projectionCycle</string>
+	<key>notificationgrid</key>
+	<string>checklistComposite</string>
+	<key>reliabilityAppearance</key>
+	<string>shouldTransformActivity</string>
+	<key>shouldDismissSubpixel</key>
+	<string>inheritedHeap</string>
+	<key>significantSwitch</key>
+	<string>aspectratiofromkind</string>
+	<key>typicalListener</key>
+	<string>standaloneDescription</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveCache</key>
+	<string>shouldserializegesturedetector</string>
+	<key>exceptionduringenvironment</key>
+	<string>immediateDelivery</string>
+	<key>primaryBinary</key>
+	<string>quantizationBuffer</string>
+	<key>reactiveTaxonomy</key>
+	<string>showaspectratio</string>
+	<key>seguechannel</key>
+	<string>stackDuration</string>
+	<key>semanticStrength</key>
+	<string>trajectoryBrightness</string>
+	<key>taskproxyformat</key>
+	<string>easyEfficiency</string>
+	<key>touchvalidation</key>
+	<string>imagemomentum</string>
+</dict>
+</plist>

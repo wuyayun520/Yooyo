@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnsinceactivity</key>
+	<string>invisibleOverlay</string>
+	<key>cubitconverter</key>
+	<string>emitResult</string>
+	<key>dialogsShade</key>
+	<string>certificateLeft</string>
+	<key>discardedstateful</key>
+	<string>easyinterface</string>
+	<key>draggableIsolate</key>
+	<string>projectScale</string>
+	<key>lastImage</key>
+	<string>pushResource</string>
+	<key>marginBorder</key>
+	<string>shouldtrainbase</string>
+	<key>shouldBuildCube</key>
+	<string>enabledChannel</string>
+	<key>shouldbuildmaster</key>
+	<string>shouldUnmountUsage</string>
+	<key>visibleColumn</key>
+	<string>receiverContrast</string>
+</dict>
+</plist>

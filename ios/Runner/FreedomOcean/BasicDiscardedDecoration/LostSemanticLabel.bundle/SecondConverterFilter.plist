@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalConverter</key>
+	<string>animateRouter</string>
+	<key>firstTask</key>
+	<string>composableSpecifier</string>
+	<key>scenarioorientation</key>
+	<string>switchOffset</string>
+	<key>topictransparency</key>
+	<string>setupCoordinator</string>
+</dict>
+</plist>

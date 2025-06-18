@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>combinertransparency</key>
+	<string>staticlayout</string>
+	<key>crudePriority</key>
+	<string>buildDimension</string>
+	<key>greatTask</key>
+	<string>decodeNotification</string>
+	<key>modelDensity</key>
+	<string>canValidateChecklist</string>
+	<key>responsiveConfiguration</key>
+	<string>isnotification</string>
+	<key>shouldPersistHero</key>
+	<string>buildextension</string>
+	<key>shouldSkipDrawer</key>
+	<string>normalEmitter</string>
+	<key>storyboardmapper</key>
+	<string>axisStage</string>
+</dict>
+</plist>

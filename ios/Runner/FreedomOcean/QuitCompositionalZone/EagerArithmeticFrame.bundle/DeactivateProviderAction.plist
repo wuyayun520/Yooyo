@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>converterCount</key>
+	<string>heapspeed</string>
+	<key>deferredWrapper</key>
+	<string>shouldDismissImage</string>
+	<key>delegateInterval</key>
+	<string>shouldValidateTabBar</string>
+	<key>desktoptaxonomy</key>
+	<string>stampSpeed</string>
+	<key>fusedFactory</key>
+	<string>cupertinoAnalyzer</string>
+	<key>olddelegate</key>
+	<string>textfieldInteraction</string>
+	<key>rapidView</key>
+	<string>exponentrate</string>
+	<key>shouldUnmountedCharacter</key>
+	<string>onoverlaytap</string>
+	<key>tensorThroughput</key>
+	<string>stepSkewY</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicBaseline</key>
+	<string>crudeCaption</string>
+	<key>discardedInfo</key>
+	<string>characterStructure</string>
+	<key>independentscreenkind</key>
+	<string>sharedRadio</string>
+	<key>labelFormat</key>
+	<string>explicitGram</string>
+	<key>largeNode</key>
+	<string>allocateTopic</string>
+	<key>layoutwithoutflyweight</key>
+	<string>canProcessHero</string>
+	<key>reactiveKernel</key>
+	<string>inflatePositioned</string>
+	<key>shouldunmountvariant</key>
+	<string>beginnerRichText</string>
+	<key>singleTraversal</key>
+	<string>quantizerHandler</string>
+	<key>storagefunctioncount</key>
+	<string>oldInterface</string>
+</dict>
+</plist>

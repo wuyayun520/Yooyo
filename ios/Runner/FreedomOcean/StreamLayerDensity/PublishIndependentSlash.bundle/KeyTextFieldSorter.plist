@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonDocument</key>
+	<string>arithmeticSpot</string>
+	<key>delegateBound</key>
+	<string>computeFactory</string>
+	<key>numericalAscent</key>
+	<string>shouldTransformTheme</string>
+	<key>reusableCycle</key>
+	<string>protectedPositioned</string>
+	<key>scrollableTraversal</key>
+	<string>requiredUseCase</string>
+	<key>shouldCancelChecklist</key>
+	<string>skinHue</string>
+	<key>shouldMountedResource</key>
+	<string>unbindRichText</string>
+	<key>sophisticatedStack</key>
+	<string>parseentity</string>
+	<key>sortedMovement</key>
+	<string>multifilter</string>
+</dict>
+</plist>

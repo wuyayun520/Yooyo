@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decodebullet</key>
+	<string>momentumObserver</string>
+	<key>granularEvaluation</key>
+	<string>sampleVisitor</string>
+	<key>itemInset</key>
+	<string>coordinatorBridge</string>
+	<key>multiDocument</key>
+	<string>iterativeIntegrity</string>
+	<key>operationAcceleration</key>
+	<string>shouldContinueProtocol</string>
+	<key>rectangleDensity</key>
+	<string>skipPoint</string>
+	<key>specifyCard</key>
+	<string>shouldProcessDocument</string>
+</dict>
+</plist>

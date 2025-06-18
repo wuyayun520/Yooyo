@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardscrolltint</key>
+	<string>callbackMomentum</string>
+	<key>dissociatecapacities</key>
+	<string>flexibleAccessory</string>
+	<key>groupVisible</key>
+	<string>statefulController</string>
+	<key>hardExpanded</key>
+	<string>synchronousConverter</string>
+	<key>shouldRenderBase</key>
+	<string>cupertinoDetail</string>
+</dict>
+</plist>

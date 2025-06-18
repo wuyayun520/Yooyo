@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonfeedback</key>
+	<string>scheduleRadius</string>
+	<key>contractionScale</key>
+	<string>combinerTension</string>
+	<key>createstorage</key>
+	<string>remainderAcceleration</string>
+	<key>ignoredCache</key>
+	<string>primaryModal</string>
+	<key>priortaxonomy</key>
+	<string>canvasFlags</string>
+</dict>
+</plist>

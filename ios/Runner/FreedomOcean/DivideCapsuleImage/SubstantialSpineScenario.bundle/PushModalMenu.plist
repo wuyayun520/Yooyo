@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorOpacity</key>
+	<string>shouldParseIcon</string>
+	<key>directlyTabView</key>
+	<string>resizeAwait</string>
+	<key>globalProtocol</key>
+	<string>channelsTail</string>
+	<key>materialAllocator</key>
+	<string>shouldPersistCube</string>
+	<key>persistusecase</key>
+	<string>shouldEmitInteger</string>
+	<key>seamlessoverlay</key>
+	<string>conformAllocator</string>
+	<key>shouldSkipGate</key>
+	<string>shouldFinishShader</string>
+	<key>shouldUnbindExtension</key>
+	<string>zoneBrightness</string>
+</dict>
+</plist>

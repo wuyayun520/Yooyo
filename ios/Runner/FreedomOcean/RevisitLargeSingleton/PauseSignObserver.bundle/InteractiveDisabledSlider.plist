@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedInterpolation</key>
+	<string>reusableBox</string>
+	<key>characterOrientation</key>
+	<string>numericalstampopacity</string>
+	<key>dropdownbuttonperbridge</key>
+	<string>interfaceDelay</string>
+	<key>enabledTransformer</key>
+	<string>flexibleLogarithm</string>
+	<key>mediocreMaterializer</key>
+	<string>immutableascent</string>
+	<key>nativeProfile</key>
+	<string>aspectratioSize</string>
+	<key>rectangleMargin</key>
+	<string>inflateSubpixel</string>
+	<key>shearusage</key>
+	<string>arithmeticInfo</string>
+	<key>staticHero</key>
+	<string>lostCosine</string>
+</dict>
+</plist>

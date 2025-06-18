@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileTask</key>
+	<string>canFetchFragment</string>
+	<key>agilepublisher</key>
+	<string>mediumStrength</string>
+	<key>euclideanSink</key>
+	<string>limitFuture</string>
+	<key>resizableElement</key>
+	<string>newestReducer</string>
+	<key>skipvector</key>
+	<string>seamlessAlignment</string>
+	<key>statefulClipper</key>
+	<string>alignmentshape</string>
+	<key>statelessChooser</key>
+	<string>compositionalProgressBar</string>
+	<key>taskadapterscale</key>
+	<string>responsiveShape</string>
+	<key>toolskewx</key>
+	<string>pivotalentropy</string>
+</dict>
+</plist>

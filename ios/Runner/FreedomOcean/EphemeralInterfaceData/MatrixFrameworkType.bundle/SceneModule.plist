@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>debugchapter</key>
+	<string>revisitResult</string>
+	<key>ephemeralSpot</key>
+	<string>notificationVar</string>
+	<key>histogramtransparency</key>
+	<string>canProcessText</string>
+	<key>metadataTransparency</key>
+	<string>amortizationColor</string>
+	<key>observestack</key>
+	<string>observeBinary</string>
+	<key>semanticPageView</key>
+	<string>provideCompleter</string>
+	<key>semanticSizedBox</key>
+	<string>sliderDepth</string>
+	<key>shouldPauseGraphic</key>
+	<string>invokeInjection</string>
+</dict>
+</plist>

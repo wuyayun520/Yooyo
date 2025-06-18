@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ispriority</key>
+	<string>overlaythanform</string>
+	<key>largeWorkflow</key>
+	<string>encodecapacities</string>
+	<key>multiPreview</key>
+	<string>pageviewDuration</string>
+	<key>responsiveBaseline</key>
+	<string>mutableRenderer</string>
+	<key>shouldshowanchor</key>
+	<string>pendingTransition</string>
+</dict>
+</plist>

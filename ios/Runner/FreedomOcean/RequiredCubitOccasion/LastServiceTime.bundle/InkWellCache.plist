@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dismisstheme</key>
+	<string>associateDelegate</string>
+	<key>missedSpine</key>
+	<string>keyNotification</string>
+	<key>rapidtangentstate</key>
+	<string>analyzerValidation</string>
+	<key>shoulddecodehero</key>
+	<string>shouldStopView</string>
+	<key>tappableChooser</key>
+	<string>connectNavigator</string>
+</dict>
+</plist>

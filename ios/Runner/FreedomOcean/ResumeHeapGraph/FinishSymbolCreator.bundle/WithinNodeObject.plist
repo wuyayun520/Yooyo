@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackRate</key>
+	<string>accelerateTopic</string>
+	<key>entropyTag</key>
+	<string>listviewBridge</string>
+	<key>fetchresult</key>
+	<string>modalKind</string>
+	<key>originaloperation</key>
+	<string>compareChannel</string>
+	<key>protectedShader</key>
+	<string>canFormatCursor</string>
+	<key>usecasekind</key>
+	<string>unsortedGradient</string>
+</dict>
+</plist>

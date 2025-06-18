@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disparatethread</key>
+	<string>delegatedetail</string>
+	<key>radioTint</key>
+	<string>transformslider</string>
+	<key>seamlessVolume</key>
+	<string>enabledFragment</string>
+	<key>stateTransparency</key>
+	<string>cardjobvelocity</string>
+</dict>
+</plist>

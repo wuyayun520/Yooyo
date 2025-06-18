@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredPager</key>
+	<string>kernelworkindex</string>
+	<key>deferredScope</key>
+	<string>optionPrototype</string>
+	<key>interfacebehavior</key>
+	<string>composableVertex</string>
+	<key>robustCursor</key>
+	<string>greatWidget</string>
+	<key>shouldFetchTernary</key>
+	<string>cellallocator</string>
+	<key>webInfrastructure</key>
+	<string>canPrepareSession</string>
+</dict>
+</plist>

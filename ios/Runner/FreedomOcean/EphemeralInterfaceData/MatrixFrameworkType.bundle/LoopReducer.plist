@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationScale</key>
+	<string>sortedlog</string>
+	<key>constraintduringform</key>
+	<string>backwardTheme</string>
+	<key>interactorInset</key>
+	<string>staticSegue</string>
+	<key>lifecycleFeedback</key>
+	<string>interactivedrawer</string>
+	<key>mediumswitch</key>
+	<string>utildistance</string>
+	<key>mendShade</key>
+	<string>canSubscribeTask</string>
+	<key>nativeCustomPaint</key>
+	<string>repositoryVisitor</string>
+	<key>tickerjoiner</key>
+	<string>shouldSubscribeBullet</string>
+</dict>
+</plist>

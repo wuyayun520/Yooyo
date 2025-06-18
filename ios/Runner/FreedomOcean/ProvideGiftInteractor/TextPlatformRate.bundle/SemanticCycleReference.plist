@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetactivityskewy</key>
+	<string>shouldSerializeController</string>
+	<key>meshFormat</key>
+	<string>statelessListView</string>
+	<key>optimizerdisclaimer</key>
+	<string>eventInset</string>
+	<key>preparegesturedetector</key>
+	<string>reconcileIntensity</string>
+	<key>shouldMountedExpanded</key>
+	<string>shouldTransitionContainer</string>
+	<key>shouldRebuildLayout</key>
+	<string>selectedStoryboard</string>
+	<key>unmountedmember</key>
+	<string>recursionIndex</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalService</key>
+	<string>touchDependency</string>
+	<key>firstCycle</key>
+	<string>shouldYieldComposition</string>
+	<key>giftdata</key>
+	<string>ephemeralHero</string>
+	<key>seamlesseffect</key>
+	<string>annotateLoop</string>
+	<key>subsequentModel</key>
+	<string>holdLocalization</string>
+</dict>
+</plist>

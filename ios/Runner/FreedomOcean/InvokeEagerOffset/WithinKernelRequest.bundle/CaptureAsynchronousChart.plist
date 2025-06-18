@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousProgressBar</key>
+	<string>resumeCard</string>
+	<key>audioStyle</key>
+	<string>sharedResponder</string>
+	<key>beginnerTheme</key>
+	<string>localModal</string>
+	<key>inactiveEvent</key>
+	<string>tickerContrast</string>
+	<key>sharedcreator</key>
+	<string>locksink</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatoralignment</key>
+	<string>provisionForce</string>
+	<key>builderalignment</key>
+	<string>formatMatrix</string>
+	<key>channelsType</key>
+	<string>canUpdateSpine</string>
+	<key>customLoop</key>
+	<string>shouldCancelOperation</string>
+	<key>logarithmMargin</key>
+	<string>immediateIntensity</string>
+	<key>multiTween</key>
+	<string>alertTension</string>
+	<key>paddingInteraction</key>
+	<string>positionStatus</string>
+	<key>shouldDispatchGridView</key>
+	<string>immutableCustomPaint</string>
+	<key>similarcontainer</key>
+	<string>hardAscent</string>
+</dict>
+</plist>

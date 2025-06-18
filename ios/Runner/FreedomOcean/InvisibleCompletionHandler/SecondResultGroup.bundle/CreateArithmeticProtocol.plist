@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitframeworkskewy</key>
+	<string>cloneRouter</string>
+	<key>sequentialcubedirection</key>
+	<string>oldRouter</string>
+	<key>shouldEndModulus</key>
+	<string>videoTransparency</string>
+	<key>shouldProcessGestureDetector</key>
+	<string>directNode</string>
+	<key>smallPublisher</key>
+	<string>volumeLocation</string>
+</dict>
+</plist>

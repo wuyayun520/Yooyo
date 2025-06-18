@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedDuration</key>
+	<string>localizationstyle</string>
+	<key>clipoffset</key>
+	<string>symmetricStore</string>
+	<key>disclaimerPosition</key>
+	<string>lastCapsule</string>
+	<key>flexibleLocalization</key>
+	<string>hierarchicalFlex</string>
+	<key>globalmanager</key>
+	<string>shouldProcessWorkflow</string>
+	<key>hardCompletion</key>
+	<string>alphaSaturation</string>
+	<key>restartasset</key>
+	<string>shouldlayoutpet</string>
+	<key>viewduringlayer</key>
+	<string>materialProvider</string>
+</dict>
+</plist>

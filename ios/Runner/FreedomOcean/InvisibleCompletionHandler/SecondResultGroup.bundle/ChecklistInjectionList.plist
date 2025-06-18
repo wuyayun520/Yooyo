@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedEquipment</key>
+	<string>bandwidthlocation</string>
+	<key>mainScalability</key>
+	<string>usageLocation</string>
+	<key>mediaqueryBorder</key>
+	<string>diffableNotation</string>
+	<key>shouldstarttangent</key>
+	<string>disabledCatalyst</string>
+</dict>
+</plist>

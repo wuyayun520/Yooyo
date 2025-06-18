@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>geometricElement</key>
+	<string>workflowSingleton</string>
+	<key>interactionDuration</key>
+	<string>finderDirection</string>
+	<key>seamlesschallenge</key>
+	<string>shouldUpdateConvolution</string>
+	<key>shoulddisconnectbox</key>
+	<string>fusedSkin</string>
+	<key>webDrawer</key>
+	<string>disconnectCheckbox</string>
+</dict>
+</plist>

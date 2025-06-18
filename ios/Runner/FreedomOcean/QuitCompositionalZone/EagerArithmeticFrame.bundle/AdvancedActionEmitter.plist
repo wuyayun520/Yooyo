@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveIcon</key>
+	<string>compositionalresource</string>
+	<key>gemedge</key>
+	<string>directMenu</string>
+	<key>impressionCount</key>
+	<string>reusablePreview</string>
+	<key>nodechainspacing</key>
+	<string>inheritedDetail</string>
+	<key>pinchableAlert</key>
+	<string>showStore</string>
+	<key>shouldListenAperture</key>
+	<string>connectorHue</string>
+</dict>
+</plist>

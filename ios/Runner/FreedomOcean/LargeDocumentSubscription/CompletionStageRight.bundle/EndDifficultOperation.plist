@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialchooser</key>
+	<string>priorBloc</string>
+	<key>quaternionTheme</key>
+	<string>nativeResource</string>
+	<key>scrollableBorder</key>
+	<string>semanticCurve</string>
+	<key>seamlessChallenge</key>
+	<string>reactiveLayer</string>
+	<key>streamlinesubscription</key>
+	<string>shouldStopBitrate</string>
+	<key>uniformTraversal</key>
+	<string>significantmethod</string>
+</dict>
+</plist>

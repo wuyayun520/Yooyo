@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>amortizationPosition</key>
+	<string>lastgroup</string>
+	<key>decodeappbar</key>
+	<string>futurefacademargin</string>
+	<key>detachtool</key>
+	<string>statelessborder</string>
+	<key>fixedDelegate</key>
+	<string>consumerAdapter</string>
+	<key>functionalGrain</key>
+	<string>granularProfile</string>
+	<key>globalTween</key>
+	<string>shouldFinishBloc</string>
+	<key>labelatparam</key>
+	<string>popupvisible</string>
+	<key>robustTolerance</key>
+	<string>shouldListenStream</string>
+	<key>sensorSkewX</key>
+	<string>canEncodeTask</string>
+	<key>shouldStartCertificate</key>
+	<string>copyOffset</string>
+</dict>
+</plist>

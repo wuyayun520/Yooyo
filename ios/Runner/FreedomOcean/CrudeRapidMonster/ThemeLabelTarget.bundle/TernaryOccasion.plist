@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledimpression</key>
+	<string>unmarshalLayout</string>
+	<key>ephemeralCreator</key>
+	<string>concurrentVertex</string>
+	<key>hierarchicalOffset</key>
+	<string>mediumAsync</string>
+	<key>scrollableEvent</key>
+	<string>shouldRestartHeap</string>
+	<key>shouldMountSpot</key>
+	<string>themeTail</string>
+	<key>skirtobject</key>
+	<string>combineScene</string>
+	<key>staticBuffer</key>
+	<string>shareddispatcher</string>
+	<key>touchTail</key>
+	<string>subpixelPhase</string>
+	<key>unlockcharacter</key>
+	<string>contractionTail</string>
+</dict>
+</plist>

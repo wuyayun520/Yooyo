@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalButton</key>
+	<string>canPaintController</string>
+	<key>currentview</key>
+	<string>capacitiesborder</string>
+	<key>flexState</key>
+	<string>rowtimer</string>
+	<key>literesponder</key>
+	<string>canPausePlayback</string>
+	<key>metadatalayeracceleration</key>
+	<string>connectBaseline</string>
+	<key>particleinterval</key>
+	<string>nextPoint</string>
+	<key>tickersplitter</key>
+	<string>streamcount</string>
+	<key>timePadding</key>
+	<string>rapidProtocol</string>
+</dict>
+</plist>

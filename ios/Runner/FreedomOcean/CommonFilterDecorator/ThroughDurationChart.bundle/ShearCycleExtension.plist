@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>explicitAlpha</key>
+	<string>debugDelegate</string>
+	<key>imperativeDescription</key>
+	<string>analogyskewx</string>
+	<key>layerIndex</key>
+	<string>iconTail</string>
+	<key>logarithmstate</key>
+	<string>dispatchOptimizer</string>
+	<key>opaqueviewshade</key>
+	<string>notifyInterpolation</string>
+	<key>playbackAppearance</key>
+	<string>dismisseffect</string>
+	<key>shouldReplaceBaseline</key>
+	<string>canSkipMediaQuery</string>
+</dict>
+</plist>

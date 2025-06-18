@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonAccessory</key>
+	<string>saveRichText</string>
+	<key>crudeSorter</key>
+	<string>notifierSpacing</string>
+	<key>loopandproxy</key>
+	<string>hyperbolicNotifier</string>
+	<key>missedStroke</key>
+	<string>tappableResource</string>
+	<key>providerdecoratorhead</key>
+	<string>storeincludevariable</string>
+	<key>subscriberSkewX</key>
+	<string>shouldEncodeMap</string>
+	<key>swiftTheme</key>
+	<string>compositionalSwitch</string>
+	<key>uniformconverter</key>
+	<string>consumerrotation</string>
+</dict>
+</plist>

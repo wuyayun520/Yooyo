@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxdescription</key>
+	<string>elasticCatalyst</string>
+	<key>checklisttension</key>
+	<string>canProcessProjection</string>
+	<key>currentResource</key>
+	<string>convolutionlatency</string>
+	<key>euclideanPopup</key>
+	<string>denseTimeline</string>
+	<key>retainedLayout</key>
+	<string>saveInteger</string>
+	<key>smallIntensity</key>
+	<string>persistentTaxonomy</string>
+	<key>tentativename</key>
+	<string>configurationLayer</string>
+</dict>
+</plist>

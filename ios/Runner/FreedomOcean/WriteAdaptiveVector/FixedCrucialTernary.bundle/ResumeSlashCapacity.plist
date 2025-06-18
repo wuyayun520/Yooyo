@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerName</key>
+	<string>publicSample</string>
+	<key>fusedTolerance</key>
+	<string>statefulamortization</string>
+	<key>geometricUtil</key>
+	<string>presentResource</string>
+	<key>materializerDelay</key>
+	<string>hyperbolicTween</string>
+	<key>nextTable</key>
+	<string>similarProtocol</string>
+	<key>queueTransparency</key>
+	<string>allocateUseCase</string>
+	<key>reactiveTweak</key>
+	<string>processservice</string>
+	<key>specifyParticle</key>
+	<string>descriptionoffset</string>
+</dict>
+</plist>

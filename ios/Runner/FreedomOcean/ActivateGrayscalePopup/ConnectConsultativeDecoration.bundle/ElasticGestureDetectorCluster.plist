@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardconstraintright</key>
+	<string>spinCallback</string>
+	<key>fixedtimerinset</key>
+	<string>reconcileRect</string>
+	<key>sessionMargin</key>
+	<string>multiAllocator</string>
+	<key>shouldPrepareTool</key>
+	<string>visualizeMethod</string>
+	<key>specifierFormat</key>
+	<string>layoutcatalyst</string>
+	<key>statelessbound</key>
+	<string>notifierFunction</string>
+	<key>transitionproxyright</key>
+	<string>shouldDismissNotification</string>
+</dict>
+</plist>

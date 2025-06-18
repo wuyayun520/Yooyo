@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationvisibility</key>
+	<string>marginCenter</string>
+	<key>connectorPadding</key>
+	<string>ignoredSorter</string>
+	<key>ignoredResponder</key>
+	<string>normLocation</string>
+	<key>refactorlayer</key>
+	<string>cacheSign</string>
+	<key>singlePosition</key>
+	<string>asynchronousDuration</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleBrush</key>
+	<string>isolateMethod</string>
+	<key>onmatrixchanged</key>
+	<string>toolacceleration</string>
+	<key>progressbarFormat</key>
+	<string>multiplicationContext</string>
+	<key>selectedThread</key>
+	<string>resultStatus</string>
+	<key>shouldDispatchText</key>
+	<string>opaqueDescriptor</string>
+</dict>
+</plist>

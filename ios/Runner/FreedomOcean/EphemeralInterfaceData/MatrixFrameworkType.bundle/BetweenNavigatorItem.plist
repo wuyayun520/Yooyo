@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directAccessory</key>
+	<string>enhanceprofile</string>
+	<key>hashtype</key>
+	<string>profileopacity</string>
+	<key>secondDisclaimer</key>
+	<string>listenerinparameter</string>
+	<key>shouldYieldWidget</key>
+	<string>timerShape</string>
+</dict>
+</plist>

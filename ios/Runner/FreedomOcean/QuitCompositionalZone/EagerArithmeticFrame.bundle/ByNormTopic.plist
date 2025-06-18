@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>multiplicationRight</key>
+	<string>shouldDeserializeAspect</string>
+	<key>nativecanvasspeed</key>
+	<string>grainAcceleration</string>
+	<key>offsetactivitybrightness</key>
+	<string>unbindresult</string>
+	<key>parallelcontrast</key>
+	<string>canPrepareChannels</string>
+	<key>secondDialogs</key>
+	<string>globalSine</string>
+	<key>sharedmultiplication</key>
+	<string>parseDescriptor</string>
+	<key>shouldPauseMission</key>
+	<string>oldOption</string>
+	<key>timeSize</key>
+	<string>reactiveBuilder</string>
+</dict>
+</plist>

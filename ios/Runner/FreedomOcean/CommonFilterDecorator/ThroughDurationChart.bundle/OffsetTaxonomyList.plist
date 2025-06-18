@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>easyMatrix</key>
+	<string>synchronizestore</string>
+	<key>fixedgroup</key>
+	<string>alertStyle</string>
+	<key>hierarchicalReduction</key>
+	<string>constraintTint</string>
+	<key>protectedPolyfill</key>
+	<string>temporaryScaffold</string>
+	<key>shouldKeepEffect</key>
+	<string>layoutAnimatedContainer</string>
+	<key>shouldpaintreference</key>
+	<string>transformertype</string>
+	<key>shouldshowsegue</key>
+	<string>storageWork</string>
+</dict>
+</plist>

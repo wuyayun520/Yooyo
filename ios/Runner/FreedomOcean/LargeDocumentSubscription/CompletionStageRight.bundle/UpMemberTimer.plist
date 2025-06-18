@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineHead</key>
+	<string>replaceAsset</string>
+	<key>brushinfrastructure</key>
+	<string>managerFacade</string>
+	<key>intermediateConverter</key>
+	<string>characterTemple</string>
+	<key>semanticRestriction</key>
+	<string>parallelGate</string>
+	<key>shouldRouteIndicator</key>
+	<string>listenerSingleton</string>
+	<key>subtleMetrics</key>
+	<string>shouldInflateEquipment</string>
+	<key>tensorPolyfill</key>
+	<string>intuitiveResponse</string>
+</dict>
+</plist>

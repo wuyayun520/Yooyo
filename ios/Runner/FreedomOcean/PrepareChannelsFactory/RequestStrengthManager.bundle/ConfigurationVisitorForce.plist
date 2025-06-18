@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderstatebottom</key>
+	<string>canStartAppBar</string>
+	<key>dialogsTop</key>
+	<string>canRenderAnchor</string>
+	<key>liteDelegate</key>
+	<string>navigationTheme</string>
+	<key>playbackStyle</key>
+	<string>selectedgift</string>
+	<key>segmentofvar</key>
+	<string>navigatorColor</string>
+	<key>shouldPresentGrayscale</key>
+	<string>consultativeCapacities</string>
+	<key>transitionfuture</key>
+	<string>chartmerger</string>
+	<key>visibleTimeline</key>
+	<string>shouldTransformStack</string>
+</dict>
+</plist>

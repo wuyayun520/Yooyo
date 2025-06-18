@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorVisibility</key>
+	<string>confidentialityOffset</string>
+	<key>connectorKind</key>
+	<string>liteRect</string>
+	<key>easyTouch</key>
+	<string>documentLayer</string>
+	<key>immediateAsset</key>
+	<string>channelSkewY</string>
+	<key>opaqueequalization</key>
+	<string>specifyData</string>
+</dict>
+</plist>

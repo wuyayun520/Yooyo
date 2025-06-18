@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationsingletonedge</key>
+	<string>tappableMaterial</string>
+	<key>descentvalidation</key>
+	<string>fusedCycle</string>
+	<key>errorstylesaturation</key>
+	<string>entropyStyle</string>
+	<key>indicatorMomentum</key>
+	<string>criticalinterpolationright</string>
+	<key>shouldHandleGem</key>
+	<string>adaptiveImage</string>
+	<key>sorterPosition</key>
+	<string>embraceTween</string>
+	<key>tappabletextfieldbehavior</key>
+	<string>popIntensity</string>
+	<key>tensorsampleindex</key>
+	<string>canDetachContainer</string>
+</dict>
+</plist>

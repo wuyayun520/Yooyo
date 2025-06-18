@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseorientation</key>
+	<string>canLoadCursor</string>
+	<key>multiplicationmomentum</key>
+	<string>inkwellSaturation</string>
+	<key>nativeMetadata</key>
+	<string>handleAnimation</string>
+	<key>pointDirection</key>
+	<string>minTabBar</string>
+	<key>protectedMomentum</key>
+	<string>usedcompletion</string>
+	<key>resultDirection</key>
+	<string>usedExponent</string>
+	<key>revisittween</key>
+	<string>parallelProject</string>
+	<key>shouldBindGradient</key>
+	<string>shouldUnmountMaster</string>
+</dict>
+</plist>

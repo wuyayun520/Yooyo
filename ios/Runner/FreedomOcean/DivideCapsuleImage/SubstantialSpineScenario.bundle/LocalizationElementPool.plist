@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleRemediation</key>
+	<string>discardedBuffer</string>
+	<key>catalystname</key>
+	<string>formatGram</string>
+	<key>documentMargin</key>
+	<string>stateStage</string>
+	<key>easytabbartail</key>
+	<string>shouldYieldBatch</string>
+	<key>hasroute</key>
+	<string>graphicComposite</string>
+	<key>metadatalikestyle</key>
+	<string>presenterMemento</string>
+	<key>rectangleKind</key>
+	<string>canHandleBullet</string>
+	<key>tappableAxis</key>
+	<string>shouldPopAlert</string>
+</dict>
+</plist>

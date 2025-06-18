@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatordata</key>
+	<string>contractionatscope</string>
+	<key>cubitvariablevalidation</key>
+	<string>toolFramework</string>
+	<key>defaultwidget</key>
+	<string>shouldDispatchStateful</string>
+	<key>notificationstream</key>
+	<string>canFormatPriority</string>
+	<key>switchopacity</key>
+	<string>shouldSerializeCurve</string>
+</dict>
+</plist>

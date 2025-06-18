@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentQueue</key>
+	<string>showChannel</string>
+	<key>handletimer</key>
+	<string>shouldDeserializeRadio</string>
+	<key>intuitivePicker</key>
+	<string>saveHero</string>
+	<key>isscaffold</key>
+	<string>parseImage</string>
+	<key>optimizerPosition</key>
+	<string>liteSink</string>
+	<key>shouldTransitionNavigator</key>
+	<string>baselineRight</string>
+	<key>staticZone</key>
+	<string>subscribeCache</string>
+	<key>symmetricReliability</key>
+	<string>providerColor</string>
+	<key>updatenode</key>
+	<string>sinkvisible</string>
+</dict>
+</plist>

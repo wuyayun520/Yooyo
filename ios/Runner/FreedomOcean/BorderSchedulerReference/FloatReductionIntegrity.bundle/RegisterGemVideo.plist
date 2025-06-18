@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableSelector</key>
+	<string>optionRight</string>
+	<key>fixedMetrics</key>
+	<string>columnrotation</string>
+	<key>grayscaleplatformtheme</key>
+	<string>nextPositioned</string>
+	<key>notificationspeed</key>
+	<string>instructionEdge</string>
+	<key>smartGridView</key>
+	<string>storageTail</string>
+</dict>
+</plist>

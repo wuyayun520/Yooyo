@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedsigntint</key>
+	<string>mutableSearcher</string>
+	<key>featureValidation</key>
+	<string>agileMenu</string>
+	<key>featuretransparency</key>
+	<string>canAnimatePadding</string>
+	<key>invisibleTernary</key>
+	<string>currentCanvas</string>
+	<key>projectionpreview</key>
+	<string>extensionhandler</string>
+	<key>shouldParseIndicator</key>
+	<string>persistRole</string>
+	<key>showspecifier</key>
+	<string>cupertinofunctionbehavior</string>
+	<key>tablevalueright</key>
+	<string>shouldPrepareRole</string>
+	<key>uniqueText</key>
+	<string>opaqueSine</string>
+</dict>
+</plist>

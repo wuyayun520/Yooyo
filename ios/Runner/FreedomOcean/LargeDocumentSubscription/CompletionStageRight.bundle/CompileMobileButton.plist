@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardOffset</key>
+	<string>shouldRouteMonster</string>
+	<key>concreteDetail</key>
+	<string>mountStoryboard</string>
+	<key>euclideanMenu</key>
+	<string>shouldProcessCache</string>
+	<key>numericalModulus</key>
+	<string>adjustHandler</string>
+	<key>parallelSegment</key>
+	<string>inheritedView</string>
+	<key>publicVideo</key>
+	<string>rapidMedia</string>
+	<key>scrollableEntity</key>
+	<string>activeError</string>
+	<key>shouldPresentScreen</key>
+	<string>defaultprecision</string>
+	<key>shouldPushCosine</key>
+	<string>retrieveLayout</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentchallenge</key>
+	<string>deserializereduction</string>
+	<key>cycleInset</key>
+	<string>buttonlevelbound</string>
+	<key>desktopRole</key>
+	<string>accordionFilter</string>
+	<key>ismomentum</key>
+	<string>sharederror</string>
+	<key>liteGraphic</key>
+	<string>completedRow</string>
+	<key>reactiveMediaQuery</key>
+	<string>transformerofproxy</string>
+	<key>screenanimation</key>
+	<string>cubitInterpreter</string>
+	<key>shouldPaintHistogram</key>
+	<string>shouldDispatchLogarithm</string>
+</dict>
+</plist>

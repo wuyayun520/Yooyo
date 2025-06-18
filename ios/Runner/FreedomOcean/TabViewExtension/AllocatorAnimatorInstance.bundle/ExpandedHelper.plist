@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeCheckbox</key>
+	<string>shouldTrainOverlay</string>
+	<key>autoCompleter</key>
+	<string>unactivatedobserver</string>
+	<key>dedicatedBitrate</key>
+	<string>shouldUnmountMonster</string>
+	<key>injectionascent</key>
+	<string>animatedeventalignment</string>
+	<key>lostWorkflow</key>
+	<string>pushExponent</string>
+	<key>nodeforplatform</key>
+	<string>durationVisible</string>
+	<key>shouldattachpainter</key>
+	<string>pickerVisible</string>
+</dict>
+</plist>

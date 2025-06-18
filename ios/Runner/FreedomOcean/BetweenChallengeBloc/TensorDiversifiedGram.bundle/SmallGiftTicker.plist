@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledDuration</key>
+	<string>listviewActivity</string>
+	<key>layerlayertheme</key>
+	<string>bufferinfrastructure</string>
+	<key>mainFuture</key>
+	<string>shouldShowMatrix</string>
+	<key>mobileTimeline</key>
+	<string>gramOperation</string>
+	<key>protectedSpine</key>
+	<string>checkManager</string>
+	<key>relationalbitrate</key>
+	<string>scrollerLeft</string>
+	<key>reusableImage</key>
+	<string>graindescent</string>
+	<key>showtransition</key>
+	<string>pinchableOffset</string>
+	<key>stepmend</key>
+	<string>precisionStatus</string>
+	<key>transformerphasesize</key>
+	<string>containerFacade</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayablemodel</key>
+	<string>canStartDelegate</string>
+	<key>histogrambuilder</key>
+	<string>listeneratadapter</string>
+	<key>implementbuilder</key>
+	<string>shouldBindContraction</string>
+	<key>litealertsize</key>
+	<string>shouldpersisttask</string>
+	<key>oldEqualization</key>
+	<string>decodeProfile</string>
+</dict>
+</plist>

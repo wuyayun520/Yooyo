@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoinjection</key>
+	<string>prepareText</string>
+	<key>boxshadowinformation</key>
+	<string>restoreLoop</string>
+	<key>convolutiontag</key>
+	<string>canPersistRole</string>
+	<key>criticalCheckbox</key>
+	<string>missedAlpha</string>
+	<key>declarativeNotification</key>
+	<string>signflags</string>
+	<key>primaryCombiner</key>
+	<string>giftOffset</string>
+	<key>shouldserializeextension</key>
+	<string>canLayoutOption</string>
+</dict>
+</plist>

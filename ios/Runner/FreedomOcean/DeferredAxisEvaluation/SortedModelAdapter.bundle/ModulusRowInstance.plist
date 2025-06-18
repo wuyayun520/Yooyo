@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoInteger</key>
+	<string>beginnerdescriptionsize</string>
+	<key>captionDensity</key>
+	<string>cursorstateacceleration</string>
+	<key>equalizationoperationacceleration</key>
+	<string>criticalTween</string>
+	<key>primaryGridView</key>
+	<string>limitview</string>
+	<key>publisherMode</key>
+	<string>shouldemitclipper</string>
+	<key>relationalRectangle</key>
+	<string>buildArithmetic</string>
+	<key>scrollablerectangle</key>
+	<string>denseHash</string>
+	<key>tabviewContrast</key>
+	<string>independentSizedBox</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedKernel</key>
+	<string>rectLeft</string>
+	<key>delicategrid</key>
+	<string>profileProcess</string>
+	<key>erasenavigator</key>
+	<string>shouldSaveAppBar</string>
+	<key>gateLeft</key>
+	<string>revisitUseCase</string>
+	<key>granularMapper</key>
+	<string>canResumeBehavior</string>
+	<key>robustMargin</key>
+	<string>wrapButton</string>
+</dict>
+</plist>

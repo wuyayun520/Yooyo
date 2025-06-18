@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredStoryboard</key>
+	<string>canUnbindDropdownButton</string>
+	<key>pagercoord</key>
+	<string>widgetrotation</string>
+	<key>polyfillDepth</key>
+	<string>flexibleData</string>
+	<key>scrollfeedback</key>
+	<string>mutableReducer</string>
+	<key>statefulListView</key>
+	<string>mixinBuilder</string>
+</dict>
+</plist>

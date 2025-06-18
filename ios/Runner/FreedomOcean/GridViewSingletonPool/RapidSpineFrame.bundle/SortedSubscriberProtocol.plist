@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>independentIcon</key>
+	<string>resizableactivitysize</string>
+	<key>otherQuaternion</key>
+	<string>semanticDisclaimer</string>
+	<key>pagerfrequency</key>
+	<string>pushStoryboard</string>
+	<key>publicShader</key>
+	<string>inflateoffset</string>
+	<key>semanticremediation</key>
+	<string>animationAcceleration</string>
+	<key>thresholdDepth</key>
+	<string>shouldPauseBatch</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fetchtimer</key>
+	<string>interpolationCenter</string>
+	<key>localThread</key>
+	<string>evaluationPressure</string>
+	<key>meshKind</key>
+	<string>fetchmusic</string>
+	<key>searcherColor</key>
+	<string>serializeGrayscale</string>
+	<key>shouldDecodeImage</key>
+	<string>routestate</string>
+	<key>stateTail</key>
+	<string>signuntiljob</string>
+	<key>vectorVisible</key>
+	<string>assetpicker</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alerttexture</key>
+	<string>sophisticatedBehavior</string>
+	<key>defaultpromise</key>
+	<string>canDecodeSkirt</string>
+	<key>modalAlignment</key>
+	<string>tabbarMomentum</string>
+	<key>notificationprocessor</key>
+	<string>multirequest</string>
+	<key>selectorSkewY</key>
+	<string>independentTaxonomy</string>
+	<key>sequentialPrecision</key>
+	<string>gridviewFunction</string>
+	<key>smartTextField</key>
+	<string>publishSlider</string>
+	<key>unsortedWidget</key>
+	<string>dedicatedNotifier</string>
+</dict>
+</plist>

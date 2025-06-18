@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncBorder</key>
+	<string>inheritedBehavior</string>
+	<key>disabledCache</key>
+	<string>synchronousChallenge</string>
+	<key>disparateMatrix</key>
+	<string>instantiateAwait</string>
+	<key>ephemeralResponder</key>
+	<string>requiredHero</string>
+	<key>imperativeModel</key>
+	<string>resizableComponent</string>
+	<key>shouldPausePositioned</key>
+	<string>previewLevel</string>
+</dict>
+</plist>

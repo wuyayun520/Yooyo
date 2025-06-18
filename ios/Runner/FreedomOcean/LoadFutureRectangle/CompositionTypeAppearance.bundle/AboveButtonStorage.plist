@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeGraphic</key>
+	<string>playMetadata</string>
+	<key>aperturePressure</key>
+	<string>notifyGraph</string>
+	<key>cellOpacity</key>
+	<string>providervariablestyle</string>
+	<key>deferredinteraction</key>
+	<string>bufferBridge</string>
+	<key>parseloss</key>
+	<string>durationName</string>
+	<key>repositoryContrast</key>
+	<string>publishcontroller</string>
+</dict>
+</plist>

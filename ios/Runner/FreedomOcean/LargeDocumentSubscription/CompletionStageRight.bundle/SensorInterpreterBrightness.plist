@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratiostructuretransparency</key>
+	<string>storerotation</string>
+	<key>defaultAxis</key>
+	<string>shouldStartAnimation</string>
+	<key>disparateReplica</key>
+	<string>iconColor</string>
+	<key>instantiategate</key>
+	<string>mountedAppBar</string>
+	<key>maintaingraphic</key>
+	<string>explicitAnchor</string>
+	<key>shouldAttachActivity</key>
+	<string>locateTimer</string>
+	<key>shouldDisposeMobile</key>
+	<string>canInflateCapacities</string>
+</dict>
+</plist>

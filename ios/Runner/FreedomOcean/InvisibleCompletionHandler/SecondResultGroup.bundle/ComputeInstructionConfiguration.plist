@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>explicitTimer</key>
+	<string>fusedGridView</string>
+	<key>exponentTransparency</key>
+	<string>difficultGate</string>
+	<key>greatCycle</key>
+	<string>canRenderCard</string>
+	<key>navigatorShape</key>
+	<string>allocateSink</string>
+	<key>quaternionTop</key>
+	<string>backwardOptimizer</string>
+	<key>rapidVector</key>
+	<string>rectInteraction</string>
+	<key>scrollableWorkflow</key>
+	<string>unsortedPublisher</string>
+</dict>
+</plist>

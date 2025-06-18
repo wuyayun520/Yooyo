@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedController</key>
+	<string>canRenderInstruction</string>
+	<key>cartesianintensity</key>
+	<string>effectOrientation</string>
+	<key>cubitSkewX</key>
+	<string>fetchticker</string>
+	<key>granularContainer</key>
+	<string>integervalidation</string>
+	<key>movementduringcycle</key>
+	<string>accessibleProvision</string>
+	<key>shouldPauseGate</key>
+	<string>canAttachConvolution</string>
+	<key>shouldSerializePrecision</key>
+	<string>asynchronousFlex</string>
+	<key>similarBullet</key>
+	<string>dialogsLayer</string>
+</dict>
+</plist>

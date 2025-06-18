@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxintensity</key>
+	<string>shouldTrainCapacities</string>
+	<key>fixedReducer</key>
+	<string>protectedController</string>
+	<key>graincontainaction</key>
+	<string>reusableCubit</string>
+	<key>imperativeGate</key>
+	<string>inheritedIntegrity</string>
+	<key>preparestorage</key>
+	<string>timerBound</string>
+	<key>rapidRestriction</key>
+	<string>materialflyweightborder</string>
+	<key>scrollableLayout</key>
+	<string>popSubscription</string>
+	<key>shouldCreateCheckbox</key>
+	<string>vectorizeEntity</string>
+</dict>
+</plist>

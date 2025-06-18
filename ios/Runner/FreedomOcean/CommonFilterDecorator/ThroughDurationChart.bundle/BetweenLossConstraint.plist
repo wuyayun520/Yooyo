@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentbinary</key>
+	<string>progressbarhead</string>
+	<key>ephemeralGesture</key>
+	<string>optimizerFormat</string>
+	<key>explicitmethod</key>
+	<string>canMountedView</string>
+	<key>mainOverlay</key>
+	<string>canLayoutMovement</string>
+	<key>particleSkewY</key>
+	<string>scenepatternforce</string>
+	<key>shouldObserveSensor</key>
+	<string>granularAnimator</string>
+	<key>smallCurve</key>
+	<string>builderobserverskewx</string>
+	<key>tabbarformat</key>
+	<string>intuitivetween</string>
+</dict>
+</plist>

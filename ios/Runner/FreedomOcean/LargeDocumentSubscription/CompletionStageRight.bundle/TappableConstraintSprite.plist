@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeobserver</key>
+	<string>restoreCurve</string>
+	<key>cubitindex</key>
+	<string>cellTask</string>
+	<key>lostScenario</key>
+	<string>mountPet</string>
+	<key>mainobject</key>
+	<string>infrastructuremomentum</string>
+	<key>primaryPlayback</key>
+	<string>hardOptimizer</string>
+	<key>seekbuilder</key>
+	<string>buttonplatformhead</string>
+	<key>shouldResumeTask</key>
+	<string>responderSpeed</string>
+</dict>
+</plist>

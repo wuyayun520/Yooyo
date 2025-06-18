@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>invisibleMaterial</key>
+	<string>reactiveUnary</string>
+	<key>responsiveModule</key>
+	<string>profileeffect</string>
+	<key>sceneScale</key>
+	<string>originalRole</string>
+	<key>shouldconnectstack</key>
+	<string>customPlayback</string>
+	<key>singlestoretype</key>
+	<string>constantbehavior</string>
+	<key>uniformRadio</key>
+	<string>lazyModulus</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchTag</key>
+	<string>capacitybound</string>
+	<key>borderState</key>
+	<string>nextInteger</string>
+	<key>dynamicEvolution</key>
+	<string>resultvarappearance</string>
+	<key>injectionorigin</key>
+	<string>formatBinary</string>
+	<key>shouldTransformMaster</key>
+	<string>enabledText</string>
+	<key>smartinjectionbound</key>
+	<string>specifierAcceleration</string>
+	<key>synchronousMap</key>
+	<string>instructionForm</string>
+	<key>webIsolate</key>
+	<string>discardedCapacity</string>
+</dict>
+</plist>

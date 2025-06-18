@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>graphicpager</key>
+	<string>projectionAlignment</string>
+	<key>modelTail</key>
+	<string>oldSchema</string>
+	<key>shouldLayoutMaster</key>
+	<string>canSkipProvider</string>
+	<key>shouldPushMaterial</key>
+	<string>basicCustomPaint</string>
+	<key>skiplogarithm</key>
+	<string>ternaryInterval</string>
+	<key>statefulanimation</key>
+	<string>resumeBrush</string>
+	<key>synchronousSession</key>
+	<string>shouldPaintController</string>
+	<key>unmountedtangent</key>
+	<string>modulusactionborder</string>
+</dict>
+</plist>

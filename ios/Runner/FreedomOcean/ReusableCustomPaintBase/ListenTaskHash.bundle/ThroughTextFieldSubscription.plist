@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleTrigger</key>
+	<string>cartesianButton</string>
+	<key>builderFeedback</key>
+	<string>originalTangent</string>
+	<key>dropdownbuttonDirection</key>
+	<string>gesturedetectorrepository</string>
+	<key>hierarchicalCheckbox</key>
+	<string>mediumUnary</string>
+	<key>integrityInset</key>
+	<string>optimizeCurve</string>
+	<key>mediocreSymbol</key>
+	<string>specifyCollection</string>
+	<key>missedTriangles</key>
+	<string>sustainableHash</string>
+	<key>normalTernary</key>
+	<string>skinexceptparameter</string>
+	<key>shouldRenderHero</key>
+	<string>restartTechnique</string>
+	<key>taskedge</key>
+	<string>requestComposite</string>
+</dict>
+</plist>

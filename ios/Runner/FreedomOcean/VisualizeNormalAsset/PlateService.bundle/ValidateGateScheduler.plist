@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleHandler</key>
+	<string>shouldDeserializeChannels</string>
+	<key>completionmenu</key>
+	<string>subsequentSubscriber</string>
+	<key>formatCenter</key>
+	<string>enhanceScene</string>
+	<key>granularCombiner</key>
+	<string>shouldStreamSwitch</string>
+	<key>positiondetector</key>
+	<string>specifierobserver</string>
+	<key>responsivepolygon</key>
+	<string>textureorientation</string>
+	<key>topicForce</key>
+	<string>mediumimage</string>
+</dict>
+</plist>

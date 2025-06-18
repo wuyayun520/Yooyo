@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatordistinction</key>
+	<string>heapValue</string>
+	<key>persistentFeature</key>
+	<string>canPersistOperation</string>
+	<key>replacerouter</key>
+	<string>disabledBase</string>
+	<key>shouldHandleSkin</key>
+	<string>imperativeQuaternion</string>
+	<key>shouldRenderColumn</key>
+	<string>canRestartTheme</string>
+	<key>shouldskipcontainer</key>
+	<string>pointLeft</string>
+	<key>substantialchannels</key>
+	<string>sustainableTool</string>
+</dict>
+</plist>

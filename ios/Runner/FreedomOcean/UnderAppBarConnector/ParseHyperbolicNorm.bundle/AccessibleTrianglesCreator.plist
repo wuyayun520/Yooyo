@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitPressure</key>
+	<string>rendererSpacing</string>
+	<key>dimensionSaturation</key>
+	<string>mutableprogressbarname</string>
+	<key>hierarchicalUseCase</key>
+	<string>completedTextField</string>
+	<key>matrixvalidation</key>
+	<string>shouldPersistSensor</string>
+	<key>normlistener</key>
+	<string>shouldUnmountClipper</string>
+	<key>sortedNotifier</key>
+	<string>streamlineInjection</string>
+</dict>
+</plist>

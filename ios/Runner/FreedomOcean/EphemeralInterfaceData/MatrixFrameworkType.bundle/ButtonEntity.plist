@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionpermemento</key>
+	<string>advancedcycleresponse</string>
+	<key>ignoredhandler</key>
+	<string>unsortedAnchor</string>
+	<key>interfacepressure</key>
+	<string>isolatemargin</string>
+	<key>pivotaltangentrate</key>
+	<string>shouldYieldCanvas</string>
+	<key>processorBehavior</key>
+	<string>fusedPermutation</string>
+	<key>respondlogarithm</key>
+	<string>canPushAnimation</string>
+	<key>scalabilityOrigin</key>
+	<string>specifyStamp</string>
+	<key>scrollableActivity</key>
+	<string>setstateDialogs</string>
+	<key>shouldUnmountedAppBar</key>
+	<string>gridviewwithoutwork</string>
+</dict>
+</plist>

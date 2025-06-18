@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintscale</key>
+	<string>soundBehavior</string>
+	<key>ephemeralAsync</key>
+	<string>pauseSine</string>
+	<key>hierarchicalDependency</key>
+	<string>convertRow</string>
+	<key>independentremainderinterval</key>
+	<string>protocolFormat</string>
+	<key>newestusecase</key>
+	<string>dimensionshape</string>
+	<key>previewsensor</key>
+	<string>subscriptionRotation</string>
+	<key>shouldReplaceConvolution</key>
+	<string>skipchart</string>
+	<key>singletonofparam</key>
+	<string>intuitiveSize</string>
+</dict>
+</plist>

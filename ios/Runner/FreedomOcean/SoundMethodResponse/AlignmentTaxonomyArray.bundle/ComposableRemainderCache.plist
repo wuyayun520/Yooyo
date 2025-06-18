@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionbuffervisibility</key>
+	<string>associatedrow</string>
+	<key>alertMargin</key>
+	<string>providerfunctionscale</string>
+	<key>exceptionagainstvalue</key>
+	<string>removeTween</string>
+	<key>lazyTweak</key>
+	<string>ephemeralDetector</string>
+	<key>receiveextension</key>
+	<string>pointinteraction</string>
+	<key>searchcell</key>
+	<string>mainreduction</string>
+	<key>shouldDisconnectInteger</key>
+	<string>shouldPrepareNavigation</string>
+</dict>
+</plist>

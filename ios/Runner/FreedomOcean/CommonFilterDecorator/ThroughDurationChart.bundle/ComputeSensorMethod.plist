@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistMargin</key>
+	<string>disconnectrole</string>
+	<key>currentanimatedcontaineredge</key>
+	<string>canEndRow</string>
+	<key>materialSpecifier</key>
+	<string>documentStage</string>
+	<key>ontextchanged</key>
+	<string>persistMonster</string>
+	<key>persistmember</key>
+	<string>revisitLayer</string>
+	<key>provideratproxy</key>
+	<string>canNotifyCharacter</string>
+	<key>shouldSkipTool</key>
+	<string>reusableAnalogy</string>
+	<key>statelessSwift</key>
+	<string>imperativeFinder</string>
+</dict>
+</plist>

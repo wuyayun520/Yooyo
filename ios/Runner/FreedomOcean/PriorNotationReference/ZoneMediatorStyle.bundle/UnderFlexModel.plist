@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedBase</key>
+	<string>fetchpainter</string>
+	<key>channelName</key>
+	<string>heroTheme</string>
+	<key>custompaintfactory</key>
+	<string>custompaintborder</string>
+	<key>disclaimerFlags</key>
+	<string>decodetouch</string>
+	<key>imageCenter</key>
+	<string>synchronizeStream</string>
+	<key>mainAnimatedContainer</key>
+	<string>entropyprovision</string>
+	<key>multiplicationLocation</key>
+	<string>optionTension</string>
+	<key>protectedNode</key>
+	<string>navigatorIndex</string>
+	<key>reusableError</key>
+	<string>compositionalObserver</string>
+	<key>tabviewvisibility</key>
+	<string>selectedbrush</string>
+</dict>
+</plist>

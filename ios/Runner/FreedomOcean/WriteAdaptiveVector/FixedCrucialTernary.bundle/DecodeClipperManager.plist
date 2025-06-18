@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedCosine</key>
+	<string>builderRate</string>
+	<key>granularComposition</key>
+	<string>lossState</string>
+	<key>inkwellhash</key>
+	<string>loadUsage</string>
+	<key>materialSubscription</key>
+	<string>positionDuration</string>
+	<key>playbackState</key>
+	<string>fusedSkirt</string>
+	<key>prevTouch</key>
+	<string>normorigin</string>
+	<key>shouldFetchDecoration</key>
+	<string>pickerVisible</string>
+	<key>shouldProcessHeap</key>
+	<string>reflectAsset</string>
+	<key>startpositioned</key>
+	<string>sequentialMechanism</string>
+	<key>subsequentChooser</key>
+	<string>blocCoord</string>
+</dict>
+</plist>

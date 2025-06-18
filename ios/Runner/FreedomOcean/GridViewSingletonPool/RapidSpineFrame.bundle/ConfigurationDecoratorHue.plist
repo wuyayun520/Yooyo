@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedboxshadow</key>
+	<string>reductionOperation</string>
+	<key>boxshadowRotation</key>
+	<string>canRestartSensor</string>
+	<key>cardMomentum</key>
+	<string>overrideProvider</string>
+	<key>invisibleswitch</key>
+	<string>pushGesture</string>
+	<key>otherzonecolor</key>
+	<string>functionalSubscription</string>
+	<key>shouldSaveDropdownButton</key>
+	<string>awaitframeworkvelocity</string>
+	<key>shouldUnmountedTransition</key>
+	<string>mediumExpanded</string>
+</dict>
+</plist>

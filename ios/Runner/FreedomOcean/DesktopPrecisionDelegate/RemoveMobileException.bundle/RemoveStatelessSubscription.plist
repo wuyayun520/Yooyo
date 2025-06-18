@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardCoord</key>
+	<string>descriptionleft</string>
+	<key>defaultgesture</key>
+	<string>maxButton</string>
+	<key>elasticityPosition</key>
+	<string>widgetinformation</string>
+	<key>endbuilder</key>
+	<string>advancedanimator</string>
+	<key>lazyColor</key>
+	<string>writeSize</string>
+	<key>sequentialbaselinetension</key>
+	<string>presenterRight</string>
+	<key>shearpageview</key>
+	<string>iconbuilder</string>
+	<key>shouldprocessskirt</key>
+	<string>progressbarBuffer</string>
+	<key>symmetrictransitioncount</key>
+	<string>shouldHandleConsumer</string>
+	<key>synchronouscollection</key>
+	<string>numericalstream</string>
+</dict>
+</plist>

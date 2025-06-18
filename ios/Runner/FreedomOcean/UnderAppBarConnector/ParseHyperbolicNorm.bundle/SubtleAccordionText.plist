@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptivepolyfill</key>
+	<string>accessiblePoint</string>
+	<key>confidentialitySpacing</key>
+	<string>rapidScene</string>
+	<key>cupertinoModule</key>
+	<string>shouldEncodeImage</string>
+	<key>lazytextfieldname</key>
+	<string>canRebuildActivity</string>
+	<key>profilesign</key>
+	<string>diffableBehavior</string>
+</dict>
+</plist>

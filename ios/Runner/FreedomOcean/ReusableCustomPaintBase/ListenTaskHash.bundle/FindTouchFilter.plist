@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedCatalyst</key>
+	<string>canContinueArithmetic</string>
+	<key>basicTime</key>
+	<string>shouldSkipAnchor</string>
+	<key>deliverybehavior</key>
+	<string>sustainableTimeline</string>
+	<key>fragmentsCenter</key>
+	<string>canBindEquipment</string>
+	<key>keyTexture</key>
+	<string>marshalScene</string>
+	<key>publicScaffold</key>
+	<string>storeStrategy</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintofvalue</key>
+	<string>startchart</string>
+	<key>displayableSensor</key>
+	<string>loopBound</string>
+	<key>inheritedConsumer</key>
+	<string>cleanHandler</string>
+	<key>reactiveGesture</key>
+	<string>shouldSerializeShader</string>
+	<key>volumeTail</key>
+	<string>effectkind</string>
+</dict>
+</plist>

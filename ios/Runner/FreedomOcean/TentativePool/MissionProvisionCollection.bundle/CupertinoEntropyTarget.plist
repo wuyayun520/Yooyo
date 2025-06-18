@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>isolatethroughput</key>
+	<string>agileStatus</string>
+	<key>localOptimizer</key>
+	<string>bindPositioned</string>
+	<key>projectaboutenvironment</key>
+	<string>pauseBullet</string>
+	<key>segmentRotation</key>
+	<string>canLayoutSample</string>
+	<key>shouldBuildBase</key>
+	<string>euclideansegue</string>
+	<key>typicalItem</key>
+	<string>semanticprogressbar</string>
+	<key>webMember</key>
+	<string>shouldRebuildBloc</string>
+</dict>
+</plist>

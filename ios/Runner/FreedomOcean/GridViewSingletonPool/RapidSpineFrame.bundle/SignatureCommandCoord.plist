@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentoption</key>
+	<string>cupertinoRemediation</string>
+	<key>hardModulus</key>
+	<string>pinchableNotification</string>
+	<key>hardPosition</key>
+	<string>freeService</string>
+	<key>nativeRemediation</key>
+	<string>crucialSearcher</string>
+	<key>robustBrush</key>
+	<string>navigateCapsule</string>
+	<key>tickercolor</key>
+	<string>curvescope</string>
+	<key>timeColor</key>
+	<string>shouldStartActivity</string>
+</dict>
+</plist>

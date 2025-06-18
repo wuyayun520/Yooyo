@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>invisiblecharacterdelay</key>
+	<string>logarithmInset</string>
+	<key>mastermenu</key>
+	<string>meshHue</string>
+	<key>musicDepth</key>
+	<string>significantResilience</string>
+	<key>oncursorchanged</key>
+	<string>gridviewposition</string>
+	<key>opaqueConstant</key>
+	<string>canResumeScaffold</string>
+	<key>requiredskinorigin</key>
+	<string>requiredGrayscale</string>
+	<key>retainedgrid</key>
+	<string>unsortedanalogy</string>
+	<key>shouldRouteIcon</key>
+	<string>eagerIsolate</string>
+</dict>
+</plist>

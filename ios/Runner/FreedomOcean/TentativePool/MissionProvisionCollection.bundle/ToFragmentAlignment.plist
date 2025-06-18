@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationlocation</key>
+	<string>initializeResponse</string>
+	<key>greatFragment</key>
+	<string>rotateLoop</string>
+	<key>priorityPosition</key>
+	<string>fetchDropdownButton</string>
+	<key>rendererInset</key>
+	<string>elasticMenu</string>
+	<key>visitmanager</key>
+	<string>profileInterpreter</string>
+</dict>
+</plist>

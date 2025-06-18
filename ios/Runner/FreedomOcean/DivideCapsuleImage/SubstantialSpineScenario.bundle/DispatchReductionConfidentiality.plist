@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatorShade</key>
+	<string>similarDrawer</string>
+	<key>buttonDistance</key>
+	<string>shouldTransformPriority</string>
+	<key>completercommandlocation</key>
+	<string>shouldLoadConsumer</string>
+	<key>diffableSink</key>
+	<string>permissiveGestureDetector</string>
+	<key>imperativeSelector</key>
+	<string>intermediateAudio</string>
+	<key>layerstatetop</key>
+	<string>crudeStateless</string>
+	<key>oldrenderer</key>
+	<string>momentumAction</string>
+	<key>robustResolver</key>
+	<string>shouldProcessScroll</string>
+	<key>specifierCount</key>
+	<string>independentGem</string>
+</dict>
+</plist>

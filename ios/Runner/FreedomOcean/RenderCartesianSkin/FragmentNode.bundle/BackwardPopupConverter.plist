@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customGesture</key>
+	<string>rectSpeed</string>
+	<key>histogramAcceleration</key>
+	<string>resumeDecoration</string>
+	<key>indicatorOpacity</key>
+	<string>canInflateExtension</string>
+	<key>largeNotifier</key>
+	<string>factoryAppearance</string>
+	<key>logdispatcher</key>
+	<string>skinHead</string>
+	<key>mutableListener</key>
+	<string>shouldunmountedgem</string>
+	<key>oldReplica</key>
+	<string>ignoredInteger</string>
+	<key>parallelCluster</key>
+	<string>channelContext</string>
+	<key>usageDelay</key>
+	<string>decoupleAsset</string>
+</dict>
+</plist>

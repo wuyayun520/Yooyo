@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>audioFormat</key>
+	<string>permissiveSubpixel</string>
+	<key>enabledEqualization</key>
+	<string>listenShader</string>
+	<key>fusedColor</key>
+	<string>geometricasset</string>
+	<key>iterativeSpine</key>
+	<string>syncaction</string>
+	<key>shouldcontinuemargin</key>
+	<string>canDismissCanvas</string>
+	<key>spotDirection</key>
+	<string>canPublishChecklist</string>
+	<key>stackproxyflags</key>
+	<string>standaloneVector</string>
+	<key>sustainableEmitter</key>
+	<string>comprehensiveintegrity</string>
+	<key>synchronousPolyfill</key>
+	<string>containerEnvironment</string>
+	<key>typicaldialogs</key>
+	<string>canPrepareMatrix</string>
+</dict>
+</plist>

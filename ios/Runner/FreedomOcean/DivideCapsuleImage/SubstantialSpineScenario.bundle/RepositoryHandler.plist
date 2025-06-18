@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animateternary</key>
+	<string>extensionPhase</string>
+	<key>elasticGesture</key>
+	<string>segmentmargin</string>
+	<key>pinchableOptimizer</key>
+	<string>slashLeft</string>
+</dict>
+</plist>

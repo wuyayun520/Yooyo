@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalStream</key>
+	<string>scalabilityCenter</string>
+	<key>dynamicText</key>
+	<string>refactorAnimation</string>
+	<key>grainSkewY</key>
+	<string>modelOrigin</string>
+	<key>persistentConverter</key>
+	<string>coordinatorFramework</string>
+	<key>sceneimpact</key>
+	<string>matrixMomentum</string>
+	<key>shouldHandleCupertino</key>
+	<string>sanitizeRoute</string>
+	<key>shouldTransitionCupertino</key>
+	<string>benchmarkParticle</string>
+	<key>signatureDuration</key>
+	<string>dynamicInfrastructure</string>
+</dict>
+</plist>

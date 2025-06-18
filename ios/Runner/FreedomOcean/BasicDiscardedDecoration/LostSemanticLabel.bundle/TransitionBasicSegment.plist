@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerDetector</key>
+	<string>segueSpeed</string>
+	<key>contrastShade</key>
+	<string>declarativeDispatcher</string>
+	<key>independentAwait</key>
+	<string>temporaryviewposition</string>
+	<key>sampleInterval</key>
+	<string>displayableService</string>
+	<key>shouldConnectBorder</key>
+	<string>streamGrayscale</string>
+	<key>unactivatedCubit</key>
+	<string>descriptionMargin</string>
+</dict>
+</plist>

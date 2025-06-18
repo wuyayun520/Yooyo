@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleRepository</key>
+	<string>independentTrigger</string>
+	<key>cacheforce</key>
+	<string>newestLabel</string>
+	<key>localizationsincesystem</key>
+	<string>marshalContainer</string>
+	<key>similarScene</key>
+	<string>canTransformConsumer</string>
+</dict>
+</plist>

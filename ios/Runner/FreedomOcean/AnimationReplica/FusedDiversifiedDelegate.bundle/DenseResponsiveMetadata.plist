@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicBuilder</key>
+	<string>customizeddecoration</string>
+	<key>mediaqueryDistance</key>
+	<string>animatedcontaineracceleration</string>
+	<key>notifygram</key>
+	<string>autoPolyfill</string>
+	<key>paddingOrigin</key>
+	<string>similarBuffer</string>
+	<key>shouldSaveCard</key>
+	<string>canDispatchMap</string>
+	<key>subtleInkWell</key>
+	<string>sequentialParticle</string>
+	<key>tensorSession</key>
+	<string>presenterTag</string>
+</dict>
+</plist>

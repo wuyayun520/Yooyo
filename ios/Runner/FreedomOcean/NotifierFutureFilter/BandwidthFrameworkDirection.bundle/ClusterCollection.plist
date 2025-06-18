@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainersubscription</key>
+	<string>greatMaterializer</string>
+	<key>aspectmodel</key>
+	<string>timeBrightness</string>
+	<key>composablesceneshape</key>
+	<string>zonecluster</string>
+	<key>encapsulatebuilder</key>
+	<string>usecaseexceptscope</string>
+	<key>scaffoldLeft</key>
+	<string>streamlineConstraint</string>
+	<key>scrollablebuilder</key>
+	<string>profilefeedback</string>
+	<key>usedDuration</key>
+	<string>euclideanGesture</string>
+</dict>
+</plist>

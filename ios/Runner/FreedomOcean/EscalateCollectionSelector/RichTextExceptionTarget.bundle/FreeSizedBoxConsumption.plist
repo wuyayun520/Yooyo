@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveIcon</key>
+	<string>canPushModal</string>
+	<key>checkboxflags</key>
+	<string>shouldSaveProtocol</string>
+	<key>notationStyle</key>
+	<string>hashreducer</string>
+	<key>prevCollection</key>
+	<string>emitbloc</string>
+	<key>sequentialMultiplication</key>
+	<string>performParticle</string>
+	<key>staticAudio</key>
+	<string>shouldBuildTouch</string>
+</dict>
+</plist>

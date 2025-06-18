@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubeHead</key>
+	<string>streambridgemargin</string>
+	<key>cubeindex</key>
+	<string>shouldFinishPadding</string>
+	<key>currentTaxonomy</key>
+	<string>shouldYieldPadding</string>
+	<key>deferredTimeline</key>
+	<string>canRestartBitrate</string>
+	<key>draggableHandler</key>
+	<string>shouldDismissGrayscale</string>
+	<key>permutationposition</key>
+	<string>webMedia</string>
+	<key>smartDrawer</key>
+	<string>shouldPopOption</string>
+	<key>temporaryBitrate</key>
+	<string>canLoadBoxShadow</string>
+	<key>transformroute</key>
+	<string>emitterLocation</string>
+	<key>uniqueVariant</key>
+	<string>optimizerBound</string>
+</dict>
+</plist>

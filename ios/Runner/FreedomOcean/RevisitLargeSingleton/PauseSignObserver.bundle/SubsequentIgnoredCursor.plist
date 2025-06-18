@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistbridgehead</key>
+	<string>detailDensity</string>
+	<key>hardOffset</key>
+	<string>slideraspect</string>
+	<key>missedTentative</key>
+	<string>paddingtransition</string>
+	<key>selectedSymbol</key>
+	<string>persistentThreshold</string>
+	<key>shouldTrainCurve</key>
+	<string>listviewinteraction</string>
+	<key>unsortedmodalforce</key>
+	<string>lostPicker</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ephemeralcell</key>
+	<string>saveDocument</string>
+	<key>euclideanEntity</key>
+	<string>originalMethod</string>
+	<key>firstSearcher</key>
+	<string>intuitiveMobile</string>
+	<key>paddingSpacing</key>
+	<string>hardDocument</string>
+	<key>replacevector</key>
+	<string>smartAspectRatio</string>
+	<key>rowTop</key>
+	<string>streambloc</string>
+	<key>shouldHandleGridView</key>
+	<string>canSubscribeSegue</string>
+	<key>significantScale</key>
+	<string>shouldUnmountHero</string>
+</dict>
+</plist>

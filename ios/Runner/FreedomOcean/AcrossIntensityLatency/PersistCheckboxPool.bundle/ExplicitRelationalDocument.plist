@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equipmentRate</key>
+	<string>touchOrigin</string>
+	<key>holdtouch</key>
+	<string>equipmentenvironmentstyle</string>
+	<key>interactiveProgressBar</key>
+	<string>canTransformActivity</string>
+	<key>protectedChooser</key>
+	<string>canTrainSemantics</string>
+	<key>routevalidation</key>
+	<string>consultativePager</string>
+	<key>schemaDepth</key>
+	<string>interpolateIsolate</string>
+	<key>shouldEncodeCard</key>
+	<string>dedicatedMomentum</string>
+	<key>shouldNavigateMaster</key>
+	<string>syncChannel</string>
+	<key>shouldRebuildNavigation</key>
+	<string>mountlayer</string>
+</dict>
+</plist>

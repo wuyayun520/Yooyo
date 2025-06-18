@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorShape</key>
+	<string>canMountedCard</string>
+	<key>animatedCompleter</key>
+	<string>handlestream</string>
+	<key>borderversusparam</key>
+	<string>resizableIntegration</string>
+	<key>declarativeEfficiency</key>
+	<string>singletonMediator</string>
+	<key>isslider</key>
+	<string>boxshade</string>
+	<key>musicType</key>
+	<string>parallelScalability</string>
+	<key>taskFormat</key>
+	<string>shouldPersistBullet</string>
+</dict>
+</plist>

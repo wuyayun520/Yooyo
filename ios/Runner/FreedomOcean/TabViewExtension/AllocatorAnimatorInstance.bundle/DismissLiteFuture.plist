@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintFlags</key>
+	<string>canPaintGem</string>
+	<key>crudecontrollerspacing</key>
+	<string>pagerVelocity</string>
+	<key>gesturedetectorsearcher</key>
+	<string>globalDescent</string>
+	<key>interactiveSize</key>
+	<string>cubitShape</string>
+	<key>otherReceiver</key>
+	<string>densePopup</string>
+	<key>similarUsage</key>
+	<string>commonPriority</string>
+	<key>sizedboxbesideobserver</key>
+	<string>consultativeBinder</string>
+	<key>storyboardTransparency</key>
+	<string>intermediateProvision</string>
+	<key>unschedulebuilder</key>
+	<string>inactiveReducer</string>
+</dict>
+</plist>

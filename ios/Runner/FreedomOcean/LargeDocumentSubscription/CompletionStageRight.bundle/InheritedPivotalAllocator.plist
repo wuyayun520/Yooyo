@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedComposition</key>
+	<string>reducerDelay</string>
+	<key>mutablePadding</key>
+	<string>sensorhue</string>
+	<key>opaquecache</key>
+	<string>nextTrajectory</string>
+	<key>shouldResumeReduction</key>
+	<string>continueConvolution</string>
+	<key>subscriberFlags</key>
+	<string>diversifiedLatency</string>
+	<key>thresholdLeft</key>
+	<string>finishMission</string>
+</dict>
+</plist>

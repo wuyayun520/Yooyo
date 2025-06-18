@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalDistinction</key>
+	<string>shouldDismissBuilder</string>
+	<key>compositionalboxposition</key>
+	<string>injectionStatus</string>
+	<key>currentbrushorigin</key>
+	<string>drawerdistance</string>
+	<key>intensitylistener</key>
+	<string>subpixelMomentum</string>
+	<key>shouldPresentPoint</key>
+	<string>impactspeed</string>
+	<key>synchronousEntropy</key>
+	<string>skipContraction</string>
+	<key>synchronousPadding</key>
+	<string>completedCurve</string>
+</dict>
+</plist>

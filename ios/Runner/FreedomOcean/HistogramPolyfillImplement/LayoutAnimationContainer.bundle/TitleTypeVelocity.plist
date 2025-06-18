@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousEntropy</key>
+	<string>mainSkin</string>
+	<key>customizedCoordinator</key>
+	<string>largeLoop</string>
+	<key>directlyDispatcher</key>
+	<string>shouldSubscribePlayback</string>
+	<key>emitmaster</key>
+	<string>keyImpact</string>
+	<key>explicitLoop</key>
+	<string>inheritedTopic</string>
+	<key>restartcomposition</key>
+	<string>canPresentMatrix</string>
+	<key>routerdirection</key>
+	<string>coordinatorskewx</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>acceleratetransition</key>
+	<string>subsequentSorter</string>
+	<key>checkboxOffset</key>
+	<string>responsiveGridView</string>
+	<key>concurrentSearcher</key>
+	<string>shouldCacheTool</string>
+	<key>hyperbolicMediaQuery</key>
+	<string>titleTier</string>
+	<key>ignoredCard</key>
+	<string>callbackActivity</string>
+	<key>mutableResponder</key>
+	<string>topicMediator</string>
+	<key>retainposition</key>
+	<string>animatedLinker</string>
+	<key>shouldPresentCatalyst</key>
+	<string>tangentBrightness</string>
+	<key>storeoffset</key>
+	<string>channelflags</string>
+	<key>uniquePosition</key>
+	<string>schedulerType</string>
+</dict>
+</plist>

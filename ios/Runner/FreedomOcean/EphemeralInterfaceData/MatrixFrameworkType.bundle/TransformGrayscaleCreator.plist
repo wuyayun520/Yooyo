@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractionbeyondphase</key>
+	<string>scopeshade</string>
+	<key>customizedroute</key>
+	<string>encodeConfiguration</string>
+	<key>euclideanPublisher</key>
+	<string>functionalscrollcolor</string>
+	<key>mobilemenu</key>
+	<string>loadBox</string>
+	<key>shouldMountTangent</key>
+	<string>mutableAlignment</string>
+	<key>trainutil</key>
+	<string>traversalPadding</string>
+</dict>
+</plist>

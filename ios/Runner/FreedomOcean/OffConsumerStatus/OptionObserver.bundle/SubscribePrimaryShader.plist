@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorPressure</key>
+	<string>gesturedetectorMediator</string>
+	<key>contrastoffset</key>
+	<string>grayscaleJob</string>
+	<key>draggableNavigation</key>
+	<string>symbolTension</string>
+	<key>frameEdge</key>
+	<string>completedScroll</string>
+	<key>oldfactorycenter</key>
+	<string>zoneShade</string>
+	<key>shouldConnectTransition</key>
+	<string>consultativeSound</string>
+	<key>slashEdge</key>
+	<string>dismissGrid</string>
+	<key>textfieldFormat</key>
+	<string>priorPositioned</string>
+</dict>
+</plist>

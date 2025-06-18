@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticDialogs</key>
+	<string>shouldContinueIndicator</string>
+	<key>elasticResponse</key>
+	<string>uniqueBatch</string>
+	<key>futureTop</key>
+	<string>particleRate</string>
+	<key>greatFuture</key>
+	<string>factoryRate</string>
+	<key>menuMode</key>
+	<string>eagerTrigger</string>
+	<key>nextDetail</key>
+	<string>crudeScalability</string>
+	<key>shouldFinishPageView</key>
+	<string>previewresponse</string>
+	<key>shouldStreamNotifier</key>
+	<string>uniformGram</string>
+	<key>sophisticatedMapper</key>
+	<string>finishextension</string>
+</dict>
+</plist>

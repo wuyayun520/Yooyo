@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>pivotalPromise</key>
+	<string>executestore</string>
+	<key>radiusdirection</key>
+	<string>gesturedetectorSkewX</string>
+	<key>shouldDeserializeUnary</key>
+	<string>canTransitionModal</string>
+	<key>shouldTrainScroll</key>
+	<string>offsethandler</string>
+	<key>shouldUnbindMobile</key>
+	<string>shouldAttachPlayback</string>
+	<key>typicalNavigator</key>
+	<string>shouldPresentProjection</string>
+</dict>
+</plist>

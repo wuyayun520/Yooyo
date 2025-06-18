@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedUsage</key>
+	<string>mapmodeposition</string>
+	<key>euclideanSubscriber</key>
+	<string>yieldTransition</string>
+	<key>findasync</key>
+	<string>maxOperation</string>
+	<key>gesturePosition</key>
+	<string>segueTop</string>
+	<key>pinchableStateless</key>
+	<string>spriterate</string>
+	<key>scaffoldMode</key>
+	<string>painterDelay</string>
+	<key>tangentinteraction</key>
+	<string>unsortedEquipment</string>
+</dict>
+</plist>

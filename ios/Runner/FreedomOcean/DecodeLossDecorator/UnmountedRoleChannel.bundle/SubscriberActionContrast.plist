@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerButton</key>
+	<string>attachChecklist</string>
+	<key>featureposition</key>
+	<string>subtleHash</string>
+	<key>geometricFlex</key>
+	<string>transformerPadding</string>
+	<key>interpolatebehavior</key>
+	<string>writeTransition</string>
+	<key>ismember</key>
+	<string>composableRenderer</string>
+	<key>originalGraph</key>
+	<string>dynamicStoryboard</string>
+	<key>pinchableCheckbox</key>
+	<string>shouldNotifyActivity</string>
+	<key>substantialfinder</key>
+	<string>stoptween</string>
+</dict>
+</plist>

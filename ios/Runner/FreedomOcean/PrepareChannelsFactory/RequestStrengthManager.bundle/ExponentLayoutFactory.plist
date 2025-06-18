@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionwithoutstyle</key>
+	<string>clusterFrequency</string>
+	<key>cursorbehavior</key>
+	<string>displayhash</string>
+	<key>deferredGate</key>
+	<string>opaqueInfo</string>
+	<key>dependencyRight</key>
+	<string>showProgressBar</string>
+	<key>mainCompletion</key>
+	<string>webAsync</string>
+	<key>mutableRecursion</key>
+	<string>opaqueSprite</string>
+	<key>renderresource</key>
+	<string>polygonInset</string>
+	<key>statelessPressure</key>
+	<string>subscribeBinary</string>
+</dict>
+</plist>

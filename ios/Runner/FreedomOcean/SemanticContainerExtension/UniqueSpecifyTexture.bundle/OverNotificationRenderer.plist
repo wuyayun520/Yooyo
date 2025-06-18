@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardtransition</key>
+	<string>shouldLayoutNotification</string>
+	<key>blocCenter</key>
+	<string>cupertinoResource</string>
+	<key>displayableAccessory</key>
+	<string>associatedArithmetic</string>
+	<key>formatScale</key>
+	<string>renameconvolution</string>
+	<key>interpolationStatus</key>
+	<string>standaloneConstraint</string>
+	<key>petDistance</key>
+	<string>buttonParameter</string>
+	<key>shouldYieldPrecision</key>
+	<string>notifyfragment</string>
+</dict>
+</plist>

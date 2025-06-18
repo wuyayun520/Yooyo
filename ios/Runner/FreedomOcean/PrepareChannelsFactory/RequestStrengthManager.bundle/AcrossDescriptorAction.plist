@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedAnimatedContainer</key>
+	<string>tensornotificationstate</string>
+	<key>deflatedialogs</key>
+	<string>playbackPhase</string>
+	<key>eventTheme</key>
+	<string>observePositioned</string>
+	<key>shouldAttachCupertino</key>
+	<string>spriteInterpreter</string>
+</dict>
+</plist>

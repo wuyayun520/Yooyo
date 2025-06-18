@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardTransformer</key>
+	<string>paddingAcceleration</string>
+	<key>discardedPositioned</key>
+	<string>declarativeCanvas</string>
+	<key>draggablesegmentalignment</key>
+	<string>updateDocument</string>
+	<key>euclideanSlider</key>
+	<string>concretenavigator</string>
+	<key>prismaticbuilder</key>
+	<string>deprecateTexture</string>
+	<key>shouldAnimateView</key>
+	<string>shouldListenMission</string>
+	<key>shouldMountedLoss</key>
+	<string>adaptiveSearcher</string>
+	<key>shouldNotifyDimension</key>
+	<string>trainmusic</string>
+	<key>shouldObserveOptimizer</key>
+	<string>maintainConstraint</string>
+	<key>sophisticatedInteger</key>
+	<string>imperativeDelivery</string>
+</dict>
+</plist>

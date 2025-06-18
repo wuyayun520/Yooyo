@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedInkWell</key>
+	<string>intermediateEmitter</string>
+	<key>euclideanChannels</key>
+	<string>hardVolume</string>
+	<key>oldInfrastructure</key>
+	<string>draggableAsync</string>
+	<key>radioCount</key>
+	<string>sinkParam</string>
+	<key>resizableSemantics</key>
+	<string>isolatepadding</string>
+	<key>shouldCreateSpine</key>
+	<string>inflateAlpha</string>
+	<key>streamcoordinator</key>
+	<string>integerVisitor</string>
+	<key>tensorcycleflags</key>
+	<string>hardcontainerorigin</string>
+</dict>
+</plist>

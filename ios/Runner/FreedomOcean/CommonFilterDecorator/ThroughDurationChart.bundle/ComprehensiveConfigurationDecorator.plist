@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bandwidthDelay</key>
+	<string>explicitAlignment</string>
+	<key>globalDispatcher</key>
+	<string>priorSine</string>
+	<key>otherGesture</key>
+	<string>localEvent</string>
+	<key>persistentlabelvisibility</key>
+	<string>optimizererror</string>
+	<key>shoulddismissmargin</key>
+	<string>featureInset</string>
+	<key>uniformconfiguration</key>
+	<string>entityAcceleration</string>
+</dict>
+</plist>

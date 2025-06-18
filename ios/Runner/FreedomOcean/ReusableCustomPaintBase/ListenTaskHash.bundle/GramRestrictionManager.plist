@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableChooser</key>
+	<string>canUnbindCertificate</string>
+	<key>geometricCupertino</key>
+	<string>ephemeralTangent</string>
+	<key>imagedistance</key>
+	<string>hierarchicalPriority</string>
+	<key>otherTable</key>
+	<string>basecompositetop</string>
+	<key>shouldCacheStateful</key>
+	<string>shouldAnimateHero</string>
+	<key>shouldPushSlider</key>
+	<string>statelessactionmode</string>
+	<key>sinkacceleration</key>
+	<string>matrixParam</string>
+</dict>
+</plist>

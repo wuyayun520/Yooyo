@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>iconBrightness</key>
+	<string>canShowSubpixel</string>
+	<key>nativedependency</key>
+	<string>boxbound</string>
+	<key>priorAsync</key>
+	<string>shouldMountedTangent</string>
+	<key>replicaShape</key>
+	<string>hyperbolicGrain</string>
+	<key>requiredCatalyst</key>
+	<string>denseAspectRatio</string>
+	<key>seamlessSound</key>
+	<string>sophisticatedInteraction</string>
+	<key>shouldObserveLoss</key>
+	<string>playbackrequest</string>
+	<key>subsequentMechanism</key>
+	<string>constraintcontrast</string>
+	<key>tickerforstructure</key>
+	<string>canPrepareNavigator</string>
+	<key>viewprocessshade</key>
+	<string>canProcessCanvas</string>
+</dict>
+</plist>

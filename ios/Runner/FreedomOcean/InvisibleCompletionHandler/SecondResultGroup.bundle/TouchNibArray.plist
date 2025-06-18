@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionTop</key>
+	<string>shouldpublishmusic</string>
+	<key>actiontierindex</key>
+	<string>lastDispatcher</string>
+	<key>hardCosine</key>
+	<string>equipmentspeed</string>
+	<key>opaqueTrigger</key>
+	<string>impactHue</string>
+	<key>rangeVisibility</key>
+	<string>statelessUseCase</string>
+	<key>sharedTable</key>
+	<string>transpileException</string>
+	<key>shouldPersistTabBar</key>
+	<string>materialCustomPaint</string>
+</dict>
+</plist>

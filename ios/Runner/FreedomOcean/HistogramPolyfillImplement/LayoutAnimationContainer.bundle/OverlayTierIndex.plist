@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comparelocalization</key>
+	<string>shouldReplaceInstruction</string>
+	<key>graphtint</key>
+	<string>shouldPaintEntropy</string>
+	<key>numericalbaselineformat</key>
+	<string>binaryParameter</string>
+	<key>searchpopup</key>
+	<string>coordinatorprocesshue</string>
+	<key>spineofframework</key>
+	<string>immediateCompletion</string>
+</dict>
+</plist>

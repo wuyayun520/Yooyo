@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentForce</key>
+	<string>workflowMomentum</string>
+	<key>denseZone</key>
+	<string>timelineDepth</string>
+	<key>directmetrics</key>
+	<string>signatureagainstframework</string>
+	<key>draggableLoop</key>
+	<string>priorProvider</string>
+	<key>interfaceInteraction</key>
+	<string>occasionvelocity</string>
+	<key>mediocreContainer</key>
+	<string>canBuildGram</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeJoiner</key>
+	<string>managercontainmediator</string>
+	<key>customizedGridView</key>
+	<string>divideAsync</string>
+	<key>difficultPosition</key>
+	<string>zonehandler</string>
+	<key>functionalPicker</key>
+	<string>transpileProgressBar</string>
+	<key>fusedAlignment</key>
+	<string>deserializeMedia</string>
+	<key>mediumBuffer</key>
+	<string>overridesize</string>
+	<key>touchState</key>
+	<string>animationType</string>
+	<key>touchexception</key>
+	<string>canEmitDescriptor</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredIntegrity</key>
+	<string>shouldUpdateProfile</string>
+	<key>directlyBuilder</key>
+	<string>frameversusbuffer</string>
+	<key>firstPublisher</key>
+	<string>localMovement</string>
+	<key>moduleBottom</key>
+	<string>canDecodeChannels</string>
+	<key>parallelRenderer</key>
+	<string>updateGridView</string>
+</dict>
+</plist>

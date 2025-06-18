@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentMovement</key>
+	<string>captioninsidefunction</string>
+	<key>denseConsumption</key>
+	<string>materialslashbound</string>
+	<key>intuitiveboxshadowmargin</key>
+	<string>canTransitionMargin</string>
+	<key>scenecontextcoord</key>
+	<string>opaquebutton</string>
+	<key>scrollBound</key>
+	<string>disabledRadio</string>
+	<key>shouldPushCheckbox</key>
+	<string>mediumCaption</string>
+	<key>statefulText</key>
+	<string>obtainController</string>
+</dict>
+</plist>

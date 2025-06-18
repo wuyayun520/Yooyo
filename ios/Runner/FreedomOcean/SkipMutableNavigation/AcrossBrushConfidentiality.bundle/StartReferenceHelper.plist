@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>groupTail</key>
+	<string>relationalBaseline</string>
+	<key>inactiveScroll</key>
+	<string>isolateSaturation</string>
+	<key>restartprofile</key>
+	<string>pushProvider</string>
+	<key>shouldLayoutAspect</key>
+	<string>ignoredMetadata</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseLatency</key>
+	<string>popUnary</string>
+	<key>diffableTopic</key>
+	<string>escalateFeature</string>
+	<key>intermediateTable</key>
+	<string>transformersorter</string>
+	<key>joinerFormat</key>
+	<string>canCancelChannels</string>
+	<key>lastPrecision</key>
+	<string>nativeSelector</string>
+	<key>modelormethod</key>
+	<string>shaderHead</string>
+	<key>othergradient</key>
+	<string>euclideanAudio</string>
+	<key>radioDepth</key>
+	<string>animatorMargin</string>
+	<key>shouldResumeProject</key>
+	<string>compositionalIcon</string>
+	<key>webRemediation</key>
+	<string>canReplaceStateful</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeCurve</key>
+	<string>lastBatch</string>
+	<key>explicitOperation</key>
+	<string>shouldcancelmediaquery</string>
+	<key>flexiblerichtextkind</key>
+	<string>criticalEvent</string>
+	<key>hierarchicalSink</key>
+	<string>sensorAction</string>
+	<key>responsiveTransition</key>
+	<string>publicconfiguration</string>
+	<key>shouldcachegesturedetector</key>
+	<string>tentativeFrequency</string>
+	<key>smartUnary</key>
+	<string>resizecolumn</string>
+</dict>
+</plist>

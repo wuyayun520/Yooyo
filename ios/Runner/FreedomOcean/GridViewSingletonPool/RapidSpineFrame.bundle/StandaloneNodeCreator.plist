@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>geometricConnector</key>
+	<string>descriptorcreator</string>
+	<key>hyperbolicInteger</key>
+	<string>declarativeTransformer</string>
+	<key>shouldRouteInstruction</key>
+	<string>parseaxis</string>
+	<key>temporaryMenu</key>
+	<string>canCancelTabBar</string>
+</dict>
+</plist>

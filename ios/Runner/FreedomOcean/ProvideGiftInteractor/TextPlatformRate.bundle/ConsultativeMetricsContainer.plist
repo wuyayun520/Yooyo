@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>resizableStateless</key>
+	<string>optimizeSubscription</string>
+	<key>shouldDisposeMusic</key>
+	<string>radiusFlyweight</string>
+	<key>tabbarTail</key>
+	<string>concreteFlex</string>
+	<key>toleranceinset</key>
+	<string>taskProxy</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicCaption</key>
+	<string>currentMaterializer</string>
+	<key>charactervisibility</key>
+	<string>oldCanvas</string>
+	<key>notifierColor</key>
+	<string>autodimension</string>
+	<key>publicCurve</key>
+	<string>currentNavigator</string>
+</dict>
+</plist>

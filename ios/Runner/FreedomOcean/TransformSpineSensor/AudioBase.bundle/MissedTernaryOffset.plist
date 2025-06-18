@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directScroll</key>
+	<string>shouldCreateSlash</string>
+	<key>normalMechanism</key>
+	<string>cleanView</string>
+	<key>originalAudio</key>
+	<string>canCancelBehavior</string>
+	<key>shouldDecodeProject</key>
+	<string>canNotifyMobile</string>
+	<key>shouldPaintIcon</key>
+	<string>shouldPersistPositioned</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>masterbesideactivity</key>
+	<string>consumeGraph</string>
+	<key>scrollableGraph</key>
+	<string>exponentResponse</string>
+	<key>singletonscopepressure</key>
+	<string>batchPosition</string>
+	<key>usedContrast</key>
+	<string>unregisterCallback</string>
+</dict>
+</plist>

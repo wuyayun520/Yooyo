@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianDetector</key>
+	<string>connectSprite</string>
+	<key>contrastBrightness</key>
+	<string>scrollableSensor</string>
+	<key>dependencytype</key>
+	<string>liteFactory</string>
+	<key>interactorStatus</key>
+	<string>consultativeTechnique</string>
+	<key>intuitivedurationorientation</key>
+	<string>parseMusic</string>
+	<key>lossresource</key>
+	<string>subscribeSwitch</string>
+	<key>otherGesture</key>
+	<string>shouldAnimateOperation</string>
+	<key>radiuspadding</key>
+	<string>diversifiedInteger</string>
+	<key>shouldDetachInterpolation</key>
+	<string>shouldRebuildReference</string>
+	<key>subsequentSensor</key>
+	<string>canNavigateCell</string>
+</dict>
+</plist>

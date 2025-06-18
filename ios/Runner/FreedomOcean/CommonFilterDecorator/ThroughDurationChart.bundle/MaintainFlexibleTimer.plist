@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasInteraction</key>
+	<string>canDeserializeMargin</string>
+	<key>concurrentCosine</key>
+	<string>scaleOrientation</string>
+	<key>firstLog</key>
+	<string>liteStroke</string>
+	<key>iterativeCursor</key>
+	<string>canParseMusic</string>
+	<key>scaffoldstylestate</key>
+	<string>normalLayout</string>
+	<key>tickerStatus</key>
+	<string>resilientImpression</string>
+	<key>titleInteraction</key>
+	<string>animateModulus</string>
+</dict>
+</plist>

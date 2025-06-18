@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocprovision</key>
+	<string>awaitCoord</string>
+	<key>gradientpresenter</key>
+	<string>documentvariablepadding</string>
+	<key>invisibleEntity</key>
+	<string>eagerBaseline</string>
+	<key>keyMonster</key>
+	<string>usecasearoundvariable</string>
+	<key>persistentrect</key>
+	<string>cancelRemainder</string>
+	<key>prevStrength</key>
+	<string>canTransformRoute</string>
+	<key>queueDirection</key>
+	<string>canTrainBoxShadow</string>
+	<key>semanticLoop</key>
+	<string>reducermargin</string>
+</dict>
+</plist>

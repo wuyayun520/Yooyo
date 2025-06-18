@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>computeconvolution</key>
+	<string>sequentialCombiner</string>
+	<key>dialogsState</key>
+	<string>memberSystem</string>
+	<key>nodeoffset</key>
+	<string>basicInstruction</string>
+	<key>normskewx</key>
+	<string>concatenateSize</string>
+	<key>painteredge</key>
+	<string>groupRotation</string>
+	<key>permanentflexfeedback</key>
+	<string>unsortedpoint</string>
+	<key>subscribenode</key>
+	<string>cancelObserver</string>
+	<key>workflowLeft</key>
+	<string>delicateTriangles</string>
+</dict>
+</plist>

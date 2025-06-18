@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalDispatcher</key>
+	<string>equalizationInterpreter</string>
+	<key>elasticityLeft</key>
+	<string>resolverVelocity</string>
+	<key>euclideanAlert</key>
+	<string>canLayoutMedia</string>
+	<key>featureandnumber</key>
+	<string>optimizerType</string>
+	<key>globalGrain</key>
+	<string>axisversusnumber</string>
+	<key>gramVisible</key>
+	<string>advancedrange</string>
+	<key>heaptrajectory</key>
+	<string>hierarchicaloverlay</string>
+	<key>shouldFinishMatrix</key>
+	<string>canDeserializeSlash</string>
+	<key>uniqueResolver</key>
+	<string>disabledAperture</string>
+	<key>usedpolyfill</key>
+	<string>interpolationvaluepressure</string>
+</dict>
+</plist>

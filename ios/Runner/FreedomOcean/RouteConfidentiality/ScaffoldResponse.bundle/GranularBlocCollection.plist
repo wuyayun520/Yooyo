@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerversuscomposite</key>
+	<string>lazyLabel</string>
+	<key>beginnerFeature</key>
+	<string>multiRestriction</string>
+	<key>iterativeIntegration</key>
+	<string>bundleChart</string>
+	<key>movementState</key>
+	<string>normalShape</string>
+	<key>retainedFormat</key>
+	<string>missedChannel</string>
+	<key>tangentOffset</key>
+	<string>transitionShader</string>
+	<key>temporarytransformer</key>
+	<string>cupertinoAnimation</string>
+	<key>visibleLocalization</key>
+	<string>singleException</string>
+</dict>
+</plist>

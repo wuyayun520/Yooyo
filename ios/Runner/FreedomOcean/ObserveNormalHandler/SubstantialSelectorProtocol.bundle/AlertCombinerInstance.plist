@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>missedMonster</key>
+	<string>canStopTask</string>
+	<key>pageviewStatus</key>
+	<string>invokeHash</string>
+	<key>parallelMobile</key>
+	<string>mitigateParticle</string>
+	<key>shouldDismissBullet</key>
+	<string>channelVisibility</string>
+	<key>shouldvalidateinterpolation</key>
+	<string>shouldInflateNavigation</string>
+	<key>tabviewPosition</key>
+	<string>draggableReplica</string>
+	<key>tweakFlags</key>
+	<string>shouldStreamSemantics</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionTextField</key>
+	<string>benchmarkScene</string>
+	<key>creatorBound</key>
+	<string>provideranalyzer</string>
+	<key>interactiveStorage</key>
+	<string>painterlocation</string>
+	<key>layerrotation</key>
+	<string>shouldObserveHeap</string>
+	<key>localRichText</key>
+	<string>canAttachAperture</string>
+	<key>lossevent</key>
+	<string>shouldKeepChecklist</string>
+	<key>mobileMomentum</key>
+	<string>matrixBorder</string>
+	<key>shouldSetStateSegment</key>
+	<string>canDisposeStoryboard</string>
+	<key>unbindtextfield</key>
+	<string>selectedInteger</string>
+</dict>
+</plist>

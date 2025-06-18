@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorcoord</key>
+	<string>upgradeProvider</string>
+	<key>chapterMomentum</key>
+	<string>chapterDensity</string>
+	<key>extensiondistance</key>
+	<string>shouldshowsizedbox</string>
+	<key>intermediateBinary</key>
+	<string>debugListener</string>
+	<key>metadatatransparency</key>
+	<string>infomomentum</string>
+	<key>persistentBandwidth</key>
+	<string>insteadroute</string>
+	<key>providerRate</key>
+	<string>sizedboxIndex</string>
+	<key>spriteFrequency</key>
+	<string>replaceButton</string>
+</dict>
+</plist>

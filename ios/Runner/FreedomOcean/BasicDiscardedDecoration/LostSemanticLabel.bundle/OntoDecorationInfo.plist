@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteScenario</key>
+	<string>gestureOpacity</string>
+	<key>fusedMediaQuery</key>
+	<string>oncatalysttap</string>
+	<key>shouldNavigateStamp</key>
+	<string>dismissZone</string>
+	<key>shouldPresentChallenge</key>
+	<string>shouldResumeEquipment</string>
+	<key>shouldUpdateOperation</key>
+	<string>usageDistance</string>
+</dict>
+</plist>

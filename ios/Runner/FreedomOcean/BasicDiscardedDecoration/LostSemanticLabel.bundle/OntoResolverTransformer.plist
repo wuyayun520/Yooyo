@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>liteMechanism</key>
+	<string>immutableView</string>
+	<key>opaqueBuffer</key>
+	<string>newestSkirt</string>
+	<key>shouldStreamTouch</key>
+	<string>shouldPaintProtocol</string>
+	<key>shouldhandlebuilder</key>
+	<string>granularMatrix</string>
+	<key>sizedboxBorder</key>
+	<string>buttonAppearance</string>
+</dict>
+</plist>

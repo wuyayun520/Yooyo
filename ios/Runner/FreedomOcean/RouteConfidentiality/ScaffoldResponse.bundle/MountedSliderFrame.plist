@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customqueue</key>
+	<string>chapterFlyweight</string>
+	<key>selectedlabel</key>
+	<string>batchrepository</string>
+	<key>sequentialItem</key>
+	<string>showSegue</string>
+	<key>shouldDeserializePositioned</key>
+	<string>grayscaletraversal</string>
+	<key>shouldRebuildView</key>
+	<string>multiSprite</string>
+</dict>
+</plist>

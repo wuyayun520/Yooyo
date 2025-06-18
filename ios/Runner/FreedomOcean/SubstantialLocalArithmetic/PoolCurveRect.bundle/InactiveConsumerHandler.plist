@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveScene</key>
+	<string>profileGrid</string>
+	<key>associateddimension</key>
+	<string>providerDelay</string>
+	<key>consultativePresenter</key>
+	<string>catalystStrategy</string>
+	<key>fixedListView</key>
+	<string>synchronousUsage</string>
+	<key>oncupertinochanged</key>
+	<string>consultativeresilience</string>
+	<key>shouldPauseProjection</key>
+	<string>seamlessVector</string>
+	<key>shouldRestartMediaQuery</key>
+	<string>restoreRepository</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binderOrigin</key>
+	<string>searchRequest</string>
+	<key>borderdetector</key>
+	<string>customizedMatrix</string>
+	<key>requiredArchitecture</key>
+	<string>canPushSkirt</string>
+	<key>robustEffect</key>
+	<string>hardRange</string>
+	<key>uniformlistviewscale</key>
+	<string>advancedGroup</string>
+</dict>
+</plist>

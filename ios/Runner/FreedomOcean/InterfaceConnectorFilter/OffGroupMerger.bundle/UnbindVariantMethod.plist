@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzerPadding</key>
+	<string>specifierNumber</string>
+	<key>beginnerAnchor</key>
+	<string>shouldPrepareMobile</string>
+	<key>bulletFormat</key>
+	<string>tweenDuration</string>
+	<key>completerflyweightduration</key>
+	<string>nativeBorder</string>
+	<key>elasticResponse</key>
+	<string>masterProxy</string>
+	<key>hyperbolicCycle</key>
+	<string>specifierMediator</string>
+	<key>immediateTask</key>
+	<string>shouldpublishlayout</string>
+	<key>newestQueue</key>
+	<string>canLoadCatalyst</string>
+	<key>opaqueImpact</key>
+	<string>shouldPushCursor</string>
+</dict>
+</plist>

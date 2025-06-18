@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>geometricTrigger</key>
+	<string>freeroute</string>
+	<key>istabview</key>
+	<string>nextQueue</string>
+	<key>localTitle</key>
+	<string>exceptionbridgedensity</string>
+	<key>nativetextbehavior</key>
+	<string>advancedSprite</string>
+	<key>permissiveFlex</key>
+	<string>vectorSkewX</string>
+	<key>robustRichText</key>
+	<string>spinepager</string>
+	<key>shouldFormatChecklist</key>
+	<string>shouldCancelIndicator</string>
+	<key>shouldMountTask</key>
+	<string>intermediateAction</string>
+	<key>showmanager</key>
+	<string>sharedSession</string>
+</dict>
+</plist>

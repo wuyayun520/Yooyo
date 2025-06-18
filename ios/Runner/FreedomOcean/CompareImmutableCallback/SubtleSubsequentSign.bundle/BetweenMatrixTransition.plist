@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleGesture</key>
+	<string>saveSpecifier</string>
+	<key>constraintbridgeleft</key>
+	<string>permanentUsage</string>
+	<key>detectorflags</key>
+	<string>sustainableStoryboard</string>
+	<key>invisibleResource</key>
+	<string>linkerFormat</string>
+	<key>permanentsignaturefrequency</key>
+	<string>uniformTime</string>
+	<key>selectedbitrate</key>
+	<string>extensionForce</string>
+	<key>semanticstag</key>
+	<string>backwardSign</string>
+	<key>shouldRouteGesture</key>
+	<string>chartBottom</string>
+</dict>
+</plist>

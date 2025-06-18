@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disparateSplitter</key>
+	<string>sceneLevel</string>
+	<key>functionalZone</key>
+	<string>iterativeThreshold</string>
+	<key>grainIndex</key>
+	<string>canStreamGraphic</string>
+	<key>inactiveDistinction</key>
+	<string>typicalMesh</string>
+	<key>membercoordinator</key>
+	<string>canTrainReduction</string>
+	<key>numericalCard</key>
+	<string>deliveryborder</string>
+	<key>permissiveTitle</key>
+	<string>immutableContainer</string>
+	<key>typicalInfo</key>
+	<string>gridProxy</string>
+	<key>unsortedExtension</key>
+	<string>requiredArithmetic</string>
+	<key>usageTransparency</key>
+	<string>completionTransparency</string>
+</dict>
+</plist>

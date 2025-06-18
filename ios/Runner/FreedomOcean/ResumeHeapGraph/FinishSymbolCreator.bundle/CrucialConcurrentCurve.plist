@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeflexresponse</key>
+	<string>locatesprite</string>
+	<key>defaultgem</key>
+	<string>discoverResolver</string>
+	<key>graphicprogressbar</key>
+	<string>durationCommand</string>
+	<key>hardInfo</key>
+	<string>alignmentScale</string>
+	<key>queuesystemvisible</key>
+	<string>dimensioninset</string>
+	<key>rapidAmortization</key>
+	<string>curveEdge</string>
+	<key>scrollerBottom</key>
+	<string>mobileAppearance</string>
+	<key>skirtPressure</key>
+	<string>smartWorkflow</string>
+</dict>
+</plist>

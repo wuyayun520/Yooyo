@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeextensiontype</key>
+	<string>aggregateLayout</string>
+	<key>crudeTexture</key>
+	<string>pivotalMovement</string>
+	<key>emitplayback</key>
+	<string>serializePrecision</string>
+	<key>objectlocation</key>
+	<string>visibleSymbol</string>
+	<key>offsetbeyondinterpreter</key>
+	<string>canShowSwitch</string>
+	<key>priorRequest</key>
+	<string>canDisconnectFragment</string>
+	<key>publicThroughput</key>
+	<string>shouldSaveSensor</string>
+	<key>shouldResumeCompletion</key>
+	<string>singletonInset</string>
+	<key>shouldShowCapacities</key>
+	<string>rangeSpeed</string>
+</dict>
+</plist>

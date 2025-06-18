@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedpager</key>
+	<string>eagerCapacity</string>
+	<key>capacitiesTint</key>
+	<string>shouldShowBinary</string>
+	<key>emitbaseline</key>
+	<string>handleGrayscale</string>
+	<key>functionalComponent</key>
+	<string>protectedLabel</string>
+	<key>shouldEncodeBitrate</key>
+	<string>lastpicker</string>
+	<key>shouldYieldTextField</key>
+	<string>respectiveVariant</string>
+	<key>tensorCanvas</key>
+	<string>directlyScale</string>
+</dict>
+</plist>

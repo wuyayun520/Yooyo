@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>granularcapsule</key>
+	<string>limitProgressBar</string>
+	<key>immediatetangentfrequency</key>
+	<string>prevObserver</string>
+	<key>integrityVisibility</key>
+	<string>transitionradius</string>
+	<key>labelbottom</key>
+	<string>canFinishLoss</string>
+	<key>poolalpha</key>
+	<string>initializeDuration</string>
+	<key>shouldDetachContainer</key>
+	<string>vectorrenderer</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeLogarithm</key>
+	<string>promiseAdapter</string>
+	<key>displayablevectorindex</key>
+	<string>canPaintGrayscale</string>
+	<key>draggableBase</key>
+	<string>scrollablerect</string>
+	<key>keepdocument</key>
+	<string>shouldNavigateProjection</string>
+	<key>positionedOrigin</key>
+	<string>handleProgressBar</string>
+	<key>resilientScroll</key>
+	<string>signatureChain</string>
+	<key>resolverShade</key>
+	<string>shouldDismissConsumer</string>
+	<key>shouldPersistEffect</key>
+	<string>discardedreducer</string>
+	<key>tabbarthantask</key>
+	<string>criticalGesture</string>
+</dict>
+</plist>

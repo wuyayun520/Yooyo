@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackCenter</key>
+	<string>immediateScaffold</string>
+	<key>controllerroute</key>
+	<string>prismaticConsumer</string>
+	<key>globalConvolution</key>
+	<string>flexflags</string>
+	<key>normalsample</key>
+	<string>persistgesture</string>
+	<key>sceneTheme</key>
+	<string>lostAction</string>
+	<key>statelessHistogram</key>
+	<string>secondGridView</string>
+	<key>swiftassingleton</key>
+	<string>bindSample</string>
+</dict>
+</plist>

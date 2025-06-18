@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveTabView</key>
+	<string>disabledEmitter</string>
+	<key>concurrentGrid</key>
+	<string>parallelPromise</string>
+	<key>independentScope</key>
+	<string>usedInkWell</string>
+	<key>nativeLifecycle</key>
+	<string>singletonPadding</string>
+	<key>reducerForce</key>
+	<string>singletonright</string>
+	<key>sampleSpacing</key>
+	<string>prevfuture</string>
+	<key>shouldKeepSlider</key>
+	<string>embedPresenter</string>
+	<key>shouldNavigateOptimizer</key>
+	<string>signtaskappearance</string>
+	<key>tappableCombiner</key>
+	<string>selectednib</string>
+</dict>
+</plist>

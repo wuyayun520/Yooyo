@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directOverlay</key>
+	<string>uniqueTrajectory</string>
+	<key>displayableDetector</key>
+	<string>drawerBottom</string>
+	<key>holdentropy</key>
+	<string>tappableinterfaceoffset</string>
+	<key>protectedScreen</key>
+	<string>sharedTentative</string>
+	<key>relationalPreview</key>
+	<string>activeProvider</string>
+	<key>scrollableProtocol</key>
+	<string>statelessGroup</string>
+	<key>slashbehavior</key>
+	<string>presenttouch</string>
+	<key>unsortedStack</key>
+	<string>accessiblePublisher</string>
+</dict>
+</plist>

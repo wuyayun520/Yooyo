@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionMap</key>
+	<string>constraintSingleton</string>
+	<key>cartesianFragments</key>
+	<string>paintExpanded</string>
+	<key>mediocreAccessory</key>
+	<string>compositionalisolatebottom</string>
+	<key>originalDocument</key>
+	<string>unmountedNavigator</string>
+	<key>originalGrain</key>
+	<string>resourceview</string>
+	<key>shouldSaveAppBar</key>
+	<string>criticalVideo</string>
+	<key>statelessVideo</key>
+	<string>preparePainter</string>
+</dict>
+</plist>

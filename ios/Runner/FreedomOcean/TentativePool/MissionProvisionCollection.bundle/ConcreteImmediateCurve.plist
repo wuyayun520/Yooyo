@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileInfo</key>
+	<string>denseRouter</string>
+	<key>containerLeft</key>
+	<string>pinchableAllocator</string>
+	<key>intuitiveConfiguration</key>
+	<string>beginnerSpecifier</string>
+	<key>iterativeTouch</key>
+	<string>canDispatchReduction</string>
+	<key>liteView</key>
+	<string>hasCycle</string>
+	<key>shoulddisposeview</key>
+	<string>visibleZone</string>
+</dict>
+</plist>

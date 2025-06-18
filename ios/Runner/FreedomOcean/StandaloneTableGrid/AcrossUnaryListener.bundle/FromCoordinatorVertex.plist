@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>metadataSaturation</key>
+	<string>normBorder</string>
+	<key>nativeFinder</key>
+	<string>shouldDecodeProfile</string>
+	<key>priorPriority</key>
+	<string>crucialZone</string>
+	<key>shouldCacheHeap</key>
+	<string>reductionwithsingleton</string>
+	<key>synchronousLayer</key>
+	<string>canEndOverlay</string>
+	<key>touchpercommand</key>
+	<string>connectdependency</string>
+</dict>
+</plist>

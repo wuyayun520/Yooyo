@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonEquipment</key>
+	<string>normalIndicator</string>
+	<key>ephemeralTolerance</key>
+	<string>canMountSemantics</string>
+	<key>localSubscription</key>
+	<string>transpileObserver</string>
+	<key>protectedConverter</key>
+	<string>permissiveMonster</string>
+	<key>shouldNavigateHistogram</key>
+	<string>finishConvolution</string>
+	<key>sortedStatus</key>
+	<string>inactiveBuilder</string>
+	<key>synchronousMetrics</key>
+	<string>integerorigin</string>
+	<key>taskrestriction</key>
+	<string>kernelMomentum</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedTraversal</key>
+	<string>publicController</string>
+	<key>captionVisibility</key>
+	<string>maintainConstraint</string>
+	<key>displayableGestureDetector</key>
+	<string>replaceExpanded</string>
+	<key>efficiencyVisibility</key>
+	<string>dispatchSlash</string>
+	<key>euclideanObject</key>
+	<string>sliderInterval</string>
+	<key>shouldUnmountDescriptor</key>
+	<string>injectionLayer</string>
+	<key>standaloneFinder</key>
+	<string>shouldFormatImage</string>
+	<key>statelessadapterskewy</key>
+	<string>draggableExponent</string>
+</dict>
+</plist>

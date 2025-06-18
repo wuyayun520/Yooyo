@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureType</key>
+	<string>observerVisible</string>
+	<key>asyncrate</key>
+	<string>shouldLoadCycle</string>
+	<key>observerprocessbehavior</key>
+	<string>canUnbindCompletion</string>
+	<key>primaryHeap</key>
+	<string>smallConsumer</string>
+	<key>routeAppearance</key>
+	<string>shouldvalidatetabbar</string>
+	<key>sequentialAnimatedContainer</key>
+	<string>similarDelivery</string>
+	<key>shouldRouteHistogram</key>
+	<string>mergerSpeed</string>
+	<key>similarResult</key>
+	<string>diversifiedReplica</string>
+</dict>
+</plist>

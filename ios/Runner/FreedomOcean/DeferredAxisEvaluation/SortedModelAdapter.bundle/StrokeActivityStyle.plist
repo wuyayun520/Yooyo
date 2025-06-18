@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationTop</key>
+	<string>shouldInflatePoint</string>
+	<key>associatedVertex</key>
+	<string>interactiveStream</string>
+	<key>concreteConstraint</key>
+	<string>canBindGesture</string>
+	<key>concreteDescription</key>
+	<string>unbindGram</string>
+	<key>cursorRate</key>
+	<string>isDescriptor</string>
+	<key>equipmentincludedecorator</key>
+	<string>injectionAction</string>
+	<key>layerShade</key>
+	<string>factoryprovision</string>
+	<key>retaineddelegate</key>
+	<string>propagateInteractor</string>
+	<key>shouldCreateProtocol</key>
+	<string>canSaveRole</string>
+	<key>shouldTransformDelegate</key>
+	<string>usecaseIndex</string>
+</dict>
+</plist>

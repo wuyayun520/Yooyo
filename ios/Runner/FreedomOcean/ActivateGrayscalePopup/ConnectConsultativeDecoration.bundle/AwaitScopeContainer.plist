@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicGrayscale</key>
+	<string>constructButton</string>
+	<key>independentBoxShadow</key>
+	<string>hardColor</string>
+	<key>mediocreDelegate</key>
+	<string>priorTicker</string>
+	<key>priorVolume</key>
+	<string>canUnmountedButton</string>
+	<key>shaderflyweighttail</key>
+	<string>dimensionisolate</string>
+	<key>shouldFinishCursor</key>
+	<string>viewBehavior</string>
+</dict>
+</plist>

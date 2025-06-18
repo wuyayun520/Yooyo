@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopGroup</key>
+	<string>batchduringparam</string>
+	<key>explicitSlash</key>
+	<string>tensorHandler</string>
+	<key>globalcapsule</key>
+	<string>finderDelay</string>
+	<key>mutableTrajectory</key>
+	<string>globalInfo</string>
+	<key>onlistviewtap</key>
+	<string>variantFacade</string>
+	<key>shouldDispatchBinary</key>
+	<string>compositionalProject</string>
+	<key>shouldPersistCupertino</key>
+	<string>semanticWrapper</string>
+	<key>statelessTween</key>
+	<string>similarRadio</string>
+	<key>transformerpadding</key>
+	<string>subpixelAppearance</string>
+</dict>
+</plist>

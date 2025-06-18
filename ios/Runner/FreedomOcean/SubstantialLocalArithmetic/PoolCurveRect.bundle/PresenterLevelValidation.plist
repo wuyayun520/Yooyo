@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binarycolor</key>
+	<string>canUnmountedArithmetic</string>
+	<key>hierarchicalNavigator</key>
+	<string>storeLoop</string>
+	<key>observerbehavior</key>
+	<string>crucialTolerance</string>
+	<key>previewandoperation</key>
+	<string>popTopic</string>
+	<key>repositoryvalidation</key>
+	<string>columnname</string>
+	<key>shouldShowCompletion</key>
+	<string>adaptiveSample</string>
+</dict>
+</plist>

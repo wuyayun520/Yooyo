@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accelerateconfiguration</key>
+	<string>confidentialityCount</string>
+	<key>informationcolor</key>
+	<string>occasionDelay</string>
+	<key>interpolationwithoutstyle</key>
+	<string>similarEqualization</string>
+	<key>performscroll</key>
+	<string>pivotalTween</string>
+	<key>schemaValidation</key>
+	<string>shouldStartCompletion</string>
+	<key>shadersubscriber</key>
+	<string>expandedmerger</string>
+</dict>
+</plist>

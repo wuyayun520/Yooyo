@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionVisibility</key>
+	<string>customMerger</string>
+	<key>ignoredState</key>
+	<string>nativeTweak</string>
+	<key>optimizerjobscale</key>
+	<string>unsortedSingleton</string>
+	<key>unactivatedClipper</key>
+	<string>canObserveArithmetic</string>
+</dict>
+</plist>

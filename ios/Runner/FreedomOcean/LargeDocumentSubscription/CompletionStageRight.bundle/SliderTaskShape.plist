@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptivetimerorigin</key>
+	<string>sharedVariant</string>
+	<key>discardedResource</key>
+	<string>canRenderTouch</string>
+	<key>imperativeMaterializer</key>
+	<string>sessionTask</string>
+	<key>managerIndex</key>
+	<string>radiusTheme</string>
+	<key>secondRect</key>
+	<string>disabledReplica</string>
+	<key>staticRestriction</key>
+	<string>equipmentagainstlayer</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousblocstyle</key>
+	<string>fixedScope</string>
+	<key>diversifiedQuaternion</key>
+	<string>displayHash</string>
+	<key>gramLeft</key>
+	<string>checkboxShape</string>
+	<key>modalobserver</key>
+	<string>visibleMenu</string>
+	<key>promiseState</key>
+	<string>plateVisitor</string>
+	<key>shouldStartIndicator</key>
+	<string>ephemeralEfficiency</string>
+	<key>temporaryEntity</key>
+	<string>metricsForce</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentIndex</key>
+	<string>interpolateinstruction</string>
+	<key>compositionalScreen</key>
+	<string>shouldDispatchGram</string>
+	<key>eagerbordername</key>
+	<string>activityLayer</string>
+	<key>matrixusecase</key>
+	<string>colorTag</string>
+	<key>routeaxis</key>
+	<string>hasinterpolation</string>
+	<key>shouldTransformSwitch</key>
+	<string>elasticPopup</string>
+	<key>shouldsavebox</key>
+	<string>canEmitScreen</string>
+	<key>specifySearcher</key>
+	<string>canResumeStateless</string>
+</dict>
+</plist>

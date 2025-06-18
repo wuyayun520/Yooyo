@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitstroke</key>
+	<string>checkService</string>
+	<key>callbackexcepttier</key>
+	<string>hierarchicalHistogram</string>
+	<key>criticalTimeline</key>
+	<string>shouldTransformNorm</string>
+	<key>immutableMethod</key>
+	<string>canPaintScreen</string>
+	<key>isolateDepth</key>
+	<string>provideIntensity</string>
+	<key>iterativeAmortization</key>
+	<string>interpolateSprite</string>
+	<key>otherConstraint</key>
+	<string>refactorBuffer</string>
+	<key>shouldValidateConstraint</key>
+	<string>persistenttweak</string>
+	<key>shouldpublishexpanded</key>
+	<string>shouldFormatStateful</string>
+	<key>uniqueReference</key>
+	<string>deferredEvent</string>
+</dict>
+</plist>

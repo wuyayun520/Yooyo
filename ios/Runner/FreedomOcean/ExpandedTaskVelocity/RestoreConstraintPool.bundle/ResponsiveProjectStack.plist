@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalCapacities</key>
+	<string>typicalEfficiency</string>
+	<key>equalizationoperationfeedback</key>
+	<string>inheritedTransformer</string>
+	<key>masterCount</key>
+	<string>dismissRadius</string>
+	<key>materializerPressure</key>
+	<string>showScaffold</string>
+	<key>mobileScreen</key>
+	<string>shouldKeepButton</string>
+	<key>resilientEntropy</key>
+	<string>cubeInteraction</string>
+	<key>serviceefficiency</key>
+	<string>dependencycycleleft</string>
+	<key>shouldEmitMovement</key>
+	<string>euclideanisolate</string>
+	<key>themeDelay</key>
+	<string>unactivatedgrain</string>
+	<key>unsortedProgressBar</key>
+	<string>updateLog</string>
+</dict>
+</plist>

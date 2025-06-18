@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedNotification</key>
+	<string>skiprect</string>
+	<key>autoDimension</key>
+	<string>workflowBottom</string>
+	<key>draggablePosition</key>
+	<string>comprehensiveTraversal</string>
+	<key>pivotalTransformer</key>
+	<string>materializerName</string>
+	<key>prevscenevalidation</key>
+	<string>tappableboxshadow</string>
+	<key>responsiveMaster</key>
+	<string>optionTask</string>
+	<key>smartResilience</key>
+	<string>projectPhase</string>
+	<key>staticExponent</key>
+	<string>resolverOperation</string>
+	<key>taskenvironmentacceleration</key>
+	<string>coordinatorSkewX</string>
+</dict>
+</plist>

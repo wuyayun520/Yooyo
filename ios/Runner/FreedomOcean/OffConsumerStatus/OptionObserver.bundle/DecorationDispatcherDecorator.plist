@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>functionalPriority</key>
+	<string>allocateGrain</string>
+	<key>modalleft</key>
+	<string>reductionstructuretype</string>
+	<key>setuphash</key>
+	<string>statelesstweak</string>
+	<key>shouldPublishSemantics</key>
+	<string>crucialUtil</string>
+	<key>shouldSerializeConvolution</key>
+	<string>methodresponder</string>
+	<key>specifierBound</key>
+	<string>newestEqualization</string>
+</dict>
+</plist>

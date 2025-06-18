@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeSwitch</key>
+	<string>notifyRemainder</string>
+	<key>intensityTail</key>
+	<string>canDetachEffect</string>
+	<key>promiseFormat</key>
+	<string>parallelstateless</string>
+	<key>requiredInterpolation</key>
+	<string>concretePainter</string>
+	<key>shouldValidateScaffold</key>
+	<string>capsulefromadapter</string>
+	<key>webCupertino</key>
+	<string>cycleTier</string>
+</dict>
+</plist>

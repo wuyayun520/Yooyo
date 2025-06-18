@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatebox</key>
+	<string>screenservice</string>
+	<key>boxshadowLocation</key>
+	<string>canAnimateSine</string>
+	<key>cycledelegate</key>
+	<string>difficultEntity</string>
+	<key>explicitNotification</key>
+	<string>resumestoryboard</string>
+	<key>granularTransformer</key>
+	<string>retainAsync</string>
+	<key>mainScroller</key>
+	<string>intermediateDetector</string>
+	<key>prismaticSlider</key>
+	<string>canLayoutBinary</string>
+	<key>specifyView</key>
+	<string>vectorizeResult</string>
+</dict>
+</plist>

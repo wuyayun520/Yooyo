@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hyperbolicStroke</key>
+	<string>floatHash</string>
+	<key>onfragmenttap</key>
+	<string>textureLevel</string>
+	<key>overlayprovider</key>
+	<string>tweakStatus</string>
+	<key>plateStatus</key>
+	<string>conformEvent</string>
+	<key>resilientPoint</key>
+	<string>disparatetitle</string>
+	<key>semanticResult</key>
+	<string>canPaintLayout</string>
+	<key>shouldUnmountedIcon</key>
+	<string>serviceStatus</string>
+	<key>specifyutilbottom</key>
+	<string>opaqueTool</string>
+	<key>techniqueRotation</key>
+	<string>techniqueOpacity</string>
+	<key>toleranceInset</key>
+	<string>evaluationRight</string>
+</dict>
+</plist>

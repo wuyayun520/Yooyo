@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directTechnique</key>
+	<string>dynamicImpact</string>
+	<key>handlelabel</key>
+	<string>canPauseTechnique</string>
+	<key>retainedAsync</key>
+	<string>componentOpacity</string>
+	<key>shouldSkipLayout</key>
+	<string>pushGraph</string>
+	<key>signTension</key>
+	<string>cupertinoSession</string>
+</dict>
+</plist>

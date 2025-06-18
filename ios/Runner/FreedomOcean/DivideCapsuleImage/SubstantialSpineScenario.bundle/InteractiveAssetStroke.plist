@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chaptercolor</key>
+	<string>enumerateLabel</string>
+	<key>dimensionOpacity</key>
+	<string>deliverySpacing</string>
+	<key>directSprite</key>
+	<string>independentExtension</string>
+	<key>entropySpacing</key>
+	<string>observeMediaQuery</string>
+	<key>movementOrientation</key>
+	<string>serializeMedia</string>
+	<key>shouldRestartScale</key>
+	<string>independentPlayback</string>
+	<key>sinkMode</key>
+	<string>canHandleProjection</string>
+	<key>storeType</key>
+	<string>commontimer</string>
+	<key>webController</key>
+	<string>subtlesink</string>
+</dict>
+</plist>

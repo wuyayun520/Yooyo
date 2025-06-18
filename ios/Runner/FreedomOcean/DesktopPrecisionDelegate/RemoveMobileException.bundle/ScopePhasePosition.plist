@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedContrast</key>
+	<string>dimensionrenderer</string>
+	<key>clipperBrightness</key>
+	<string>canValidateImage</string>
+	<key>defaultscaffold</key>
+	<string>captureequipment</string>
+	<key>easyAnalogy</key>
+	<string>histogramchapter</string>
+	<key>graphSpacing</key>
+	<string>detectorSkewY</string>
+	<key>interfacecontainobserver</key>
+	<string>persistentQueue</string>
+	<key>navigaterouter</key>
+	<string>canStreamLayout</string>
+	<key>statefulScene</key>
+	<string>customIcon</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continuecursor</key>
+	<string>switchstagetint</string>
+	<key>masterSize</key>
+	<string>dispatchInkWell</string>
+	<key>permissiveAnchor</key>
+	<string>stampRate</string>
+	<key>semanticRow</key>
+	<string>shouldStreamBox</string>
+	<key>shouldpushfragment</key>
+	<string>animationDepth</string>
+	<key>switchTop</key>
+	<string>fusedResilience</string>
+	<key>uniformRole</key>
+	<string>hyperbolicContrast</string>
+</dict>
+</plist>

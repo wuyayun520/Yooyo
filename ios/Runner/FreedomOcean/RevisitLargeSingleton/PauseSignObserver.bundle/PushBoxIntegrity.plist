@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>giftdescription</key>
+	<string>semanticimage</string>
+	<key>indicatorversusvalue</key>
+	<string>originalSemantics</string>
+	<key>mediocrespot</key>
+	<string>pivotalbatchdepth</string>
+	<key>providerpadding</key>
+	<string>shouldLayoutMobile</string>
+	<key>scrollableAllocator</key>
+	<string>grainCycle</string>
+	<key>sizedboxsearcher</key>
+	<string>delicateDescriptor</string>
+	<key>unactivatedTabView</key>
+	<string>shouldObserveTool</string>
+</dict>
+</plist>

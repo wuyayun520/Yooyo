@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatelayer</key>
+	<string>granularPolygon</string>
+	<key>granularShader</key>
+	<string>canPersistWidget</string>
+	<key>oldCapacities</key>
+	<string>restartlayout</string>
+	<key>shaderawayphase</key>
+	<string>singleZone</string>
+	<key>statefulcount</key>
+	<string>shouldFinishBaseline</string>
+	<key>volumestatus</key>
+	<string>customizedBase</string>
+</dict>
+</plist>

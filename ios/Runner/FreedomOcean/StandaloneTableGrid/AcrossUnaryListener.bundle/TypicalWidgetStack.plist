@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentcoord</key>
+	<string>notifierinsidebuffer</string>
+	<key>functionalSorter</key>
+	<string>dedicatedStrength</string>
+	<key>herovelocity</key>
+	<string>tangentResponse</string>
+	<key>transitionDensity</key>
+	<string>shouldTrainBloc</string>
+	<key>visibleInfrastructure</key>
+	<string>variantTheme</string>
+</dict>
+</plist>

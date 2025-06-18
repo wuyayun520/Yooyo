@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeMethod</key>
+	<string>restoreGraph</string>
+	<key>channelsproxyinterval</key>
+	<string>missionPattern</string>
+	<key>directObject</key>
+	<string>distinctiontheme</string>
+	<key>ignoredHandler</key>
+	<string>oldCoordinator</string>
+	<key>movementForce</key>
+	<string>cupertinoRole</string>
+	<key>schedulerShape</key>
+	<string>shouldBuildTechnique</string>
+	<key>shouldBindSlider</key>
+	<string>finishTextField</string>
+	<key>shouldBuildPrecision</key>
+	<string>routeMomentum</string>
+	<key>shouldPublishAnimatedContainer</key>
+	<string>evaluationShade</string>
+</dict>
+</plist>

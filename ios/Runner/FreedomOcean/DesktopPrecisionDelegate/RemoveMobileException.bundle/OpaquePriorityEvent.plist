@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledButton</key>
+	<string>obtainTitle</string>
+	<key>intermediateEquipment</key>
+	<string>certificatequeue</string>
+	<key>painterOffset</key>
+	<string>enabledTopic</string>
+	<key>reusableAction</key>
+	<string>shouldMountModal</string>
+	<key>singleMonster</key>
+	<string>materialMovement</string>
+	<key>throughputDensity</key>
+	<string>unmountedSine</string>
+</dict>
+</plist>

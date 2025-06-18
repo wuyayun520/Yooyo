@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autotext</key>
+	<string>releasetitle</string>
+	<key>customLoop</key>
+	<string>displayableCube</string>
+	<key>inactivenorm</key>
+	<string>imperativeChart</string>
+	<key>resolverCoord</key>
+	<string>euclideanSelector</string>
+	<key>shouldRestartButton</key>
+	<string>canPaintOption</string>
+</dict>
+</plist>

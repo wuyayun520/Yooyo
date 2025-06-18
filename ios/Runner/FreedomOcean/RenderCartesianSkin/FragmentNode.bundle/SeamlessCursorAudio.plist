@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inactiveAudio</key>
+	<string>canLayoutAspect</string>
+	<key>parallelticker</key>
+	<string>granularScenario</string>
+	<key>rowmargin</key>
+	<string>drawervisible</string>
+	<key>shouldCancelPadding</key>
+	<string>trainColumn</string>
+	<key>shouldMountedDescriptor</key>
+	<string>seamlessAccessory</string>
+</dict>
+</plist>

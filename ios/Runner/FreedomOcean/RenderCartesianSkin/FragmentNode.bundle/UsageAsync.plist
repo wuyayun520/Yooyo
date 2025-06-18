@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>conformalignment</key>
+	<string>pauseInteger</string>
+	<key>consumerelasticity</key>
+	<string>handleNotifier</string>
+	<key>disabledExpanded</key>
+	<string>canEmitBatch</string>
+	<key>efficiencyPressure</key>
+	<string>syncHash</string>
+	<key>flexphasedistance</key>
+	<string>addDescription</string>
+	<key>ignoredClipper</key>
+	<string>clipperScale</string>
+	<key>persistentJoiner</key>
+	<string>touchtype</string>
+	<key>rendererpadding</key>
+	<string>temporarypopup</string>
+	<key>sinkCenter</key>
+	<string>roleTag</string>
+</dict>
+</plist>

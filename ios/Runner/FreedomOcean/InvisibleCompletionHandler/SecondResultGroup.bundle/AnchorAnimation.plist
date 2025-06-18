@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>automenuposition</key>
+	<string>animatorOffset</string>
+	<key>basicMedia</key>
+	<string>desktopDetector</string>
+	<key>requestexceptaction</key>
+	<string>transitionstrategyforce</string>
+	<key>webSpecifier</key>
+	<string>dependencyMode</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedpresenterdepth</key>
+	<string>hyperbolicGem</string>
+	<key>clippervisitorinteraction</key>
+	<string>destroyBuffer</string>
+	<key>interpolatetext</key>
+	<string>sharedEquivalent</string>
+	<key>interpolationview</key>
+	<string>canListenPageView</string>
+	<key>rapidBinary</key>
+	<string>canLoadTangent</string>
+	<key>streamaction</key>
+	<string>shouldcreatebinary</string>
+</dict>
+</plist>

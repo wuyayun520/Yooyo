@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterContrast</key>
+	<string>responseActivity</string>
+	<key>constantOrigin</key>
+	<string>shouldTransitionBox</string>
+	<key>descriptiondrawer</key>
+	<string>currentchapter</string>
+	<key>scrollablePriority</key>
+	<string>deferredObject</string>
+	<key>specifyTolerance</key>
+	<string>canSetStateConvolution</string>
+	<key>synchronousTraversal</key>
+	<string>missionIndex</string>
+	<key>webWidget</key>
+	<string>respectiveinformation</string>
+</dict>
+</plist>

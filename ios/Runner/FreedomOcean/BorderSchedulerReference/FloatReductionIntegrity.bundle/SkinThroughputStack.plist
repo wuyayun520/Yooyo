@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousLoss</key>
+	<string>ephemeralLoop</string>
+	<key>deflatecoordinator</key>
+	<string>adaptiveCapacities</string>
+	<key>hardmanagertop</key>
+	<string>spinebandwidth</string>
+	<key>keyPageView</key>
+	<string>newestReplica</string>
+	<key>prevMatrix</key>
+	<string>hyperbolicResource</string>
+	<key>shouldcreatescaffold</key>
+	<string>canEmitTangent</string>
+	<key>singleScreen</key>
+	<string>tensorView</string>
+</dict>
+</plist>

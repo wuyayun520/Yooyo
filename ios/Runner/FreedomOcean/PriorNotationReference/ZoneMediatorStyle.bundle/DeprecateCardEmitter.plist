@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonMechanism</key>
+	<string>robustGift</string>
+	<key>hardrect</key>
+	<string>directlyWrapper</string>
+	<key>normalBox</key>
+	<string>sortedAlignment</string>
+	<key>offsetvisibility</key>
+	<string>consultativeConvolution</string>
+	<key>pinchableScaffold</key>
+	<string>workflowSpeed</string>
+	<key>shouldFinishCache</key>
+	<string>concurrentIntensity</string>
+	<key>shouldPopFlex</key>
+	<string>synchronousStatus</string>
+	<key>statelessLoop</key>
+	<string>loaderMode</string>
+	<key>storeInteraction</key>
+	<string>dedicatedGrain</string>
+</dict>
+</plist>

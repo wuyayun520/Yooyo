@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interfacetop</key>
+	<string>concurrentTransition</string>
+	<key>positionbeyondprocess</key>
+	<string>containerStatus</string>
+	<key>taskOpacity</key>
+	<string>remainderJob</string>
+	<key>transitionPadding</key>
+	<string>resolverPlatform</string>
+</dict>
+</plist>

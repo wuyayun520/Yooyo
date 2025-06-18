@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginneraction</key>
+	<string>shouldFetchGesture</string>
+	<key>canvasCount</key>
+	<string>processScreen</string>
+	<key>flexibleComposition</key>
+	<string>dismissCell</string>
+	<key>inheritedDetector</key>
+	<string>interfaceintegrity</string>
+	<key>pinchableshader</key>
+	<string>shouldtrainentropy</string>
+	<key>primaryMenu</key>
+	<string>hyperbolicHeap</string>
+	<key>semanticNib</key>
+	<string>impressionFlags</string>
+	<key>shouldMountedMap</key>
+	<string>shouldUnmountedCaption</string>
+	<key>significantInfo</key>
+	<string>subtleSize</string>
+	<key>vertexName</key>
+	<string>holdLocalization</string>
+</dict>
+</plist>

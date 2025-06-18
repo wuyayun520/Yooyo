@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorscheduler</key>
+	<string>tabviewvisibility</string>
+	<key>backwardarithmeticvelocity</key>
+	<string>canDisconnectCharacter</string>
+	<key>intermediateVariant</key>
+	<string>popGesture</string>
+	<key>mobileCupertino</key>
+	<string>extensionCenter</string>
+	<key>quantizerchart</key>
+	<string>checkboxParameter</string>
+	<key>temporaryState</key>
+	<string>resumeMusic</string>
+</dict>
+</plist>

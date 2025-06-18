@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ignoredshaderflags</key>
+	<string>globalTernary</string>
+	<key>implementgrain</key>
+	<string>canYieldPlate</string>
+	<key>lazyAlignment</key>
+	<string>stateVisitor</string>
+	<key>oldInterpolation</key>
+	<string>shouldMountNotifier</string>
+	<key>progressbarpadding</key>
+	<string>sharedSorter</string>
+	<key>scrollTint</key>
+	<string>crudePadding</string>
+	<key>shapeMode</key>
+	<string>displayableCombiner</string>
+	<key>shouldConnectBase</key>
+	<string>introspectSlider</string>
+	<key>shouldObserveCursor</key>
+	<string>prevBinary</string>
+	<key>shouldPauseSkirt</key>
+	<string>isolateDensity</string>
+</dict>
+</plist>

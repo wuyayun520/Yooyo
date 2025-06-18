@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dimensioncolor</key>
+	<string>combineBloc</string>
+	<key>inactiveanchorstyle</key>
+	<string>shouldPersistUnary</string>
+	<key>permanentnavigator</key>
+	<string>canProcessStamp</string>
+	<key>pivotalevent</key>
+	<string>permissiveAlert</string>
+	<key>popupOrientation</key>
+	<string>beginnerloader</string>
+	<key>shouldPauseCapacities</key>
+	<string>transformerStrategy</string>
+	<key>sinkpermutation</key>
+	<string>lazyCharacter</string>
+	<key>skinimage</key>
+	<string>observermaterial</string>
+</dict>
+</plist>

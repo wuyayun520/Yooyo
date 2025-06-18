@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionDelegate</key>
+	<string>listenSlash</string>
+	<key>desktopAperture</key>
+	<string>optimizerDelay</string>
+	<key>fusedShader</key>
+	<string>canBuildKernel</string>
+	<key>largeScenario</key>
+	<string>subsequentScene</string>
+	<key>normalRecursion</key>
+	<string>canEmitMatrix</string>
+	<key>significantAnalogy</key>
+	<string>responderstatus</string>
+	<key>touchAcceleration</key>
+	<string>diffabletabviewcount</string>
+	<key>transitionVisible</key>
+	<string>disconnectPriority</string>
+	<key>uniformMargin</key>
+	<string>materialEntity</string>
+</dict>
+</plist>

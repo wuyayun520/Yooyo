@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticstreamforce</key>
+	<string>numericalCluster</string>
+	<key>iterativebinarydelay</key>
+	<string>transitionTangent</string>
+	<key>layercommandresponse</key>
+	<string>stateSingleton</string>
+	<key>sharedVector</key>
+	<string>criticalDecoration</string>
+	<key>uniqueBrush</key>
+	<string>timercallback</string>
+</dict>
+</plist>

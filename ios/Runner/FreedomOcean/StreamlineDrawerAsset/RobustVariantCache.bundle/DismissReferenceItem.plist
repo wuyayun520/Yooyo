@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeinterpolation</key>
+	<string>quitAllocator</string>
+	<key>concurrentTraversal</key>
+	<string>shouldBuildRow</string>
+	<key>crucialChecklist</key>
+	<string>gridviewdecoration</string>
+	<key>discardedSkirt</key>
+	<string>subscribeservice</string>
+	<key>initializetext</key>
+	<string>gradientStatus</string>
+	<key>modulefrequency</key>
+	<string>informationfrequency</string>
+	<key>originalmap</key>
+	<string>canCacheText</string>
+	<key>otherBoxShadow</key>
+	<string>updateChannel</string>
+	<key>progressbarSpeed</key>
+	<string>streamlineOffset</string>
+</dict>
+</plist>

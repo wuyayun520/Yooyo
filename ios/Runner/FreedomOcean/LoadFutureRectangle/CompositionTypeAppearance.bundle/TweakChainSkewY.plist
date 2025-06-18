@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedEntropy</key>
+	<string>unmarshalRadius</string>
+	<key>canvastopic</key>
+	<string>skinpolyfill</string>
+	<key>compositionalCoordinator</key>
+	<string>visibleRectangle</string>
+	<key>computemedia</key>
+	<string>shouldTransitionTextField</string>
+	<key>histogramframeworkbehavior</key>
+	<string>globalDependency</string>
+	<key>informationMomentum</key>
+	<string>shouldEncodeRoute</string>
+	<key>shouldMountedDescriptor</key>
+	<string>retrieveBuffer</string>
+	<key>sizedboxFormat</key>
+	<string>canDispatchTheme</string>
+	<key>typicalSymbol</key>
+	<string>columnBridge</string>
+</dict>
+</plist>

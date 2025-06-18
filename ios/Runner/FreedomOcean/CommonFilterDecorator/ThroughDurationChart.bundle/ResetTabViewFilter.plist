@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentNavigation</key>
+	<string>drawPresenter</string>
+	<key>eageraudio</key>
+	<string>shouldRebuildOperation</string>
+	<key>nextframeflags</key>
+	<string>accordionAsync</string>
+	<key>normalChannels</key>
+	<string>shouldPresentSign</string>
+	<key>schemaBehavior</key>
+	<string>symmetricPolygon</string>
+</dict>
+</plist>

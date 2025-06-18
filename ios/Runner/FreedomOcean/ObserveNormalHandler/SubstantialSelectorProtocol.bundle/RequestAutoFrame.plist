@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticLoader</key>
+	<string>reactiveRequest</string>
+	<key>combinerRotation</key>
+	<string>infrastructureType</string>
+	<key>pivotalResolver</key>
+	<string>parallelInterface</string>
+	<key>shouldpopsensor</key>
+	<string>trajectoryPosition</string>
+</dict>
+</plist>

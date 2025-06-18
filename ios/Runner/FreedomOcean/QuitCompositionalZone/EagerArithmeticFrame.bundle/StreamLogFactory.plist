@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binderVisibility</key>
+	<string>listenerreliability</string>
+	<key>mediaqueryDepth</key>
+	<string>shouldDecodeScale</string>
+	<key>permissiveoptionshape</key>
+	<string>setstateInterpolation</string>
+	<key>sensorMargin</key>
+	<string>clearDelegate</string>
+	<key>shouldDispatchCard</key>
+	<string>injectionOperation</string>
+	<key>shouldReplaceOverlay</key>
+	<string>handlerCycle</string>
+	<key>throughputDelay</key>
+	<string>skirtRate</string>
+</dict>
+</plist>

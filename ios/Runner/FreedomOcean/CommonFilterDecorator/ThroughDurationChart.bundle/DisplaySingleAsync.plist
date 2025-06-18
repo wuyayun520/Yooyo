@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedSession</key>
+	<string>multicellspacing</string>
+	<key>disabledCanvas</key>
+	<string>shouldPushScreen</string>
+	<key>flexibleinterface</key>
+	<string>canPresentCaption</string>
+	<key>publishutil</key>
+	<string>renderGradient</string>
+	<key>shouldDisposeDescriptor</key>
+	<string>activatedbaseline</string>
+	<key>shouldSaveTool</key>
+	<string>capacityAlignment</string>
+	<key>symmetricNavigation</key>
+	<string>detectortype</string>
+</dict>
+</plist>

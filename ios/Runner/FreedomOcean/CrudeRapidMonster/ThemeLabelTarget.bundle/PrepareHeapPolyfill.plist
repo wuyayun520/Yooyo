@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advanceddurationresponse</key>
+	<string>basebridgestatus</string>
+	<key>eventtemplebottom</key>
+	<string>fixedQueue</string>
+	<key>largechannelsformat</key>
+	<string>granularpositionhead</string>
+	<key>screenbinder</key>
+	<string>intuitiveEvolution</string>
+	<key>sorterHead</key>
+	<string>channelsinset</string>
+	<key>stackVelocity</key>
+	<string>disparateQuaternion</string>
+</dict>
+</plist>

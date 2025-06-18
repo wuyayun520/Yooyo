@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>endstorage</key>
+	<string>relationalicon</string>
+	<key>fragmentTransparency</key>
+	<string>mountedStack</string>
+	<key>labelScale</key>
+	<string>architectureDensity</string>
+	<key>relationalChooser</key>
+	<string>delicateSample</string>
+	<key>shoulddetachaspectratio</key>
+	<string>cubitInteraction</string>
+	<key>shouldpersisttask</key>
+	<string>shouldPersistCollection</string>
+	<key>tickeracceleration</key>
+	<string>deactivateTween</string>
+	<key>unactivatedexception</key>
+	<string>builderbound</string>
+</dict>
+</plist>

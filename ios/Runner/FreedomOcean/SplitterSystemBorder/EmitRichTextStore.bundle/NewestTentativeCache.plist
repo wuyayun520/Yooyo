@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorBehavior</key>
+	<string>maketween</string>
+	<key>capsuleleft</key>
+	<string>implementException</string>
+	<key>delicateLog</key>
+	<string>sequentialRequest</string>
+	<key>hardSprite</key>
+	<string>rectvideo</string>
+	<key>shouldRenderStream</key>
+	<string>shouldPrepareScaffold</string>
+	<key>shouldsavecontainer</key>
+	<string>backwardAppBar</string>
+	<key>textfieldtween</key>
+	<string>tabviewvisibility</string>
+</dict>
+</plist>

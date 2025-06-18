@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardRate</key>
+	<string>screenacceleration</string>
+	<key>cardloader</key>
+	<string>canRenderTouch</string>
+	<key>cubitPressure</key>
+	<string>dynamicmodulusdirection</string>
+	<key>factoryTheme</key>
+	<string>canResumePet</string>
+	<key>lostAlert</key>
+	<string>shouldRestartRoute</string>
+	<key>modalRight</key>
+	<string>dataMode</string>
+	<key>rectTheme</key>
+	<string>buttonlabel</string>
+	<key>routermodule</key>
+	<string>priorityevaluation</string>
+	<key>shouldResumePrecision</key>
+	<string>allocateAsset</string>
+	<key>smallResource</key>
+	<string>directlyInfo</string>
+</dict>
+</plist>

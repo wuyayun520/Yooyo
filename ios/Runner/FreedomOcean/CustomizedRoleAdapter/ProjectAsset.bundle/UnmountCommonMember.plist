@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accelerateframe</key>
+	<string>canListenPet</string>
+	<key>compositionalcell</key>
+	<string>basicSplitter</string>
+	<key>lazyCallback</key>
+	<string>shouldcontinuemovement</string>
+	<key>listviewLocation</key>
+	<string>sessionDuration</string>
+	<key>mutablePager</key>
+	<string>hardwidget</string>
+	<key>shouldHandleBitrate</key>
+	<string>shaderStyle</string>
+	<key>sineSpacing</key>
+	<string>ismodulus</string>
+	<key>transitionname</key>
+	<string>errorAction</string>
+</dict>
+</plist>

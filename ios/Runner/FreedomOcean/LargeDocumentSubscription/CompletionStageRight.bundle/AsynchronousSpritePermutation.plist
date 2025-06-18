@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channeldelay</key>
+	<string>geometricConvolution</string>
+	<key>directlyMovement</key>
+	<string>canShowConsumer</string>
+	<key>injectionValidation</key>
+	<string>buttonName</string>
+	<key>pinchableCombiner</key>
+	<string>permissiveFilter</string>
+	<key>shouldSaveBaseline</key>
+	<string>queueFacade</string>
+	<key>typicalMobile</key>
+	<string>canPaintCard</string>
+</dict>
+</plist>

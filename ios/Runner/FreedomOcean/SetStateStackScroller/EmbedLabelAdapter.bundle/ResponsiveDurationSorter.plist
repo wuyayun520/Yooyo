@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsTheme</key>
+	<string>widgetAppearance</string>
+	<key>configurationTheme</key>
+	<string>cacheSwitch</string>
+	<key>hardDistinction</key>
+	<string>shouldPaintArithmetic</string>
+	<key>inactiveNorm</key>
+	<string>unaryMemento</string>
+	<key>presenterforce</key>
+	<string>flexibleTransformer</string>
+	<key>shouldLoadPlayback</key>
+	<string>dedicatedStateful</string>
+	<key>skirtequivalent</key>
+	<string>storageprocessborder</string>
+	<key>sophisticatedDispatcher</key>
+	<string>checkDelegate</string>
+</dict>
+</plist>

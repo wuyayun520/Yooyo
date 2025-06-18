@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mobileMediaQuery</key>
+	<string>statefulTint</string>
+	<key>notationSaturation</key>
+	<string>storageframe</string>
+	<key>shouldSkipReference</key>
+	<string>pageviewBehavior</string>
+	<key>similarswitchpadding</key>
+	<string>elasticSchema</string>
+	<key>standaloneInteractor</key>
+	<string>lastRequest</string>
+	<key>statelessScenario</key>
+	<string>quantizationScene</string>
+	<key>storageCount</key>
+	<string>scheduleProvider</string>
+	<key>tangentimage</key>
+	<string>difficultTabView</string>
+</dict>
+</plist>

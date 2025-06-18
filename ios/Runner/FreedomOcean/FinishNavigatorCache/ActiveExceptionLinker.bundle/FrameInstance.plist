@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoReference</key>
+	<string>operationBound</string>
+	<key>evaluationOrigin</key>
+	<string>flexStructure</string>
+	<key>geometricGroup</key>
+	<string>futureValidation</string>
+	<key>lazyLatency</key>
+	<string>providerCenter</string>
+	<key>roleValidation</key>
+	<string>textfieldindex</string>
+	<key>shouldDispatchBatch</key>
+	<string>newestModel</string>
+	<key>singleSubscription</key>
+	<string>dropdownbuttonparameterscale</string>
+</dict>
+</plist>

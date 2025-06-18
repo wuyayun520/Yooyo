@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>independentThreshold</key>
+	<string>canValidateEffect</string>
+	<key>mainoverlayinset</key>
+	<string>sizefacadedepth</string>
+	<key>polyfillAcceleration</key>
+	<string>nativetool</string>
+	<key>polyfillInteraction</key>
+	<string>shouldHandleSlider</string>
+	<key>shouldParseGate</key>
+	<string>screenNumber</string>
+	<key>shouldcancelexpanded</key>
+	<string>canSubscribeCollection</string>
+	<key>specifypriority</key>
+	<string>diffableCurve</string>
+	<key>subtleHash</key>
+	<string>sharedCursor</string>
+</dict>
+</plist>

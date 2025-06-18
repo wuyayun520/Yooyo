@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentservice</key>
+	<string>geometricElasticity</string>
+	<key>firstImpact</key>
+	<string>infrastructureResponse</string>
+	<key>firstMetadata</key>
+	<string>optionOrientation</string>
+	<key>fusedEffect</key>
+	<string>canPushContainer</string>
+	<key>hardAnchor</key>
+	<string>debugTexture</string>
+	<key>meshEdge</key>
+	<string>globalBox</string>
+	<key>quantizationstorage</key>
+	<string>quantizercapacities</string>
+	<key>routerTail</key>
+	<string>visibleScaffold</string>
+</dict>
+</plist>

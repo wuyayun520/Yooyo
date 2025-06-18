@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultRow</key>
+	<string>completedCaption</string>
+	<key>immutableEquivalent</key>
+	<string>canProcessBehavior</string>
+	<key>layercyclespeed</key>
+	<string>newestAction</string>
+	<key>persistenthandler</key>
+	<string>signaturebufferdepth</string>
+	<key>persistenttransition</key>
+	<string>reactiveHandler</string>
+	<key>priorhashtint</key>
+	<string>shouldloadtool</string>
+	<key>specifyOperation</key>
+	<string>newestResolver</string>
+	<key>statefulConnector</key>
+	<string>canRestartCoordinator</string>
+	<key>textfieldFormat</key>
+	<string>greattickerfeedback</string>
+</dict>
+</plist>

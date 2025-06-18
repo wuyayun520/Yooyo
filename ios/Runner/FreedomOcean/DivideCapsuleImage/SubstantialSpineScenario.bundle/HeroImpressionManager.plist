@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>charactertag</key>
+	<string>notifyCosine</string>
+	<key>enabledGraphic</key>
+	<string>decodeSubpixel</string>
+	<key>mainInkWell</key>
+	<string>interfaceSaturation</string>
+	<key>queuenearform</key>
+	<string>hyperbolicPopup</string>
+	<key>statusKind</key>
+	<string>canDispatchCapacities</string>
+</dict>
+</plist>

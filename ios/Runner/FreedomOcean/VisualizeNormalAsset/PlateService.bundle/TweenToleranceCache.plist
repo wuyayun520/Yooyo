@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerPressure</key>
+	<string>subscribeCollection</string>
+	<key>diffableBehavior</key>
+	<string>roleLayer</string>
+	<key>diversifiedSound</key>
+	<string>alignmentposition</string>
+	<key>featureDirection</key>
+	<string>enumerateevent</string>
+	<key>globalNavigator</key>
+	<string>extendOffset</string>
+	<key>intuitiveSprite</key>
+	<string>exitBuffer</string>
+	<key>paintstore</key>
+	<string>canvasVar</string>
+	<key>selectedNavigator</key>
+	<string>usedRepository</string>
+	<key>shouldDisconnectObserver</key>
+	<string>cursorTransparency</string>
+</dict>
+</plist>

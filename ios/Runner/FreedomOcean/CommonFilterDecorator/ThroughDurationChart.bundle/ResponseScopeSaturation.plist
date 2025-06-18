@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityTop</key>
+	<string>mixinConstraint</string>
+	<key>autoEquipment</key>
+	<string>backwardShape</string>
+	<key>backwardLocalization</key>
+	<string>timerFrequency</string>
+	<key>processrequest</key>
+	<string>interactorwithoutjob</string>
+	<key>rectangleIndex</key>
+	<string>iconVelocity</string>
+	<key>shouldHandleInkWell</key>
+	<string>lifecycleSize</string>
+	<key>smallDuration</key>
+	<string>shouldSkipCollection</string>
+	<key>sophisticatedThreshold</key>
+	<string>desktopTabView</string>
+	<key>zonerate</key>
+	<string>sortedInfo</string>
+</dict>
+</plist>

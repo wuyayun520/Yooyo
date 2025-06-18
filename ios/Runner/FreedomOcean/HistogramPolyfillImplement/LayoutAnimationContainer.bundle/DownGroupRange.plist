@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>lifecycleTheme</key>
+	<string>numericalLayout</string>
+	<key>materialdirection</key>
+	<string>opaqueasync</string>
+	<key>mediumChooser</key>
+	<string>inflateWidget</string>
+	<key>metadataequivalent</key>
+	<string>canAnimateCheckbox</string>
+	<key>smallCanvas</key>
+	<string>textreplica</string>
+	<key>statefulPicker</key>
+	<string>synchronousprovider</string>
+	<key>unactivatedInjection</key>
+	<string>deserializeAlpha</string>
+	<key>viewlevelvisible</key>
+	<string>statetransparency</string>
+</dict>
+</plist>

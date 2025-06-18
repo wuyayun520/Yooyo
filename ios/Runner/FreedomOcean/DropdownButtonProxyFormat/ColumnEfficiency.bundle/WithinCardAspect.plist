@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseTraversal</key>
+	<string>skinLeft</string>
+	<key>mapCenter</key>
+	<string>shouldTrainScaffold</string>
+	<key>permissiveOperation</key>
+	<string>beginnereventcontrast</string>
+	<key>searcherkind</key>
+	<string>reactivePopup</string>
+	<key>singleTraversal</key>
+	<string>emitAccessory</string>
+	<key>statefulworkflow</key>
+	<string>documentFlyweight</string>
+</dict>
+</plist>

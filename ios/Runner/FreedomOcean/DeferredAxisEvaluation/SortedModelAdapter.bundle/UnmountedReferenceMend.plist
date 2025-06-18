@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedAnimator</key>
+	<string>enhanceQueue</string>
+	<key>copysession</key>
+	<string>servicecoord</string>
+	<key>listenerbrightness</key>
+	<string>convolutionState</string>
+	<key>priorTentative</key>
+	<string>bundleMethod</string>
+	<key>resizableTabBar</key>
+	<string>chooserName</string>
+	<key>respectivedurationborder</key>
+	<string>compilePopup</string>
+	<key>seamlessFilter</key>
+	<string>fetchGestureDetector</string>
+	<key>significantMend</key>
+	<string>retrieveTexture</string>
+	<key>slashAcceleration</key>
+	<string>beginnerMerger</string>
+</dict>
+</plist>

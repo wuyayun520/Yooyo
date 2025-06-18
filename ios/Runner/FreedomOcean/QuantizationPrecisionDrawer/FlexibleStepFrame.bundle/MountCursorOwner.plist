@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumeractivitycolor</key>
+	<string>shouldRenderMission</string>
+	<key>coordinatororwork</key>
+	<string>shouldSetStateContraction</string>
+	<key>indicatorOrientation</key>
+	<string>canPresentGradient</string>
+	<key>smartAnimator</key>
+	<string>uniqueException</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerplatformdirection</key>
+	<string>requiredFactory</string>
+	<key>directlydetector</key>
+	<string>compareProgressBar</string>
+	<key>discardedpetcenter</key>
+	<string>projectStage</string>
+	<key>encapsulatemaster</key>
+	<string>canEndConstraint</string>
+	<key>loopappearance</key>
+	<string>persistentTopic</string>
+</dict>
+</plist>

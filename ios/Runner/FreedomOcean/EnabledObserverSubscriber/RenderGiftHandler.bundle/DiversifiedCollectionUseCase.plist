@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedTable</key>
+	<string>canDetachSwitch</string>
+	<key>liteGroup</key>
+	<string>denseBehavior</string>
+	<key>pivotalReplica</key>
+	<string>workflowconsumption</string>
+	<key>providebrush</key>
+	<string>presentTangent</string>
+	<key>shouldPushTangent</key>
+	<string>dedicatedAsync</string>
+	<key>tentativeBound</key>
+	<string>iterativelistener</string>
+	<key>unaryEdge</key>
+	<string>shouldParseScaffold</string>
+</dict>
+</plist>

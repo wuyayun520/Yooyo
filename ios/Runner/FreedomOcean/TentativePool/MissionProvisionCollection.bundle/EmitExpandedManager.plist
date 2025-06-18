@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledSubscription</key>
+	<string>analyzerequest</string>
+	<key>discardedCard</key>
+	<string>transformerHead</string>
+	<key>normalParticle</key>
+	<string>drawerFormat</string>
+	<key>persistentTangent</key>
+	<string>finderBorder</string>
+	<key>shouldRenderPadding</key>
+	<string>prismaticInkWell</string>
+	<key>shouldSkipSensor</key>
+	<string>pauseScroll</string>
+	<key>taskshapeorigin</key>
+	<string>compositionalReliability</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedProject</key>
+	<string>stepProxy</string>
+	<key>factorystyle</key>
+	<string>localizationForm</string>
+	<key>ignoredInterface</key>
+	<string>completedSign</string>
+	<key>resilienceContrast</key>
+	<string>layoutCaption</string>
+	<key>seamlessNotifier</key>
+	<string>emitterVisible</string>
+	<key>shouldSaveDialogs</key>
+	<string>fetchView</string>
+</dict>
+</plist>

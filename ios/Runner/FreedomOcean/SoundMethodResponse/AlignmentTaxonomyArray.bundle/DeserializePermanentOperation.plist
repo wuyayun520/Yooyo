@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveDropdownButton</key>
+	<string>signstate</string>
+	<key>meshPosition</key>
+	<string>shouldNavigateInteger</string>
+	<key>navigatorStatus</key>
+	<string>currentGraphic</string>
+	<key>staticsensorbehavior</key>
+	<string>stampFunction</string>
+</dict>
+</plist>

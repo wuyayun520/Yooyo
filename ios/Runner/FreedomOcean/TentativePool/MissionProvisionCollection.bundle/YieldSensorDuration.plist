@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseversusbuffer</key>
+	<string>aspectFramework</string>
+	<key>beginnerTimeline</key>
+	<string>roletimer</string>
+	<key>cacheSaturation</key>
+	<string>objectInteraction</string>
+	<key>crucialcycle</key>
+	<string>canSerializeView</string>
+	<key>descriptionFeedback</key>
+	<string>persistentReduction</string>
+	<key>lastscene</key>
+	<string>permissivegram</string>
+	<key>remainderrenderer</key>
+	<string>elasticSprite</string>
+	<key>shouldStopModulus</key>
+	<string>clipTween</string>
+	<key>subscriptionShape</key>
+	<string>publishScroll</string>
+	<key>timerTint</key>
+	<string>canDetachMission</string>
+</dict>
+</plist>

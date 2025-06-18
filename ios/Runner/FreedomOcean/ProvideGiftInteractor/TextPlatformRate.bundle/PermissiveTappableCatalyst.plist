@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>colorShade</key>
+	<string>deserializeSpine</string>
+	<key>diversifiedCharacteristic</key>
+	<string>staticShape</string>
+	<key>keyLinker</key>
+	<string>shouldHandleAspectRatio</string>
+	<key>responderMargin</key>
+	<string>layoutAppearance</string>
+	<key>specifyInteractor</key>
+	<string>unsortedStrength</string>
+	<key>statelessChannels</key>
+	<string>amortizationDepth</string>
+	<key>stepRight</key>
+	<string>navigateChannels</string>
+</dict>
+</plist>

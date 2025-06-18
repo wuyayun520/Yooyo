@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledAudio</key>
+	<string>synchronousInteger</string>
+	<key>futuremodesaturation</key>
+	<string>convertProgressBar</string>
+	<key>heroKind</key>
+	<string>canCreateSubpixel</string>
+	<key>interfaceSpeed</key>
+	<string>cursorFacade</string>
+	<key>newestMedia</key>
+	<string>detachOverlay</string>
+	<key>permissiveAlert</key>
+	<string>resilientStatus</string>
+	<key>pointbeyondprocess</key>
+	<string>canYieldAnchor</string>
+	<key>publictangent</key>
+	<string>signShade</string>
+	<key>storagesound</key>
+	<string>euclideanSubpixel</string>
+</dict>
+</plist>

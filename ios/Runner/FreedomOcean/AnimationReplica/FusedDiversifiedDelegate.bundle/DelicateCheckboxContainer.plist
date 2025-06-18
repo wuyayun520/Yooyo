@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationappearance</key>
+	<string>stopNib</string>
+	<key>euclideanEquipment</key>
+	<string>resizableColumn</string>
+	<key>hierarchicalelasticity</key>
+	<string>shouldPresentFuture</string>
+	<key>imagecontroller</key>
+	<string>resilienceTransparency</string>
+	<key>standaloneUnary</key>
+	<string>unmountedAxis</string>
+</dict>
+</plist>

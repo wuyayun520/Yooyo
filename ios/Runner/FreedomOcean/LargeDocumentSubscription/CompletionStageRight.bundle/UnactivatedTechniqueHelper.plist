@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>functionalspritestate</key>
+	<string>introspectconsumer</string>
+	<key>localizationForce</key>
+	<string>heapDecorator</string>
+	<key>numericalRectangle</key>
+	<string>composableButton</string>
+	<key>priorobserver</key>
+	<string>inactiveMargin</string>
+	<key>relationalLocalization</key>
+	<string>uniqueEquipment</string>
+</dict>
+</plist>

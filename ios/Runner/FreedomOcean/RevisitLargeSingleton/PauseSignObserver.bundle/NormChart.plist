@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedStoryboard</key>
+	<string>canTrainNotifier</string>
+	<key>equalizationlocalization</key>
+	<string>behaviorDuration</string>
+	<key>gateedge</key>
+	<string>activityDecorator</string>
+	<key>gridstrategyhead</key>
+	<string>sophisticatedOverlay</string>
+	<key>liteCell</key>
+	<string>autoFinder</string>
+	<key>sliderLocation</key>
+	<string>canAttachReduction</string>
+</dict>
+</plist>

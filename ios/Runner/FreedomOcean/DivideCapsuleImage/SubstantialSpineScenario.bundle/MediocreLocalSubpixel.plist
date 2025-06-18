@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileText</key>
+	<string>deserializeNotifier</string>
+	<key>cartesianHash</key>
+	<string>mutablemodal</string>
+	<key>requiredimage</key>
+	<string>shouldsetstategradient</string>
+	<key>shouldAttachCoordinator</key>
+	<string>multiIcon</string>
+	<key>shouldAttachCustomPaint</key>
+	<string>desktopSpine</string>
+</dict>
+</plist>

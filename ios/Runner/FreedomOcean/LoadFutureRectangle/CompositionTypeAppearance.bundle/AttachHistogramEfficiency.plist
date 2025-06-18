@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>functionalLatency</key>
+	<string>particleFlyweight</string>
+	<key>inactiveexception</key>
+	<string>persistentReduction</string>
+	<key>independentAnimator</key>
+	<string>shouldCancelTable</string>
+	<key>lazyModal</key>
+	<string>callbackPadding</string>
+	<key>multiplicationOffset</key>
+	<string>nibVariable</string>
+	<key>requiredZone</key>
+	<string>signMode</string>
+	<key>shouldRouteEqualization</key>
+	<string>quantizationInteractor</string>
+	<key>streamcycledepth</key>
+	<string>canDisconnectOption</string>
+</dict>
+</plist>

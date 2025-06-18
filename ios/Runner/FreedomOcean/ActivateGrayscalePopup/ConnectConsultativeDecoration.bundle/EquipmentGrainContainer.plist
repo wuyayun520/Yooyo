@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bindcontroller</key>
+	<string>nativeProject</string>
+	<key>buttonBorder</key>
+	<string>continueUnary</string>
+	<key>checkboxskewx</key>
+	<string>unmountstore</string>
+	<key>diffableSize</key>
+	<string>largeMobile</string>
+	<key>eagerShader</key>
+	<string>unactivatedInstruction</string>
+	<key>embraceresource</key>
+	<string>routeLogarithm</string>
+	<key>inactiveMapper</key>
+	<string>canPauseSegue</string>
+</dict>
+</plist>

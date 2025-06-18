@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentClipper</key>
+	<string>directVolume</string>
+	<key>dedicatedSlash</key>
+	<string>equalTransition</string>
+	<key>explicitMaster</key>
+	<string>saveTextField</string>
+	<key>shouldKeepMobile</key>
+	<string>playbackmementobound</string>
+	<key>taxonomyTail</key>
+	<string>mainconsumption</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerthroughoperation</key>
+	<string>priorityDensity</string>
+	<key>criticalProfile</key>
+	<string>positionVisibility</string>
+	<key>dedicatedsessiontint</key>
+	<string>subscriptionForce</string>
+	<key>deferredAction</key>
+	<string>invokeChannel</string>
+	<key>evolutionEdge</key>
+	<string>integerdepth</string>
+	<key>globalcolumntop</key>
+	<string>difficultPositioned</string>
+	<key>numericalFilter</key>
+	<string>buttonalignment</string>
+	<key>positionColor</key>
+	<string>statefulArithmetic</string>
+	<key>presentsubscription</key>
+	<string>prioranimation</string>
+	<key>shouldParseColumn</key>
+	<string>trianglesScale</string>
+</dict>
+</plist>

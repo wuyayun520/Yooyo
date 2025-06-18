@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineSkewY</key>
+	<string>concurrentKernel</string>
+	<key>hardInformation</key>
+	<string>touchbridgeorientation</string>
+	<key>missedresolver</key>
+	<string>compositionalController</string>
+	<key>relationalTechnique</key>
+	<string>fusedAxis</string>
+	<key>shouldPresentSemantics</key>
+	<string>shouldRouteIndicator</string>
+	<key>sortedDependency</key>
+	<string>borderChain</string>
+	<key>webSemantics</key>
+	<string>rowCoord</string>
+</dict>
+</plist>

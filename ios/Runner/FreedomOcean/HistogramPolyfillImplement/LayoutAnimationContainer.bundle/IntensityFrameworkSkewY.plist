@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousPainter</key>
+	<string>retainedintensity</string>
+	<key>cubitStyle</key>
+	<string>shouldSetStateSpine</string>
+	<key>nativeResult</key>
+	<string>restartImage</string>
+	<key>reactiveConfiguration</key>
+	<string>textfieldzone</string>
+	<key>roleContrast</key>
+	<string>channelshue</string>
+	<key>slidertweak</key>
+	<string>tooltrajectory</string>
+	<key>smartFeature</key>
+	<string>schedulerDepth</string>
+	<key>switchlabel</key>
+	<string>concurrentInjection</string>
+	<key>temporaryShader</key>
+	<string>tabbarPhase</string>
+	<key>webIsolate</key>
+	<string>displayableLifecycle</string>
+</dict>
+</plist>

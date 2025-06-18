@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ephemeralContraction</key>
+	<string>convertCubit</string>
+	<key>prevAperture</key>
+	<string>canParseBorder</string>
+	<key>shouldNavigateAlpha</key>
+	<string>columnObserver</string>
+	<key>sortedMediaQuery</key>
+	<string>hardSound</string>
+	<key>textMomentum</key>
+	<string>inheritedResource</string>
+</dict>
+</plist>

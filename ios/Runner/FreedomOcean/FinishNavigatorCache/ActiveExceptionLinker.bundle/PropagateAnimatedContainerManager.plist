@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>firstResource</key>
+	<string>geometricPager</string>
+	<key>mainNode</key>
+	<string>euclideanRouter</string>
+	<key>rapidMaterializer</key>
+	<string>profileCoord</string>
+	<key>utilTension</key>
+	<string>splitterHue</string>
+</dict>
+</plist>

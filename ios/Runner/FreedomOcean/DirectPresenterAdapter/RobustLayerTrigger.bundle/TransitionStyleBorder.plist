@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disclaimerContrast</key>
+	<string>tensorTechnique</string>
+	<key>granularRow</key>
+	<string>discardedview</string>
+	<key>hyperboliccoordinatorstate</key>
+	<string>decodeStateful</string>
+	<key>largeConverter</key>
+	<string>composableReducer</string>
+	<key>mapperType</key>
+	<string>popMember</string>
+	<key>shouldCacheBase</key>
+	<string>injectionPosition</string>
+</dict>
+</plist>

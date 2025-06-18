@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultBrush</key>
+	<string>shaderbeyondlevel</string>
+	<key>fixedAnalogy</key>
+	<string>syncmomentum</string>
+	<key>offsetcycle</key>
+	<string>listenerBehavior</string>
+	<key>pinchableAscent</key>
+	<string>overrideBloc</string>
+	<key>pinchabletaskcoord</key>
+	<string>directAmortization</string>
+	<key>resizableProjection</key>
+	<string>prevImage</string>
+	<key>scrollableEqualization</key>
+	<string>allocatorbuilder</string>
+	<key>storageInterval</key>
+	<string>fusedState</string>
+	<key>wrapperInteraction</key>
+	<string>shouldPersistRoute</string>
+</dict>
+</plist>

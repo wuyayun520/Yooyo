@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>intuitiveTweak</key>
+	<string>tweenscopepressure</string>
+	<key>protectedPopup</key>
+	<string>accessoryWork</string>
+	<key>providersorter</key>
+	<string>granularthreshold</string>
+	<key>responderTransparency</key>
+	<string>expandedFeedback</string>
+	<key>shouldBindStateless</key>
+	<string>multiplicationPadding</string>
+	<key>shouldInflateDelegate</key>
+	<string>deferredsprite</string>
+</dict>
+</plist>

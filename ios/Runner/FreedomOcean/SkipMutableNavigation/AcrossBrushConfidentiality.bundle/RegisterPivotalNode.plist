@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseSchema</key>
+	<string>protocolVisible</string>
+	<key>gemoperation</key>
+	<string>canMountDrawer</string>
+	<key>iconevent</key>
+	<string>segmentBridge</string>
+	<key>introspectservice</key>
+	<string>unmountbox</string>
+	<key>localizationright</key>
+	<string>shouldUnbindReference</string>
+	<key>mendAppearance</key>
+	<string>directchooser</string>
+	<key>shouldStartPlate</key>
+	<string>shouldShowModal</string>
+	<key>shouldskipdescriptor</key>
+	<string>offsetLabel</string>
+	<key>statelessItem</key>
+	<string>connectInteger</string>
+</dict>
+</plist>

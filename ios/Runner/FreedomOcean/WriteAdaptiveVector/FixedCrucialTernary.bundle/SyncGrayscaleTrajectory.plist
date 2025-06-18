@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedreducer</key>
+	<string>infrastructurerate</string>
+	<key>convolutionDelay</key>
+	<string>bundleLoop</string>
+	<key>explicitBuilder</key>
+	<string>shouldRenderOptimizer</string>
+	<key>hasIndicator</key>
+	<string>scaleResponse</string>
+	<key>interactiveRadio</key>
+	<string>processChannel</string>
+	<key>liteAnchor</key>
+	<string>popupenvironmentcenter</string>
+	<key>mediaawayvisitor</key>
+	<string>mixinContainer</string>
+	<key>shouldconnectgesturedetector</key>
+	<string>canProcessCompletion</string>
+	<key>webCheckbox</key>
+	<string>canParseSignature</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumptionRate</key>
+	<string>endLayout</string>
+	<key>containerlistener</key>
+	<string>listviewPhase</string>
+	<key>cursorAppearance</key>
+	<string>symmetricSprite</string>
+	<key>dedicatedPolygon</key>
+	<string>catalystRight</string>
+	<key>intercepthash</key>
+	<string>transposerequest</string>
+	<key>nativeresultbottom</key>
+	<string>updateoption</string>
+	<key>precisionmediatorcolor</key>
+	<string>rectangleDistance</string>
+	<key>shouldDeserializeRow</key>
+	<string>defaultDocument</string>
+	<key>shouldDispatchProfile</key>
+	<string>shouldLayoutComposition</string>
+	<key>switchanimation</key>
+	<string>directModel</string>
+</dict>
+</plist>

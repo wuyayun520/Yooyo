@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disparateGraphic</key>
+	<string>reusableImpact</string>
+	<key>enabledarithmetic</key>
+	<string>respectiveProgressBar</string>
+	<key>localizationprocessformat</key>
+	<string>optionFlags</string>
+	<key>materialResponder</key>
+	<string>shouldShowModulus</string>
+	<key>sharedmanager</key>
+	<string>semanticSensor</string>
+	<key>shouldLoadFlex</key>
+	<string>timeraction</string>
+	<key>shouldTransformFlex</key>
+	<string>layoutsubscription</string>
+</dict>
+</plist>

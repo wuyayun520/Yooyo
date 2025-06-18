@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativecapacities</key>
+	<string>startaspectratio</string>
+	<key>denseIcon</key>
+	<string>autoRepository</string>
+	<key>handlerSkewX</key>
+	<string>prismaticScroll</string>
+	<key>shouldCancelPadding</key>
+	<string>firstException</string>
+	<key>specifyalignment</key>
+	<string>integerfacadetheme</string>
+	<key>validatecompleter</key>
+	<string>cubeDensity</string>
+</dict>
+</plist>

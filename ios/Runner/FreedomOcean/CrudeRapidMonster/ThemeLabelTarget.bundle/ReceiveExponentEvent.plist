@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedTrigger</key>
+	<string>geometricEqualization</string>
+	<key>comprehensiveImage</key>
+	<string>cycleinscope</string>
+	<key>directRequest</key>
+	<string>diffableGesture</string>
+	<key>exponentSaturation</key>
+	<string>concurrentImage</string>
+	<key>intuitiveChart</key>
+	<string>acceleratePresenter</string>
+	<key>matrixthroughtype</key>
+	<string>responsiveFragment</string>
+	<key>nibCoord</key>
+	<string>significantCubit</string>
+	<key>permissiveCheckbox</key>
+	<string>publicdurationvalidation</string>
+	<key>videoTag</key>
+	<string>fusedRadius</string>
+</dict>
+</plist>

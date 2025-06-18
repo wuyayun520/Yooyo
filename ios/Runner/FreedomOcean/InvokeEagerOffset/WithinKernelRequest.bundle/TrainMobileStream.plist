@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedWidget</key>
+	<string>constraintParam</string>
+	<key>associatedThreshold</key>
+	<string>geometricProvider</string>
+	<key>eagerGestureDetector</key>
+	<string>cancelPainter</string>
+	<key>mainPlayback</key>
+	<string>flexibleAnchor</string>
+	<key>shouldPaintStateful</key>
+	<string>canTransformAnimation</string>
+	<key>shouldStreamHistogram</key>
+	<string>shapeVisibility</string>
+	<key>singlestack</key>
+	<string>ignoredSize</string>
+	<key>transitiontransformer</key>
+	<string>shouldCreatePriority</string>
+</dict>
+</plist>

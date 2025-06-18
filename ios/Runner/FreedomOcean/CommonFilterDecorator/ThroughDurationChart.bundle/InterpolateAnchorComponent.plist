@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalModel</key>
+	<string>syncMethod</string>
+	<key>intuitiveAppBar</key>
+	<string>semanticCoordinator</string>
+	<key>shouldbuildrichtext</key>
+	<string>buttonscale</string>
+	<key>substantialCaption</key>
+	<string>minCoordinator</string>
+	<key>visibleConfiguration</key>
+	<string>deserializehash</string>
+</dict>
+</plist>

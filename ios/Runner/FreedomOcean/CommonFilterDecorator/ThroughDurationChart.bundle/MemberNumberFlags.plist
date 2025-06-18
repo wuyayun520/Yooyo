@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedIntegration</key>
+	<string>reactiveSpine</string>
+	<key>currentIntegration</key>
+	<string>subscriptionAdapter</string>
+	<key>durationtop</key>
+	<string>referenceJob</string>
+	<key>explicitEquivalent</key>
+	<string>searcherhue</string>
+	<key>fusedoptiontag</key>
+	<string>projectionVisibility</string>
+	<key>prevprovider</key>
+	<string>hashPhase</string>
+	<key>priorGraph</key>
+	<string>decodeBuffer</string>
+	<key>synchronousrowbottom</key>
+	<string>resetLayout</string>
+</dict>
+</plist>

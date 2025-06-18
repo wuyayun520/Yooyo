@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoChannel</key>
+	<string>timerResponse</string>
+	<key>optionBound</key>
+	<string>shouldSetStateProtocol</string>
+	<key>sortedAspectRatio</key>
+	<string>multiChooser</string>
+	<key>spinecoord</key>
+	<string>shouldDispatchNotifier</string>
+</dict>
+</plist>

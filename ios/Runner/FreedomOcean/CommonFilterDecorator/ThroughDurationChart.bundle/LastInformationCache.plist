@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>audioShape</key>
+	<string>seekticker</string>
+	<key>overridepet</key>
+	<string>diffableanimatedcontainer</string>
+	<key>shouldAnimateRow</key>
+	<string>updateservice</string>
+	<key>shouldunbindbatch</key>
+	<string>indicatorShade</string>
+	<key>statelesspageviewinterval</key>
+	<string>shouldTransformButton</string>
+	<key>tappableDimension</key>
+	<string>deserializeColumn</string>
+</dict>
+</plist>

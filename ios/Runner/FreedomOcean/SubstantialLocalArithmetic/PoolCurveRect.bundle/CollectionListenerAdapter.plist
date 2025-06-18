@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterbesidekind</key>
+	<string>deferredImage</string>
+	<key>eagerIcon</key>
+	<string>listenerOperation</string>
+	<key>shouldDismissDescriptor</key>
+	<string>revisitReducer</string>
+	<key>shouldcreateentropy</key>
+	<string>responseVisibility</string>
+	<key>storageconsumption</key>
+	<string>similarBinary</string>
+	<key>temporaryCaption</key>
+	<string>triggerFeedback</string>
+</dict>
+</plist>

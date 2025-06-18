@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisfromstage</key>
+	<string>updaterow</string>
+	<key>gridagainstvalue</key>
+	<string>concurrentAscent</string>
+	<key>lazyParticle</key>
+	<string>statePressure</string>
+	<key>listviewFrequency</key>
+	<string>saveresource</string>
+	<key>modelamongfunction</key>
+	<string>progressbarbottom</string>
+	<key>smallTabView</key>
+	<string>canSkipTheme</string>
+	<key>smallrequeststatus</key>
+	<string>litecompletionfeedback</string>
+</dict>
+</plist>

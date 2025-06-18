@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionconstraintoffset</key>
+	<string>sizeContrast</string>
+	<key>ephemeralMetadata</key>
+	<string>collectionvisibility</string>
+	<key>equipmentfactory</key>
+	<string>mobileProject</string>
+	<key>fixedWrapper</key>
+	<string>maxSwitch</string>
+	<key>normalMap</key>
+	<string>spineRight</string>
+	<key>originalWorkflow</key>
+	<string>imperativeAnimator</string>
+	<key>primarySink</key>
+	<string>canPrepareWidget</string>
+	<key>shouldmountedmediaquery</key>
+	<string>cursorCommand</string>
+	<key>sophisticatedFinder</key>
+	<string>unmountedSample</string>
+	<key>uniformcurve</key>
+	<string>directlyUtil</string>
+</dict>
+</plist>

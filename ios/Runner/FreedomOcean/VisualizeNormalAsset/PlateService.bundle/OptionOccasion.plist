@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerStatus</key>
+	<string>attachSegment</string>
+	<key>binaryrotation</key>
+	<string>mobileFunction</string>
+	<key>concurrentGradient</key>
+	<string>sharedBase</string>
+	<key>flexibleDetail</key>
+	<string>publishSkin</string>
+	<key>graphforstrategy</key>
+	<string>fetchCard</string>
+	<key>inactiveTask</key>
+	<string>allocatorlayerorigin</string>
+	<key>shouldKeepAxis</key>
+	<string>canSetStateMobile</string>
+</dict>
+</plist>

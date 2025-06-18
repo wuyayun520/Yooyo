@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveFrame</key>
+	<string>canPushCharacter</string>
+	<key>destroycontainer</key>
+	<string>defaultTabView</string>
+	<key>modelEdge</key>
+	<string>lostSignature</string>
+	<key>modulusindex</key>
+	<string>sharedSpot</string>
+	<key>otherstoryboard</key>
+	<string>asynchronousSine</string>
+</dict>
+</plist>

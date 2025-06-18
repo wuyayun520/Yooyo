@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellShape</key>
+	<string>persistDialogs</string>
+	<key>dynamicObserver</key>
+	<string>materialDimension</string>
+	<key>eventDuration</key>
+	<string>arithmeticStep</string>
+	<key>hierarchicalGradient</key>
+	<string>stampnumbertag</string>
+	<key>invisibleLoop</key>
+	<string>menuenvironmentname</string>
+	<key>matrixbound</key>
+	<string>discoverisolate</string>
+	<key>persistentRectangle</key>
+	<string>disparatePageView</string>
+	<key>robustPolygon</key>
+	<string>yieldNotifier</string>
+	<key>selectedSlash</key>
+	<string>primaryHero</string>
+	<key>stampcycletransparency</key>
+	<string>factoryEnvironment</string>
+</dict>
+</plist>

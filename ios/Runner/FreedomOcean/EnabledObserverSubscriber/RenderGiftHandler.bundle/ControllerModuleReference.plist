@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buildercommandtop</key>
+	<string>consumerstylehue</string>
+	<key>enabledallocator</key>
+	<string>finishoverlay</string>
+	<key>intuitiveActivity</key>
+	<string>associateview</string>
+	<key>nativevideo</key>
+	<string>grainOperation</string>
+	<key>persistentMatrix</key>
+	<string>shouldNavigateBloc</string>
+	<key>richtextBottom</key>
+	<string>canDeserializeGrayscale</string>
+	<key>shouldBindDelegate</key>
+	<string>anchorequivalent</string>
+</dict>
+</plist>

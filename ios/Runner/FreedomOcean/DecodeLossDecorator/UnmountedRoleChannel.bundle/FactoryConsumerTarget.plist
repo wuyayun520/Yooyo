@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>handlerBorder</key>
+	<string>semanticArchitecture</string>
+	<key>lostradiotransparency</key>
+	<string>frameProcess</string>
+	<key>modelperenvironment</key>
+	<string>shouldStartStateful</string>
+	<key>originalScaffold</key>
+	<string>playbackPattern</string>
+	<key>shouldStreamSlider</key>
+	<string>eagerNavigator</string>
+</dict>
+</plist>
